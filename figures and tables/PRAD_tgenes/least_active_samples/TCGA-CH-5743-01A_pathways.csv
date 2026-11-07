@@ -1,0 +1,290 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production ,0.6667,2,3,11,NFKB2;RELA
+Interleukin-1 processing,0.6667,2,3,22,NFKB2;RELA
+Regulation of NFE2L2 gene expression,0.5,1,2,17,RELA
+SUMOylation of immune response proteins,0.5,2,4,24,RELA;NFKB2
+CLEC7A/inflammasome pathway,0.5,1,2,10,RELA
+IkBA variant leads to EDA-ID,0.5,2,4,9,NFKB2;RELA
+CD209 (DC-SIGN) signaling,0.3333,1,3,26,RELA
+RIP-mediated NFkB activation via ZBP1,0.3333,2,6,25,RELA;NFKB2
+E2F-enabled inhibition of pre-replication complex formation,0.3333,1,3,9,ORC2
+CDC6 association with the ORC:origin complex,0.3333,1,3,8,ORC2
+Threonine catabolism,0.3333,1,3,4,SDS
+Linoleic acid (LA) metabolism,0.3333,1,3,8,FADS1
+Activation of the pre-replicative complex,0.3333,1,3,33,ORC2
+ZBP1(DAI) mediated induction of type I IFNs,0.3333,2,6,35,RELA;NFKB2
+Diseases of Immune System,0.2857,2,7,58,RELA;NFKB2
+The NLRP3 inflammasome,0.2857,2,7,22,RELA;NFKB2
+Diseases associated with the TLR signaling cascade,0.2857,2,7,58,NFKB2;RELA
+Biotin transport and metabolism,0.25,1,4,22,SLC5A6
+Inflammasomes,0.25,2,8,31,NFKB2;RELA
+Regulated proteolysis of p75NTR,0.2,1,5,19,RELA
+RHOBTB2 GTPase cycle,0.2,1,5,23,RBMX
+alpha-linolenic acid (ALA) metabolism,0.2,1,5,14,FADS1
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,0.2,1,5,14,FADS1
+Cell recruitment (pro-inflammatory response),0.1818,2,11,44,NFKB2;RELA
+Purinergic signaling in leishmaniasis infection,0.1818,2,11,44,RELA;NFKB2
+Activation of ATR in response to replication stress,0.1667,1,6,41,ORC2
+Synthesis of pyrophosphates in the cytosol,0.1667,1,6,10,ITPK1
+Postmitotic nuclear pore complex (NPC) reformation,0.1667,2,12,48,NUP107;NDC1
+NF-kB is activated and signals survival,0.1667,1,6,27,RELA
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC),0.1538,2,13,37,NUP107;NDC1
+Regulation of Glucokinase by Glucokinase Regulatory Protein,0.1538,2,13,38,NUP107;NDC1
+p75NTR signals via NF-kB,0.1429,1,7,37,RELA
+RHOBTB1 GTPase cycle,0.1429,1,7,23,RBMX
+Regulation of IFNA/IFNB signaling,0.1429,1,7,55,STAT2
+Nuclear Pore Complex (NPC) Disassembly,0.1429,2,14,46,NUP107;NDC1
+TRAF6 mediated NF-kB activation,0.1429,2,14,42,NFKB2;RELA
+Transport of Ribonucleoproteins into the Host Nucleus,0.1429,2,14,38,NDC1;NUP107
+Vitamin B5 (pantothenate) metabolism,0.1429,1,7,21,SLC5A6
+"Transport of vitamins, nucleosides, and related molecules",0.1429,1,7,47,SLC5A6
+Telomere Extension By Telomerase,0.1429,1,7,24,GAR1
+NEP/NS2 Interacts with the Cellular Export Machinery,0.1333,2,15,38,NDC1;NUP107
+Vpr-mediated nuclear import of PICs,0.1333,2,15,38,NUP107;NDC1
+Transport of the SLBP Dependant Mature mRNA,0.1333,2,15,43,NUP107;NDC1
+Transport of the SLBP independent Mature mRNA,0.1333,2,15,41,NDC1;NUP107
+Nuclear import of Rev protein,0.1333,2,15,44,NUP107;NDC1
+SUMOylation of SUMOylation proteins,0.1333,2,15,47,NDC1;NUP107
+TAK1-dependent IKK and NF-kappa-B activation  ,0.1333,2,15,85,RELA;NFKB2
+Export of Viral Ribonucleoproteins from Nucleus,0.1333,2,15,43,NDC1;NUP107
+SUMOylation of DNA replication proteins,0.125,2,16,103,NUP107;NDC1
+Interleukin-20 family signaling,0.125,1,8,43,STAT2
+E2F mediated regulation of DNA replication,0.125,1,8,24,ORC2
+Synthesis of IP3 and IP4 in the cytosol,0.125,1,8,27,ITPK1
+NS1 Mediated Effects on Host Pathways,0.125,2,16,52,NDC1;NUP107
+Interactions of Vpr with host cellular proteins,0.1176,2,17,41,NUP107;NDC1
+Dectin-1 mediated noncanonical NF-kB signaling,0.1176,2,17,81,NFKB2;RELA
+SUMOylation of ubiquitinylation proteins,0.1176,2,17,46,NDC1;NUP107
+Transport of Mature mRNAs Derived from Intronless Transcripts,0.1176,2,17,50,NDC1;NUP107
+Transport of Mature mRNA Derived from an Intronless Transcript,0.1176,2,17,48,NUP107;NDC1
+Rev-mediated nuclear export of HIV RNA,0.1176,2,17,41,NDC1;NUP107
+Mitochondrial RNA degradation,0.1111,1,9,12,SUPV3L1
+mRNA decay by 3' to 5' exoribonuclease,0.1111,1,9,16,EXOSC6
+Evasion by RSV of host interferon responses,0.1111,1,9,45,STAT2
+Interactions of Rev with host cellular proteins,0.1111,2,18,83,NUP107;NDC1
+RHOBTB GTPase Cycle,0.1111,1,9,35,RBMX
+KSRP (KHSRP) binds and destabilizes mRNA,0.1111,1,9,21,EXOSC6
+Viral Messenger RNA Synthesis,0.1053,2,19,48,NUP107;NDC1
+snRNP Assembly,0.1,2,20,79,NDC1;NUP107
+Metabolism of non-coding RNA,0.1,2,20,79,NDC1;NUP107
+SARS-CoV-1 activates/modulates innate immune responses,0.1,1,10,69,RELA
+Nuclear Envelope Breakdown,0.1,2,20,80,NUP107;NDC1
+Cytosolic sensors of pathogen-associated DNA ,0.0952,2,21,100,NFKB2;RELA
+SUMOylation of RNA binding proteins,0.0952,2,21,57,NDC1;NUP107
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",0.0909,1,11,18,EXOSC6
+"Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells",0.0909,1,11,57,RELA
+Downregulation of SMAD2/3:SMAD4 transcriptional activity,0.0909,1,11,93,TGIF2
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,0.0909,1,11,19,EXOSC6
+ATF4 activates genes in response to endoplasmic reticulum  stress,0.0909,1,11,35,EXOSC6
+ISG15 antiviral mechanism,0.087,2,23,96,NDC1;NUP107
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",0.087,2,23,91,RELA;NFKB2
+SLC transporter disorders,0.087,2,23,308,NDC1;NUP107
+Glycolysis,0.0833,2,24,86,NDC1;NUP107
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.0833,2,24,173,NFKB2;RELA
+RND1 GTPase cycle,0.0833,1,12,42,RBMX
+Transport of Mature mRNA derived from an Intron-Containing Transcript,0.0833,2,24,93,NDC1;NUP107
+Transcriptional Regulation by VENTX,0.0833,1,12,46,RELA
+Extension of Telomeres,0.0833,1,12,52,GAR1
+Glucose metabolism,0.08,2,25,97,NDC1;NUP107
+Nuclear Envelope (NE) Reassembly,0.08,2,25,106,NDC1;NUP107
+tRNA processing in the nucleus,0.08,2,25,65,NUP107;NDC1
+PKMTs methylate histone lysines,0.08,2,25,362,RELA;NFKB2
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,0.0769,1,13,75,TGIF2
+PERK regulates gene expression,0.0769,1,13,46,EXOSC6
+Transport of Mature Transcript to Cytoplasm,0.0769,2,26,103,NUP107;NDC1
+RNA Polymerase III Transcription Initiation From Type 2 Promoter,0.0714,1,14,54,GTF3C2
+RNA Polymerase III Transcription Initiation From Type 1 Promoter,0.0714,1,14,56,GTF3C2
+Assembly of the ORC complex at the origin of replication,0.0714,1,14,74,ORC2
+Regulation of HSF1-mediated heat shock response,0.069,2,29,154,NUP107;NDC1
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,0.0682,3,44,164,STAT2;NUP107;NDC1
+tRNA processing,0.0682,3,44,124,NUP107;THADA;NDC1
+SUMOylation of chromatin organization proteins,0.0667,2,30,122,NDC1;NUP107
+Ovarian tumor domain proteases,0.0667,1,15,101,YOD1
+FGFR2 alternative splicing,0.0667,1,15,27,TIA1
+Cytosolic tRNA aminoacylation,0.0667,1,15,24,RARS
+CLEC7A (Dectin-1) signaling,0.0667,2,30,168,RELA;NFKB2
+RND2 GTPase cycle,0.0667,1,15,43,RBMX
+Transcriptional regulation by small RNAs,0.0667,2,30,114,NDC1;NUP107
+Orc1 removal from chromatin,0.0667,1,15,87,ORC2
+RND3 GTPase cycle,0.0667,1,15,42,RBMX
+RNA Polymerase III Abortive And Retractive Initiation,0.0625,1,16,41,GTF3C2
+Toll Like Receptor 5 (TLR5) Cascade,0.0625,2,32,197,RELA;NFKB2
+SUMOylation of DNA damage response and repair proteins,0.0625,2,32,108,NUP107;NDC1
+HCMV Early Events,0.0625,2,32,327,NUP107;NDC1
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.0625,2,32,200,NFKB2;RELA
+tRNA modification in the nucleus and cytosol,0.0625,1,16,46,THADA
+Hedgehog 'off' state,0.0625,2,32,197,IFT172;MKS1
+RNA Polymerase III Transcription Initiation,0.0625,1,16,72,GTF3C2
+Toll Like Receptor 10 (TLR10) Cascade,0.0625,2,32,197,RELA;NFKB2
+RNA Polymerase III Transcription,0.0625,1,16,77,GTF3C2
+NIK-->noncanonical NF-kB signaling,0.0625,1,16,79,NFKB2
+MyD88 cascade initiated on plasma membrane,0.0625,2,32,197,RELA;NFKB2
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.0606,2,33,221,NFKB2;RELA
+Toll Like Receptor 3 (TLR3) Cascade,0.0606,2,33,229,NFKB2;RELA
+MyD88-independent TLR4 cascade ,0.0606,2,33,212,RELA;NFKB2
+Interleukin-1 signaling,0.0606,2,33,161,NFKB2;RELA
+MyD88 dependent cascade initiated on endosome,0.0606,2,33,214,NFKB2;RELA
+TRIF (TICAM1)-mediated TLR4 signaling ,0.0606,2,33,212,RELA;NFKB2
+SUMOylation,0.0597,4,67,442,RELA;NDC1;NUP107;NFKB2
+SUMO E3 ligases SUMOylate target proteins,0.0597,4,67,420,NFKB2;NUP107;NDC1;RELA
+C-type lectin receptors (CLRs),0.0588,2,34,221,RELA;NFKB2
+Toll Like Receptor 9 (TLR9) Cascade,0.0588,2,34,226,RELA;NFKB2
+Cellular response to heat stress,0.0556,2,36,181,NUP107;NDC1
+Toll Like Receptor TLR6:TLR2 Cascade,0.0556,2,36,216,NFKB2;RELA
+Regulation of endogenous retroelements by the Human Silencing Hub (HUSH) complex,0.0556,1,18,151,RBM7
+HCMV Late Events,0.0556,2,36,241,NDC1;NUP107
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.0556,2,36,216,NFKB2;RELA
+Processing of Capped Intron-Containing Pre-mRNA,0.0549,5,91,305,NUP107;RBM17;RBM7;NDC1;RBMX
+Toll Like Receptor TLR1:TLR2 Cascade,0.0541,2,37,219,RELA;NFKB2
+Gene Silencing by RNA,0.0541,2,37,166,NDC1;NUP107
+Toll Like Receptor 2 (TLR2) Cascade,0.0541,2,37,219,NFKB2;RELA
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,0.0526,1,19,75,HNRNPDL
+Amplification of signal from the kinetochores,0.0526,1,19,95,NUP107
+Golgi Associated Vesicle Biogenesis,0.0526,1,19,102,SNX9
+Inositol phosphate metabolism,0.0526,1,19,51,ITPK1
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,0.0526,1,19,95,NUP107
+Activation of NF-kappaB in B cells,0.0526,1,19,83,RELA
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,0.0526,1,19,125,TGIF2
+Transcriptional regulation of white adipocyte differentiation,0.0526,1,19,148,RELA
+Interleukin-1 family signaling,0.05,2,40,239,RELA;NFKB2
+Toll Like Receptor 4 (TLR4) Cascade,0.0488,2,41,267,RELA;NFKB2
+Switching of origins to a post-replicative state,0.0476,1,21,111,ORC2
+mRNA Splicing - Major Pathway,0.0476,3,63,205,RBMX;RBM17;RBM7
+Intraflagellar transport,0.0476,1,21,114,IFT172
+Host Interactions of HIV factors,0.0476,2,42,184,NDC1;NUP107
+Disorders of transmembrane transporters,0.0476,2,42,456,NDC1;NUP107
+TNFR2 non-canonical NF-kB pathway,0.0476,1,21,145,NFKB2
+mRNA Splicing,0.0462,3,65,213,RBMX;RBM7;RBM17
+FCERI mediated NF-kB activation,0.0455,1,22,165,RELA
+Mitotic Prophase,0.0455,2,44,233,NDC1;NUP107
+Signaling by Hedgehog,0.0455,2,44,354,MKS1;IFT172
+HCMV Infection,0.0444,2,45,351,NDC1;NUP107
+Interleukin-12 signaling,0.0435,1,23,112,HNRNPDL
+Senescence-Associated Secretory Phenotype (SASP),0.0435,1,23,154,RELA
+Downstream signaling events of B Cell Receptor (BCR),0.0435,1,23,113,RELA
+Adipogenesis,0.0435,1,23,185,RELA
+SARS-CoV-2-host interactions,0.0435,3,69,253,NDC1;STAT2;NUP107
+Transcriptional and post-translational regulation of MITF-M expression and activity,0.0435,1,23,95,RARS
+Downstream TCR signaling,0.0435,1,23,127,RELA
+Synthesis of DNA,0.0417,1,24,151,ORC2
+Interferon alpha/beta signaling,0.0417,1,24,171,STAT2
+RSV-host interactions,0.0417,1,24,171,STAT2
+Toll-like Receptor Cascades,0.0417,2,48,348,RELA;NFKB2
+Deadenylation-dependent mRNA decay,0.0417,1,24,72,EXOSC6
+Antiviral mechanism by IFN-stimulated genes,0.0408,2,49,202,NUP107;NDC1
+Response of endothelial cells to shear stress,0.04,1,25,143,RELA
+Interleukin-12 family signaling,0.04,1,25,152,HNRNPDL
+Mitotic Spindle Checkpoint,0.04,1,25,112,NUP107
+Leishmania infection,0.04,2,50,407,NFKB2;RELA
+Parasitic Infection Pathways,0.04,2,50,407,NFKB2;RELA
+EML4 and NUDC in mitotic spindle formation,0.04,1,25,122,NUP107
+tRNA Aminoacylation,0.0385,1,26,45,RARS
+rRNA modification in the nucleus and cytosol,0.0385,1,26,60,GAR1
+SARS-CoV-1-host interactions,0.0385,1,26,130,RELA
+trans-Golgi Network Vesicle Budding,0.037,1,27,156,SNX9
+Interferon Signaling,0.037,3,81,490,NDC1;STAT2;NUP107
+Telomere Maintenance,0.037,1,27,113,GAR1
+Anchoring of the basal body to the plasma membrane,0.037,1,27,105,MKS1
+Late Phase of HIV Life Cycle,0.0357,2,56,209,NUP107;NDC1
+Signaling by Interleukins,0.0357,4,112,1058,HNRNPDL;RELA;STAT2;NFKB2
+Signaling by TGF-beta Receptor Complex,0.0357,1,28,218,TGIF2
+Resolution of Sister Chromatid Cohesion,0.0357,1,28,155,NUP107
+Cellular responses to mechanical stimuli,0.0357,1,28,159,RELA
+TCR signaling,0.0357,1,28,163,RELA
+Regulation of lipid metabolism by PPARalpha,0.0345,1,29,179,FADS1
+PPARA activates gene expression,0.0345,1,29,177,FADS1
+HIV Life Cycle,0.0345,2,58,225,NUP107;NDC1
+Respiratory Syncytial Virus Infection Pathway,0.0333,1,30,199,STAT2
+RHO GTPases Activate Formins,0.0333,1,30,154,NUP107
+Potential therapeutics for SARS,0.0333,1,30,162,STAT2
+Signaling by the B Cell Receptor (BCR),0.0333,1,30,302,RELA
+p75 NTR receptor-mediated signalling,0.0333,1,30,157,RELA
+Cilium Assembly,0.0328,2,61,321,MKS1;IFT172
+Regulation of mRNA stability by proteins that bind AU-rich elements,0.0323,1,31,105,EXOSC6
+Mitotic Anaphase,0.0323,2,62,284,NUP107;NDC1
+RNA polymerase II transcribes snRNA genes,0.0323,1,31,159,RPRD1B
+Complex I biogenesis,0.0323,1,31,68,NDUFS7
+Metabolism of RNA,0.0321,9,280,932,RBM7;RBM17;EXOSC6;NDC1;SUPV3L1;NUP107;THADA;GAR1;RBMX
+Mitotic Metaphase and Anaphase,0.0317,2,63,287,NDC1;NUP107
+Assembly of the pre-replicative complex,0.0312,1,32,164,ORC2
+Factors involved in megakaryocyte development and platelet production,0.0312,1,32,234,ITPK1
+Signaling by FGFR2,0.0312,1,32,107,TIA1
+DNA Replication Pre-Initiation,0.0312,1,32,181,ORC2
+Cell Cycle Checkpoints,0.0312,2,64,337,ORC2;NUP107
+Chromosome Maintenance,0.0312,1,32,140,GAR1
+Cytokine Signaling in Immune system,0.0306,6,196,1716,HNRNPDL;STAT2;NFKB2;NDC1;RELA;NUP107
+SARS-CoV Infections,0.0305,4,131,779,NDC1;RELA;STAT2;NUP107
+Nuclear events mediated by NFE2L2,0.0303,1,33,150,RELA
+SARS-CoV-2 Infection,0.0303,3,99,515,STAT2;NUP107;NDC1
+Unfolded Protein Response (UPR),0.0303,1,33,214,EXOSC6
+G1/S Transition,0.0303,1,33,190,ORC2
+Influenza Viral RNA Transcription and Replication,0.0282,2,71,141,NDC1;NUP107
+Signaling by FGFR,0.027,1,37,134,TIA1
+Regulation of endogenous retroelements,0.0263,1,38,272,RBM7
+G2/M Checkpoints,0.0263,1,38,189,ORC2
+HIV Infection,0.026,2,77,346,NUP107;NDC1
+Mitotic G1 phase and G1/S transition,0.0256,1,39,237,ORC2
+Fc epsilon receptor (FCERI) signaling,0.0256,1,39,355,RELA
+Influenza Infection,0.0256,2,78,175,NDC1;NUP107
+KEAP1-NFE2L2 pathway,0.025,1,40,239,RELA
+DNA Replication,0.025,1,40,295,ORC2
+S Phase,0.025,1,40,268,ORC2
+Clathrin-mediated endocytosis,0.0238,1,42,212,SNX9
+SLC-mediated transmembrane transport,0.0238,1,42,257,SLC5A6
+Organelle biogenesis and maintenance,0.023,2,87,458,MKS1;IFT172
+Deubiquitination,0.023,2,87,778,USP42;YOD1
+Signaling by TGFB family members,0.0227,1,44,310,TGIF2
+SARS-CoV-1 Infection,0.0227,1,44,195,RELA
+Cell Cycle,0.0225,4,178,1325,NDC1;ORC2;GAR1;NUP107
+Metabolism of water-soluble vitamins and cofactors,0.0222,1,45,151,SLC5A6
+Fatty acid metabolism,0.0222,1,45,192,FADS1
+Separation of Sister Chromatids,0.0217,1,46,209,NUP107
+Metabolism of carbohydrates,0.0217,2,92,934,NUP107;NDC1
+Chromatin modifying enzymes,0.0213,2,94,1433,NFKB2;RELA
+Chromatin organization,0.0213,2,94,1433,RELA;NFKB2
+"Cell Cycle, Mitotic",0.021,3,143,1024,NUP107;NDC1;ORC2
+Mitotic Prometaphase,0.0204,1,49,263,NUP107
+MITF-M-regulated melanocyte development,0.0204,1,49,275,RARS
+Death Receptor Signaling,0.02,1,50,274,RELA
+rRNA processing in the nucleus and cytosol,0.0196,2,102,285,EXOSC6;GAR1
+Cellular Senescence,0.0192,1,52,302,RELA
+rRNA processing,0.019,2,105,302,GAR1;EXOSC6
+M Phase,0.0177,2,113,632,NUP107;NDC1
+Ub-specific processing proteases,0.0175,1,57,628,USP42
+Gene expression (Transcription),0.0175,8,458,2954,RPRD1B;NDC1;GTF3C2;ZNF274;NUP107;TGIF2;RELA;RBM7
+Metabolism of vitamins and cofactors,0.0169,1,59,312,SLC5A6
+Selenoamino acid metabolism,0.0159,1,63,119,RARS
+Infectious disease,0.0157,5,319,2039,RELA;NUP107;NDC1;STAT2;NFKB2
+Respiratory electron transport,0.0156,1,64,178,NDUFS7
+Viral Infection Pathways,0.0151,4,265,1511,NUP107;STAT2;RELA;NDC1
+Cellular response to chemical stress,0.0145,1,69,347,RELA
+Cellular responses to stress,0.0142,4,282,1392,NDC1;NUP107;EXOSC6;RELA
+Metabolism of amino acids and derivatives,0.0139,2,144,379,RARS;SDS
+Post-translational protein modification,0.0137,6,438,3379,RELA;YOD1;NDC1;NUP107;NFKB2;USP42
+Immune System,0.0137,7,512,5116,HNRNPDL;NFKB2;RELA;NUP107;STAT2;RNF144B;NDC1
+Cellular responses to stimuli,0.013,4,308,1568,RELA;NDC1;EXOSC6;NUP107
+RHO GTPase Effectors,0.0127,1,79,512,NUP107
+Metabolism,0.012,8,664,3291,ITPK1;FADS1;SDS;NDUFS7;NUP107;NDC1;RARS;SLC5A6
+Signal Transduction,0.011,7,637,5444,TGIF2;MKS1;RELA;TIA1;NUP107;IFT172;RBMX
+Signaling by Rho GTPases,0.0108,2,185,927,NUP107;RBMX
+Metabolism of proteins,0.0108,7,647,4511,RELA;NDC1;NFKB2;RARS;YOD1;NUP107;USP42
+RNA Polymerase II Transcription,0.0107,4,374,2337,RPRD1B;ZNF274;TGIF2;RELA
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0105,2,190,945,NUP107;RBMX
+Major pathway of rRNA processing in the nucleolus and cytosol,0.0103,1,97,227,EXOSC6
+Epigenetic regulation of gene expression,0.0103,1,97,693,RBM7
+Aerobic respiration and respiratory electron transport,0.0102,1,98,311,NDUFS7
+Adaptive Immune System,0.0102,2,197,1430,RNF144B;RELA
+Antigen processing: Ubiquitination & Proteasome degradation,0.0097,1,103,306,RNF144B
+Disease,0.0094,5,534,8704,NFKB2;RELA;NDC1;NUP107;STAT2
+Generic Transcription Pathway,0.009,3,332,2126,ZNF274;RELA;TGIF2
+Class I MHC mediated antigen processing & presentation,0.0082,1,122,538,RNF144B
+RHO GTPase cycle,0.0078,1,128,497,RBMX
+Innate Immune System,0.0078,2,255,2725,RELA;NFKB2
+Translation,0.0073,1,137,492,RARS
+Hemostasis,0.0072,1,138,1150,ITPK1
+Transport of small molecules,0.0065,1,153,852,SLC5A6
+Signaling by Receptor Tyrosine Kinases,0.0059,1,170,1247,TIA1
+Developmental Biology,0.0058,2,345,2608,RARS;RELA
+Metabolism of lipids,0.0052,1,191,978,FADS1
+Membrane Trafficking,0.005,1,199,1206,SNX9
+Vesicle-mediated transport,0.0048,1,207,1389,SNX9

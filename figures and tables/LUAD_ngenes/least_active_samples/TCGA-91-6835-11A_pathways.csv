@@ -1,0 +1,13 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Deposition of new CENPA-containing nucleosomes at the centromere,1.0,1,1,72,HJURP
+FMO oxidises nucleophiles,1.0,1,1,3,FMO2
+Nucleosome assembly,1.0,1,1,72,HJURP
+Chromosome Maintenance,0.25,1,4,140,HJURP
+Post-translational protein phosphorylation,0.25,1,4,212,SPARCL1
+Phase I - Functionalization of compounds,0.25,1,4,109,FMO2
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),0.2,1,5,251,SPARCL1
+Biological oxidations,0.2,1,5,234,FMO2
+Cell Cycle,0.04,1,25,1325,HJURP
+Post-translational protein modification,0.0303,1,33,3379,SPARCL1
+Metabolism,0.027,1,37,3291,FMO2
+Metabolism of proteins,0.0222,1,45,4511,SPARCL1

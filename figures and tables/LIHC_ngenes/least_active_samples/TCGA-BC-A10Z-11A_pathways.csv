@@ -1,0 +1,235 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,1.0,1,1,393,E2F1
+Activated NTRK2 signals through CDK5,1.0,1,1,9,CDK5
+"Activation of NIMA Kinases NEK9, NEK6, NEK7",1.0,1,1,11,CCNB1
+Activation of NOXA and translocation to mitochondria,1.0,1,1,7,E2F1
+CRMPs in Sema3A signaling,1.0,1,1,43,CDK5
+Condensation of Prophase Chromosomes,1.0,1,1,112,CCNB1
+Activation of PUMA and translocation to mitochondria,1.0,1,1,11,E2F1
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",1.0,1,1,24,E2F1
+DARPP-32 events,1.0,1,1,56,CDK5
+Cyclin D associated events in G1,1.0,2,2,88,E2F1;CDKN2C
+G1 Phase,1.0,2,2,88,CDKN2C;E2F1
+G2 Phase,1.0,1,1,7,E2F1
+Establishment of Sister Chromatid Cohesion,1.0,1,1,30,CDCA5
+E2F-enabled inhibition of pre-replication complex formation,1.0,1,1,9,CCNB1
+E2F mediated regulation of DNA replication,1.0,2,2,24,CCNB1;E2F1
+MASTL Facilitates Mitotic Progression,1.0,1,1,16,CCNB1
+G2/M DNA replication checkpoint,1.0,1,1,9,CCNB1
+Inhibition of replication initiation of damaged DNA by RB1/E2F1,1.0,1,1,15,E2F1
+Phosphorylation of Emi1,1.0,1,1,9,CCNB1
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,1.0,1,1,19,E2F1
+Transcriptional regulation of granulopoiesis,1.0,1,1,131,E2F1
+RHOD GTPase cycle,1.0,1,1,57,RACGAP1
+Negative regulation of NMDA receptor-mediated neuronal transmission,1.0,1,1,28,PPM1F
+Polo-like kinase mediated events,1.0,1,1,27,CCNB1
+NOTCH3 Activation and Transmission of Signal to the Nucleus,1.0,1,1,72,TACC3
+Kinesins,0.6667,2,3,69,KIFC1;RACGAP1
+Oncogene Induced Senescence,0.6667,2,3,58,E2F1;CDKN2C
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes,0.6667,2,3,149,UBE2C;UBE2T
+Factors involved in megakaryocyte development and platelet production,0.5714,4,7,234,CDK5;RACGAP1;KIFC1;VPS45
+Regulation of NF-kappa B signaling,0.5,1,2,33,LRRC14
+TBC/RABGAPs,0.5,1,2,45,TBC1D16
+Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,0.5,1,2,27,CCNB1
+Pre-NOTCH Expression and Processing,0.5,1,2,238,E2F1
+SARS-CoV-2 modulates autophagy,0.5,1,2,11,VPS45
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex,0.5,1,2,19,CCNB1
+Condensation of Prometaphase Chromosomes,0.5,1,2,26,CCNB1
+Golgi Cisternae Pericentriolar Stack Reorganization,0.5,1,2,26,CCNB1
+G1/S-Specific Transcription,0.5,2,4,51,E2F1;TK1
+G0 and Early G1,0.5,2,4,52,E2F1;TOP2A
+Activation of BH3-only proteins,0.5,1,2,43,E2F1
+Interaction between PHLDA1 and AURKA,0.5,1,2,3,AURKA
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,0.5,1,2,51,UBL4A
+Pre-NOTCH Transcription and Translation,0.5,1,2,162,E2F1
+NGF-stimulated transcription,0.5,1,2,80,CDK5
+Transcription of E2F targets under negative control by DREAM complex,0.5,2,4,38,TOP2A;E2F1
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest,0.5,2,4,21,AURKA;CCNB1
+TAK1-dependent IKK and NF-kappa-B activation  ,0.5,1,2,85,LRRC14
+Signaling by NTRK2 (TRKB),0.5,1,2,50,CDK5
+Signaling by ALK fusions and activated point mutants,0.5,2,4,279,RNF213;CCNB1
+Signaling by ALK in cancer,0.5,2,4,292,RNF213;CCNB1
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1,0.5,1,2,20,E2F1
+Resolution of Sister Chromatid Cohesion,0.4444,4,9,155,DSN1;ZWINT;CDCA5;CCNB1
+TP53 Regulates Transcription of Cell Cycle Genes,0.4286,3,7,65,E2F1;AURKA;CCNB1
+SUMOylation of DNA replication proteins,0.4,2,5,103,AURKA;TOP2A
+Protein ubiquitination,0.4,2,5,243,UBE2C;UBE2T
+Nuclear Pore Complex (NPC) Disassembly,0.3333,1,3,46,CCNB1
+MITF-M-dependent gene expression,0.3333,1,3,193,CCNB1
+MyD88 dependent cascade initiated on endosome,0.3333,1,3,214,LRRC14
+MHC class II antigen presentation,0.3333,1,3,240,RACGAP1
+MyD88 cascade initiated on plasma membrane,0.3333,1,3,197,LRRC14
+Toll Like Receptor 3 (TLR3) Cascade,0.3333,1,3,229,LRRC14
+Toll Like Receptor 5 (TLR5) Cascade,0.3333,1,3,197,LRRC14
+Toll Like Receptor 2 (TLR2) Cascade,0.3333,1,3,219,LRRC14
+Toll Like Receptor 10 (TLR10) Cascade,0.3333,1,3,197,LRRC14
+Toll Like Receptor 4 (TLR4) Cascade,0.3333,1,3,267,LRRC14
+Regulation of TP53 Activity through Phosphorylation,0.3333,2,6,117,CDK5;AURKA
+Signaling by NOTCH3,0.3333,1,3,122,TACC3
+Suppression of apoptosis,0.3333,1,3,9,RNF213
+Toll Like Receptor TLR1:TLR2 Cascade,0.3333,1,3,219,LRRC14
+Toll Like Receptor 9 (TLR9) Cascade,0.3333,1,3,226,LRRC14
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.3333,1,3,221,LRRC14
+Transcriptional Regulation by NPAS4,0.3333,1,3,59,CDK5
+Toll Like Receptor TLR6:TLR2 Cascade,0.3333,1,3,216,LRRC14
+Semaphorin interactions,0.3333,1,3,120,CDK5
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.3333,1,3,200,LRRC14
+TRIF (TICAM1)-mediated TLR4 signaling ,0.3333,1,3,212,LRRC14
+APC/C:Cdc20 mediated degradation of Cyclin B,0.3333,2,6,34,CCNB1;UBE2C
+Aberrant regulation of mitotic cell cycle due to RB1 defects,0.3333,2,6,412,E2F1;UBE2C
+Depolymerization of the Nuclear Lamina,0.3333,1,3,25,CCNB1
+RAC2 GTPase cycle,0.3333,1,3,92,RACGAP1
+NPAS4 regulates expression of target genes,0.3333,1,3,46,CDK5
+MyD88-independent TLR4 cascade ,0.3333,1,3,212,LRRC14
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.3333,1,3,216,LRRC14
+Phosphorylation of the APC/C,0.3333,2,6,20,UBE2C;CCNB1
+Opioid Signalling,0.3333,1,3,182,CDK5
+Nucleotide salvage,0.3333,1,3,23,TK1
+Pyrimidine salvage,0.3333,1,3,11,TK1
+Oxidative Stress Induced Senescence,0.3333,2,6,184,CDKN2C;E2F1
+Nuclear events stimulated by ALK signaling in cancer,0.3333,1,3,58,CCNB1
+Nuclear Events (kinase and transcription factor activation),0.3333,1,3,117,CDK5
+Fanconi Anemia Pathway,0.3333,1,3,56,UBE2T
+EML4 and NUDC in mitotic spindle formation,0.2857,2,7,122,ZWINT;DSN1
+Amplification of signal from the kinetochores,0.2857,2,7,95,ZWINT;DSN1
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,0.2857,2,7,95,DSN1;ZWINT
+Diseases of mitotic cell cycle,0.2857,2,7,562,UBE2C;E2F1
+Mitotic Prometaphase,0.2667,4,15,263,CDCA5;ZWINT;DSN1;CCNB1
+Mitotic G1 phase and G1/S transition,0.2632,5,19,237,E2F1;TOP2A;CDKN2C;CCNB1;TK1
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.25,1,4,309,CDK5
+Defective Intrinsic Pathway for Apoptosis,0.25,1,4,1366,CDK5
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,0.25,1,4,56,CDK5
+Intrinsic Pathway for Apoptosis,0.25,1,4,98,E2F1
+Infection with Mycobacterium tuberculosis,0.25,1,4,45,RNF213
+Cellular Senescence,0.25,3,12,302,UBE2C;CDKN2C;E2F1
+Cyclin A/B1/B2 associated events during G2/M transition,0.25,1,4,53,CCNB1
+G alpha (i) signalling events,0.25,1,4,444,CDK5
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.25,1,4,300,CDK5
+Senescence-Associated Secretory Phenotype (SASP),0.25,2,8,154,CDKN2C;UBE2C
+Transcriptional Regulation by E2F6,0.25,1,4,45,E2F1
+Toll-like Receptor Cascades,0.25,1,4,348,LRRC14
+Regulation of PLK1 Activity at G2/M Transition,0.25,2,8,115,CCNB1;AURKA
+RHO GTPases Activate Formins,0.25,2,8,154,DSN1;ZWINT
+RAC3 GTPase cycle,0.25,1,4,96,RACGAP1
+RHOB GTPase cycle,0.25,1,4,73,RACGAP1
+Response of Mtb to phagocytosis,0.25,1,4,41,RNF213
+RHOC GTPase cycle,0.25,1,4,77,RACGAP1
+Neurodegenerative Diseases,0.25,1,4,56,CDK5
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.25,1,4,300,CDK5
+Mitotic Spindle Checkpoint,0.25,3,12,112,DSN1;ZWINT;UBE2C
+COPI-dependent Golgi-to-ER retrograde traffic,0.2222,2,9,145,KIFC1;RACGAP1
+Hemostasis,0.2105,4,19,1150,RACGAP1;KIFC1;CDK5;VPS45
+Post-translational modification: synthesis of GPI-anchored proteins,0.2,1,5,162,THY1
+Rab regulation of trafficking,0.2,1,5,167,TBC1D16
+Activation of NMDA receptors and postsynaptic events,0.2,1,5,207,PPM1F
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components,0.2,1,5,21,UBE2C
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase,0.2,1,5,21,UBE2C
+Aberrant regulation of mitotic exit in cancer due to RB1 defects,0.2,1,5,20,UBE2C
+Golgi-to-ER retrograde transport,0.2,2,10,184,KIFC1;RACGAP1
+Inactivation of APC/C via direct inhibition of the APC/C complex,0.2,1,5,21,UBE2C
+APC-Cdc20 mediated degradation of Nek2A,0.2,1,5,36,UBE2C
+Bacterial Infection Pathways,0.2,1,5,167,RNF213
+Initiation of Nuclear Envelope (NE) Reformation,0.2,1,5,27,CCNB1
+"Cell Cycle, Mitotic",0.1923,10,52,1024,CCNB1;AURKA;UBE2C;TOP2A;E2F1;TK1;DSN1;CDCA5;ZWINT;CDKN2C
+Intra-Golgi and retrograde Golgi-to-ER traffic,0.1875,3,16,300,VPS45;RACGAP1;KIFC1
+Regulation of mitotic cell cycle,0.1765,3,17,165,CCNB1;AURKA;UBE2C
+G1/S Transition,0.1765,3,17,190,E2F1;TK1;CCNB1
+APC/C-mediated degradation of cell cycle proteins,0.1765,3,17,165,AURKA;UBE2C;CCNB1
+Separation of Sister Chromatids,0.1739,4,23,209,UBE2C;CDCA5;DSN1;ZWINT
+Regulation of TP53 Activity,0.1667,2,12,319,CDK5;AURKA
+Metabolism of nucleotides,0.1667,1,6,102,TK1
+Signaling by NTRK1 (TRKA),0.1667,1,6,246,CDK5
+Nuclear Envelope Breakdown,0.1667,1,6,80,CCNB1
+Diseases of programmed cell death,0.1667,1,6,1469,CDK5
+Intra-Golgi traffic,0.1667,1,6,56,VPS45
+G2/M DNA damage checkpoint,0.1667,1,6,110,CCNB1
+SUMO E3 ligases SUMOylate target proteins,0.1667,2,12,420,AURKA;TOP2A
+Transcriptional Regulation by VENTX,0.1667,1,6,46,UBE2C
+Cell Cycle,0.1639,10,61,1325,E2F1;TK1;DSN1;UBE2C;AURKA;TOP2A;CDCA5;ZWINT;CCNB1;CDKN2C
+Mitotic Metaphase and Anaphase,0.1613,5,31,287,UBE2C;CCNB1;ZWINT;DSN1;CDCA5
+Mitotic Anaphase,0.1613,5,31,284,CCNB1;UBE2C;DSN1;ZWINT;CDCA5
+SUMOylation,0.1538,2,13,442,AURKA;TOP2A
+Transcriptional Regulation by TP53,0.1481,4,27,614,CCNB1;CDK5;E2F1;AURKA
+AURKA Activation by TPX2,0.1429,1,7,81,AURKA
+CDC42 GTPase cycle,0.1429,1,7,158,RACGAP1
+Neurotransmitter receptors and postsynaptic signal transmission,0.1429,1,7,372,PPM1F
+Signaling by NTRKs,0.1429,1,7,309,CDK5
+Mitotic Prophase,0.1429,1,7,233,CCNB1
+RHOA GTPase cycle,0.1429,1,7,152,RACGAP1
+RAC1 GTPase cycle,0.1429,1,7,187,RACGAP1
+S Phase,0.1364,3,22,268,E2F1;CDCA5;UBE2C
+RHO GTPase Effectors,0.1333,2,15,512,ZWINT;DSN1
+Cell Cycle Checkpoints,0.1333,4,30,337,UBE2C;DSN1;CCNB1;ZWINT
+M Phase,0.1316,5,38,632,UBE2C;CCNB1;ZWINT;CDCA5;DSN1
+Mitotic G2-G2/M phases,0.1304,3,23,264,E2F1;CCNB1;AURKA
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,0.125,2,16,95,UBE2C;CCNB1
+Transmission across Chemical Synapses,0.125,1,8,461,PPM1F
+APC/C:Cdc20 mediated degradation of mitotic proteins,0.125,2,16,75,CCNB1;UBE2C
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.125,1,8,352,CDK5
+GPCR downstream signalling,0.125,1,8,825,CDK5
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,0.125,2,16,138,UBE2C;AURKA
+MITF-M-regulated melanocyte development,0.125,1,8,275,CCNB1
+Regulation of APC/C activators between G1/S and early anaphase,0.125,2,16,103,UBE2C;CCNB1
+Protein localization,0.125,1,8,462,UBL4A
+Signaling by GPCR,0.125,1,8,917,CDK5
+Neuronal System,0.125,1,8,641,PPM1F
+Signaling by NOTCH,0.125,2,16,494,E2F1;TACC3
+Nuclear Envelope (NE) Reassembly,0.1111,1,9,106,CCNB1
+Membrane Trafficking,0.1081,4,37,1206,TBC1D16;KIFC1;VPS45;RACGAP1
+Signaling by Rho GTPases,0.1071,3,28,927,ZWINT;DSN1;RACGAP1
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.1034,3,29,945,ZWINT;RACGAP1;DSN1
+Vesicle-mediated transport,0.1,4,40,1389,TBC1D16;RACGAP1;KIFC1;VPS45
+Generic Transcription Pathway,0.0968,6,62,2126,ZNF517;CDK5;UBE2C;E2F1;AURKA;CCNB1
+Negative regulation of NOTCH4 signaling,0.0909,1,11,62,TACC3
+Cyclin A:Cdk2-associated events at S phase entry,0.0909,1,11,102,E2F1
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,0.0909,1,11,55,AURKA
+Cyclin E associated events during G1/S transition ,0.0909,1,11,111,E2F1
+G2/M Transition,0.0909,2,22,260,AURKA;CCNB1
+Signaling by NOTCH4,0.0833,1,12,109,TACC3
+The role of GTSE1 in G2/M progression after G2 checkpoint,0.0833,1,12,81,CCNB1
+Interleukin-1 signaling,0.0833,1,12,161,LRRC14
+Antigen processing: Ubiquitination & Proteasome degradation,0.0833,2,24,306,RNF213;UBE2C
+Adaptive Immune System,0.0811,3,37,1430,RACGAP1;UBE2C;RNF213
+RNA Polymerase II Transcription,0.08,6,75,2337,CCNB1;E2F1;CDK5;ZNF517;AURKA;UBE2C
+Interleukin-1 family signaling,0.0769,1,13,239,LRRC14
+Diseases of signal transduction by growth factor receptors and second messengers,0.0769,2,26,2316,CCNB1;RNF213
+Transcriptional regulation by RUNX2,0.0769,1,13,234,CCNB1
+Signal Transduction,0.0741,6,81,5444,TACC3;RACGAP1;ZWINT;CDK5;DSN1;E2F1
+Class I MHC mediated antigen processing & presentation,0.0741,2,27,538,RNF213;UBE2C
+Gene expression (Transcription),0.0714,6,84,2954,E2F1;UBE2C;CDK5;AURKA;ZNF517;CCNB1
+Immune System,0.0704,5,71,5116,LRRC14;RNF213;DSN1;UBE2C;RACGAP1
+CDK-mediated phosphorylation and removal of Cdc6,0.0667,1,15,74,UBE2C
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,0.0667,1,15,72,UBE2C
+APC/C:Cdc20 mediated degradation of Securin,0.0667,1,15,67,UBE2C
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,0.0667,1,15,71,UBE2C
+RHO GTPase cycle,0.0667,1,15,497,RACGAP1
+Autodegradation of Cdh1 by Cdh1:APC/C,0.0667,1,15,65,UBE2C
+Epigenetic regulation of gene expression,0.0667,1,15,693,CDK5
+Disease,0.0645,6,93,8704,CCNB1;VPS45;RNF213;UBE2C;E2F1;CDK5
+Post-translational protein modification,0.0641,5,78,3379,UBE2C;AURKA;UBE2T;TOP2A;THY1
+SARS-CoV-2-host interactions,0.0625,1,16,253,VPS45
+Signaling by Receptor Tyrosine Kinases,0.0588,1,17,1247,CDK5
+Signaling by Interleukins,0.0588,1,17,1058,LRRC14
+Switching of origins to a post-replicative state,0.0588,1,17,111,UBE2C
+Innate Immune System,0.0571,2,35,2725,LRRC14;DSN1
+Assembly of the pre-replicative complex,0.0556,1,18,164,UBE2C
+Cellular responses to stress,0.0556,3,54,1392,E2F1;UBE2C;CDKN2C
+G2/M Checkpoints,0.0556,1,18,189,CCNB1
+DNA Replication Pre-Initiation,0.0556,1,18,181,UBE2C
+Developmental Biology,0.0545,3,55,2608,CCNB1;CDK5;E2F1
+Cellular responses to stimuli,0.0536,3,56,1568,E2F1;CDKN2C;UBE2C
+DNA Repair,0.0526,1,19,528,UBE2T
+Apoptosis,0.0526,1,19,327,E2F1
+Neutrophil degranulation,0.05,1,20,1316,DSN1
+Synthesis of DNA,0.05,1,20,151,UBE2C
+Programmed Cell Death,0.05,1,20,421,E2F1
+SARS-CoV-2 Infection,0.0476,1,21,515,VPS45
+DNA Replication,0.0476,1,21,295,UBE2C
+Metabolism of proteins,0.0442,5,113,4511,UBE2T;TOP2A;UBE2C;AURKA;THY1
+SARS-CoV Infections,0.0357,1,28,779,VPS45
+Axon guidance,0.0312,1,32,1009,CDK5
+Cytokine Signaling in Immune system,0.0312,1,32,1716,LRRC14
+Nervous system development,0.0303,1,33,1059,CDK5
+Infectious disease,0.0299,2,67,2039,RNF213;VPS45
+Viral Infection Pathways,0.0172,1,58,1511,VPS45
+Metabolism,0.0143,1,70,3291,TK1

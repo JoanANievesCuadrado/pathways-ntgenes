@@ -1,0 +1,129 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Activation of Matrix Metalloproteinases,1.0,1,1,87,CTSG
+Antimicrobial peptides,1.0,1,1,220,CTSG
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,1.0,1,1,187,PTPN6
+Advanced glycosylation endproduct receptor signaling,1.0,1,1,21,AGER
+CD22 mediated BCR regulation,1.0,1,1,63,PTPN6
+Co-inhibition by BTLA,1.0,1,1,9,PTPN6
+Cell recruitment (pro-inflammatory response),1.0,1,1,44,CTSG
+Co-inhibition by PD-1,1.0,1,1,30,PTPN6
+Defective CSF2RB causes SMDP5,1.0,1,1,9,SFTPC
+Defective pro-SFTPC causes SMDP2 and RDS,1.0,1,1,2,SFTPC
+Defective CSF2RA causes SMDP4,1.0,1,1,8,SFTPC
+Diseases associated with surfactant metabolism,1.0,1,1,26,SFTPC
+Interleukin-1 processing,1.0,1,1,22,CTSG
+Glutathione synthesis and recycling,1.0,1,1,16,GGCT
+Glutathione conjugation,1.0,1,1,40,GGCT
+GPVI-mediated activation cascade,1.0,1,1,76,PTPN6
+Metabolism of Angiotensinogen to Angiotensins,1.0,1,1,28,CTSG
+Interleukin-37 signaling,1.0,1,1,43,PTPN6
+Regulation of T cell activation by CD28 family,1.0,1,1,103,PTPN6
+Regulation of KIT signaling,1.0,1,1,21,PTPN6
+Signaling by LRP5 mutants ,1.0,1,1,6,DKK2
+Suppression of apoptosis,1.0,1,1,9,CTSG
+Striated Muscle Contraction,1.0,1,1,36,TNNC1
+Signaling by SCF-KIT,1.0,1,1,70,PTPN6
+Purinergic signaling in leishmaniasis infection,1.0,1,1,44,CTSG
+Response of Mtb to phagocytosis,1.0,1,1,41,CTSG
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,1.0,1,1,164,PTPN6
+Phase II - Conjugation of compounds,1.0,1,1,119,GGCT
+SARS-CoV-2-host interactions,1.0,1,1,253,PTPN6
+Signaling by ALK,1.0,1,1,54,PTPN6
+Interleukin-1 family signaling,0.5714,4,7,239,IL13;AGER;CTSG;PTPN6
+Growth hormone receptor signaling,0.5,1,2,53,PTPN6
+Regulation of IFNG signaling,0.5,1,2,22,PTPN6
+PECAM1 interactions,0.5,1,2,13,PTPN6
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists,0.5,1,2,22,DKK2
+Regulation of IFNA/IFNB signaling,0.5,1,2,55,PTPN6
+"Interleukin-3, Interleukin-5 and GM-CSF signaling",0.5,1,2,92,PTPN6
+Interleukin-2 family signaling,0.5,1,2,97,PTPN6
+Lysosphingolipid and LPA receptors,0.5,1,2,14,S1PR4
+Interleukin-18 signaling,0.5,1,2,13,IL13
+Formyl peptide receptors bind formyl peptides and many other ligands,0.5,1,2,8,CCL23
+EGR2 and SOX10-mediated initiation of Schwann cell myelination,0.5,1,2,52,EGR2
+Infection with Mycobacterium tuberculosis,0.5,1,2,45,CTSG
+Signal regulatory protein family interactions,0.5,1,2,20,PTPN6
+Signaling by WNT in cancer,0.5,1,2,158,DKK2
+Surfactant metabolism,0.5,1,2,64,SFTPC
+TAK1-dependent IKK and NF-kappa-B activation  ,0.5,1,2,85,AGER
+TRAF6 mediated NF-kB activation,0.5,1,2,42,AGER
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.5,1,2,173,AGER
+Interleukin receptor SHC signaling,0.5,1,2,30,PTPN6
+Parasitic Infection Pathways,0.3333,1,3,407,CTSG
+Nuclear events stimulated by ALK signaling in cancer,0.3333,1,3,58,PTPN6
+Interleukin-1 signaling,0.3333,1,3,161,AGER
+TRIF (TICAM1)-mediated TLR4 signaling ,0.3333,1,3,212,AGER
+Platelet sensitization by LDL,0.3333,1,3,21,PTPN6
+SARS-CoV-2 Infection,0.3333,1,3,515,PTPN6
+Signaling by the B Cell Receptor (BCR),0.3333,1,3,302,PTPN6
+Signaling by ALK in cancer,0.3333,1,3,292,PTPN6
+TCF dependent signaling in response to WNT,0.3333,1,3,419,DKK2
+Transcriptional regulation of white adipocyte differentiation,0.3333,1,3,148,EGR2
+Toll Like Receptor 3 (TLR3) Cascade,0.3333,1,3,229,AGER
+Interferon gamma signaling,0.3333,1,3,192,PTPN6
+Interferon alpha/beta signaling,0.3333,1,3,171,PTPN6
+Leishmania infection,0.3333,1,3,407,CTSG
+Signaling by ALK fusions and activated point mutants,0.3333,1,3,279,PTPN6
+MyD88-independent TLR4 cascade ,0.3333,1,3,212,AGER
+Toll Like Receptor 4 (TLR4) Cascade,0.25,1,4,267,AGER
+Toll Like Receptor 5 (TLR5) Cascade,0.25,1,4,197,AGER
+Toll Like Receptor TLR1:TLR2 Cascade,0.25,1,4,219,AGER
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.25,1,4,200,AGER
+Toll Like Receptor 9 (TLR9) Cascade,0.25,1,4,226,AGER
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.25,1,4,221,AGER
+Toll-like Receptor Cascades,0.25,1,4,348,AGER
+Toll Like Receptor TLR6:TLR2 Cascade,0.25,1,4,216,AGER
+Toll Like Receptor 2 (TLR2) Cascade,0.25,1,4,219,AGER
+Platelet homeostasis,0.25,1,4,115,PTPN6
+Peptide hormone metabolism,0.25,1,4,167,CTSG
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.25,1,4,216,AGER
+Signaling by WNT,0.25,1,4,773,DKK2
+Toll Like Receptor 10 (TLR10) Cascade,0.25,1,4,197,AGER
+Adipogenesis,0.25,1,4,185,EGR2
+Bacterial Infection Pathways,0.25,1,4,167,CTSG
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.25,1,4,149,EGR2
+MyD88 cascade initiated on plasma membrane,0.25,1,4,197,AGER
+Muscle contraction,0.25,1,4,236,TNNC1
+MyD88 dependent cascade initiated on endosome,0.25,1,4,214,AGER
+Activation of HOX genes during differentiation,0.25,1,4,149,EGR2
+Cell surface interactions at the vascular wall,0.2222,2,9,265,SELP;PTPN6
+G alpha (i) signalling events,0.2,2,10,444,S1PR4;CCL23
+Diseases of signal transduction by growth factor receptors and second messengers,0.2,2,10,2316,PTPN6;DKK2
+Biological oxidations,0.2,1,5,234,GGCT
+Interferon Signaling,0.2,1,5,490,PTPN6
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),0.2,1,5,251,CTSG
+"Platelet activation, signaling and aggregation",0.1818,2,11,497,SELP;PTPN6
+Signaling by Interleukins,0.1739,4,23,1058,IL13;PTPN6;CTSG;AGER
+Cell-Cell communication,0.1667,1,6,227,PTPN6
+SARS-CoV Infections,0.1667,1,6,779,PTPN6
+Cytokine Signaling in Immune system,0.1538,4,26,1716,AGER;CTSG;PTPN6;IL13
+Degradation of the extracellular matrix,0.1429,1,7,2051,CTSG
+Signaling by NTRK1 (TRKA),0.1429,1,7,246,EGR2
+Platelet degranulation ,0.1429,1,7,264,SELP
+Response to elevated platelet cytosolic Ca2+,0.1429,1,7,273,SELP
+Nuclear Events (kinase and transcription factor activation),0.1429,1,7,117,EGR2
+NGF-stimulated transcription,0.1429,1,7,80,EGR2
+Signaling by NTRKs,0.1429,1,7,309,EGR2
+Diseases of metabolism,0.1429,1,7,952,SFTPC
+G alpha (q) signalling events,0.125,1,8,249,CCL23
+Signaling by Receptor Tyrosine Kinases,0.125,2,16,1247,PTPN6;EGR2
+Infectious disease,0.1176,2,17,2039,CTSG;PTPN6
+Nervous system development,0.1111,1,9,1059,EGR2
+Class A/1 (Rhodopsin-like receptors),0.1053,2,19,376,S1PR4;CCL23
+Interleukin-4 and Interleukin-13 signaling,0.1,1,10,223,IL13
+Neutrophil degranulation,0.1,2,20,1316,CTSG;PTPN6
+Innate Immune System,0.0938,3,32,2725,AGER;CTSG;PTPN6
+Viral Infection Pathways,0.0909,1,11,1511,PTPN6
+Disease,0.087,4,46,8704,SFTPC;DKK2;CTSG;PTPN6
+GPCR downstream signalling,0.0833,2,24,825,S1PR4;CCL23
+Peptide ligand-binding receptors,0.0833,1,12,243,CCL23
+GPCR ligand binding,0.08,2,25,517,CCL23;S1PR4
+Hemostasis,0.0714,2,28,1150,PTPN6;SELP
+Signaling by GPCR,0.0714,2,28,917,CCL23;S1PR4
+Extracellular matrix organization,0.0667,1,15,3755,CTSG
+Immune System,0.0667,4,60,5116,CTSG;PTPN6;IL13;AGER
+Signal Transduction,0.0581,5,86,5444,S1PR4;EGR2;PTPN6;DKK2;CCL23
+Adaptive Immune System,0.0476,1,21,1430,PTPN6
+Metabolism of proteins,0.0444,2,45,4511,SFTPC;CTSG
+Developmental Biology,0.0333,1,30,2608,EGR2
+Metabolism,0.027,1,37,3291,GGCT

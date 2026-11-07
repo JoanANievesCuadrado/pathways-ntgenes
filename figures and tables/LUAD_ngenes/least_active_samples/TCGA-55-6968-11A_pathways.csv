@@ -1,0 +1,100 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Biosynthesis of DPA-derived SPMs,1.0,1,1,4,ALOX5
+Biosynthesis of D-series resolvins,1.0,1,1,4,ALOX5
+Arachidonate metabolism,1.0,1,1,68,ALOX5
+DAP12 interactions,1.0,1,1,63,SIRPB1
+Defective CSF2RA causes SMDP4,1.0,1,1,8,SFTPC
+Defective CSF2RB causes SMDP5,1.0,1,1,9,SFTPC
+Biosynthesis of DHA-derived SPMs,1.0,1,1,18,ALOX5
+Biosynthesis of DPAn-3 SPMs,1.0,1,1,4,ALOX5
+Biosynthesis of DPAn-3-derived 13-series resolvins,1.0,1,1,1,ALOX5
+Biosynthesis of DPAn-3-derived protectins and resolvins,1.0,1,1,2,ALOX5
+Biosynthesis of DPAn-3-derived maresins,1.0,1,1,2,ALOX5
+Biosynthesis of EPA-derived SPMs,1.0,1,1,7,ALOX5
+Biosynthesis of Lipoxins (LX),1.0,1,1,6,ALOX5
+Biosynthesis of E-series 18(R)-resolvins,1.0,1,1,4,ALOX5
+Biosynthesis of E-series 18(S)-resolvins,1.0,1,1,5,ALOX5
+Biosynthesis of aspirin-triggered D-series resolvins,1.0,1,1,3,ALOX5
+Biosynthesis of electrophilic ω-3 PUFA oxo-derivatives,1.0,1,1,3,ALOX5
+Biosynthesis of specialized proresolving mediators (SPMs),1.0,1,1,22,ALOX5
+Biosynthesis of maresins,1.0,1,1,8,ALOX5
+Cross-presentation of particulate exogenous antigens (phagosomes),1.0,2,2,11,NCF2;NCF1
+Defective pro-SFTPC causes SMDP2 and RDS,1.0,1,1,2,SFTPC
+RAC2 GTPase cycle,1.0,2,2,92,NCF2;NCF1
+RHO GTPases Activate NADPH Oxidases,1.0,2,2,31,NCF2;NCF1
+Synthesis of 5-eicosatetraenoic acids,1.0,1,1,9,ALOX5
+Synthesis of Leukotrienes (LT) and Eoxins (EX),1.0,1,1,24,ALOX5
+Synthesis of PA,1.0,1,1,42,GPD1
+Striated Muscle Contraction,1.0,1,1,36,TNNC1
+Triglyceride metabolism,1.0,1,1,43,FABP4
+TRP channels,1.0,1,1,28,TRPV2
+ROS and RNS production in phagocytes,1.0,2,2,37,NCF2;NCF1
+Triglyceride catabolism,1.0,1,1,29,FABP4
+Glycerophospholipid catabolism,1.0,1,1,7,PNPLA6
+Glycerophospholipid biosynthesis,1.0,1,1,144,GPD1
+Generation of second messenger molecules,1.0,1,1,44,CD101
+Diseases associated with surfactant metabolism,1.0,1,1,26,SFTPC
+VEGFA-VEGFR2 Pathway,0.6667,2,3,165,NCF1;NCF2
+Phospholipid metabolism,0.6667,2,3,253,GPD1;PNPLA6
+RAC3 GTPase cycle,0.6667,2,3,96,NCF2;NCF1
+Signaling by VEGF,0.6667,2,3,176,NCF2;NCF1
+Metabolism of lipids,0.5714,4,7,978,FABP4;GPD1;ALOX5;PNPLA6
+Lysosphingolipid and LPA receptors,0.5,1,2,14,S1PR4
+PI Metabolism,0.5,1,2,111,PNPLA6
+Scavenging by Class A Receptors,0.5,1,2,75,MARCO
+Surfactant metabolism,0.5,1,2,64,SFTPC
+Stimuli-sensing channels,0.5,1,2,125,TRPV2
+TCR signaling,0.5,1,2,163,CD101
+Signal regulatory protein family interactions,0.5,1,2,20,SIRPB1
+Basigin interactions,0.5,1,2,26,SPN
+Antigen processing-Cross presentation,0.5,2,4,201,NCF2;NCF1
+Interleukin-18 signaling,0.5,1,2,13,ALOX5
+Detoxification of Reactive Oxygen Species,0.5,2,4,55,NCF2;NCF1
+RAC1 GTPase cycle,0.4,2,5,187,NCF1;NCF2
+Transcriptional regulation of white adipocyte differentiation,0.3333,1,3,148,FABP4
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.3333,1,3,300,FABP4
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.3333,1,3,309,FABP4
+Ion channel transport,0.3333,1,3,206,TRPV2
+Fatty acid metabolism,0.3333,1,3,192,ALOX5
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.3333,1,3,300,FABP4
+Class I MHC mediated antigen processing & presentation,0.2857,2,7,538,NCF1;NCF2
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.25,1,4,352,FABP4
+Muscle contraction,0.25,1,4,236,TNNC1
+Adipogenesis,0.25,1,4,185,FABP4
+Binding and Uptake of Ligands by Scavenger Receptors,0.2,1,5,183,MARCO
+Neutrophil degranulation,0.2,4,20,1316,SIRPB1;ADGRE3;ALOX5;MCEMP1
+Adaptive Immune System,0.1905,4,21,1430,CD101;NCF1;NCF2;SIGLEC11
+Innate Immune System,0.1875,6,32,2725,ADGRE3;MCEMP1;NCF1;ALOX5;SIRPB1;NCF2
+RHO GTPase Effectors,0.1818,2,11,512,NCF2;NCF1
+Cell-Cell communication,0.1667,1,6,227,SIRPB1
+Class B/2 (Secretin family receptors),0.1667,1,6,102,ADGRE3
+Cellular response to chemical stress,0.1667,2,12,347,NCF2;NCF1
+RHO GTPase cycle,0.1538,2,13,497,NCF2;NCF1
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0.1429,1,7,242,SIGLEC11
+Diseases of metabolism,0.1429,1,7,952,SFTPC
+Interleukin-1 family signaling,0.1429,1,7,239,ALOX5
+Immune System,0.1333,8,60,5116,MCEMP1;NCF1;SIRPB1;NCF2;CD101;ALOX5;SIGLEC11;ADGRE3
+Signaling by Receptor Tyrosine Kinases,0.125,2,16,1247,NCF2;NCF1
+Cell surface interactions at the vascular wall,0.1111,1,9,265,SPN
+Epigenetic regulation of gene expression,0.1111,1,9,693,FABP4
+Metabolism,0.1081,4,37,3291,FABP4;ALOX5;GPD1;PNPLA6
+G alpha (i) signalling events,0.1,1,10,444,S1PR4
+Interleukin-4 and Interleukin-13 signaling,0.1,1,10,223,ALOX5
+Signaling by Rho GTPases,0.0909,2,22,927,NCF1;NCF2
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.087,2,23,945,NCF2;NCF1
+GPCR ligand binding,0.08,2,25,517,ADGRE3;S1PR4
+Cellular responses to stress,0.0769,2,26,1392,NCF1;NCF2
+Signaling by GPCR,0.0714,2,28,917,ADGRE3;S1PR4
+Transport of small molecules,0.0667,1,15,852,TRPV2
+Cellular responses to stimuli,0.0625,2,32,1568,NCF1;NCF2
+Vesicle-mediated transport,0.0588,1,17,1389,MARCO
+Class A/1 (Rhodopsin-like receptors),0.0526,1,19,376,S1PR4
+Signal Transduction,0.0465,4,86,5444,NCF1;ADGRE3;S1PR4;NCF2
+Signaling by Interleukins,0.0435,1,23,1058,ALOX5
+GPCR downstream signalling,0.0417,1,24,825,S1PR4
+Cytokine Signaling in Immune system,0.0385,1,26,1716,ALOX5
+Hemostasis,0.0357,1,28,1150,SPN
+Developmental Biology,0.0333,1,30,2608,FABP4
+Gene expression (Transcription),0.0244,1,41,2954,FABP4
+Metabolism of proteins,0.0222,1,45,4511,SFTPC
+Disease,0.0217,1,46,8704,SFTPC

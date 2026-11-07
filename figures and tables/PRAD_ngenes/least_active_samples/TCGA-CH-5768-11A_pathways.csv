@@ -1,0 +1,56 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+APC-Cdc20 mediated degradation of Nek2A,1.0,1,1,36,UBE2C
+APC/C-mediated degradation of cell cycle proteins,1.0,1,1,165,UBE2C
+APC/C:Cdc20 mediated degradation of Cyclin B,1.0,1,1,34,UBE2C
+APC/C:Cdc20 mediated degradation of Securin,1.0,1,1,67,UBE2C
+APC/C:Cdc20 mediated degradation of mitotic proteins,1.0,1,1,75,UBE2C
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,1.0,1,1,138,UBE2C
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,1.0,1,1,72,UBE2C
+Aberrant regulation of mitotic cell cycle due to RB1 defects,1.0,1,1,412,UBE2C
+Aberrant regulation of mitotic exit in cancer due to RB1 defects,1.0,1,1,20,UBE2C
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,1.0,1,1,95,UBE2C
+CDK-mediated phosphorylation and removal of Cdc6,1.0,1,1,74,UBE2C
+Autodegradation of Cdh1 by Cdh1:APC/C,1.0,1,1,65,UBE2C
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,1.0,1,1,71,UBE2C
+mRNA Editing: C to U Conversion,1.0,1,1,8,APOBEC3C
+Switching of origins to a post-replicative state,1.0,1,1,111,UBE2C
+Phosphorylation of the APC/C,1.0,1,1,20,UBE2C
+Regulation of APC/C activators between G1/S and early anaphase,1.0,1,1,103,UBE2C
+Regulation of mitotic cell cycle,1.0,1,1,165,UBE2C
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components,1.0,1,1,21,UBE2C
+Inactivation of APC/C via direct inhibition of the APC/C complex,1.0,1,1,21,UBE2C
+Formation of the Editosome,1.0,1,1,8,APOBEC3C
+Diseases of mitotic cell cycle,1.0,1,1,562,UBE2C
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase,1.0,1,1,21,UBE2C
+mRNA Editing,1.0,1,1,10,APOBEC3C
+Transcriptional Regulation by VENTX,1.0,1,1,46,UBE2C
+S Phase,0.5,1,2,268,UBE2C
+Synthesis of DNA,0.5,1,2,151,UBE2C
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes,0.3333,1,3,149,UBE2C
+Separation of Sister Chromatids,0.3333,1,3,209,UBE2C
+Mitotic Metaphase and Anaphase,0.3333,1,3,287,UBE2C
+Mitotic Anaphase,0.3333,1,3,284,UBE2C
+Senescence-Associated Secretory Phenotype (SASP),0.3333,1,3,154,UBE2C
+Assembly of the pre-replicative complex,0.3333,1,3,164,UBE2C
+Mitotic Spindle Checkpoint,0.3333,1,3,112,UBE2C
+DNA Replication,0.25,1,4,295,UBE2C
+DNA Replication Pre-Initiation,0.25,1,4,181,UBE2C
+Protein ubiquitination,0.1667,1,6,243,UBE2C
+Cell Cycle Checkpoints,0.1429,1,7,337,UBE2C
+Cellular Senescence,0.1429,1,7,302,UBE2C
+M Phase,0.1111,1,9,632,UBE2C
+Metabolism of RNA,0.1,1,10,932,APOBEC3C
+"Cell Cycle, Mitotic",0.0833,1,12,1024,UBE2C
+Antigen processing: Ubiquitination & Proteasome degradation,0.0714,1,14,306,UBE2C
+Class I MHC mediated antigen processing & presentation,0.0588,1,17,538,UBE2C
+Cell Cycle,0.0556,1,18,1325,UBE2C
+Adaptive Immune System,0.0323,1,31,1430,UBE2C
+Cellular responses to stress,0.0323,1,31,1392,UBE2C
+Generic Transcription Pathway,0.0278,1,36,2126,UBE2C
+RNA Polymerase II Transcription,0.0263,1,38,2337,UBE2C
+Cellular responses to stimuli,0.0238,1,42,1568,UBE2C
+Gene expression (Transcription),0.0227,1,44,2954,UBE2C
+Post-translational protein modification,0.0156,1,64,3379,UBE2C
+Disease,0.0133,1,75,8704,UBE2C
+Metabolism of proteins,0.0125,1,80,4511,UBE2C
+Immune System,0.0114,1,88,5116,UBE2C

@@ -1,0 +1,270 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Transcriptional  activation of  cell cycle inhibitor p21 ,1.0,1,1,5,PCBP4
+CDH11 homotypic and heterotypic interactions,1.0,1,1,7,CDH24
+Transcriptional activation of p53 responsive genes  ,1.0,1,1,5,PCBP4
+Nucleotide-like (purinergic) receptors,1.0,1,1,16,P2RY11
+Enhanced binding of GP1BA variant to VWF multimer:collagen ,1.0,1,1,33,COL1A1
+Defective binding of VWF variant to GPIb:IX:V,1.0,1,1,32,COL1A1
+Defects of platelet adhesion to exposed collagen,1.0,1,1,61,COL1A1
+GABA synthesis,1.0,1,1,2,GAD1
+Defective VWF cleavage by ADAMTS13 variant,1.0,1,1,28,COL1A1
+Defective VWF binding to collagen type I ,1.0,1,1,31,COL1A1
+Enhanced cleavage of VWF variant by ADAMTS13,1.0,1,1,37,COL1A1
+Signalling to ERK5,1.0,1,1,5,MAP2K5
+Beta oxidation of butanoyl-CoA to acetyl-CoA,1.0,1,1,5,ACADS
+Peptide hormone biosynthesis,1.0,1,1,15,INHA
+P2Y receptors,1.0,1,1,12,P2RY11
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA,1.0,1,1,5,ACADS
+MECP2 regulates transcription of genes involved in GABA signaling,1.0,1,1,6,GAD1
+Glycoprotein hormones,1.0,1,1,12,INHA
+GP1b-IX-V activation signalling,0.5,1,2,35,COL1A1
+TGFBR3 regulates activin signaling,0.5,1,2,4,INHA
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,0.5,1,2,19,PCBP4
+Caspase-mediated cleavage of cytoskeletal proteins,0.5,1,2,36,DBNL
+Crosslinking of collagen fibrils,0.3333,1,3,247,COL1A1
+mitochondrial fatty acid beta-oxidation of saturated fatty acids,0.3333,1,3,11,ACADS
+Platelet Adhesion to exposed collagen,0.3333,1,3,64,COL1A1
+Regulation of CDH11 function,0.3333,1,3,19,CDH24
+Diseases of hemostasis,0.3333,1,3,263,COL1A1
+Translesion Synthesis by POLH,0.25,1,4,31,NPLOC4
+Signaling by Activin,0.25,1,4,34,INHA
+Apoptosis induced DNA fragmentation,0.25,1,4,24,DFFB
+Regulation of MITF-M-dependent genes involved in apoptosis,0.25,1,4,24,BIRC7
+Pyrimidine salvage,0.25,1,4,11,TYMP
+MAP3K8 (TPL2)-dependent MAPK1/3 activation,0.2,1,5,33,TNIP2
+Regulation of CDH11 Expression and Function,0.2,1,5,52,CDH24
+Regulation of Expression and Function of Type II Classical Cadherins,0.2,1,5,58,CDH24
+Regulation of TP53 Activity through Methylation,0.2,1,5,38,EHMT2
+Acyl chain remodelling of PS,0.2,1,5,23,OSBPL5
+Pyrimidine catabolism,0.2,1,5,12,TYMP
+Anchoring fibril formation,0.2,1,5,137,COL1A1
+"GABA synthesis, release, reuptake and degradation",0.2,1,5,27,GAD1
+Regulation of Homotypic Cell-Cell Adhesion,0.2,1,5,58,CDH24
+Scavenging by Class A Receptors,0.2,1,5,75,COL1A1
+Receptor Mediated Mitophagy,0.2,1,5,15,ULK1
+TBC/RABGAPs,0.1818,2,11,45,TBC1D17;ULK1
+Syndecan interactions,0.1667,1,6,140,COL1A1
+Formation of Senescence-Associated Heterochromatin Foci (SAHF),0.1667,1,6,17,HIRA
+Synthesis of glycosylphosphatidylinositol (GPI),0.1667,1,6,19,PIGQ
+Other interleukin signaling,0.1667,1,6,28,TXLNA
+VxPx cargo-targeting to cilium,0.1667,1,6,41,RAB11FIP3
+Nucleotide salvage,0.1667,1,6,23,TYMP
+Cardiogenesis,0.1667,1,6,41,WDR5
+Translation of Replicase and Assembly of the Replication Transcription Complex,0.1429,1,7,29,CHMP6
+Signaling by BMP,0.1429,1,7,40,INHA
+FOXO-mediated transcription of cell cycle genes,0.1429,1,7,33,PCBP4
+Pyroptosis,0.1429,1,7,48,CHMP6
+Apoptotic execution phase,0.1333,2,15,149,DBNL;DFFB
+Platelet Aggregation (Plug Formation),0.125,1,8,71,COL1A1
+Adherens junctions interactions,0.125,1,8,90,CDH24
+PKMTs methylate histone lysines,0.12,3,25,362,EHMT2;SUV39H1;WDR5
+MET activates PTK2 signaling,0.1111,1,9,155,COL1A1
+Regulation of pyruvate metabolism,0.1111,1,9,47,RMND5B
+Replacement of protamines by nucleosomes in the male pronucleus,0.1111,1,9,46,HIRA
+Binding and Uptake of Ligands by Scavenger Receptors,0.1111,1,9,183,COL1A1
+GPVI-mediated activation cascade,0.1,1,10,76,COL1A1
+Neurotransmitter release cycle,0.1,1,10,71,GAD1
+RUNX2 regulates osteoblast differentiation,0.1,1,10,43,COL1A1
+Late endosomal microautophagy,0.1,1,10,70,CHMP6
+Mitochondrial Fatty Acid Beta-Oxidation,0.1,1,10,38,ACADS
+Transcriptional Regulation by E2F6,0.1,1,10,45,EHMT2
+Formation of WDR5-containing histone-modifying complexes,0.1,2,20,53,MCRS1;WDR5
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,0.0909,1,11,55,NPLOC4
+Apoptotic cleavage of cellular proteins,0.0909,1,11,116,DBNL
+RUNX2 regulates bone development,0.0909,1,11,52,COL1A1
+Sealing of the nuclear envelope (NE) by ESCRT-III,0.0909,1,11,32,CHMP6
+Transcriptional Regulation by MECP2,0.0909,1,11,116,GAD1
+Budding and maturation of HIV virion,0.0909,1,11,39,CHMP6
+DNA Damage Bypass,0.0909,1,11,66,NPLOC4
+Peptide hormone metabolism,0.0909,1,11,167,INHA
+Early SARS-CoV-2 Infection Events,0.0833,1,12,176,CHMP6
+Collagen chain trimerization,0.0833,1,12,523,COL1A1
+Transcriptional Regulation by VENTX,0.0833,1,12,46,EHMT2
+Assembly of collagen fibrils and other multimeric structures,0.0833,1,12,605,COL1A1
+Mitophagy,0.0833,1,12,85,ULK1
+SIRT1 negatively regulates rRNA expression,0.0833,1,12,99,SUV39H1
+Neddylation,0.0789,6,76,294,KLHL22;LOC105369632;FBXO44;DCAF8;WDR5;NPLOC4
+MET promotes cell motility,0.0769,1,13,166,COL1A1
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,0.0769,1,13,90,EHMT2
+G1/S DNA Damage Checkpoints,0.0769,1,13,94,PCBP4
+Collagen degradation,0.0769,1,13,1782,COL1A1
+p53-Dependent G1 DNA Damage Response,0.0769,1,13,90,PCBP4
+p53-Dependent G1/S DNA damage checkpoint,0.0769,1,13,90,PCBP4
+Signaling by TGFBR3,0.0769,1,13,58,INHA
+Nucleotide catabolism,0.0769,1,13,38,TYMP
+Complex III assembly,0.0769,1,13,37,UQCC1
+Endosomal Sorting Complex Required For Transport (ESCRT),0.0769,1,13,55,CHMP6
+RNA Polymerase III Transcription Initiation From Type 3 Promoter,0.0769,1,13,56,SNAPC4
+Rab regulation of trafficking,0.0732,3,41,167,TRAPPC12;ULK1;TBC1D17
+TP53 Regulates Transcription of Cell Cycle Genes,0.0714,1,14,65,PCBP4
+Neurexins and neuroligins,0.0714,1,14,87,DBNL
+Cell-cell junction organization,0.0714,1,14,149,CDH24
+DNA Damage Recognition in GG-NER,0.0714,1,14,52,MCRS1
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0.0667,1,15,242,COL1A1
+Regulation of ornithine decarboxylase (ODC),0.0667,1,15,39,OAZ2
+Ovarian tumor domain proteases,0.0667,1,15,101,TNIP2
+Pyruvate metabolism,0.0667,1,15,67,RMND5B
+Cargo trafficking to the periciliary membrane,0.0667,1,15,80,RAB11FIP3
+RNA polymerase II transcribes snRNA genes,0.0645,2,31,159,SNAPC4;RNU11
+tRNA modification in the nucleus and cytosol,0.0625,1,16,46,DUS2
+Regulation of TNFR1 signaling,0.0625,1,16,102,ULK1
+RNA Polymerase III Transcription Initiation,0.0625,1,16,72,SNAPC4
+RNA Polymerase III Transcription,0.0625,1,16,77,SNAPC4
+RNA Polymerase I Transcription Initiation,0.0625,1,16,67,EHMT2
+RNA Polymerase III Abortive And Retractive Initiation,0.0625,1,16,41,SNAPC4
+Post-translational modification: synthesis of GPI-anchored proteins,0.0625,1,16,162,PIGQ
+Integrin cell surface interactions,0.0588,1,17,575,COL1A1
+Regulated Necrosis,0.0588,1,17,123,CHMP6
+ECM proteoglycans,0.0588,1,17,443,COL1A1
+RAB GEFs exchange GTP for GDP on RABs,0.0571,2,35,122,ULK1;TRAPPC12
+DNA Damage/Telomere Stress Induced Senescence,0.0556,1,18,83,HIRA
+Regulation of endogenous retroelements by the Human Silencing Hub (HUSH) complex,0.0556,1,18,151,EHMT2
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,0.0556,1,18,138,WDR5
+Cell junction organization,0.0526,1,19,178,CDH24
+Programmed Cell Death,0.0526,3,57,421,DBNL;CHMP6;DFFB
+Collagen biosynthesis and modifying enzymes,0.0526,1,19,1248,COL1A1
+Macroautophagy,0.05,2,40,330,ULK1;CHMP6
+FOXO-mediated transcription,0.05,1,20,130,PCBP4
+Antigen processing: Ubiquitination & Proteasome degradation,0.0485,5,103,306,ARIH2;KLHL22;FBXO44;LRSAM1;LOC105369632
+TP53 Regulates Metabolic Genes,0.0476,1,21,101,ENSG00000130489
+Selective autophagy,0.0476,1,21,219,ULK1
+Protein-protein interactions at synapses,0.0476,1,21,125,DBNL
+Intraflagellar transport,0.0476,1,21,114,IFT122
+HATs acetylate histones,0.0465,2,43,599,WDR5;MCRS1
+Metabolism of polyamines,0.0455,1,22,47,OAZ2
+Autophagy,0.0455,2,44,409,CHMP6;ULK1
+Collagen formation,0.0455,1,22,1513,COL1A1
+TNF signaling,0.0455,1,22,125,ULK1
+Senescence-Associated Secretory Phenotype (SASP),0.0435,1,23,154,EHMT2
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.0435,2,46,352,WDR5;MCRS1
+MAP kinase activation,0.0435,1,23,135,TNIP2
+Interleukin-17 signaling,0.0435,1,23,143,TNIP2
+Chromatin organization,0.0426,4,94,1433,SUV39H1;EHMT2;MCRS1;WDR5
+Chromatin modifying enzymes,0.0426,4,94,1433,MCRS1;SUV39H1;WDR5;EHMT2
+RMTs methylate histone arginines,0.0417,1,24,354,WDR5
+Apoptosis,0.0417,2,48,327,DBNL;DFFB
+Non-integrin membrane-ECM interactions,0.0417,1,24,430,COL1A1
+PKR-mediated signaling,0.0417,1,24,105,DUS2
+Epigenetic regulation of gene expression,0.0412,4,97,693,MCRS1;WDR5;SUV39H1;EHMT2
+Class I MHC mediated antigen processing & presentation,0.041,5,122,538,LRSAM1;KLHL22;ARIH2;FBXO44;LOC105369632
+Nuclear Envelope (NE) Reassembly,0.04,1,25,106,CHMP6
+G alpha (s) signalling events,0.04,1,25,195,P2RY11
+UCH proteinases,0.04,1,25,189,MCRS1
+Positive epigenetic regulation of rRNA expression,0.0385,1,26,195,EHMT2
+Cellular Senescence,0.0385,2,52,302,HIRA;EHMT2
+RNA Polymerase I Promoter Clearance,0.0385,1,26,145,EHMT2
+Signaling by MET,0.0385,1,26,232,COL1A1
+Degradation of the extracellular matrix,0.037,1,27,2051,COL1A1
+RNA Polymerase I Transcription,0.037,1,27,147,EHMT2
+Global Genome Nucleotide Excision Repair (GG-NER),0.037,1,27,123,MCRS1
+Activation of HOX genes during differentiation,0.0357,1,28,149,WDR5
+Negative epigenetic regulation of rRNA expression,0.0357,1,28,230,SUV39H1
+Maternal to zygotic transition (MZT),0.0357,1,28,228,HIRA
+Cell-Cell communication,0.0357,1,28,227,CDH24
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.0357,1,28,149,WDR5
+MITF-M-dependent gene expression,0.0345,1,29,193,BIRC7
+Deubiquitination,0.0345,3,87,778,MCRS1;TNIP2;USP20
+Class A/1 (Rhodopsin-like receptors),0.0333,1,30,376,P2RY11
+Cilium Assembly,0.0328,2,61,321,IFT122;RAB11FIP3
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.0323,1,31,300,WDR5
+Complex I biogenesis,0.0323,1,31,68,NDUFV1
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.0323,1,31,300,WDR5
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.0323,1,31,309,WDR5
+Cell surface interactions at the vascular wall,0.0323,1,31,265,COL1A1
+RNA Polymerase II Transcription,0.0321,12,374,2337,ZNF282;EHMT2;SNAPC4;PCBP4;COL1A1;RNU11;ZNF517;ZNF775;ZNF446;WDR5;ENSG00000130489;GAD1
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.0312,1,32,200,TNIP2
+Hedgehog 'off' state,0.0312,1,32,197,IFT122
+Respiratory electron transport,0.0312,2,64,178,NDUFV1;UQCC1
+MyD88 cascade initiated on plasma membrane,0.0312,1,32,197,TNIP2
+Toll Like Receptor 10 (TLR10) Cascade,0.0312,1,32,197,TNIP2
+Toll Like Receptor 5 (TLR5) Cascade,0.0312,1,32,197,TNIP2
+Aerobic respiration and respiratory electron transport,0.0306,3,98,311,NDUFV1;RMND5B;UQCC1
+Gene expression (Transcription),0.0306,14,458,2954,SUV39H1;SNAPC4;ZNF446;ZNF775;ZNF282;ENSG00000130489;PCBP4;RNU11;MCRS1;COL1A1;EHMT2;GAD1;ZNF517;WDR5
+Adaptive Immune System,0.0305,6,197,1430,COL1A1;LRSAM1;ARIH2;LOC105369632;FBXO44;KLHL22
+Mitochondrial protein degradation,0.0303,1,33,107,NDUFV1
+Toll Like Receptor 3 (TLR3) Cascade,0.0303,1,33,229,TNIP2
+MyD88 dependent cascade initiated on endosome,0.0303,1,33,214,TNIP2
+Interleukin-1 signaling,0.0303,1,33,161,TNIP2
+MyD88-independent TLR4 cascade ,0.0303,1,33,212,TNIP2
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.0303,1,33,221,TNIP2
+TRIF (TICAM1)-mediated TLR4 signaling ,0.0303,1,33,212,TNIP2
+Generic Transcription Pathway,0.0301,10,332,2126,COL1A1;GAD1;ZNF775;ZNF517;EHMT2;ZNF282;ENSG00000130489;WDR5;PCBP4;ZNF446
+Toll Like Receptor 9 (TLR9) Cascade,0.0294,1,34,226,TNIP2
+Glycerophospholipid biosynthesis,0.0294,1,34,144,OSBPL5
+Transcriptional regulation by RUNX2,0.0294,1,34,234,COL1A1
+G alpha (q) signalling events,0.0286,1,35,249,P2RY11
+Transcriptional Regulation by TP53,0.0283,3,106,614,ENSG00000130489;EHMT2;PCBP4
+Nucleotide Excision Repair,0.0278,1,36,150,MCRS1
+Toll Like Receptor TLR6:TLR2 Cascade,0.0278,1,36,216,TNIP2
+HCMV Late Events,0.0278,1,36,241,CHMP6
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.0278,1,36,216,TNIP2
+Toll Like Receptor TLR1:TLR2 Cascade,0.027,1,37,219,TNIP2
+Toll Like Receptor 2 (TLR2) Cascade,0.027,1,37,219,TNIP2
+Regulation of endogenous retroelements,0.0263,1,38,272,EHMT2
+Metabolism of nucleotides,0.0256,1,39,102,TYMP
+KEAP1-NFE2L2 pathway,0.025,1,40,239,NPLOC4
+Interleukin-1 family signaling,0.025,1,40,239,TNIP2
+Neuronal System,0.0244,2,82,641,DBNL;GAD1
+GPCR ligand binding,0.0244,1,41,517,P2RY11
+Signaling by NTRK1 (TRKA),0.0244,1,41,246,MAP2K5
+Toll Like Receptor 4 (TLR4) Cascade,0.0244,1,41,267,TNIP2
+Vesicle-mediated transport,0.0242,5,207,1389,COL1A1;TRAPPC12;TBC1D17;CHMP6;ULK1
+Regulation of TP53 Activity,0.0238,1,42,319,EHMT2
+Neutrophil degranulation,0.0236,3,127,1316,STK11IP;CHI3L1;DBNL
+Immune System,0.0234,12,512,5116,ARIH2;TXLNA;STK11IP;LRSAM1;KLHL22;DUS2;LOC105369632;CHI3L1;TNIP2;FBXO44;COL1A1;DBNL
+Organelle biogenesis and maintenance,0.023,2,87,458,IFT122;RAB11FIP3
+Post-translational protein modification,0.0228,10,438,3379,WDR5;MCRS1;NPLOC4;USP20;PIGQ;LOC105369632;TNIP2;KLHL22;DCAF8;FBXO44
+tRNA processing,0.0227,1,44,124,DUS2
+Signaling by Hedgehog,0.0227,1,44,354,IFT122
+SARS-CoV-1 Infection,0.0227,1,44,195,CHMP6
+Signaling by TGFB family members,0.0227,1,44,310,INHA
+HCMV Infection,0.0222,1,45,351,CHMP6
+Fatty acid metabolism,0.0222,1,45,192,ACADS
+Toll-like Receptor Cascades,0.0208,1,48,348,TNIP2
+Antiviral mechanism by IFN-stimulated genes,0.0204,1,49,202,DUS2
+Signaling by NTRKs,0.0204,1,49,309,MAP2K5
+MITF-M-regulated melanocyte development,0.0204,1,49,275,BIRC7
+Membrane Trafficking,0.0201,4,199,1206,CHMP6;TRAPPC12;ULK1;TBC1D17
+Death Receptor Signaling,0.02,1,50,274,ULK1
+DNA Repair,0.0192,2,104,528,MCRS1;NPLOC4
+Metabolism of proteins,0.0185,12,647,4511,TNIP2;INHA;PIGQ;KLHL22;MCRS1;WDR5;NPLOC4;NDUFV1;LOC105369632;USP20;DCAF8;FBXO44
+Late Phase of HIV Life Cycle,0.0179,1,56,209,CHMP6
+Signaling by Interleukins,0.0179,2,112,1058,TXLNA;TNIP2
+Ub-specific processing proteases,0.0175,1,57,628,USP20
+HIV Life Cycle,0.0172,1,58,225,CHMP6
+Phospholipid metabolism,0.0169,1,59,253,OSBPL5
+Transmission across Chemical Synapses,0.0169,1,59,461,GAD1
+Mitotic Anaphase,0.0161,1,62,284,CHMP6
+Mitotic Metaphase and Anaphase,0.0159,1,63,287,CHMP6
+mRNA Splicing - Major Pathway,0.0159,1,63,205,PRPF31
+Innate Immune System,0.0157,4,255,2725,DBNL;CHI3L1;STK11IP;TNIP2
+Cell Cycle Checkpoints,0.0156,1,64,337,PCBP4
+mRNA Splicing,0.0154,1,65,213,PRPF31
+Cytokine Signaling in Immune system,0.0153,3,196,1716,TNIP2;TXLNA;DUS2
+Transcriptional regulation by RUNX1,0.0149,1,67,389,WDR5
+Extracellular matrix organization,0.0147,1,68,3755,COL1A1
+Cellular response to chemical stress,0.0145,1,69,347,NPLOC4
+"Platelet activation, signaling and aggregation",0.0145,1,69,497,COL1A1
+HIV Infection,0.013,1,77,346,CHMP6
+Interferon Signaling,0.0123,1,81,490,DUS2
+Signaling by Receptor Tyrosine Kinases,0.0118,2,170,1247,COL1A1;MAP2K5
+Cell Cycle,0.0112,2,178,1325,PCBP4;CHMP6
+Processing of Capped Intron-Containing Pre-mRNA,0.011,1,91,305,PRPF31
+GPCR downstream signalling,0.0108,1,93,825,P2RY11
+Cellular responses to stress,0.0106,3,282,1392,NPLOC4;HIRA;EHMT2
+Metabolism,0.0105,7,664,3291,NDUFV1;OAZ2;TYMP;UQCC1;OSBPL5;ACADS;RMND5B
+Metabolism of lipids,0.0105,2,191,978,ACADS;OSBPL5
+Signaling by GPCR,0.0101,1,99,917,P2RY11
+SARS-CoV-2 Infection,0.0101,1,99,515,CHMP6
+Cellular responses to stimuli,0.0097,3,308,1568,HIRA;EHMT2;NPLOC4
+Signal Transduction,0.0094,6,637,5444,INHA;IFT122;COL1A1;ULK1;MAP2K5;P2RY11
+M Phase,0.0088,1,113,632,CHMP6
+Developmental Biology,0.0087,3,345,2608,BIRC7;HIRA;WDR5
+SARS-CoV Infections,0.0076,1,131,779,CHMP6
+Hemostasis,0.0072,1,138,1150,COL1A1
+Metabolism of RNA,0.0071,2,280,932,PRPF31;DUS2
+"Cell Cycle, Mitotic",0.007,1,143,1024,CHMP6
+Metabolism of amino acids and derivatives,0.0069,1,144,379,OAZ2
+Viral Infection Pathways,0.0038,1,265,1511,CHMP6
+Disease,0.0037,2,534,8704,CHMP6;COL1A1
+Infectious disease,0.0031,1,319,2039,CHMP6

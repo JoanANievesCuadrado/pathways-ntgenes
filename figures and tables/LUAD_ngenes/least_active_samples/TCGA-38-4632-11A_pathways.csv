@@ -1,0 +1,110 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Aquaporin-mediated transport,1.0,1,1,55,AQP4
+Chaperone Mediated Autophagy,1.0,1,1,60,HBB
+Bicarbonate transporters,1.0,1,1,10,SLC4A1
+Erythrocytes take up oxygen and release carbon dioxide,1.0,4,4,12,HBB;HBA2;SLC4A1;HBA1
+"Defective SLC4A1 causes hereditary spherocytosis type 4 (HSP4),  distal renal tubular acidosis (dRTA) and dRTA with hemolytic anemia (dRTA-HA)",1.0,1,1,7,SLC4A1
+Heme signaling,1.0,3,3,71,HBA2;HBB;HBA1
+Erythrocytes take up carbon dioxide and release oxygen,1.0,4,4,16,HBA1;HBB;HBA2;SLC4A1
+LGI-ADAM interactions,1.0,1,1,14,STX1A
+Heme biosynthesis,1.0,1,1,15,ALAS2
+Metabolism of porphyrins,1.0,1,1,28,ALAS2
+Metal ion SLC transporters,1.0,1,1,27,SLC39A8
+Miro GTPase Cycle,1.0,1,1,10,MYO19
+Late endosomal microautophagy,1.0,1,1,70,HBB
+Passive transport by Aquaporins,1.0,1,1,13,AQP4
+RHOT1 GTPase cycle,1.0,1,1,6,MYO19
+RHOT2 GTPase cycle,1.0,1,1,8,MYO19
+Scavenging of heme from plasma,1.0,3,3,81,HBA2;HBA1;HBB
+Vasopressin regulates renal water homeostasis via Aquaporins,1.0,1,1,46,AQP4
+Zinc influx into cells by the SLC39 gene family,1.0,1,1,10,SLC39A8
+Zinc transporters,1.0,1,1,18,SLC39A8
+Toxicity of botulinum toxin type C (botC),1.0,1,1,9,STX1A
+Neurexins and neuroligins,1.0,1,1,87,STX1A
+O2/CO2 exchange in erythrocytes,1.0,4,4,16,HBA2;HBB;SLC4A1;HBA1
+Binding and Uptake of Ligands by Scavenger Receptors,0.6,3,5,183,HBB;HBA1;HBA2
+Cytoprotection by HMOX1,0.6,3,5,68,HBA1;HBB;HBA2
+Glutamate Neurotransmitter Release Cycle,0.5,1,2,28,STX1A
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,0.5,1,2,51,STX1A
+ROS and RNS production in phagocytes,0.5,1,2,37,NCF2
+RNA polymerase II transcribes snRNA genes,0.5,1,2,159,INTS8
+Protein-protein interactions at synapses,0.5,1,2,125,STX1A
+Norepinephrine Neurotransmitter Release Cycle,0.5,1,2,22,STX1A
+Insulin processing,0.5,1,2,38,STX1A
+LDL clearance,0.5,1,2,36,LIPA
+Golgi Associated Vesicle Biogenesis,0.5,1,2,102,SNX2
+Dopamine Neurotransmitter Release Cycle,0.5,1,2,27,STX1A
+Cross-presentation of particulate exogenous antigens (phagosomes),0.5,1,2,11,NCF2
+"GABA synthesis, release, reuptake and degradation",0.5,1,2,27,STX1A
+trans-Golgi Network Vesicle Budding,0.5,1,2,156,SNX2
+"Transport of bile salts and organic acids, metal ions and amine compounds",0.5,1,2,87,SLC39A8
+Transport of inorganic cations/anions and amino acids/oligopeptides,0.5,1,2,109,SLC4A1
+Uptake and actions of bacterial toxins,0.5,1,2,79,STX1A
+Serotonin Neurotransmitter Release Cycle,0.5,1,2,22,STX1A
+RHO GTPases Activate NADPH Oxidases,0.5,1,2,31,NCF2
+Autophagy,0.5,1,2,409,HBB
+Acetylcholine Neurotransmitter Release Cycle,0.5,1,2,21,STX1A
+"Plasma lipoprotein assembly, remodeling, and clearance",0.5,1,2,146,LIPA
+Plasma lipoprotein clearance,0.5,1,2,83,LIPA
+Neurotoxicity of clostridium toxins,0.5,1,2,37,STX1A
+RAC2 GTPase cycle,0.5,1,2,92,NCF2
+Neurotransmitter release cycle,0.5,1,2,71,STX1A
+Transport of small molecules,0.4667,7,15,852,HBA1;HBB;SLC4A1;SLC39A8;AQP4;LIPA;HBA2
+SLC-mediated transmembrane transport,0.4,2,5,257,SLC39A8;SLC4A1
+Cellular response to chemical stress,0.3333,4,12,347,HBA2;HBA1;NCF2;HBB
+SLC transporter disorders,0.3333,1,3,308,SLC4A1
+Signaling by VEGF,0.3333,1,3,176,NCF2
+VEGFA-VEGFR2 Pathway,0.3333,1,3,165,NCF2
+Transcriptional and post-translational regulation of MITF-M expression and activity,0.3333,1,3,95,EDNRB
+Post-translational modification: synthesis of GPI-anchored proteins,0.3333,1,3,162,FCGR3B
+Other interleukin signaling,0.3333,1,3,28,STX1A
+Regulation of insulin secretion,0.3333,1,3,128,STX1A
+RAC3 GTPase cycle,0.3333,1,3,96,NCF2
+Integration of energy metabolism,0.3333,1,3,191,STX1A
+Sensory processing of sound by inner hair cells of the cochlea,0.25,1,4,70,STX1A
+Peptide hormone metabolism,0.25,1,4,167,STX1A
+Antigen processing-Cross presentation,0.25,1,4,201,NCF2
+Disorders of transmembrane transporters,0.25,1,4,456,SLC4A1
+Detoxification of Reactive Oxygen Species,0.25,1,4,55,NCF2
+Bacterial Infection Pathways,0.25,1,4,167,STX1A
+Transmission across Chemical Synapses,0.25,1,4,461,STX1A
+Sensory processing of sound,0.25,1,4,79,STX1A
+MITF-M-regulated melanocyte development,0.25,1,4,275,EDNRB
+Neuronal System,0.25,1,4,641,STX1A
+Vesicle-mediated transport,0.2353,4,17,1389,HBA1;SNX2;HBA2;HBB
+RAC1 GTPase cycle,0.2,1,5,187,NCF2
+Protein localization,0.1667,1,6,462,STX1A
+Cellular responses to stress,0.1538,4,26,1392,HBA2;NCF2;HBB;HBA1
+Neutrophil degranulation,0.15,3,20,1316,HBB;SIGLEC9;FCGR3B
+Class I MHC mediated antigen processing & presentation,0.1429,1,7,538,NCF2
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0.1429,1,7,242,SIGLEC9
+Innate Immune System,0.125,4,32,2725,SIGLEC9;FCGR3B;NCF2;HBB
+Cellular responses to stimuli,0.125,4,32,1568,HBA1;HBB;NCF2;HBA2
+G alpha (q) signalling events,0.125,1,8,249,EDNRB
+Sensory Perception,0.1111,1,9,1355,STX1A
+Factors involved in megakaryocyte development and platelet production,0.1111,1,9,234,HBB
+Adaptive Immune System,0.0952,2,21,1430,NCF2;SIGLEC9
+RHO GTPase Effectors,0.0909,1,11,512,NCF2
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.087,2,23,945,NCF2;MYO19
+Peptide ligand-binding receptors,0.0833,1,12,243,EDNRB
+Immune System,0.0833,5,60,5116,HBB;STX1A;NCF2;FCGR3B;SIGLEC9
+Membrane Trafficking,0.0833,1,12,1206,SNX2
+RHO GTPase cycle,0.0769,1,13,497,NCF2
+Developmental Biology,0.0667,2,30,2608,EDNRB;STX1A
+Signaling by Receptor Tyrosine Kinases,0.0625,1,16,1247,NCF2
+Infectious disease,0.0588,1,17,2039,STX1A
+Metabolism,0.0541,2,37,3291,ALAS2;STX1A
+Class A/1 (Rhodopsin-like receptors),0.0526,1,19,376,EDNRB
+Signaling by Rho GTPases,0.0455,1,22,927,NCF2
+Metabolism of proteins,0.0444,2,45,4511,FCGR3B;STX1A
+Disease,0.0435,2,46,8704,SLC4A1;STX1A
+Signaling by Interleukins,0.0435,1,23,1058,STX1A
+GPCR downstream signalling,0.0417,1,24,825,EDNRB
+GPCR ligand binding,0.04,1,25,517,EDNRB
+Cytokine Signaling in Immune system,0.0385,1,26,1716,STX1A
+Signaling by GPCR,0.0357,1,28,917,EDNRB
+Hemostasis,0.0357,1,28,1150,HBB
+Signal Transduction,0.0349,3,86,5444,NCF2;MYO19;EDNRB
+Post-translational protein modification,0.0303,1,33,3379,FCGR3B
+RNA Polymerase II Transcription,0.0286,1,35,2337,INTS8
+Gene expression (Transcription),0.0244,1,41,2954,INTS8

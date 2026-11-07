@@ -1,0 +1,67 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Ficolins bind to repetitive carbohydrate structures on the target cell surface,1.0,1,1,5,FCN2
+Class A/1 (Rhodopsin-like receptors),1.0,1,1,376,CCL23
+Hyaluronan metabolism,1.0,1,1,20,STAB2
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,1.0,1,1,242,CLEC4G
+Creation of C4 and C2 activators,1.0,1,1,82,FCN2
+Complement cascade,1.0,1,1,190,FCN2
+Formyl peptide receptors bind formyl peptides and many other ligands,1.0,1,1,8,CCL23
+Hyaluronan uptake and degradation,1.0,1,1,15,STAB2
+GPCR ligand binding,1.0,1,1,517,CCL23
+GPVI-mediated activation cascade,1.0,1,1,76,CLEC1B
+Scavenging by Class H Receptors,1.0,1,1,8,STAB2
+Peptide ligand-binding receptors,1.0,1,1,243,CCL23
+Lectin pathway of complement activation,1.0,1,1,12,FCN2
+Initial triggering of complement,1.0,1,1,129,FCN2
+Binding and Uptake of Ligands by Scavenger Receptors,0.6667,2,3,183,STAB2;MARCO
+Scavenging by Class A Receptors,0.5,1,2,75,MARCO
+Interaction between PHLDA1 and AURKA,0.5,1,2,3,AURKA
+Heme signaling,0.5,1,2,71,CLEC1B
+Fanconi Anemia Pathway,0.3333,1,3,56,UBE2T
+RSV-host interactions,0.3333,1,3,171,CLEC4M
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes,0.3333,1,3,149,UBE2T
+G alpha (i) signalling events,0.25,1,4,444,CCL23
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest,0.25,1,4,21,AURKA
+Respiratory Syncytial Virus Infection Pathway,0.25,1,4,199,CLEC4M
+Protein ubiquitination,0.2,1,5,243,UBE2T
+SUMOylation of DNA replication proteins,0.2,1,5,103,AURKA
+G alpha (q) signalling events,0.2,1,5,249,CCL23
+Glycosaminoglycan metabolism,0.2,1,5,715,STAB2
+Regulation of TP53 Activity through Phosphorylation,0.1667,1,6,117,AURKA
+"Platelet activation, signaling and aggregation",0.1667,1,6,497,CLEC1B
+AURKA Activation by TPX2,0.1429,1,7,81,AURKA
+TP53 Regulates Transcription of Cell Cycle Genes,0.1429,1,7,65,AURKA
+Signaling by GPCR,0.125,1,8,917,CCL23
+Regulation of PLK1 Activity at G2/M Transition,0.125,1,8,115,AURKA
+GPCR downstream signalling,0.125,1,8,825,CCL23
+Metabolism of carbohydrates,0.0909,1,11,934,STAB2
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,0.0909,1,11,55,AURKA
+Regulation of TP53 Activity,0.0833,1,12,319,AURKA
+SUMO E3 ligases SUMOylate target proteins,0.0833,1,12,420,AURKA
+SUMOylation,0.0769,1,13,442,AURKA
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,0.0625,1,16,138,AURKA
+APC/C-mediated degradation of cell cycle proteins,0.0588,1,17,165,AURKA
+Regulation of mitotic cell cycle,0.0588,1,17,165,AURKA
+Hemostasis,0.0526,1,19,1150,CLEC1B
+DNA Repair,0.0526,1,19,528,UBE2T
+Vesicle-mediated transport,0.05,2,40,1389,MARCO;STAB2
+G2/M Transition,0.0455,1,22,260,AURKA
+Mitotic G2-G2/M phases,0.0435,1,23,264,AURKA
+Transcriptional Regulation by TP53,0.037,1,27,614,AURKA
+Innate Immune System,0.0286,1,35,2725,FCN2
+Immune System,0.0282,2,71,5116,CLEC4G;FCN2
+Adaptive Immune System,0.027,1,37,1430,CLEC4G
+Post-translational protein modification,0.0256,2,78,3379,AURKA;UBE2T
+"Cell Cycle, Mitotic",0.0192,1,52,1024,AURKA
+Cellular responses to stress,0.0185,1,54,1392,CLEC1B
+Cellular responses to stimuli,0.0179,1,56,1568,CLEC1B
+Metabolism of proteins,0.0177,2,113,4511,UBE2T;AURKA
+Viral Infection Pathways,0.0172,1,58,1511,CLEC4M
+Cell Cycle,0.0164,1,61,1325,AURKA
+Generic Transcription Pathway,0.0161,1,62,2126,AURKA
+Infectious disease,0.0149,1,67,2039,CLEC4M
+Metabolism,0.0143,1,70,3291,STAB2
+RNA Polymerase II Transcription,0.0133,1,75,2337,AURKA
+Signal Transduction,0.0123,1,81,5444,CCL23
+Gene expression (Transcription),0.0119,1,84,2954,AURKA
+Disease,0.0108,1,93,8704,CLEC4M

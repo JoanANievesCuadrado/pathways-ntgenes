@@ -1,0 +1,331 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Transport of fatty acids,1.0,1,1,8,SLC27A4
+Defective DOLK causes DOLK-CDG,1.0,1,1,5,DOLK
+Regulation of commissural axon pathfinding by SLIT and ROBO,1.0,1,1,13,SLIT1
+Erythrocytes take up carbon dioxide and release oxygen,1.0,1,1,16,CYB5R2
+Expression and Processing of Neurotrophins,1.0,1,1,10,PCSK6
+Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS),1.0,1,1,5,SLC27A4
+MPS VII - Sly syndrome,1.0,1,1,5,GUSB
+Regulation of cortical dendrite branching,1.0,1,1,4,SLIT1
+Glycerophospholipid catabolism,1.0,1,1,7,GDPD1
+Histamine receptors,1.0,1,1,4,HRH3
+VLDL clearance,1.0,1,1,9,APOC1
+Melanin biosynthesis,1.0,1,1,5,SLC45A2
+NGF processing,1.0,1,1,10,PCSK6
+O2/CO2 exchange in erythrocytes,1.0,1,1,16,CYB5R2
+"Defective EXT1 causes exostoses 1, TRPS2 and CHDS",0.6667,2,3,54,GPC2;EXT2
+Defective EXT2 causes exostoses 2,0.6667,2,3,55,EXT2;GPC2
+Regulation of innate immune responses to cytosolic DNA,0.5,1,2,30,DDX41
+rRNA modification in the mitochondrion,0.5,1,2,13,RNMTL1
+Amine ligand-binding receptors,0.5,1,2,42,HRH3
+Synthesis of Dolichyl-phosphate,0.5,1,2,6,DOLK
+Co-inhibition by PD-1,0.5,1,2,30,CSK
+Phosphorylation of CD3 and TCR zeta chains,0.5,1,2,32,CSK
+VLDL assembly,0.5,1,2,7,APOC1
+Assembly of active LPL and LIPC lipase complexes,0.3333,1,3,28,PCSK6
+Sodium/Calcium exchangers,0.3333,1,3,11,SLC24A2
+Interaction With Cumulus Cells And The Zona Pellucida,0.3333,1,3,11,ADAM21
+IRF3-mediated induction of type I IFN,0.3333,1,3,16,DDX41
+HS-GAG biosynthesis,0.3333,2,6,283,GPC2;EXT2
+Signaling by NODAL,0.3333,1,3,36,PCSK6
+STING mediated induction of host immune responses,0.3333,1,3,24,DDX41
+Plasma lipoprotein assembly,0.3333,1,3,32,APOC1
+rRNA processing in the mitochondrion,0.3333,1,3,17,RNMTL1
+Phosphate bond hydrolysis by NTPDase proteins,0.3333,1,3,8,ENTPD5
+Attachment and Entry,0.3333,1,3,165,GPC2
+Vitamin D (calciferol) metabolism,0.3333,1,3,18,LGMN
+Chemokine receptors bind chemokines,0.3333,1,3,58,CXCL11
+Respiratory syncytial virus (RSV) attachment and entry,0.3333,2,6,87,GPC2;NCL
+Protein methylation,0.25,1,4,26,ETFB
+HuR (ELAVL1) binds and stabilizes mRNA,0.25,1,4,14,SET
+Thrombin signalling through proteinase activated receptors (PARs),0.25,2,8,63,F2R;F2RL2
+Synthesis of bile acids and bile salts via 24-hydroxycholesterol,0.25,1,4,13,AMACR
+Synaptic adhesion-like molecules,0.25,1,4,21,LRFN1
+Nuclear events stimulated by ALK signaling in cancer,0.25,1,4,58,TWIST1
+Peptide ligand-binding receptors,0.2273,5,22,243,KISS1R;F2RL2;CXCL11;GRPR;F2R
+Trafficking and processing of endosomal TLR,0.2,1,5,26,LGMN
+Strand-asynchronous mitochondrial DNA replication,0.2,1,5,10,C10orf2
+Common Pathway of Fibrin Clot Formation,0.2,1,5,60,F2R
+Hydrolysis of LPC,0.2,1,5,9,PLA2G15
+HS-GAG degradation,0.2,2,10,50,GPC2;GUSB
+Fertilization,0.2,1,5,28,ADAM21
+Hyaluronan uptake and degradation,0.2,1,5,15,GUSB
+Ionotropic activity of kainate receptors,0.2,1,5,12,NCALD
+Activation of Ca-permeable Kainate Receptor,0.2,1,5,10,NCALD
+Class A/1 (Rhodopsin-like receptors),0.2,6,30,376,KISS1R;F2RL2;HRH3;GRPR;F2R;CXCL11
+Negative regulation of FLT3,0.2,1,5,30,CSK
+Beta-oxidation of pristanoyl-CoA,0.2,1,5,9,AMACR
+Hyaluronan metabolism,0.2,1,5,20,GUSB
+GAB1 signalosome,0.1667,1,6,23,CSK
+Defective B3GAT3 causes JDSSDHD,0.1667,1,6,20,GPC2
+"Defective B4GALT7 causes EDS, progeroid type",0.1667,1,6,22,GPC2
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,0.1667,1,6,393,CDKN1C
+Defective B3GALT6 causes EDSP2 and SEMDJL1,0.1667,1,6,29,GPC2
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",0.1667,1,6,24,CDKN1C
+Mucopolysaccharidoses,0.1667,1,6,43,GUSB
+GPCR ligand binding,0.1463,6,41,517,KISS1R;GRPR;CXCL11;F2R;HRH3;F2RL2
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,0.1429,1,7,23,AMACR
+Diseases associated with glycosylation precursor biosynthesis,0.1429,1,7,58,DOLK
+"Transport of vitamins, nucleosides, and related molecules",0.1429,1,7,47,SLC27A4
+Integrin signaling,0.1429,1,7,36,CSK
+Retinoid metabolism and transport,0.1429,1,7,129,GPC2
+Heparan sulfate/heparin (HS-GAG) metabolism,0.1429,3,21,412,EXT2;GUSB;GPC2
+Interleukin receptor SHC signaling,0.1429,1,7,30,IL5RA
+Diseases associated with glycosaminoglycan metabolism,0.1429,2,14,245,GPC2;EXT2
+Signaling by BMP,0.1429,1,7,40,AMHR2
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux,0.125,1,8,56,APOC1
+Metabolism of fat-soluble vitamins,0.125,1,8,133,GPC2
+Formation of ATP by chemiosmotic coupling,0.125,1,8,20,ATP5G2
+Platelet Aggregation (Plug Formation),0.125,1,8,71,CSK
+tRNA modification in the nucleus and cytosol,0.125,2,16,46,THADA;DUS2
+"Plasma lipoprotein assembly, remodeling, and clearance",0.1176,2,17,146,APOC1;PCSK6
+ECM proteoglycans,0.1176,2,17,443,ASPN;TNN
+G alpha (q) signalling events,0.1143,4,35,249,KISS1R;GRPR;F2RL2;F2R
+A tetrasaccharide linker sequence is required for GAG synthesis,0.1111,1,9,103,GPC2
+Synthesis of bile acids and bile salts,0.1111,1,9,33,AMACR
+Formation of Fibrin Clot (Clotting Cascade),0.1111,1,9,114,F2R
+KSRP (KHSRP) binds and destabilizes mRNA,0.1111,1,9,21,EXOSC6
+mRNA decay by 3' to 5' exoribonuclease,0.1111,1,9,16,EXOSC6
+Assembly and cell surface presentation of NMDA receptors,0.1111,1,9,66,GRIN3A
+Plasma lipoprotein remodeling,0.1111,1,9,48,PCSK6
+Plasma lipoprotein clearance,0.1111,1,9,83,APOC1
+RHO GTPases Activate WASPs and WAVEs,0.1111,1,9,84,WASF1
+Glycosaminoglycan metabolism,0.1026,4,39,715,GPC2;EXT2;CHPF2;GUSB
+NR1H2 and NR1H3-mediated signaling,0.1,1,10,75,APOC1
+Interleukin-2 family signaling,0.1,1,10,97,IL5RA
+EPHA-mediated growth cone collapse,0.1,1,10,52,EPHA10
+Peroxisomal lipid metabolism,0.1,1,10,28,AMACR
+Chondroitin sulfate biosynthesis,0.1,1,10,83,CHPF2
+ATF4 activates genes in response to endoplasmic reticulum  stress,0.0909,1,11,35,EXOSC6
+Signaling by high-kinase activity BRAF mutants,0.0909,1,11,58,CSK
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,0.0909,1,11,19,EXOSC6
+Purinergic signaling in leishmaniasis infection,0.0909,1,11,44,ENTPD5
+RHOH GTPase cycle,0.0909,1,11,37,CSK
+Chondroitin sulfate/dermatan sulfate metabolism,0.0909,2,22,292,CHPF2;GPC2
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",0.0909,1,11,18,EXOSC6
+Downregulation of ERBB2 signaling,0.0909,1,11,55,MATK
+Cell recruitment (pro-inflammatory response),0.0909,1,11,44,ENTPD5
+Activation of kainate receptors upon glutamate binding,0.0833,1,12,32,NCALD
+Cristae formation,0.0833,1,12,33,ATP5G2
+Transcriptional activation of mitochondrial biogenesis,0.0833,1,12,96,C10orf2
+Aberrant regulation of mitotic cell cycle due to RB1 defects,0.0833,1,12,412,CDKN1C
+Bile acid and bile salt metabolism,0.0833,1,12,45,AMACR
+Early SARS-CoV-2 Infection Events,0.0833,1,12,176,GPC2
+"Interleukin-3, Interleukin-5 and GM-CSF signaling",0.0833,1,12,92,IL5RA
+Diseases of glycosylation,0.0811,3,37,483,EXT2;GPC2;DOLK
+PI Metabolism,0.08,2,25,111,RUFY1;GDPD1
+Diseases of mitotic cell cycle,0.0769,1,13,562,CDKN1C
+Nucleotide catabolism,0.0769,1,13,38,ENTPD5
+Diseases of carbohydrate metabolism,0.0769,1,13,109,GUSB
+PERK regulates gene expression,0.0769,1,13,46,EXOSC6
+Mitochondrial biogenesis,0.0769,2,26,137,ATP5G2;C10orf2
+MAP2K and MAPK activation,0.0769,1,13,53,CSK
+RNA Polymerase III Transcription Initiation From Type 3 Promoter,0.0769,1,13,56,SNAPC4
+Formation of the cornified envelope,0.0769,1,13,173,PCSK6
+Signaling by RAF1 mutants,0.0769,1,13,96,CSK
+Netrin-1 signaling,0.0769,1,13,65,SLIT1
+HSF1-dependent transactivation,0.0714,1,14,69,CRYAB
+FLT3 Signaling,0.0714,1,14,69,CSK
+Keratinization,0.0714,1,14,261,PCSK6
+Somitogenesis,0.0714,1,14,55,DLL3
+Signaling by moderate kinase activity BRAF mutants,0.0667,1,15,97,CSK
+Cytosolic tRNA aminoacylation,0.0667,1,15,24,WARS
+Cyclin D associated events in G1,0.0667,1,15,88,CDKN1C
+Signaling downstream of RAS mutants,0.0667,1,15,113,CSK
+Condensation of Prophase Chromosomes,0.0667,1,15,112,SET
+Regulation of T cell activation by CD28 family,0.0667,1,15,103,CSK
+Paradoxical activation of RAF signaling by kinase inactive BRAF,0.0667,1,15,121,CSK
+G1 Phase,0.0667,1,15,88,CDKN1C
+Signaling by RAS mutants,0.0667,1,15,133,CSK
+Respiratory Syncytial Virus Infection Pathway,0.0667,2,30,199,GPC2;NCL
+Regulation of mRNA stability by proteins that bind AU-rich elements,0.0645,2,31,105,EXOSC6;SET
+RNA Polymerase III Transcription Initiation,0.0625,1,16,72,SNAPC4
+Signaling by EGFR,0.0625,1,16,85,CSK
+RNA Polymerase III Transcription,0.0625,1,16,77,SNAPC4
+Synthesis of PIPs at the plasma membrane,0.0625,1,16,55,RUFY1
+RNA Polymerase III Abortive And Retractive Initiation,0.0625,1,16,41,SNAPC4
+Signaling by GPCR,0.0606,6,99,917,F2R;KISS1R;F2RL2;HRH3;CXCL11;GRPR
+Parasite infection,0.0588,1,17,237,WASF1
+Leishmania phagocytosis,0.0588,1,17,237,WASF1
+FCGR3A-mediated phagocytosis,0.0588,1,17,237,WASF1
+Diseases of metabolism,0.058,4,69,952,GPC2;GUSB;DOLK;EXT2
+"Platelet activation, signaling and aggregation",0.058,4,69,497,ANXA5;F2R;F2RL2;CSK
+rRNA processing,0.0571,6,105,302,RPL7A;RNMTL1;NOB1;RPL37;NCL;EXOSC6
+Regulation of endogenous retroelements by KRAB-ZFP proteins,0.0556,1,18,214,ZNF30
+Formation of paraxial mesoderm,0.0556,1,18,72,DLL3
+Regulation of actin dynamics for phagocytic cup formation,0.0556,1,18,178,WASF1
+Visual phototransduction,0.0556,1,18,226,GPC2
+Regulation of MITF-M-dependent genes involved in pigmentation,0.0556,1,18,79,SMARCD1
+Activation of NMDA receptors and postsynaptic events,0.0556,1,18,207,GRIN3A
+GPCR downstream signalling,0.0538,5,93,825,GRPR;F2R;KISS1R;F2RL2;CXCL11
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,0.0526,1,19,39,SMARCD1
+EPH-ephrin mediated repulsion of cells,0.0526,1,19,105,EPHA10
+Metabolism of steroids,0.0526,2,38,212,AMACR;LGMN
+Regulation of endogenous retroelements,0.0526,2,38,272,SMARCD1;ZNF30
+Regulation of RUNX2 expression and activity,0.0526,1,19,156,TWIST1
+Collagen biosynthesis and modifying enzymes,0.0526,1,19,1248,P3H1
+Major pathway of rRNA processing in the nucleolus and cytosol,0.0515,5,97,227,NCL;NOB1;RPL37;RPL7A;EXOSC6
+Phospholipid metabolism,0.0508,3,59,253,RUFY1;PLA2G15;GDPD1
+Signaling by BRAF and RAF1 fusions,0.05,1,20,103,CSK
+rRNA processing in the nucleus and cytosol,0.049,5,102,285,EXOSC6;RPL37;NOB1;NCL;RPL7A
+Neurotransmitter receptors and postsynaptic signal transmission,0.0488,2,41,372,GRIN3A;NCALD
+TP53 Regulates Metabolic Genes,0.0476,1,21,101,ENSG00000130489
+Cytosolic sensors of pathogen-associated DNA ,0.0476,1,21,100,DDX41
+SLC-mediated transmembrane transport,0.0476,2,42,257,SLC24A2;SLC27A4
+Signaling by ERBB2,0.0476,1,21,119,MATK
+Protein-protein interactions at synapses,0.0476,1,21,125,LRFN1
+Interleukin-4 and Interleukin-13 signaling,0.0476,1,21,223,TWIST1
+tRNA processing,0.0455,2,44,124,THADA;DUS2
+Transport of inorganic cations/anions and amino acids/oligopeptides,0.0455,1,22,109,SLC24A2
+Collagen formation,0.0455,1,22,1513,P3H1
+Synthesis of substrates in N-glycan biosythesis,0.0455,1,22,65,DOLK
+RAB geranylgeranylation,0.0455,1,22,125,RAB19
+Extracellular matrix organization,0.0441,3,68,3755,ASPN;TNN;P3H1
+Metabolism of carbohydrates,0.0435,4,92,934,CHPF2;GUSB;GPC2;EXT2
+SLC transporter disorders,0.0435,1,23,308,SLC27A4
+Peroxisomal protein import,0.0435,1,23,223,AMACR
+Metabolism of RNA,0.0429,12,280,932,RPL37;C9orf78;NCL;DDX41;EXOSC6;THADA;DUS2;RNMTL1;SET;GLE1;NOB1;RPL7A
+PKR-mediated signaling,0.0417,1,24,105,DUS2
+Deadenylation-dependent mRNA decay,0.0417,1,24,72,EXOSC6
+RSV-host interactions,0.0417,1,24,171,GPC2
+RMTs methylate histone arginines,0.0417,1,24,354,SMARCD1
+Cargo recognition for clathrin-mediated endocytosis,0.0417,1,24,129,TOR1B
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",0.0417,1,24,81,DOLK
+Transport of Mature mRNA derived from an Intron-Containing Transcript,0.0417,1,24,93,GLE1
+Regulation of expression of SLITs and ROBOs,0.0411,3,73,206,RPL37;RPL7A;SLIT1
+Oncogenic MAPK signaling,0.04,1,25,386,CSK
+Leishmania infection,0.04,2,50,407,ENTPD5;WASF1
+Interferon gamma signaling,0.04,1,25,192,TRIM14
+Peptide chain elongation,0.04,2,50,91,RPL7A;RPL37
+Parasitic Infection Pathways,0.04,2,50,407,ENTPD5;WASF1
+Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),0.04,1,25,97,SMARCD1
+Viral mRNA Translation,0.0392,2,51,90,RPL7A;RPL37
+Eukaryotic Translation Termination,0.0392,2,51,98,RPL37;RPL7A
+tRNA Aminoacylation,0.0385,1,26,45,WARS
+Selenocysteine synthesis,0.0385,2,52,94,RPL37;RPL7A
+Transport of Mature Transcript to Cytoplasm,0.0385,1,26,103,GLE1
+Eukaryotic Translation Elongation,0.0385,2,52,96,RPL7A;RPL37
+RAC3 GTPase cycle,0.0385,1,26,96,WASF1
+Signaling by ALK fusions and activated point mutants,0.037,1,27,279,TWIST1
+Signaling by ROBO receptors,0.037,3,81,268,RPL37;SLIT1;RPL7A
+Fcgamma receptor (FCGR) dependent phagocytosis,0.037,1,27,279,WASF1
+Signaling by ALK in cancer,0.037,1,27,292,TWIST1
+SRP-dependent cotranslational protein targeting to membrane,0.037,2,54,211,RPL7A;RPL37
+MHC class II antigen presentation,0.037,1,27,240,LGMN
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),0.037,2,54,96,RPL7A;RPL37
+Anchoring of the basal body to the plasma membrane,0.037,1,27,105,MKS1
+Neuronal System,0.0366,3,82,641,NCALD;LRFN1;GRIN3A
+Formation of a pool of free 40S subunits,0.0364,2,55,102,RPL7A;RPL37
+TCR signaling,0.0357,1,28,163,CSK
+Response of EIF2AK4 (GCN2) to amino acid deficiency,0.0345,2,58,116,RPL7A;RPL37
+Organelle biogenesis and maintenance,0.0345,3,87,458,ATP5G2;C10orf2;MKS1
+MITF-M-dependent gene expression,0.0345,1,29,193,SMARCD1
+L13a-mediated translational silencing of Ceruloplasmin expression,0.0339,2,59,113,RPL37;RPL7A
+Transmission across Chemical Synapses,0.0339,2,59,461,NCALD;GRIN3A
+Nonsense-Mediated Decay (NMD),0.0333,2,60,118,RPL37;RPL7A
+GTP hydrolysis and joining of the 60S ribosomal subunit,0.0333,2,60,113,RPL37;RPL7A
+Gastrulation,0.0333,1,30,181,DLL3
+Reproduction,0.0333,1,30,188,ADAM21
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),0.0333,2,60,118,RPL7A;RPL37
+Processing of Capped Intron-Containing Pre-mRNA,0.033,3,91,305,C9orf78;DDX41;GLE1
+Transport of small molecules,0.0327,5,153,852,CYB5R2;SLC27A4;SLC24A2;APOC1;PCSK6
+EPH-Ephrin signaling,0.0323,1,31,219,EPHA10
+RNA polymerase II transcribes snRNA genes,0.0323,1,31,159,SNAPC4
+mRNA Splicing - Major Pathway,0.0317,2,63,205,DDX41;C9orf78
+Selenoamino acid metabolism,0.0317,2,63,119,RPL7A;RPL37
+Neutrophil degranulation,0.0315,4,127,1316,CHI3L1;GUSB;PA2G4;YPEL5
+Eukaryotic Translation Initiation,0.0312,2,64,121,RPL37;RPL7A
+Cap-dependent Translation Initiation,0.0312,2,64,120,RPL7A;RPL37
+Hedgehog 'off' state,0.0312,1,32,197,MKS1
+Platelet degranulation ,0.0312,1,32,264,ANXA5
+mRNA Splicing,0.0308,2,65,213,C9orf78;DDX41
+Mitochondrial protein degradation,0.0303,1,33,107,C10orf2
+Unfolded Protein Response (UPR),0.0303,1,33,214,EXOSC6
+Glycerophospholipid biosynthesis,0.0294,1,34,144,PLA2G15
+Transcriptional regulation by RUNX2,0.0294,1,34,234,TWIST1
+Translation,0.0292,4,137,492,RPL37;MRPL17;RPL7A;WARS
+Hemostasis,0.029,4,138,1150,F2RL2;ANXA5;F2R;CSK
+Response to elevated platelet cytosolic Ca2+,0.0286,1,35,273,ANXA5
+RAB GEFs exchange GTP for GDP on RABs,0.0286,1,35,122,DENND1A
+Influenza Viral RNA Transcription and Replication,0.0282,2,71,141,RPL37;RPL7A
+Mitochondrial translation termination,0.0278,1,36,91,MRPL17
+Cellular response to heat stress,0.0278,1,36,181,CRYAB
+VEGFA-VEGFR2 Pathway,0.0278,1,36,165,WASF1
+Innate Immune System,0.0275,7,255,2725,PA2G4;GUSB;CHI3L1;WASF1;YPEL5;DDX41;LGMN
+Cellular response to starvation,0.0274,2,73,171,RPL37;RPL7A
+Mitochondrial translation initiation,0.027,1,37,90,MRPL17
+Mitochondrial translation elongation,0.027,1,37,178,MRPL17
+Signaling by VEGF,0.0263,1,38,176,WASF1
+Metabolism of lipids,0.0262,5,191,978,GDPD1;RUFY1;AMACR;LGMN;PLA2G15
+Mitotic G1 phase and G1/S transition,0.0256,1,39,237,CDKN1C
+Influenza Infection,0.0256,2,78,175,RPL37;RPL7A
+Metabolism of nucleotides,0.0256,1,39,102,ENTPD5
+Cytokine Signaling in Immune system,0.0255,5,196,1716,CSK;TWIST1;IL5RA;DUS2;TRIM14
+Immune System,0.0254,13,512,5116,LGMN;CSK;DDX41;TRIM14;IL5RA;LRSAM1;DUS2;GUSB;CHI3L1;YPEL5;PA2G4;WASF1;TWIST1
+DNA Replication,0.025,1,40,295,C10orf2
+Mitochondrial translation,0.025,1,40,185,MRPL17
+RAF/MAP kinase cascade,0.025,2,80,472,CSK;IL5RA
+Interferon Signaling,0.0247,2,81,490,DUS2;TRIM14
+Sensory Perception,0.0244,1,41,1355,GPC2
+Rab regulation of trafficking,0.0244,1,41,167,DENND1A
+Disease,0.0243,13,534,8704,NCL;GPC2;GUSB;ENTPD5;DOLK;EXT2;TWIST1;RPL37;CDKN1C;RPL7A;SLC27A4;CSK;WASF1
+MAPK1/MAPK3 signaling,0.0241,2,83,484,CSK;IL5RA
+Axon guidance,0.0238,4,168,1009,RPL37;RPL7A;EPHA10;SLIT1
+Clathrin-mediated endocytosis,0.0238,1,42,212,TOR1B
+Disorders of transmembrane transporters,0.0238,1,42,456,SLC27A4
+Signaling by Receptor Tyrosine Kinases,0.0235,4,170,1247,MATK;CSK;WASF1;PCSK6
+Mitotic Prophase,0.0227,1,44,233,SET
+Signaling by Hedgehog,0.0227,1,44,354,MKS1
+Signaling by TGFB family members,0.0227,1,44,310,AMHR2
+Metabolism,0.0226,15,664,3291,LGMN;ENTPD5;ATP5G2;GDPD1;GUSB;RUFY1;RPL37;CHPF2;EXT2;SLC45A2;GPC2;RPL7A;ETFB;PLA2G15;AMACR
+Nervous system development,0.0226,4,177,1059,SLIT1;EPHA10;RPL7A;RPL37
+Fatty acid metabolism,0.0222,1,45,192,AMACR
+Signal Transduction,0.022,14,637,5444,WASF1;MKS1;CXCL11;F2RL2;GRPR;MATK;APOC1;KISS1R;IL5RA;PCSK6;HRH3;CSK;AMHR2;F2R
+MAPK family signaling cascades,0.0213,2,94,559,CSK;IL5RA
+G alpha (i) signalling events,0.0213,1,47,444,CXCL11
+Metabolism of amino acids and derivatives,0.0208,3,144,379,SLC45A2;RPL7A;RPL37
+RAC1 GTPase cycle,0.0208,1,48,187,WASF1
+Toll-like Receptor Cascades,0.0208,1,48,348,LGMN
+Epigenetic regulation of gene expression,0.0206,2,97,693,ZNF30;SMARCD1
+Aerobic respiration and respiratory electron transport,0.0204,2,98,311,ETFB;ATP5G2
+Antiviral mechanism by IFN-stimulated genes,0.0204,1,49,202,DUS2
+MITF-M-regulated melanocyte development,0.0204,1,49,275,SMARCD1
+Signaling by NTRKs,0.0204,1,49,309,PCSK6
+Developmental Biology,0.0203,7,345,2608,RPL37;SLIT1;SMARCD1;RPL7A;DLL3;PCSK6;EPHA10
+Infectious disease,0.0188,6,319,2039,WASF1;GPC2;RPL37;ENTPD5;RPL7A;NCL
+Signaling by Interleukins,0.0179,2,112,1058,IL5RA;TWIST1
+Ub-specific processing proteases,0.0175,1,57,628,USP20
+Metabolism of vitamins and cofactors,0.0169,1,59,312,GPC2
+Cilium Assembly,0.0164,1,61,321,MKS1
+Protein localization,0.0161,1,62,462,AMACR
+RNA Polymerase II Transcription,0.016,6,374,2337,SNAPC4;SMARCD1;HKR1;ENSG00000130489;TWIST1;ZNF30
+Respiratory electron transport,0.0156,1,64,178,ETFB
+RHO GTPase cycle,0.0156,2,128,497,WASF1;CSK
+Adaptive Immune System,0.0152,3,197,1430,LRSAM1;CSK;LGMN
+Viral Infection Pathways,0.0151,4,265,1511,GPC2;RPL37;RPL7A;NCL
+Generic Transcription Pathway,0.0151,5,332,2126,TWIST1;ZNF30;SMARCD1;ENSG00000130489;HKR1
+Transcriptional regulation by RUNX1,0.0149,1,67,389,SMARCD1
+Diseases of signal transduction by growth factor receptors and second messengers,0.0145,2,138,2316,CSK;TWIST1
+Cellular responses to stress,0.0142,4,282,1392,RPL37;CRYAB;RPL7A;EXOSC6
+"Cell Cycle, Mitotic",0.014,2,143,1024,CDKN1C;SET
+Metabolism of proteins,0.0139,9,647,4511,DOLK;MRPL17;ETFB;RPL37;RPL7A;RAB19;WARS;USP20;C10orf2
+Gene expression (Transcription),0.0131,6,458,2954,SNAPC4;HKR1;SMARCD1;ENSG00000130489;ZNF30;TWIST1
+Cellular responses to stimuli,0.013,4,308,1568,RPL37;CRYAB;EXOSC6;RPL7A
+RHO GTPase Effectors,0.0127,1,79,512,WASF1
+Signaling by Nuclear Receptors,0.0123,1,81,444,APOC1
+Deubiquitination,0.0115,1,87,778,USP20
+Cell Cycle,0.0112,2,178,1325,SET;CDKN1C
+Signaling by Rho GTPases,0.0108,2,185,927,CSK;WASF1
+Chromatin organization,0.0106,1,94,1433,SMARCD1
+Chromatin modifying enzymes,0.0106,1,94,1433,SMARCD1
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0105,2,190,945,CSK;WASF1
+Membrane Trafficking,0.0101,2,199,1206,DENND1A;TOR1B
+SARS-CoV-2 Infection,0.0101,1,99,515,GPC2
+Vesicle-mediated transport,0.0097,2,207,1389,DENND1A;TOR1B
+Asparagine N-linked glycosylation,0.0097,1,103,488,DOLK
+Antigen processing: Ubiquitination & Proteasome degradation,0.0097,1,103,306,LRSAM1
+Transcriptional Regulation by TP53,0.0094,1,106,614,ENSG00000130489
+Post-translational protein modification,0.0091,4,438,3379,DOLK;USP20;RAB19;ETFB
+M Phase,0.0088,1,113,632,SET
+Class I MHC mediated antigen processing & presentation,0.0082,1,122,538,LRSAM1
+SARS-CoV Infections,0.0076,1,131,779,GPC2

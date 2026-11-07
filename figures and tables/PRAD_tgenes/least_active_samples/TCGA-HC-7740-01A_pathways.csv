@@ -1,0 +1,366 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+ABO blood group biosynthesis,1.0,1,1,2,FUT1
+Reuptake of GABA,1.0,1,1,4,SLC6A11
+Defective CSF2RB causes SMDP5,1.0,1,1,9,SFTPA2
+Defective CSF2RA causes SMDP4,1.0,1,1,8,SFTPA2
+Regulation of cortical dendrite branching,1.0,1,1,4,SLIT1
+Regulation of commissural axon pathfinding by SLIT and ROBO,1.0,1,1,13,SLIT1
+Diseases associated with surfactant metabolism,1.0,2,2,26,SFTPA2;ABCA3
+Defective SFTPA2 causes IPF,1.0,1,1,2,SFTPA2
+Estrogen biosynthesis,1.0,1,1,6,HSD17B1
+Defective ABCA3 causes SMDP3,1.0,1,1,10,ABCA3
+MPS VII - Sly syndrome,1.0,1,1,5,GUSB
+Surfactant metabolism,0.6667,2,3,64,SFTPA2;ABCA3
+PTK6 Down-Regulation,0.5,1,2,5,SRMS
+LDL remodeling,0.5,1,2,6,APOF
+Calcitonin-like ligand receptors,0.5,1,2,11,ADM2
+ATF6 (ATF6-alpha) activates chaperones,0.5,1,2,29,NFYB
+ATF6 (ATF6-alpha) activates chaperone genes,0.5,1,2,20,NFYB
+SDK interactions,0.5,1,2,2,SDK2
+FOXO-mediated transcription of cell death genes,0.3333,1,3,28,NFYB
+Blood group systems biosynthesis,0.3333,1,3,23,FUT1
+RUNX1 regulates estrogen receptor mediated transcription,0.3333,1,3,9,KCTD6
+Na+/Cl- dependent neurotransmitter transporters,0.3333,1,3,19,SLC6A11
+Regulation of TLR by endogenous ligand,0.3333,1,3,23,SFTPA2
+Creatine metabolism,0.3333,1,3,11,SLC6A11
+Modulation of host responses by IFN-stimulated genes,0.3333,2,6,20,IFI6;ISG15
+Interaction With Cumulus Cells And The Zona Pellucida,0.3333,1,3,11,ZP1
+OAS antiviral response,0.25,1,4,9,OAS3
+Purine ribonucleoside monophosphate biosynthesis,0.25,1,4,11,IMPDH1
+Signal regulatory protein family interactions,0.25,1,4,20,SFTPA2
+Defective B3GALTL causes PpS,0.25,1,4,38,ADAMTSL1
+Glycosphingolipid biosynthesis,0.25,1,4,19,FUT1
+O-glycosylation of TSR domain-containing proteins,0.25,1,4,113,ADAMTSL1
+Interleukin-37 signaling,0.2,1,5,43,PTPN18
+ABC transporters in lipid homeostasis,0.2,1,5,21,ABCA3
+Hyaluronan uptake and degradation,0.2,1,5,15,GUSB
+Metabolism of steroid hormones,0.2,1,5,36,HSD17B1
+Negative regulators of DDX58/IFIH1 signaling,0.2,2,10,89,ATG12;ISG15
+Fertilization,0.2,1,5,28,ZP1
+Hyaluronan metabolism,0.2,1,5,20,GUSB
+HS-GAG degradation,0.2,2,10,50,GLB1L2;GUSB
+RORA activates gene expression,0.2,1,5,20,HELZ2
+"GABA synthesis, release, reuptake and degradation",0.2,1,5,27,SLC6A11
+Activation of gene expression by SREBF (SREBP),0.2,2,10,72,HELZ2;NFYB
+Receptor Mediated Mitophagy,0.2,1,5,15,ATG12
+Mucopolysaccharidoses,0.1667,1,6,43,GUSB
+Keratan sulfate degradation,0.1667,1,6,32,GLB1L2
+The canonical retinoid cycle in rods (twilight vision),0.1667,1,6,25,HSD17B1
+Transcriptional regulation of white adipocyte differentiation,0.1579,3,19,148,MED4;MED16;HELZ2
+"BMAL1:CLOCK,NPAS2 activates circadian gene expression",0.1429,1,7,42,HELZ2
+Termination of translesion DNA synthesis,0.1429,1,7,47,ISG15
+Nucleotide biosynthesis,0.1429,1,7,14,IMPDH1
+Azathioprine ADME,0.1429,1,7,23,IMPDH1
+PPARA activates gene expression,0.1379,4,29,177,MED4;NFYB;HELZ2;MED16
+Regulation of lipid metabolism by PPARalpha,0.1379,4,29,179,HELZ2;NFYB;MED4;MED16
+Adipogenesis,0.1304,3,23,185,HELZ2;MED4;MED16
+NCAM1 interactions,0.125,1,8,154,PSPN
+RSV-host interactions,0.125,3,24,171,MED4;ISG15;MED16
+Interferon alpha/beta signaling,0.125,3,24,171,IFI6;ISG15;OAS3
+Glycosphingolipid metabolism,0.1176,2,17,82,GLB1L2;FUT1
+Regulation of cholesterol biosynthesis by SREBP (SREBF),0.1111,2,18,103,NFYB;HELZ2
+Plasma lipoprotein remodeling,0.1111,1,9,48,APOF
+COPI-independent Golgi-to-ER retrograde traffic,0.1111,1,9,58,DCTN6
+Signaling by FGFR2 IIIa TM,0.1111,1,9,24,GTF2F2
+Replacement of protamines by nucleosomes in the male pronucleus,0.1111,1,9,46,HIST1H4K
+RHO GTPases Activate WASPs and WAVEs,0.1111,1,9,84,BAIAP2
+Neurotransmitter release cycle,0.1,1,10,71,SLC6A11
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,0.1,1,10,76,DCTN6
+PINK1-PRKN Mediated Mitophagy,0.1,1,10,74,ATG12
+Respiratory Syncytial Virus Infection Pathway,0.1,3,30,199,MED16;MED4;ISG15
+Keratan sulfate/keratin metabolism,0.1,1,10,109,GLB1L2
+Diseases associated with O-glycosylation of proteins,0.1,1,10,113,ADAMTSL1
+RNA Polymerase I Promoter Opening,0.1,1,10,78,HIST1H4K
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.0968,3,31,309,HIST1H4K;MED16;MED4
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.0968,3,31,300,MED4;MED16;HIST1H4K
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.0968,3,31,300,HIST1H4K;MED4;MED16
+Intraflagellar transport,0.0952,2,21,114,IFT43;IFT81
+Heparan sulfate/heparin (HS-GAG) metabolism,0.0952,2,21,412,GUSB;GLB1L2
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,0.0909,1,11,28,GTF2F2
+DNA Damage Bypass,0.0909,1,11,66,ISG15
+Defective pyroptosis,0.0909,1,11,88,HIST1H4K
+DNA methylation,0.0909,1,11,64,HIST1H4K
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,0.0909,1,11,55,ISG15
+Packaging Of Telomere Ends,0.0909,1,11,51,HIST1H4K
+RNA Pol II CTD phosphorylation and interaction with CE,0.0909,1,11,28,GTF2F2
+Downregulation of ERBB2 signaling,0.0909,1,11,55,PTPN18
+FGFR2 mutant receptor activation,0.0909,1,11,104,GTF2F2
+ATF4 activates genes in response to endoplasmic reticulum  stress,0.0909,1,11,35,NFYB
+Class B/2 (Secretin family receptors),0.0909,1,11,102,ADM2
+Cleavage of the damaged purine,0.0833,1,12,108,HIST1H4K
+SIRT1 negatively regulates rRNA expression,0.0833,1,12,99,HIST1H4K
+Abortive elongation of HIV-1 transcript in the absence of Tat,0.0833,1,12,23,GTF2F2
+mRNA Capping,0.0833,1,12,29,GTF2F2
+Mitophagy,0.0833,1,12,85,ATG12
+Heme signaling,0.0833,1,12,71,HELZ2
+Depurination,0.0833,1,12,110,HIST1H4K
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.0833,2,24,173,ISG15;ATG12
+Recognition and association of DNA glycosylase with site containing an affected purine,0.0833,1,12,110,HIST1H4K
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,0.0833,1,12,130,HIST1H4K
+Transcriptional activation of mitochondrial biogenesis,0.0833,1,12,96,HELZ2
+Metabolism of steroids,0.0789,3,38,212,HELZ2;HSD17B1;NFYB
+Chromatin modifications during the maternal to zygotic transition (MZT),0.0769,1,13,149,HIST1H4K
+Glycosphingolipid catabolism,0.0769,1,13,63,GLB1L2
+Meiotic recombination,0.0769,1,13,106,HIST1H4K
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,0.0769,1,13,90,HIST1H4K
+Diseases of carbohydrate metabolism,0.0769,1,13,109,GUSB
+RET signaling,0.0769,1,13,45,PSPN
+PERK regulates gene expression,0.0769,1,13,46,NFYB
+Netrin-1 signaling,0.0769,1,13,65,SLIT1
+HDMs demethylate histones,0.0769,1,13,274,HIST1H4K
+Estrogen-dependent gene expression,0.075,3,40,218,HIST1H4K;KCTD6;GTF2F2
+Intra-Golgi traffic,0.0714,1,14,56,NAPB
+"Transport of bile salts and organic acids, metal ions and amine compounds",0.0714,1,14,87,SLC6A11
+Assembly of the ORC complex at the origin of replication,0.0714,1,14,74,HIST1H4K
+NCAM signaling for neurite out-growth,0.0714,1,14,192,PSPN
+Cell-Cell communication,0.0714,2,28,227,SFTPA2;SDK2
+Cell-cell junction organization,0.0714,1,14,149,SDK2
+PRC2 methylates histones and DNA,0.0714,1,14,87,HIST1H4K
+Deposition of new CENPA-containing nucleosomes at the centromere,0.0714,1,14,72,HIST1H4K
+Nucleosome assembly,0.0714,1,14,72,HIST1H4K
+FGFR2 alternative splicing,0.0667,1,15,27,GTF2F2
+Formation of the Early Elongation Complex,0.0667,1,15,33,GTF2F2
+RNA Polymerase II Transcription Initiation And Promoter Clearance,0.0667,1,15,48,GTF2F2
+Formation of the HIV-1 Early Elongation Complex,0.0667,1,15,33,GTF2F2
+HIV Transcription Initiation,0.0667,1,15,48,GTF2F2
+Pausing and recovery of Tat-mediated HIV elongation,0.0667,1,15,31,GTF2F2
+Pyruvate metabolism,0.0667,1,15,67,MPC1
+Tat-mediated HIV elongation arrest and recovery,0.0667,1,15,31,GTF2F2
+Sphingolipid metabolism,0.0667,2,30,135,GLB1L2;FUT1
+mRNA Splicing - Minor Pathway,0.0667,1,15,50,GTF2F2
+Condensation of Prophase Chromosomes,0.0667,1,15,112,HIST1H4K
+Transcriptional regulation of granulopoiesis,0.0667,1,15,131,HIST1H4K
+Reproduction,0.0667,2,30,188,ZP1;HIST1H4K
+RNA Polymerase II Transcription Initiation,0.0667,1,15,48,GTF2F2
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,0.0667,1,15,48,GTF2F2
+RNA Polymerase II Promoter Escape,0.0667,1,15,48,GTF2F2
+RNA Polymerase II HIV Promoter Escape,0.0667,1,15,48,GTF2F2
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.0652,3,46,352,HIST1H4K;MED4;MED16
+Drug ADME,0.0625,1,16,122,IMPDH1
+Signaling by PTK6,0.0625,1,16,103,SRMS
+Signaling by Non-Receptor Tyrosine Kinases,0.0625,1,16,103,SRMS
+"Base-Excision Repair, AP Site Formation",0.0625,1,16,118,HIST1H4K
+Cleavage of the damaged pyrimidine ,0.0625,1,16,60,HIST1H4K
+Depyrimidination,0.0625,1,16,61,HIST1H4K
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine,0.0625,1,16,61,HIST1H4K
+NS1 Mediated Effects on Host Pathways,0.0625,1,16,52,ISG15
+COPI-mediated anterograde transport,0.0606,2,33,156,NAPB;DCTN6
+Pausing and recovery of HIV elongation,0.0588,1,17,33,GTF2F2
+Inhibition of DNA recombination at telomere,0.0588,1,17,67,HIST1H4K
+"Plasma lipoprotein assembly, remodeling, and clearance",0.0588,1,17,146,APOF
+FCGR3A-mediated phagocytosis,0.0588,1,17,237,BAIAP2
+Leishmania phagocytosis,0.0588,1,17,237,BAIAP2
+Parasite infection,0.0588,1,17,237,BAIAP2
+HIV elongation arrest and recovery,0.0588,1,17,33,GTF2F2
+Nonhomologous End-Joining (NHEJ),0.0588,1,17,73,HIST1H4K
+RHO GTPases activate PKNs,0.0588,1,17,168,HIST1H4K
+Diseases of metabolism,0.058,4,69,952,SFTPA2;GUSB;ABCA3;ADAMTSL1
+Golgi-to-ER retrograde transport,0.0571,2,35,184,DCTN6;NAPB
+Visual phototransduction,0.0556,1,18,226,HSD17B1
+Circadian Clock,0.0556,1,18,147,HELZ2
+Signaling by FGFR2 in disease,0.0556,1,18,117,GTF2F2
+DNA Damage/Telomere Stress Induced Senescence,0.0556,1,18,83,HIST1H4K
+Regulation of actin dynamics for phagocytic cup formation,0.0556,1,18,178,BAIAP2
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,0.0556,1,18,138,HIST1H4K
+Cytoprotection by HMOX1,0.0556,1,18,68,HELZ2
+Regulation of endogenous retroelements by the Human Silencing Hub (HUSH) complex,0.0556,1,18,151,HIST1H4K
+Regulation of endogenous retroelements by KRAB-ZFP proteins,0.0556,1,18,214,HIST1H4K
+Viral Messenger RNA Synthesis,0.0526,1,19,48,GTF2F2
+Meiotic synapsis,0.0526,1,19,79,HIST1H4K
+Cell junction organization,0.0526,1,19,178,SDK2
+Pre-NOTCH Transcription and Translation,0.0526,1,19,162,HIST1H4K
+Formation of HIV-1 elongation complex containing HIV-1 Tat,0.0526,1,19,69,GTF2F2
+HIV Transcription Elongation,0.0526,1,19,69,GTF2F2
+O-linked glycosylation,0.0526,1,19,431,ADAMTSL1
+Tat-mediated elongation of the HIV-1 transcript,0.0526,1,19,69,GTF2F2
+ABC transporter disorders,0.0526,1,19,148,ABCA3
+Glycosaminoglycan metabolism,0.0513,2,39,715,GUSB;GLB1L2
+Diseases of programmed cell death,0.05,1,20,1469,HIST1H4K
+Macroautophagy,0.05,2,40,330,ATG12;ATG13
+FOXO-mediated transcription,0.05,1,20,130,NFYB
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,0.05,1,20,144,HIST1H4K
+DNA Double Strand Break Response,0.05,1,20,149,HIST1H4K
+GPCR ligand binding,0.0488,2,41,517,ADM2;GALR3
+RNA Polymerase I Promoter Escape,0.0476,1,21,91,HIST1H4K
+HDACs deacetylate histones,0.0476,1,21,277,HIST1H4K
+Formation of HIV elongation complex in the absence of HIV Tat,0.0476,1,21,46,GTF2F2
+ESR-mediated signaling,0.0476,3,63,339,KCTD6;HIST1H4K;GTF2F2
+Selective autophagy,0.0476,1,21,219,ATG12
+Signaling by ERBB2,0.0476,1,21,119,PTPN18
+Retrograde transport at the Trans-Golgi-Network,0.0476,1,21,69,NAPB
+HATs acetylate histones,0.0465,2,43,599,HIST1H4K;MORF4L2
+Pre-NOTCH Expression and Processing,0.0455,1,22,238,HIST1H4K
+Autophagy,0.0455,2,44,409,ATG13;ATG12
+Peptide ligand-binding receptors,0.0455,1,22,243,GALR3
+ISG15 antiviral mechanism,0.0435,1,23,96,ISG15
+Meiosis,0.0435,1,23,138,HIST1H4K
+B-WICH complex positively regulates rRNA expression,0.0435,1,23,105,HIST1H4K
+Amyloid fiber formation,0.0435,1,23,257,HIST1H4K
+Senescence-Associated Secretory Phenotype (SASP),0.0435,1,23,154,HIST1H4K
+G2/M DNA damage checkpoint,0.0435,1,23,110,HIST1H4K
+RMTs methylate histone arginines,0.0417,1,24,354,HIST1H4K
+Base Excision Repair,0.0417,1,24,148,HIST1H4K
+PKR-mediated signaling,0.0417,1,24,105,ISG15
+Antiviral mechanism by IFN-stimulated genes,0.0408,2,49,202,ISG15;OAS3
+Interferon gamma signaling,0.04,1,25,192,OAS3
+Formation of RNA Pol II elongation complex ,0.04,1,25,59,GTF2F2
+RNA Polymerase II Transcription Elongation,0.04,1,25,59,GTF2F2
+G alpha (s) signalling events,0.04,1,25,195,ADM2
+PKMTs methylate histone lysines,0.04,1,25,362,HIST1H4K
+Formation of the beta-catenin:TCF transactivating complex,0.04,1,25,176,HIST1H4K
+Processing of DNA double-strand break ends,0.04,1,25,117,HIST1H4K
+Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),0.04,1,25,97,HIST1H4K
+RAC3 GTPase cycle,0.0385,1,26,96,BAIAP2
+Mitochondrial biogenesis,0.0385,1,26,137,HELZ2
+Positive epigenetic regulation of rRNA expression,0.0385,1,26,195,HIST1H4K
+RNA Polymerase I Promoter Clearance,0.0385,1,26,145,HIST1H4K
+Signaling by FGFR in disease,0.0385,1,26,226,GTF2F2
+Signaling by Nuclear Receptors,0.037,3,81,444,KCTD6;GTF2F2;HIST1H4K
+Interferon Signaling,0.037,3,81,490,ISG15;OAS3;IFI6
+Telomere Maintenance,0.037,1,27,113,HIST1H4K
+MHC class II antigen presentation,0.037,1,27,240,DCTN6
+NoRC negatively regulates rRNA expression,0.037,1,27,195,HIST1H4K
+ABC-family proteins mediated transport,0.037,1,27,106,ABCA3
+TP53 Regulates Transcription of DNA Repair Genes,0.037,1,27,77,GTF2F2
+RNA Polymerase I Transcription,0.037,1,27,147,HIST1H4K
+Fcgamma receptor (FCGR) dependent phagocytosis,0.037,1,27,279,BAIAP2
+Metabolism of lipids,0.0366,7,191,978,GLB1L2;MED4;NFYB;HSD17B1;FUT1;MED16;HELZ2
+Transcription of the HIV genome,0.0357,1,28,98,GTF2F2
+Oxidative Stress Induced Senescence,0.0357,1,28,184,HIST1H4K
+ER to Golgi Anterograde Transport,0.0357,2,56,322,NAPB;DCTN6
+Activation of HOX genes during differentiation,0.0357,1,28,149,HIST1H4K
+Maternal to zygotic transition (MZT),0.0357,1,28,228,HIST1H4K
+Negative epigenetic regulation of rRNA expression,0.0357,1,28,230,HIST1H4K
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.0357,1,28,149,HIST1H4K
+Organelle biogenesis and maintenance,0.0345,3,87,458,IFT81;HELZ2;IFT43
+Potential therapeutics for SARS,0.0333,1,30,162,IMPDH1
+Transcriptional regulation by small RNAs,0.0333,1,30,114,HIST1H4K
+SUMOylation of chromatin organization proteins,0.0333,1,30,122,HIST1H4K
+Class A/1 (Rhodopsin-like receptors),0.0333,1,30,376,GALR3
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,0.0333,1,30,151,HIST1H4K
+COPII-mediated vesicle transport,0.0333,1,30,179,NAPB
+COPI-dependent Golgi-to-ER retrograde traffic,0.0333,1,30,145,NAPB
+Cilium Assembly,0.0328,2,61,321,IFT43;IFT81
+Metabolism of carbohydrates,0.0326,3,92,934,GUSB;FUT1;GLB1L2
+RNA Polymerase II Pre-transcription Events,0.0323,1,31,84,GTF2F2
+RNA polymerase II transcribes snRNA genes,0.0323,1,31,159,GTF2F2
+Intra-Golgi and retrograde Golgi-to-ER traffic,0.0317,2,63,300,DCTN6;NAPB
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),0.0312,1,32,160,HIST1H4K
+DNA Replication Pre-Initiation,0.0312,1,32,181,HIST1H4K
+Chromosome Maintenance,0.0312,1,32,140,HIST1H4K
+Transport to the Golgi and subsequent modification,0.0312,2,64,355,DCTN6;NAPB
+Assembly of the pre-replicative complex,0.0312,1,32,164,HIST1H4K
+HCMV Early Events,0.0312,1,32,327,HIST1H4K
+Signaling by FGFR2,0.0312,1,32,107,GTF2F2
+Epigenetic regulation of gene expression,0.0309,3,97,693,MED16;MED4;HIST1H4K
+Unfolded Protein Response (UPR),0.0303,1,33,214,NFYB
+Transcriptional regulation by RUNX1,0.0299,2,67,389,HIST1H4K;KCTD6
+Homology Directed Repair,0.0294,1,34,169,HIST1H4K
+RAB GEFs exchange GTP for GDP on RABs,0.0286,1,35,122,DENND1A
+Mitochondrial translation termination,0.0278,1,36,91,MRPL41
+HCMV Late Events,0.0278,1,36,241,HIST1H4K
+VEGFA-VEGFR2 Pathway,0.0278,1,36,165,BAIAP2
+Innate Immune System,0.0275,7,255,2725,GUSB;IMPDH1;SFTPA2;ATG12;FRMPD3;BAIAP2;ISG15
+Toll Like Receptor TLR1:TLR2 Cascade,0.027,1,37,219,SFTPA2
+Signaling by FGFR,0.027,1,37,134,GTF2F2
+Toll Like Receptor 2 (TLR2) Cascade,0.027,1,37,219,SFTPA2
+Mitochondrial translation elongation,0.027,1,37,178,MRPL41
+Mitochondrial translation initiation,0.027,1,37,90,MRPL41
+Gene Silencing by RNA,0.027,1,37,166,HIST1H4K
+Diseases of glycosylation,0.027,1,37,483,ADAMTSL1
+Regulation of endogenous retroelements,0.0263,1,38,272,HIST1H4K
+G2/M Checkpoints,0.0263,1,38,189,HIST1H4K
+Signaling by VEGF,0.0263,1,38,176,BAIAP2
+CDC42 GTPase cycle,0.0263,1,38,158,BAIAP2
+Influenza Infection,0.0256,2,78,175,ISG15;GTF2F2
+Metabolism of nucleotides,0.0256,1,39,102,IMPDH1
+RHO GTPase Effectors,0.0253,2,79,512,HIST1H4K;BAIAP2
+Mitochondrial translation,0.025,1,40,185,MRPL41
+Interleukin-1 family signaling,0.025,1,40,239,PTPN18
+DNA Replication,0.025,1,40,295,HIST1H4K
+Toll Like Receptor 4 (TLR4) Cascade,0.0244,1,41,267,SFTPA2
+Rab regulation of trafficking,0.0244,1,41,167,DENND1A
+Sensory Perception,0.0244,1,41,1355,HSD17B1
+SLC-mediated transmembrane transport,0.0238,1,42,257,SLC6A11
+Disorders of transmembrane transporters,0.0238,1,42,456,ABCA3
+Neutrophil degranulation,0.0236,3,127,1316,FRMPD3;GUSB;IMPDH1
+Immune System,0.0234,12,512,5116,FRMPD3;IMPDH1;IFI6;DCTN6;PTPN18;BAIAP2;ATG12;ISG15;OAS3;GUSB;KCTD6;SFTPA2
+Mitotic Prophase,0.0227,1,44,233,HIST1H4K
+DNA Double-Strand Break Repair,0.0227,1,44,260,HIST1H4K
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,0.0227,1,44,164,ISG15
+Viral Infection Pathways,0.0226,6,265,1511,MED16;GTF2F2;ISG15;MED4;HIST1H4K;IMPDH1
+HCMV Infection,0.0222,1,45,351,HIST1H4K
+Infectious disease,0.0219,7,319,2039,MED4;MED16;ISG15;BAIAP2;GTF2F2;HIST1H4K;IMPDH1
+GPCR downstream signalling,0.0215,2,93,825,ADM2;GALR3
+G alpha (i) signalling events,0.0213,1,47,444,GALR3
+Chromatin modifying enzymes,0.0213,2,94,1433,MORF4L2;HIST1H4K
+Chromatin organization,0.0213,2,94,1433,MORF4L2;HIST1H4K
+Toll-like Receptor Cascades,0.0208,1,48,348,SFTPA2
+RAC1 GTPase cycle,0.0208,1,48,187,BAIAP2
+Disease,0.0206,11,534,8704,SFTPA2;ADAMTSL1;GUSB;IMPDH1;HIST1H4K;MED4;MED16;ABCA3;BAIAP2;ISG15;GTF2F2
+Cytokine Signaling in Immune system,0.0204,4,196,1716,PTPN18;ISG15;IFI6;OAS3
+Signaling by GPCR,0.0202,2,99,917,GALR3;ADM2
+Parasitic Infection Pathways,0.02,1,50,407,BAIAP2
+Leishmania infection,0.02,1,50,407,BAIAP2
+Transport of small molecules,0.0196,3,153,852,APOF;ABCA3;SLC6A11
+Asparagine N-linked glycosylation,0.0194,2,103,488,DCTN6;NAPB
+Cellular Senescence,0.0192,1,52,302,HIST1H4K
+DNA Repair,0.0192,2,104,528,ISG15;HIST1H4K
+Generic Transcription Pathway,0.0181,6,332,2126,MED4;NFYB;HIST1H4K;MED16;KCTD6;GTF2F2
+Late Phase of HIV Life Cycle,0.0179,1,56,209,GTF2F2
+Signaling by Receptor Tyrosine Kinases,0.0176,3,170,1247,PTPN18;BAIAP2;GTF2F2
+Developmental Biology,0.0174,6,345,2608,HIST1H4K;MED4;SLIT1;MED16;HELZ2;PSPN
+HIV Life Cycle,0.0172,1,58,225,GTF2F2
+Signaling by NOTCH,0.0169,1,59,494,HIST1H4K
+Transmission across Chemical Synapses,0.0169,1,59,461,SLC6A11
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),0.0167,1,60,118,SMG5
+Nonsense-Mediated Decay (NMD),0.0167,1,60,118,SMG5
+Metabolism,0.0166,11,664,3291,NFYB;GLB1L2;MED4;GUSB;MED16;HSD17B1;FUT1;HELZ2;MPC1;SLC6A11;IMPDH1
+RNA Polymerase II Transcription,0.016,6,374,2337,GTF2F2;KCTD6;HIST1H4K;NFYB;MED16;MED4
+mRNA Splicing - Major Pathway,0.0159,1,63,205,GTF2F2
+Cell Cycle Checkpoints,0.0156,1,64,337,HIST1H4K
+mRNA Splicing,0.0154,1,65,213,GTF2F2
+SARS-CoV Infections,0.0153,2,131,779,IMPDH1;ISG15
+TCF dependent signaling in response to WNT,0.0152,1,66,419,HIST1H4K
+Membrane Trafficking,0.0151,3,199,1206,DCTN6;DENND1A;NAPB
+SUMOylation,0.0149,1,67,442,HIST1H4K
+SUMO E3 ligases SUMOylate target proteins,0.0149,1,67,420,HIST1H4K
+Cellular response to chemical stress,0.0145,1,69,347,HELZ2
+SARS-CoV-2-host interactions,0.0145,1,69,253,ISG15
+Vesicle-mediated transport,0.0145,3,207,1389,NAPB;DENND1A;DCTN6
+Cellular responses to stress,0.0142,4,282,1392,NFYB;HELZ2;DCTN6;HIST1H4K
+Signal Transduction,0.0141,9,637,5444,GTF2F2;KCTD6;PSPN;SRMS;ADM2;GALR3;BAIAP2;HIST1H4K;PTPN18
+Influenza Viral RNA Transcription and Replication,0.0141,1,71,141,GTF2F2
+Regulation of expression of SLITs and ROBOs,0.0137,1,73,206,SLIT1
+Neddylation,0.0132,1,76,294,KCTD6
+Gene expression (Transcription),0.0131,6,458,2954,MED16;HIST1H4K;MED4;KCTD6;GTF2F2;NFYB
+Cellular responses to stimuli,0.013,4,308,1568,HELZ2;HIST1H4K;NFYB;DCTN6
+HIV Infection,0.013,1,77,346,GTF2F2
+RAF/MAP kinase cascade,0.0125,1,80,472,PSPN
+Metabolism of proteins,0.0124,8,647,4511,HIST1H4K;NAPB;ADAMTSL1;SFTPA2;DCTN6;MRPL41;ABCA3;KCTD6
+Signaling by ROBO receptors,0.0123,1,81,268,SLIT1
+Neuronal System,0.0122,1,82,641,SLC6A11
+MAPK1/MAPK3 signaling,0.012,1,83,484,PSPN
+Axon guidance,0.0119,2,168,1009,PSPN;SLIT1
+Post-translational protein modification,0.0114,5,438,3379,ADAMTSL1;HIST1H4K;NAPB;DCTN6;KCTD6
+Nervous system development,0.0113,2,177,1059,SLIT1;PSPN
+Processing of Capped Intron-Containing Pre-mRNA,0.011,1,91,305,GTF2F2
+Signaling by Rho GTPases,0.0108,2,185,927,HIST1H4K;BAIAP2
+Signaling by WNT,0.0106,1,94,773,HIST1H4K
+MAPK family signaling cascades,0.0106,1,94,559,PSPN
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0105,2,190,945,BAIAP2;HIST1H4K
+Adaptive Immune System,0.0102,2,197,1430,DCTN6;KCTD6
+Aerobic respiration and respiratory electron transport,0.0102,1,98,311,MPC1
+SARS-CoV-2 Infection,0.0101,1,99,515,ISG15
+Antigen processing: Ubiquitination & Proteasome degradation,0.0097,1,103,306,KCTD6
+Transcriptional Regulation by TP53,0.0094,1,106,614,GTF2F2
+Signaling by Interleukins,0.0089,1,112,1058,PTPN18
+M Phase,0.0088,1,113,632,HIST1H4K
+Class I MHC mediated antigen processing & presentation,0.0082,1,122,538,KCTD6
+RHO GTPase cycle,0.0078,1,128,497,BAIAP2
+Translation,0.0073,1,137,492,MRPL41
+Diseases of signal transduction by growth factor receptors and second messengers,0.0072,1,138,2316,GTF2F2
+Metabolism of RNA,0.0071,2,280,932,SMG5;GTF2F2
+"Cell Cycle, Mitotic",0.007,1,143,1024,HIST1H4K
+Metabolism of amino acids and derivatives,0.0069,1,144,379,SLC6A11
+Cell Cycle,0.0056,1,178,1325,HIST1H4K
