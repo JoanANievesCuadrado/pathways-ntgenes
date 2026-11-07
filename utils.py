@@ -53,8 +53,8 @@ def load_tcga_data(data_path: str | Path) -> tuple:
 
 
 def load_pathways(pathway_file: str | Path) -> pd.DataFrame:
-    """Load pathway data from CSV file."""
-    pathways = pd.read_csv(pathway_file, names=['Gene', 'Pathway'])
+    """Load pathway data from a parquet file."""
+    pathways = pd.read_parquet(pathway_file)
     return pathways
 
 

@@ -1,5 +1,5 @@
-data_external/
 *.pdf
 .vscode/
 __pycache__
-figures and tables/
+*_tmp
+data_external/TCGA/*/data/
