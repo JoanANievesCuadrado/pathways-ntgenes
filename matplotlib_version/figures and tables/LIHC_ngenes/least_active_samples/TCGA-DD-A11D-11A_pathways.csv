@@ -1,0 +1,310 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Arachidonate metabolism,1.0,1,1,68,CYP2C8
+Biosynthesis of specialized proresolving mediators (SPMs),1.0,1,1,22,CYP2C8
+CYP2E1 reactions,1.0,1,1,11,CYP2C8
+Carboxyterminal post-translational modifications of tubulin,1.0,1,1,128,TTL
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,1.0,1,1,19,E2F1
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),1.0,1,1,8,CYP2C8
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),1.0,1,1,9,CYP2C8
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",1.0,1,1,24,E2F1
+Ficolins bind to repetitive carbohydrate structures on the target cell surface,1.0,1,1,5,FCN2
+Cytochrome P450 - arranged by substrate type,1.0,1,1,65,CYP2C8
+Cyclin D associated events in G1,1.0,2,2,88,E2F1;CDKN2C
+G1 Phase,1.0,2,2,88,CDKN2C;E2F1
+Creation of C4 and C2 activators,1.0,1,1,82,FCN2
+Biosynthesis of DHA-derived SPMs,1.0,1,1,18,CYP2C8
+Biosynthesis of maresin-like SPMs,1.0,1,1,6,CYP2C8
+Complement cascade,1.0,1,1,190,FCN2
+Biosynthesis of maresins,1.0,1,1,8,CYP2C8
+Hyaluronan uptake and degradation,1.0,1,1,15,STAB2
+G2 Phase,1.0,1,1,7,E2F1
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,1.0,1,1,393,E2F1
+OAS antiviral response,1.0,1,1,9,OASL
+Negative regulation of NMDA receptor-mediated neuronal transmission,1.0,1,1,28,PPM1F
+POLB-Dependent Long Patch Base Excision Repair,1.0,1,1,10,FEN1
+Phase I - Functionalization of compounds,1.0,1,1,109,CYP2C8
+Transcriptional regulation of granulopoiesis,1.0,1,1,131,E2F1
+Activation of NOXA and translocation to mitochondria,1.0,1,1,7,E2F1
+Activation of PUMA and translocation to mitochondria,1.0,1,1,11,E2F1
+Xenobiotics,1.0,1,1,24,CYP2C8
+Lectin pathway of complement activation,1.0,1,1,12,FCN2
+Scavenging by Class H Receptors,1.0,1,1,8,STAB2
+Inhibition of replication initiation of damaged DNA by RB1/E2F1,1.0,1,1,15,E2F1
+Initial triggering of complement,1.0,1,1,129,FCN2
+Hyaluronan metabolism,1.0,1,1,20,STAB2
+Establishment of Sister Chromatid Cohesion,1.0,1,1,30,CDCA5
+Oncogene Induced Senescence,0.6667,2,3,58,E2F1;CDKN2C
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1,0.5,1,2,20,E2F1
+RMTs methylate histone arginines,0.5,1,2,354,WDR5
+Activation of the pre-replicative complex,0.5,1,2,33,MCM4
+HDR through MMEJ (alt-NHEJ),0.5,1,2,14,FEN1
+Removal of the Flap Intermediate from the C-strand,0.5,1,2,17,FEN1
+Removal of the Flap Intermediate,0.5,1,2,14,FEN1
+Interferon gamma signaling,0.5,1,2,192,OASL
+Interferon alpha/beta signaling,0.5,1,2,171,OASL
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,0.5,1,2,51,UBL4A
+Pre-NOTCH Transcription and Translation,0.5,1,2,162,E2F1
+Processive synthesis on the C-strand of the telomere,0.5,1,2,19,FEN1
+Regulation of NF-kappa B signaling,0.5,1,2,33,LRRC14
+Unwinding of DNA,0.5,1,2,16,MCM4
+Processive synthesis on the lagging strand,0.5,1,2,15,FEN1
+Pre-NOTCH Expression and Processing,0.5,1,2,238,E2F1
+Aspirin ADME,0.5,1,2,46,CYP2C8
+Cardiogenesis,0.5,1,2,41,WDR5
+Complex III assembly,0.5,1,2,37,C12orf73
+Biological oxidations,0.5,1,2,234,CYP2C8
+TAK1-dependent IKK and NF-kappa-B activation  ,0.5,1,2,85,LRRC14
+E2F mediated regulation of DNA replication,0.5,1,2,24,E2F1
+TBC/RABGAPs,0.5,1,2,45,TBC1D16
+Activation of BH3-only proteins,0.5,1,2,43,E2F1
+DNA strand elongation,0.4,2,5,36,FEN1;MCM4
+PCNA-Dependent Long Patch Base Excision Repair,0.3333,1,3,21,FEN1
+Oxidative Stress Induced Senescence,0.3333,2,6,184,CDKN2C;E2F1
+MyD88-independent TLR4 cascade ,0.3333,1,3,212,LRRC14
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway,0.3333,1,3,27,FEN1
+MyD88 dependent cascade initiated on endosome,0.3333,1,3,214,LRRC14
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.3333,1,3,216,LRRC14
+MyD88 cascade initiated on plasma membrane,0.3333,1,3,197,LRRC14
+Lagging Strand Synthesis,0.3333,1,3,20,FEN1
+Nucleosome assembly,0.3333,1,3,72,CENPH
+Toll Like Receptor 10 (TLR10) Cascade,0.3333,1,3,197,LRRC14
+Binding and Uptake of Ligands by Scavenger Receptors,0.3333,1,3,183,STAB2
+Deposition of new CENPA-containing nucleosomes at the centromere,0.3333,1,3,72,CENPH
+Drug ADME,0.3333,1,3,122,CYP2C8
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.3333,1,3,200,LRRC14
+RSV-host interactions,0.3333,1,3,171,CLEC4M
+Toll Like Receptor 2 (TLR2) Cascade,0.3333,1,3,219,LRRC14
+Toll Like Receptor 3 (TLR3) Cascade,0.3333,1,3,229,LRRC14
+Toll Like Receptor 4 (TLR4) Cascade,0.3333,1,3,267,LRRC14
+Toll Like Receptor 9 (TLR9) Cascade,0.3333,1,3,226,LRRC14
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.3333,1,3,221,LRRC14
+TRIF (TICAM1)-mediated TLR4 signaling ,0.3333,1,3,212,LRRC14
+Early Phase of HIV Life Cycle,0.3333,1,3,18,FEN1
+Toll Like Receptor 5 (TLR5) Cascade,0.3333,1,3,197,LRRC14
+Toll Like Receptor TLR6:TLR2 Cascade,0.3333,1,3,216,LRRC14
+Toll Like Receptor TLR1:TLR2 Cascade,0.3333,1,3,219,LRRC14
+Kinesins,0.3333,1,3,69,KIFC1
+Resolution of Sister Chromatid Cohesion,0.3333,3,9,155,CENPH;DSN1;CDCA5
+EML4 and NUDC in mitotic spindle formation,0.2857,2,7,122,CENPH;DSN1
+Amplification of signal from the kinetochores,0.2857,2,7,95,CENPH;DSN1
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,0.2857,2,7,95,DSN1;CENPH
+Activation of ATR in response to replication stress,0.25,1,4,41,MCM4
+PKMTs methylate histone lysines,0.25,1,4,362,WDR5
+RHO GTPases Activate Formins,0.25,2,8,154,DSN1;CENPH
+Transcription of E2F targets under negative control by DREAM complex,0.25,1,4,38,E2F1
+Transcriptional Regulation by E2F6,0.25,1,4,45,E2F1
+Toll-like Receptor Cascades,0.25,1,4,348,LRRC14
+Telomere C-strand (Lagging Strand) Synthesis,0.25,1,4,34,FEN1
+Fatty acid metabolism,0.25,1,4,192,CYP2C8
+Extension of Telomeres,0.25,1,4,52,FEN1
+G0 and Early G1,0.25,1,4,52,E2F1
+Base Excision Repair,0.25,1,4,148,FEN1
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.25,1,4,309,WDR5
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,0.25,1,4,138,WDR5
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.25,1,4,300,WDR5
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.25,1,4,300,WDR5
+Resolution of Abasic Sites (AP sites),0.25,1,4,41,FEN1
+Respiratory Syncytial Virus Infection Pathway,0.25,1,4,199,CLEC4M
+G1/S-Specific Transcription,0.25,1,4,51,E2F1
+Intrinsic Pathway for Apoptosis,0.25,1,4,98,E2F1
+S Phase,0.2273,5,22,268,E2F1;MCM4;FEN1;PSMB4;CDCA5
+Mitotic G1 phase and G1/S transition,0.2105,4,19,237,E2F1;PSMB4;CDKN2C;MCM4
+Activation of NMDA receptors and postsynaptic events,0.2,1,5,207,PPM1F
+Respiratory electron transport,0.2,1,5,178,C12orf73
+Glycosaminoglycan metabolism,0.2,1,5,715,STAB2
+Mitotic Prometaphase,0.2,3,15,263,CDCA5;DSN1;CENPH
+Rab regulation of trafficking,0.2,1,5,167,TBC1D16
+Chromosome Maintenance,0.2,2,10,140,FEN1;CENPH
+Cyclin E associated events during G1/S transition ,0.1818,2,11,111,E2F1;PSMB4
+Cyclin A:Cdk2-associated events at S phase entry,0.1818,2,11,102,E2F1;PSMB4
+G1/S Transition,0.1765,3,17,190,E2F1;PSMB4;MCM4
+Separation of Sister Chromatids,0.1739,4,23,209,CDCA5;DSN1;CENPH;PSMB4
+Orc1 removal from chromatin,0.1667,2,12,87,MCM4;PSMB4
+Aberrant regulation of mitotic cell cycle due to RB1 defects,0.1667,1,6,412,E2F1
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.1667,1,6,149,WDR5
+Activation of HOX genes during differentiation,0.1667,1,6,149,WDR5
+Cellular Senescence,0.1667,2,12,302,CDKN2C;E2F1
+Mitotic Spindle Checkpoint,0.1667,2,12,112,CENPH;DSN1
+Formation of WDR5-containing histone-modifying complexes,0.1667,1,6,53,WDR5
+Aerobic respiration and respiratory electron transport,0.1667,1,6,311,C12orf73
+Interleukin-1 signaling,0.1667,2,12,161,PSMB4;LRRC14
+"Cell Cycle, Mitotic",0.1538,8,52,1024,CENPH;E2F1;DSN1;MCM4;FEN1;PSMB4;CDCA5;CDKN2C
+Interleukin-1 family signaling,0.1538,2,13,239,PSMB4;LRRC14
+Synthesis of DNA,0.15,3,20,151,MCM4;FEN1;PSMB4
+HATs acetylate histones,0.1429,1,7,599,WDR5
+Neurotransmitter receptors and postsynaptic signal transmission,0.1429,1,7,372,PPM1F
+Homology Directed Repair,0.1429,1,7,169,FEN1
+Factors involved in megakaryocyte development and platelet production,0.1429,1,7,234,KIFC1
+Diseases of mitotic cell cycle,0.1429,1,7,562,E2F1
+DNA Replication,0.1429,3,21,295,MCM4;PSMB4;FEN1
+Telomere Maintenance,0.1429,1,7,113,FEN1
+TP53 Regulates Transcription of Cell Cycle Genes,0.1429,1,7,65,E2F1
+Cell Cycle Checkpoints,0.1333,4,30,337,PSMB4;CENPH;MCM4;DSN1
+RHO GTPase Effectors,0.1333,2,15,512,CENPH;DSN1
+Cell Cycle,0.1311,8,61,1325,E2F1;DSN1;CDCA5;PSMB4;FEN1;MCM4;CDKN2C;CENPH
+Mitotic Metaphase and Anaphase,0.129,4,31,287,PSMB4;CENPH;DSN1;CDCA5
+Mitotic Anaphase,0.129,4,31,284,PSMB4;CENPH;DSN1;CDCA5
+Transcriptional regulation by RUNX1,0.125,2,16,389,WDR5;PSMB4
+Protein localization,0.125,1,8,462,UBL4A
+Transmission across Chemical Synapses,0.125,1,8,461,PPM1F
+Senescence-Associated Secretory Phenotype (SASP),0.125,1,8,154,CDKN2C
+Signaling by NOTCH,0.125,2,16,494,E2F1;PSMB4
+Neuronal System,0.125,1,8,641,PPM1F
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.125,1,8,352,WDR5
+DNA Double-Strand Break Repair,0.125,1,8,260,FEN1
+Signaling by Interleukins,0.1176,2,17,1058,LRRC14;PSMB4
+Switching of origins to a post-replicative state,0.1176,2,17,111,PSMB4;MCM4
+Innate Immune System,0.1143,4,35,2725,PSMB4;LRRC14;DSN1;FCN2
+COPI-dependent Golgi-to-ER retrograde traffic,0.1111,1,9,145,KIFC1
+Assembly of the pre-replicative complex,0.1111,2,18,164,PSMB4;MCM4
+G2/M Checkpoints,0.1111,2,18,189,MCM4;PSMB4
+DNA Replication Pre-Initiation,0.1111,2,18,181,MCM4;PSMB4
+Apoptosis,0.1053,2,19,327,E2F1;PSMB4
+M Phase,0.1053,4,38,632,PSMB4;CENPH;CDCA5;DSN1
+Antiviral mechanism by IFN-stimulated genes,0.1,1,10,202,OASL
+FCERI mediated NF-kB activation,0.1,1,10,165,PSMB4
+Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,0.1,1,10,52,PSMB4
+Vpu mediated degradation of CD4,0.1,1,10,50,PSMB4
+p53-Dependent G1/S DNA damage checkpoint,0.1,1,10,90,PSMB4
+p53-Dependent G1 DNA Damage Response,0.1,1,10,90,PSMB4
+SCF-beta-TrCP mediated degradation of Emi1,0.1,1,10,54,PSMB4
+SCF(Skp2)-mediated degradation of p27/p21,0.1,1,10,67,PSMB4
+Regulation of activated PAK-2p34 by proteasome mediated degradation,0.1,1,10,49,PSMB4
+Regulation of ornithine decarboxylase (ODC),0.1,1,10,39,PSMB4
+Hedgehog ligand biogenesis,0.1,1,10,95,PSMB4
+Interferon Signaling,0.1,1,10,490,OASL
+GLI3 is processed to GLI3R by the proteasome,0.1,1,10,64,PSMB4
+Metabolism of polyamines,0.1,1,10,47,PSMB4
+Degradation of AXIN,0.1,1,10,59,PSMB4
+Defective CFTR causes cystic fibrosis,0.1,1,10,66,PSMB4
+Cross-presentation of soluble exogenous antigens (endosomes),0.1,1,10,53,PSMB4
+Degradation of GLI2 by the proteasome,0.1,1,10,63,PSMB4
+Degradation of GLI1 by the proteasome,0.1,1,10,63,PSMB4
+p53-Independent DNA Damage Response,0.1,1,10,52,PSMB4
+ABC transporter disorders,0.1,1,10,148,PSMB4
+Autodegradation of the E3 ubiquitin ligase COP1,0.1,1,10,52,PSMB4
+Asymmetric localization of PCP proteins,0.1,1,10,65,PSMB4
+Downstream TCR signaling,0.1,1,10,127,PSMB4
+G1/S DNA Damage Checkpoints,0.1,1,10,94,PSMB4
+p53-Independent G1/S DNA damage checkpoint,0.1,1,10,52,PSMB4
+Hh mutants are degraded by ERAD,0.1,1,10,92,PSMB4
+Stabilization of p53,0.1,1,10,80,PSMB4
+Golgi-to-ER retrograde transport,0.1,1,10,184,KIFC1
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,0.1,1,10,58,PSMB4
+Hh mutants abrogate ligand secretion,0.1,1,10,96,PSMB4
+Somitogenesis,0.1,1,10,55,PSMB4
+Regulation of RUNX3 expression and activity,0.1,1,10,75,PSMB4
+Hedgehog 'on' state,0.1,1,10,189,PSMB4
+AUF1 (hnRNP D0) binds and destabilizes mRNA,0.1,1,10,60,PSMB4
+Ubiquitin-dependent degradation of Cyclin D,0.1,1,10,55,PSMB4
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,0.1,1,10,151,PSMB4
+Regulation of Apoptosis,0.1,1,10,54,PSMB4
+Activation of NF-kappaB in B cells,0.1,1,10,83,PSMB4
+Programmed Cell Death,0.1,2,20,421,PSMB4;E2F1
+Regulation of RUNX2 expression and activity,0.1,1,10,156,PSMB4
+Regulation of PTEN stability and activity,0.1,1,10,75,PSMB4
+PCP/CE pathway,0.1,1,10,128,PSMB4
+Cytokine Signaling in Immune system,0.0938,3,32,1716,PSMB4;OASL;LRRC14
+CLEC7A (Dectin-1) signaling,0.0909,1,11,168,PSMB4
+ABC-family proteins mediated transport,0.0909,1,11,106,PSMB4
+Transcriptional regulation by RUNX3,0.0909,1,11,146,PSMB4
+Beta-catenin independent WNT signaling,0.0909,1,11,224,PSMB4
+TCR signaling,0.0909,1,11,163,PSMB4
+Degradation of DVL,0.0909,1,11,58,PSMB4
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,0.0909,1,11,55,PSMB4
+Formation of paraxial mesoderm,0.0909,1,11,72,PSMB4
+Degradation of beta-catenin by the destruction complex,0.0909,1,11,118,PSMB4
+Dectin-1 mediated noncanonical NF-kB signaling,0.0909,1,11,81,PSMB4
+Cellular response to hypoxia,0.0909,1,11,129,PSMB4
+MAPK6/MAPK4 signaling,0.0909,1,11,122,PSMB4
+Gastrulation,0.0909,1,11,181,PSMB4
+Signaling by Hedgehog,0.0909,1,11,354,PSMB4
+Hedgehog 'off' state,0.0909,1,11,197,PSMB4
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,0.0909,1,11,110,PSMB4
+Regulation of RAS by GAPs,0.0909,1,11,68,PSMB4
+NIK-->noncanonical NF-kB signaling,0.0909,1,11,79,PSMB4
+Metabolism of carbohydrates,0.0909,1,11,934,STAB2
+Nuclear events mediated by NFE2L2,0.0909,1,11,150,PSMB4
+Negative regulation of NOTCH4 signaling,0.0909,1,11,62,PSMB4
+Vif-mediated degradation of APOBEC3G,0.0909,1,11,53,PSMB4
+Mitotic G2-G2/M phases,0.087,2,23,264,E2F1;PSMB4
+Fc epsilon receptor (FCERI) signaling,0.0833,1,12,355,PSMB4
+The role of GTSE1 in G2/M progression after G2 checkpoint,0.0833,1,12,81,PSMB4
+Signaling by NOTCH4,0.0833,1,12,109,PSMB4
+C-type lectin receptors (CLRs),0.0833,1,12,221,PSMB4
+UCH proteinases,0.0833,1,12,189,PSMB4
+Neddylation,0.08,2,25,294,PSMB4;WDR5
+Proteasome assembly,0.0769,1,13,129,PSMB4
+Chromatin modifying enzymes,0.0769,1,13,1433,WDR5
+Regulation of mRNA stability by proteins that bind AU-rich elements,0.0769,1,13,105,PSMB4
+Signaling by the B Cell Receptor (BCR),0.0769,1,13,302,PSMB4
+KEAP1-NFE2L2 pathway,0.0769,1,13,239,PSMB4
+Disorders of transmembrane transporters,0.0769,1,13,456,PSMB4
+Downstream signaling events of B Cell Receptor (BCR),0.0769,1,13,113,PSMB4
+TNFR2 non-canonical NF-kB pathway,0.0769,1,13,145,PSMB4
+Chromatin organization,0.0769,1,13,1433,WDR5
+ER-Phagosome pathway,0.0769,1,13,127,PSMB4
+Transcriptional regulation by RUNX2,0.0769,1,13,234,PSMB4
+Antigen processing-Cross presentation,0.0769,1,13,201,PSMB4
+Vesicle-mediated transport,0.075,3,40,1389,TBC1D16;KIFC1;STAB2
+TCF dependent signaling in response to WNT,0.0714,1,14,419,PSMB4
+Signaling by Rho GTPases,0.0714,2,28,927,CENPH;DSN1
+Ub-specific processing proteases,0.0714,1,14,628,PSMB4
+HIV Infection,0.0714,2,28,346,FEN1;PSMB4
+Cellular response to chemical stress,0.0714,1,14,347,PSMB4
+Immune System,0.0704,5,71,5116,LRRC14;DSN1;PSMB4;FCN2;OASL
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.069,2,29,945,CENPH;DSN1
+Epigenetic regulation of gene expression,0.0667,1,15,693,WDR5
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,0.0667,1,15,72,PSMB4
+APC/C:Cdc20 mediated degradation of Securin,0.0667,1,15,67,PSMB4
+MAPK1/MAPK3 signaling,0.0667,1,15,484,PSMB4
+RAF/MAP kinase cascade,0.0667,1,15,472,PSMB4
+Autodegradation of Cdh1 by Cdh1:APC/C,0.0667,1,15,65,PSMB4
+CDK-mediated phosphorylation and removal of Cdc6,0.0667,1,15,74,PSMB4
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,0.0667,1,15,71,PSMB4
+Generic Transcription Pathway,0.0645,4,62,2126,PSMB4;ZNF696;E2F1;WDR5
+APC/C:Cdc20 mediated degradation of mitotic proteins,0.0625,1,16,75,PSMB4
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,0.0625,1,16,138,PSMB4
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,0.0625,1,16,95,PSMB4
+Regulation of APC/C activators between G1/S and early anaphase,0.0625,1,16,103,PSMB4
+PTEN Regulation,0.0625,1,16,203,PSMB4
+Intra-Golgi and retrograde Golgi-to-ER traffic,0.0625,1,16,300,KIFC1
+Signaling by WNT,0.0625,1,16,773,PSMB4
+MAPK family signaling cascades,0.0625,1,16,559,PSMB4
+Metabolism of lipids,0.0588,1,17,978,CYP2C8
+Deubiquitination,0.0588,1,17,778,PSMB4
+Regulation of mitotic cell cycle,0.0588,1,17,165,PSMB4
+APC/C-mediated degradation of cell cycle proteins,0.0588,1,17,165,PSMB4
+HIV Life Cycle,0.0588,1,17,225,FEN1
+Host Interactions of HIV factors,0.0588,1,17,184,PSMB4
+Metabolism,0.0571,4,70,3291,STAB2;C12orf73;PSMB4;CYP2C8
+PIP3 activates AKT signaling,0.0556,1,18,411,PSMB4
+Cellular responses to stress,0.0556,3,54,1392,E2F1;CDKN2C;PSMB4
+Developmental Biology,0.0545,3,55,2608,PSMB4;WDR5;E2F1
+Membrane Trafficking,0.0541,2,37,1206,TBC1D16;KIFC1
+Cellular responses to stimuli,0.0536,3,56,1568,E2F1;CDKN2C;PSMB4
+RNA Polymerase II Transcription,0.0533,4,75,2337,E2F1;ZNF696;PSMB4;WDR5
+Hemostasis,0.0526,1,19,1150,KIFC1
+Intracellular signaling by second messengers,0.0526,1,19,486,PSMB4
+DNA Repair,0.0526,1,19,528,FEN1
+Viral Infection Pathways,0.0517,3,58,1511,FEN1;CLEC4M;PSMB4
+Neutrophil degranulation,0.05,1,20,1316,DSN1
+Transport of small molecules,0.05,1,20,852,PSMB4
+Signal Transduction,0.0494,4,81,5444,PSMB4;DSN1;E2F1;CENPH
+Regulation of expression of SLITs and ROBOs,0.0476,1,21,206,PSMB4
+Gene expression (Transcription),0.0476,4,84,2954,ZNF696;E2F1;PSMB4;WDR5
+G2/M Transition,0.0455,1,22,260,PSMB4
+Metabolism of amino acids and derivatives,0.0455,1,22,379,PSMB4
+Infectious disease,0.0448,3,67,2039,CLEC4M;FEN1;PSMB4
+Signaling by ROBO receptors,0.0435,1,23,268,PSMB4
+Disease,0.043,4,93,8704,PSMB4;CLEC4M;FEN1;E2F1
+Antigen processing: Ubiquitination & Proteasome degradation,0.0417,1,24,306,PSMB4
+Post-translational protein modification,0.0385,3,78,3379,WDR5;TTL;PSMB4
+Diseases of signal transduction by growth factor receptors and second messengers,0.0385,1,26,2316,PSMB4
+Class I MHC mediated antigen processing & presentation,0.037,1,27,538,PSMB4
+Transcriptional Regulation by TP53,0.037,1,27,614,E2F1
+Axon guidance,0.0312,1,32,1009,PSMB4
+Nervous system development,0.0303,1,33,1059,PSMB4
+Adaptive Immune System,0.027,1,37,1430,PSMB4
+Metabolism of proteins,0.0265,3,113,4511,WDR5;PSMB4;TTL
+Metabolism of RNA,0.0137,1,73,932,PSMB4

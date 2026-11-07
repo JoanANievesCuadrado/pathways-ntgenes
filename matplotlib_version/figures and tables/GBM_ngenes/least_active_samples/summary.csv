@@ -1,0 +1,6 @@
+sample,file_stem,selected_by,n_active_genes,n_active_pathways,gene_distance,all_genes_distance,pathway_distance
+TCGA-06-0680-11A,TCGA-06-0680-11A,genes+pathways,3849,2000,105.1839,265.7875,19.3198
+TCGA-06-0678-11A,TCGA-06-0678-11A,genes+pathways,3280,1839,106.5938,255.5258,21.4713
+TCGA-06-0675-11A,TCGA-06-0675-11A,genes+pathways,3746,1948,105.5156,261.1802,19.7002
+TCGA-06-AABW-11A,TCGA-06-AABW-11A,genes+pathways,2460,1789,110.3329,241.0806,24.8708
+TCGA-06-0681-11A,TCGA-06-0681-11A,genes+pathways,3215,1932,106.5373,252.2136,20.9322

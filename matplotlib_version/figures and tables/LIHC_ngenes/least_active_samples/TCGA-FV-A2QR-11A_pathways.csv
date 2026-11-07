@@ -1,0 +1,14 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+RND3 GTPase cycle,1.0,1,1,42,RND3
+NGF-stimulated transcription,0.5,1,2,80,FOSB
+Nuclear Events (kinase and transcription factor activation),0.3333,1,3,117,FOSB
+Signaling by NTRK1 (TRKA),0.1667,1,6,246,FOSB
+Signaling by NTRKs,0.1429,1,7,309,FOSB
+Estrogen-dependent gene expression,0.125,1,8,218,FOSB
+ESR-mediated signaling,0.0909,1,11,339,FOSB
+Signaling by Nuclear Receptors,0.0833,1,12,444,FOSB
+RHO GTPase cycle,0.0667,1,15,497,RND3
+Signaling by Receptor Tyrosine Kinases,0.0588,1,17,1247,FOSB
+Signaling by Rho GTPases,0.0357,1,28,927,RND3
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0345,1,29,945,RND3
+Signal Transduction,0.0247,2,81,5444,FOSB;RND3

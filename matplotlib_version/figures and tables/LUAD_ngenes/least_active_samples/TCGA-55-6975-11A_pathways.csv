@@ -1,0 +1,134 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Activation of Matrix Metalloproteinases,1.0,1,1,87,CTSG
+Alanine metabolism,1.0,1,1,2,GPT2
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",1.0,1,1,81,ST8SIA6
+Aquaporin-mediated transport,1.0,1,1,55,AQP4
+Antimicrobial peptides,1.0,1,1,220,CTSG
+Regulation of TNFR1 signaling,1.0,1,1,102,OTUD1
+Zinc transporters,1.0,1,1,18,SLC39A8
+Zinc influx into cells by the SLC39 gene family,1.0,1,1,10,SLC39A8
+Cellular hexose transport,1.0,1,1,21,SLC2A1
+Cell recruitment (pro-inflammatory response),1.0,1,1,44,CTSG
+Chylomicron clearance,1.0,1,1,18,LDLR
+Complex III assembly,1.0,1,1,37,UQCC2
+Common Pathway of Fibrin Clot Formation,1.0,1,1,60,F8
+Defective F9 variant does not activate FX,1.0,1,1,19,F8
+Defective F8 accelerates dissociation of the A2 domain,1.0,1,1,11,F8
+Defective F8 sulfation at Y1699,1.0,1,1,3,F8
+Defective F8 secretion,1.0,1,1,46,F8
+Defective F8 binding to the cell membrane,1.0,1,1,5,F8
+Defective factor IX causes thrombophilia,1.0,1,1,9,F8
+Defective cofactor function of FVIIIa variant,1.0,1,1,11,F8
+Defective SLC2A1 causes GLUT1 deficiency syndrome 1 (GLUT1DS1),1.0,1,1,6,SLC2A1
+Interleukin-1 processing,1.0,1,1,22,CTSG
+Response of Mtb to phagocytosis,1.0,1,1,41,CTSG
+Retinoid metabolism and transport,1.0,1,1,129,LDLR
+Sialic acid metabolism,1.0,1,1,34,ST8SIA6
+TNFR1-induced NF-kappa-B signaling pathway,1.0,1,1,46,OTUD1
+TNF signaling,1.0,1,1,125,OTUD1
+Synthesis of substrates in N-glycan biosythesis,1.0,1,1,65,ST8SIA6
+Vitamin C (ascorbate) metabolism,1.0,1,1,8,SLC2A1
+Passive transport by Aquaporins,1.0,1,1,13,AQP4
+Purinergic signaling in leishmaniasis infection,1.0,1,1,44,CTSG
+N-Glycan antennae elongation,1.0,1,1,15,ST8SIA6
+Metal ion SLC transporters,1.0,1,1,27,SLC39A8
+Metabolism of fat-soluble vitamins,1.0,1,1,133,LDLR
+N-glycan antennae elongation in the medial/trans-Golgi,1.0,1,1,28,ST8SIA6
+Metabolism of Angiotensinogen to Angiotensins,1.0,1,1,28,CTSG
+Lactose synthesis,1.0,1,1,4,SLC2A1
+Suppression of apoptosis,1.0,1,1,9,CTSG
+TNFR1-induced proapoptotic signaling,1.0,1,1,30,OTUD1
+Vasopressin regulates renal water homeostasis via Aquaporins,1.0,1,1,46,AQP4
+Metabolism of vitamins and cofactors,0.6667,2,3,312,SLC2A1;LDLR
+Defective factor IX causes hemophilia B,0.5,1,2,57,F8
+"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",0.5,1,2,137,F8
+Adrenoceptors,0.5,1,2,9,ADRB2
+Defective F8 binding to von Willebrand factor,0.5,1,2,15,F8
+Transport to the Golgi and subsequent modification,0.5,2,4,355,F8;ST8SIA6
+Visual phototransduction,0.5,1,2,226,LDLR
+LDL clearance,0.5,1,2,36,LDLR
+Plasma lipoprotein clearance,0.5,1,2,83,LDLR
+RHOU GTPase cycle,0.5,1,2,44,ARHGAP31
+Metabolism of water-soluble vitamins and cofactors,0.5,1,2,151,SLC2A1
+"Plasma lipoprotein assembly, remodeling, and clearance",0.5,1,2,146,LDLR
+"Transport of bile salts and organic acids, metal ions and amine compounds",0.5,1,2,87,SLC39A8
+Infection with Mycobacterium tuberculosis,0.5,1,2,45,CTSG
+Defective factor VIII causes hemophilia A,0.5,1,2,97,F8
+Cargo recognition for clathrin-mediated endocytosis,0.5,2,4,129,LDLR;ADRB2
+Clathrin-mediated endocytosis,0.5,2,4,212,ADRB2;LDLR
+Defective F8 cleavage by thrombin,0.5,1,2,11,F8
+Cargo concentration in the ER,0.5,1,2,49,F8
+COPII-mediated vesicle transport,0.5,1,2,179,F8
+Asparagine N-linked glycosylation,0.5,2,4,488,ST8SIA6;F8
+SLC-mediated transmembrane transport,0.4,2,5,257,SLC39A8;SLC2A1
+Amine ligand-binding receptors,0.3333,1,3,42,ADRB2
+Leishmania infection,0.3333,1,3,407,CTSG
+ER to Golgi Anterograde Transport,0.3333,1,3,322,F8
+Death Receptor Signaling,0.3333,1,3,274,OTUD1
+Calcitonin-like ligand receptors,0.3333,1,3,11,CALCRL
+Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),0.3333,1,3,207,F8
+Formation of Fibrin Clot (Clotting Cascade),0.3333,1,3,114,F8
+Intrinsic Pathway of Fibrin Clot Formation,0.3333,1,3,60,F8
+Regulation of insulin secretion,0.3333,1,3,128,SLC2A1
+SLC transporter disorders,0.3333,1,3,308,SLC2A1
+Respiratory electron transport,0.3333,2,6,178,TMEM177;UQCC2
+Diseases of hemostasis,0.3333,1,3,263,F8
+Integration of energy metabolism,0.3333,1,3,191,SLC2A1
+Parasitic Infection Pathways,0.3333,1,3,407,CTSG
+Degradation of the extracellular matrix,0.2857,2,7,2051,CTSG;ADAMTS8
+Transport of small molecules,0.2667,4,15,852,SLC39A8;SLC2A1;AQP4;LDLR
+Aerobic respiration and respiratory electron transport,0.25,2,8,311,TMEM177;UQCC2
+G alpha (s) signalling events,0.25,2,8,195,CALCRL;ADRB2
+High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,0.25,1,4,97,CALCRL
+Complex IV assembly,0.25,1,4,54,TMEM177
+Peptide hormone metabolism,0.25,1,4,167,CTSG
+Metabolism of carbohydrates,0.25,1,4,934,SLC2A1
+Membrane Trafficking,0.25,3,12,1206,F8;LDLR;ADRB2
+Bacterial Infection Pathways,0.25,1,4,167,CTSG
+Disorders of transmembrane transporters,0.25,1,4,456,SLC2A1
+CDC42 GTPase cycle,0.25,1,4,158,ARHGAP31
+Deubiquitination,0.2,1,5,778,ADRB2
+Diseases associated with O-glycosylation of proteins,0.2,1,5,113,ADAMTS8
+Defective B3GALTL causes PpS,0.2,1,5,38,ADAMTS8
+Chemokine receptors bind chemokines,0.2,1,5,58,CXCR1
+Diseases of glycosylation,0.2,1,5,483,ADAMTS8
+Metabolism of amino acids and derivatives,0.2,1,5,379,GPT2
+O-linked glycosylation,0.2,1,5,431,ADAMTS8
+O-glycosylation of TSR domain-containing proteins,0.2,1,5,113,ADAMTS8
+RAC1 GTPase cycle,0.2,1,5,187,ARHGAP31
+Response of endothelial cells to shear stress,0.2,1,5,143,CALCRL
+Ub-specific processing proteases,0.2,1,5,628,ADRB2
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),0.2,1,5,251,CTSG
+Vesicle-mediated transport,0.1765,3,17,1389,F8;ADRB2;LDLR
+Class B/2 (Secretin family receptors),0.1667,1,6,102,CALCRL
+Cellular responses to mechanical stimuli,0.1667,1,6,159,CALCRL
+RHOA GTPase cycle,0.1429,1,7,152,ARHGAP31
+Response to elevated platelet cytosolic Ca2+,0.1429,1,7,273,F8
+Interleukin-1 family signaling,0.1429,1,7,239,CTSG
+Diseases of metabolism,0.1429,1,7,952,ADAMTS8
+Platelet degranulation ,0.1429,1,7,264,F8
+Metabolism,0.1351,5,37,3291,LDLR;GPT2;SLC2A1;TMEM177;UQCC2
+Extracellular matrix organization,0.1333,2,15,3755,CTSG;ADAMTS8
+GPCR downstream signalling,0.125,3,24,825,CXCR1;CALCRL;ADRB2
+Post-translational protein modification,0.1212,4,33,3379,F8;ST8SIA6;ADAMTS8;ADRB2
+GPCR ligand binding,0.12,3,25,517,ADRB2;CALCRL;CXCR1
+Sensory Perception,0.1111,1,9,1355,LDLR
+Metabolism of proteins,0.1111,5,45,4511,ADRB2;F8;ST8SIA6;ADAMTS8;CTSG
+Signaling by GPCR,0.1071,3,28,917,ADRB2;CXCR1;CALCRL
+Class A/1 (Rhodopsin-like receptors),0.1053,2,19,376,ADRB2;CXCR1
+Neutrophil degranulation,0.1,2,20,1316,CTSG;CXCR1
+G alpha (i) signalling events,0.1,1,10,444,CXCR1
+"Platelet activation, signaling and aggregation",0.0909,1,11,497,F8
+Disease,0.087,4,46,8704,SLC2A1;F8;ADAMTS8;CTSG
+Peptide ligand-binding receptors,0.0833,1,12,243,CXCR1
+RHO GTPase cycle,0.0769,1,13,497,ARHGAP31
+Innate Immune System,0.0625,2,32,2725,CXCR1;CTSG
+Infectious disease,0.0588,1,17,2039,CTSG
+Signal Transduction,0.0581,5,86,5444,ARHGAP31;ADRB2;CXCR1;OTUD1;CALCRL
+Signaling by Rho GTPases,0.0455,1,22,927,ARHGAP31
+Signaling by Interleukins,0.0435,1,23,1058,CTSG
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0435,1,23,945,ARHGAP31
+Cytokine Signaling in Immune system,0.0385,1,26,1716,CTSG
+Hemostasis,0.0357,1,28,1150,F8
+Immune System,0.0333,2,60,5116,CTSG;CXCR1
+Cellular responses to stimuli,0.0312,1,32,1568,CALCRL

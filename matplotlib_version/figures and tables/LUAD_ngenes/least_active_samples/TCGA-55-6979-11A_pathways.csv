@@ -1,0 +1,124 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Maturation of nucleoprotein,1.0,1,1,28,SRPK1
+Downregulation of TGF-beta receptor signaling,1.0,1,1,67,PPP1R15A
+Cross-presentation of particulate exogenous antigens (phagosomes),1.0,2,2,11,NCF2;NCF1
+Replacement of protamines by nucleosomes in the male pronucleus,1.0,1,1,46,SRPK1
+Purine ribonucleoside monophosphate biosynthesis,1.0,1,1,11,PAICS
+ROS and RNS production in phagocytes,1.0,2,2,37,NCF2;NCF1
+RHO GTPases Activate NADPH Oxidases,1.0,2,2,31,NCF2;NCF1
+Regulation of TNFR1 signaling,1.0,1,1,102,OTUD1
+RAC2 GTPase cycle,1.0,2,2,92,NCF2;NCF1
+Nucleotide biosynthesis,1.0,1,1,14,PAICS
+Metabolism of nucleotides,1.0,1,1,102,PAICS
+TNFR1-induced NF-kappa-B signaling pathway,1.0,1,1,46,OTUD1
+TNFR1-induced proapoptotic signaling,1.0,1,1,30,OTUD1
+Translation of Structural Proteins,1.0,1,1,116,SRPK1
+Response of EIF2AK1 (HRI) to heme deficiency,1.0,1,1,32,PPP1R15A
+TNF signaling,1.0,1,1,125,OTUD1
+NGF-stimulated transcription,0.7143,5,7,80,ARC;FOSB;EGR2;EGR1;JUND
+Signaling by NTRK1 (TRKA),0.7143,5,7,246,EGR1;ARC;JUND;FOSB;EGR2
+Nuclear Events (kinase and transcription factor activation),0.7143,5,7,117,ARC;EGR2;FOSB;EGR1;JUND
+Signaling by NTRKs,0.7143,5,7,309,FOSB;EGR1;EGR2;JUND;ARC
+Signaling by VEGF,0.6667,2,3,176,NCF2;NCF1
+RAC3 GTPase cycle,0.6667,2,3,96,NCF2;NCF1
+VEGFA-VEGFR2 Pathway,0.6667,2,3,165,NCF1;NCF2
+Centrosome maturation,0.5,1,2,91,NEK2
+Cilium Assembly,0.5,1,2,321,NEK2
+ESR-mediated signaling,0.5,2,4,339,FOSB;JUND
+EGR2 and SOX10-mediated initiation of Schwann cell myelination,0.5,1,2,52,EGR2
+Detoxification of Reactive Oxygen Species,0.5,2,4,55,NCF2;NCF1
+Late SARS-CoV-2 Infection Events,0.5,1,2,89,SRPK1
+Loss of Nlp from mitotic centrosomes,0.5,1,2,79,NEK2
+Loss of proteins required for interphase microtubule organization from the centrosome,0.5,1,2,79,NEK2
+Estrogen-dependent gene expression,0.5,2,4,218,JUND;FOSB
+Regulation of PLK1 Activity at G2/M Transition,0.5,1,2,115,NEK2
+Regulation of PTEN gene transcription,0.5,1,2,100,EGR1
+PTEN Regulation,0.5,1,2,203,EGR1
+Recruitment of NuMA to mitotic centrosomes,0.5,1,2,103,NEK2
+Recruitment of mitotic centrosome proteins and complexes,0.5,1,2,89,NEK2
+Scavenging by Class A Receptors,0.5,1,2,75,MARCO
+TGF-beta receptor signaling activates SMADs,0.5,1,2,99,PPP1R15A
+Anchoring of the basal body to the plasma membrane,0.5,1,2,105,NEK2
+Adrenoceptors,0.5,1,2,9,ADRB2
+Antigen processing-Cross presentation,0.5,2,4,201,NCF2;NCF1
+Signaling by Receptor Tyrosine Kinases,0.4375,7,16,1247,JUND;EGR2;EGR1;NCF2;ARC;FOSB;NCF1
+RAC1 GTPase cycle,0.4,2,5,187,NCF1;NCF2
+Mitotic Prometaphase,0.375,3,8,263,ZWINT;CDCA8;NEK2
+RHO GTPase Effectors,0.3636,4,11,512,NCF2;CDCA8;ZWINT;NCF1
+PIP3 activates AKT signaling,0.3333,1,3,411,EGR1
+Interferon alpha/beta signaling,0.3333,1,3,171,EGR1
+Maternal to zygotic transition (MZT),0.3333,1,3,228,SRPK1
+AURKA Activation by TPX2,0.3333,1,3,81,NEK2
+Death Receptor Signaling,0.3333,1,3,274,OTUD1
+APC-Cdc20 mediated degradation of Nek2A,0.3333,1,3,36,NEK2
+Amine ligand-binding receptors,0.3333,1,3,42,ADRB2
+Signaling by Nuclear Receptors,0.3333,2,6,444,FOSB;JUND
+Signaling by TGF-beta Receptor Complex,0.3333,1,3,218,PPP1R15A
+Transcriptional regulation of white adipocyte differentiation,0.3333,1,3,148,EGR2
+SARS-CoV-2 Infection,0.3333,1,3,515,SRPK1
+Class I MHC mediated antigen processing & presentation,0.2857,2,7,538,NCF1;NCF2
+EML4 and NUDC in mitotic spindle formation,0.2857,2,7,122,ZWINT;CDCA8
+RHO GTPases Activate Formins,0.2857,2,7,154,CDCA8;ZWINT
+Resolution of Sister Chromatid Cohesion,0.2857,2,7,155,CDCA8;ZWINT
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,0.2857,2,7,95,CDCA8;ZWINT
+Amplification of signal from the kinetochores,0.2857,2,7,95,ZWINT;CDCA8
+M Phase,0.2727,3,11,632,CDCA8;NEK2;ZWINT
+Adipogenesis,0.25,1,4,185,EGR2
+Signaling by TGFB family members,0.25,1,4,310,PPP1R15A
+SUMOylation of DNA replication proteins,0.25,1,4,103,CDCA8
+Separation of Sister Chromatids,0.25,2,8,209,ZWINT;CDCA8
+Mitotic Spindle Checkpoint,0.25,2,8,112,CDCA8;ZWINT
+Organelle biogenesis and maintenance,0.25,1,4,458,NEK2
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.25,1,4,149,EGR2
+Cargo recognition for clathrin-mediated endocytosis,0.25,1,4,129,ADRB2
+Intracellular signaling by second messengers,0.25,1,4,486,EGR1
+Complex IV assembly,0.25,1,4,54,TMEM177
+Clathrin-mediated endocytosis,0.25,1,4,212,ADRB2
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,0.25,1,4,72,NEK2
+Activation of HOX genes during differentiation,0.25,1,4,149,EGR2
+APC/C:Cdc20 mediated degradation of mitotic proteins,0.25,1,4,75,NEK2
+Mitotic Anaphase,0.2222,2,9,284,CDCA8;ZWINT
+Mitotic Metaphase and Anaphase,0.2222,2,9,287,CDCA8;ZWINT
+Binding and Uptake of Ligands by Scavenger Receptors,0.2,1,5,183,MARCO
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,0.2,1,5,95,NEK2
+Deubiquitination,0.2,1,5,778,ADRB2
+Interferon Signaling,0.2,1,5,490,EGR1
+Ub-specific processing proteases,0.2,1,5,628,ADRB2
+G2/M Transition,0.2,1,5,260,NEK2
+Signaling by Rho GTPases,0.1818,4,22,927,NCF1;ZWINT;CDCA8;NCF2
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.1739,4,23,945,ZWINT;CDCA8;NCF2;NCF1
+Respiratory electron transport,0.1667,1,6,178,TMEM177
+Cell Cycle Checkpoints,0.1667,2,12,337,CDCA8;ZWINT
+Cellular response to chemical stress,0.1667,2,12,347,NCF2;NCF1
+Mitotic G2-G2/M phases,0.1667,1,6,264,NEK2
+SARS-CoV Infections,0.1667,1,6,779,SRPK1
+SUMO E3 ligases SUMOylate target proteins,0.1667,1,6,420,CDCA8
+SUMOylation,0.1667,1,6,442,CDCA8
+RHO GTPase cycle,0.1538,2,13,497,NCF2;NCF1
+"Cell Cycle, Mitotic",0.15,3,20,1024,NEK2;CDCA8;ZWINT
+Regulation of mitotic cell cycle,0.1429,1,7,165,NEK2
+APC/C-mediated degradation of cell cycle proteins,0.1429,1,7,165,NEK2
+Signal Transduction,0.1395,12,86,5444,JUND;ARC;EGR1;NCF1;ADRB2;FOSB;NCF2;OTUD1;ZWINT;EGR2;CDCA8;PPP1R15A
+Aerobic respiration and respiratory electron transport,0.125,1,8,311,TMEM177
+G alpha (s) signalling events,0.125,1,8,195,ADRB2
+Cell Cycle,0.12,3,25,1325,CDCA8;NEK2;ZWINT
+Vesicle-mediated transport,0.1176,2,17,1389,MARCO;ADRB2
+Cellular responses to stress,0.1154,3,26,1392,NCF1;NCF2;PPP1R15A
+Nervous system development,0.1111,1,9,1059,EGR2
+Adaptive Immune System,0.0952,2,21,1430,NCF1;NCF2
+Cellular responses to stimuli,0.0938,3,32,1568,PPP1R15A;NCF1;NCF2
+Viral Infection Pathways,0.0909,1,11,1511,SRPK1
+Membrane Trafficking,0.0833,1,12,1206,ADRB2
+Developmental Biology,0.0667,2,30,2608,SRPK1;EGR2
+Innate Immune System,0.0625,2,32,2725,NCF1;NCF2
+Post-translational protein modification,0.0606,2,33,3379,ADRB2;CDCA8
+Infectious disease,0.0588,1,17,2039,SRPK1
+Metabolism,0.0541,2,37,3291,PAICS;TMEM177
+Class A/1 (Rhodopsin-like receptors),0.0526,1,19,376,ADRB2
+Immune System,0.05,3,60,5116,NCF1;NCF2;EGR1
+Metabolism of proteins,0.0444,2,45,4511,ADRB2;CDCA8
+GPCR downstream signalling,0.0417,1,24,825,ADRB2
+GPCR ligand binding,0.04,1,25,517,ADRB2
+Cytokine Signaling in Immune system,0.0385,1,26,1716,EGR1
+Signaling by GPCR,0.0357,1,28,917,ADRB2
+Disease,0.0217,1,46,8704,SRPK1

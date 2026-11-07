@@ -1,0 +1,120 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Biosynthesis of maresins,1.0,1,1,8,CYP2C8
+Biosynthesis of DHA-derived SPMs,1.0,1,1,18,CYP2C8
+Arachidonate metabolism,1.0,1,1,68,CYP2C8
+Biosynthesis of maresin-like SPMs,1.0,1,1,6,CYP2C8
+Cytochrome P450 - arranged by substrate type,1.0,1,1,65,CYP2C8
+CYP2E1 reactions,1.0,1,1,11,CYP2C8
+Biosynthesis of specialized proresolving mediators (SPMs),1.0,1,1,22,CYP2C8
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),1.0,1,1,8,CYP2C8
+Xenobiotics,1.0,1,1,24,CYP2C8
+Phase I - Functionalization of compounds,1.0,1,1,109,CYP2C8
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),1.0,1,1,9,CYP2C8
+RND3 GTPase cycle,1.0,1,1,42,RND3
+Aspirin ADME,0.5,1,2,46,CYP2C8
+Scavenging by Class A Receptors,0.5,1,2,75,MARCO
+Biological oxidations,0.5,1,2,234,CYP2C8
+TBC/RABGAPs,0.5,1,2,45,TBC1D16
+Peptide chain elongation,0.375,3,8,91,RPS5;RPS16;RPL10
+Eukaryotic Translation Termination,0.375,3,8,98,RPS16;RPS5;RPL10
+Eukaryotic Translation Elongation,0.375,3,8,96,RPS16;RPS5;RPL10
+Viral mRNA Translation,0.375,3,8,90,RPS16;RPL10;RPS5
+Selenocysteine synthesis,0.375,3,8,94,RPS5;RPS16;RPL10
+Drug ADME,0.3333,1,3,122,CYP2C8
+Binding and Uptake of Ligands by Scavenger Receptors,0.3333,1,3,183,MARCO
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),0.3333,3,9,96,RPS5;RPS16;RPL10
+Selenoamino acid metabolism,0.3,3,10,119,RPS16;RPS5;RPL10
+Formation of a pool of free 40S subunits,0.3,3,10,102,RPL10;RPS5;RPS16
+Response of EIF2AK4 (GCN2) to amino acid deficiency,0.3,3,10,116,RPS5;RPL10;RPS16
+SARS-CoV-1 modulates host translation machinery,0.2857,2,7,37,RPS16;RPS5
+L13a-mediated translational silencing of Ceruloplasmin expression,0.2727,3,11,113,RPS5;RPS16;RPL10
+Cellular response to starvation,0.2727,3,11,171,RPS5;RPL10;RPS16
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),0.25,3,12,118,RPS16;RPL10;RPS5
+Fatty acid metabolism,0.25,1,4,192,CYP2C8
+GTP hydrolysis and joining of the 60S ribosomal subunit,0.25,3,12,113,RPS16;RPS5;RPL10
+Nonsense-Mediated Decay (NMD),0.25,3,12,118,RPS5;RPL10;RPS16
+Influenza Viral RNA Transcription and Replication,0.2308,3,13,141,RPS16;RPS5;RPL10
+SRP-dependent cotranslational protein targeting to membrane,0.2308,3,13,211,RPS16;RPS5;RPL10
+Ribosomal scanning and start codon recognition,0.2222,2,9,59,RPS5;RPS16
+"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",0.2222,2,9,60,RPS5;RPS16
+Translation initiation complex formation,0.2222,2,9,59,RPS16;RPS5
+"Formation of the ternary complex, and subsequently, the 43S complex",0.2222,2,9,52,RPS16;RPS5
+Eukaryotic Translation Initiation,0.2143,3,14,121,RPS5;RPL10;RPS16
+Cap-dependent Translation Initiation,0.2143,3,14,120,RPS5;RPS16;RPL10
+SARS-CoV-2 modulates host translation machinery,0.2,2,10,53,RPS16;RPS5
+Inactivation of APC/C via direct inhibition of the APC/C complex,0.2,1,5,21,ANAPC11
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase,0.2,1,5,21,ANAPC11
+APC-Cdc20 mediated degradation of Nek2A,0.2,1,5,36,ANAPC11
+Aberrant regulation of mitotic exit in cancer due to RB1 defects,0.2,1,5,20,ANAPC11
+Rab regulation of trafficking,0.2,1,5,167,TBC1D16
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components,0.2,1,5,21,ANAPC11
+Major pathway of rRNA processing in the nucleolus and cytosol,0.1875,3,16,227,RPS5;RPS16;RPL10
+rRNA processing in the nucleus and cytosol,0.1765,3,17,285,RPL10;RPS16;RPS5
+rRNA processing,0.1765,3,17,302,RPL10;RPS16;RPS5
+Transcriptional Regulation by VENTX,0.1667,1,6,46,ANAPC11
+Aberrant regulation of mitotic cell cycle due to RB1 defects,0.1667,1,6,412,ANAPC11
+APC/C:Cdc20 mediated degradation of Cyclin B,0.1667,1,6,34,ANAPC11
+Phosphorylation of the APC/C,0.1667,1,6,20,ANAPC11
+Influenza Infection,0.1667,3,18,175,RPS16;RPL10;RPS5
+SARS-CoV-1-host interactions,0.1538,2,13,130,RPS16;RPS5
+Diseases of mitotic cell cycle,0.1429,1,7,562,ANAPC11
+Regulation of expression of SLITs and ROBOs,0.1429,3,21,206,RPL10;RPS5;RPS16
+Metabolism of amino acids and derivatives,0.1364,3,22,379,RPS5;RPS16;RPL10
+SARS-CoV-1 Infection,0.1333,2,15,195,RPS16;RPS5
+Signaling by ROBO receptors,0.1304,3,23,268,RPS5;RPL10;RPS16
+SARS-CoV-2-host interactions,0.125,2,16,253,RPS16;RPS5
+Senescence-Associated Secretory Phenotype (SASP),0.125,1,8,154,ANAPC11
+Translation,0.1111,3,27,492,RPS5;RPL10;RPS16
+SARS-CoV-2 Infection,0.0952,2,21,515,RPS16;RPS5
+Axon guidance,0.0938,3,32,1009,RPS5;RPL10;RPS16
+Nervous system development,0.0909,3,33,1059,RPS16;RPS5;RPL10
+Mitotic Spindle Checkpoint,0.0833,1,12,112,ANAPC11
+Cellular Senescence,0.0833,1,12,302,ANAPC11
+Cellular responses to stress,0.0741,4,54,1392,RPS5;ANAPC11;RPS16;RPL10
+SARS-CoV Infections,0.0714,2,28,779,RPS16;RPS5
+Cellular responses to stimuli,0.0714,4,56,1568,RPS16;RPS5;ANAPC11;RPL10
+Autodegradation of Cdh1 by Cdh1:APC/C,0.0667,1,15,65,ANAPC11
+CDK-mediated phosphorylation and removal of Cdc6,0.0667,1,15,74,ANAPC11
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,0.0667,1,15,72,ANAPC11
+APC/C:Cdc20 mediated degradation of Securin,0.0667,1,15,67,ANAPC11
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,0.0667,1,15,71,ANAPC11
+RHO GTPase cycle,0.0667,1,15,497,RND3
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,0.0625,1,16,95,ANAPC11
+APC/C:Cdc20 mediated degradation of mitotic proteins,0.0625,1,16,75,ANAPC11
+Regulation of APC/C activators between G1/S and early anaphase,0.0625,1,16,103,ANAPC11
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,0.0625,1,16,138,ANAPC11
+Metabolism of lipids,0.0588,1,17,978,CYP2C8
+APC/C-mediated degradation of cell cycle proteins,0.0588,1,17,165,ANAPC11
+Regulation of mitotic cell cycle,0.0588,1,17,165,ANAPC11
+Switching of origins to a post-replicative state,0.0588,1,17,111,ANAPC11
+Metabolism,0.0571,4,70,3291,RPL10;RPS5;CYP2C8;RPS16
+DNA Replication Pre-Initiation,0.0556,1,18,181,ANAPC11
+Assembly of the pre-replicative complex,0.0556,1,18,164,ANAPC11
+Developmental Biology,0.0545,3,55,2608,RPS5;RPL10;RPS16
+Viral Infection Pathways,0.0517,3,58,1511,RPS16;RPL10;RPS5
+Vesicle-mediated transport,0.05,2,40,1389,TBC1D16;MARCO
+Synthesis of DNA,0.05,1,20,151,ANAPC11
+DNA Replication,0.0476,1,21,295,ANAPC11
+S Phase,0.0455,1,22,268,ANAPC11
+Infectious disease,0.0448,3,67,2039,RPL10;RPS16;RPS5
+Separation of Sister Chromatids,0.0435,1,23,209,ANAPC11
+Disease,0.043,4,93,8704,RPS16;ANAPC11;RPS5;RPL10
+Antigen processing: Ubiquitination & Proteasome degradation,0.0417,1,24,306,ANAPC11
+Metabolism of RNA,0.0411,3,73,932,RPS16;RPS5;RPL10
+Class I MHC mediated antigen processing & presentation,0.037,1,27,538,ANAPC11
+Signaling by Rho GTPases,0.0357,1,28,927,RND3
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0345,1,29,945,RND3
+Cell Cycle Checkpoints,0.0333,1,30,337,ANAPC11
+Mitotic Anaphase,0.0323,1,31,284,ANAPC11
+Mitotic Metaphase and Anaphase,0.0323,1,31,287,ANAPC11
+Adaptive Immune System,0.027,1,37,1430,ANAPC11
+Membrane Trafficking,0.027,1,37,1206,TBC1D16
+Metabolism of proteins,0.0265,3,113,4511,RPS16;RPS5;RPL10
+M Phase,0.0263,1,38,632,ANAPC11
+"Cell Cycle, Mitotic",0.0192,1,52,1024,ANAPC11
+Cell Cycle,0.0164,1,61,1325,ANAPC11
+Generic Transcription Pathway,0.0161,1,62,2126,ANAPC11
+Immune System,0.0141,1,71,5116,ANAPC11
+RNA Polymerase II Transcription,0.0133,1,75,2337,ANAPC11
+Signal Transduction,0.0123,1,81,5444,RND3
+Gene expression (Transcription),0.0119,1,84,2954,ANAPC11

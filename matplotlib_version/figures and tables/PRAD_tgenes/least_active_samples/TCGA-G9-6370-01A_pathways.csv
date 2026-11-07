@@ -1,0 +1,19 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+PTK6 Down-Regulation,0.5,1,2,5,SRMS
+Interleukin receptor SHC signaling,0.1429,1,7,30,IL5RA
+Interleukin-2 family signaling,0.1,1,10,97,IL5RA
+"Interleukin-3, Interleukin-5 and GM-CSF signaling",0.0833,1,12,92,IL5RA
+Signaling by Non-Receptor Tyrosine Kinases,0.0625,1,16,103,SRMS
+Signaling by PTK6,0.0625,1,16,103,SRMS
+tRNA modification in the nucleus and cytosol,0.0625,1,16,46,THADA
+tRNA processing,0.0227,1,44,124,THADA
+RAF/MAP kinase cascade,0.0125,1,80,472,IL5RA
+MAPK1/MAPK3 signaling,0.012,1,83,484,IL5RA
+MAPK family signaling cascades,0.0106,1,94,559,IL5RA
+Signaling by Interleukins,0.0089,1,112,1058,IL5RA
+Neutrophil degranulation,0.0079,1,127,1316,LAMP1
+Cytokine Signaling in Immune system,0.0051,1,196,1716,IL5RA
+Immune System,0.0039,2,512,5116,IL5RA;LAMP1
+Innate Immune System,0.0039,1,255,2725,LAMP1
+Metabolism of RNA,0.0036,1,280,932,THADA
+Signal Transduction,0.0031,2,637,5444,SRMS;IL5RA

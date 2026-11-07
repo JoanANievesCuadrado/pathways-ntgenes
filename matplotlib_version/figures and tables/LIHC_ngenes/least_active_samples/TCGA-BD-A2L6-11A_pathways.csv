@@ -1,0 +1,23 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Defective ALG3 causes CDG-1d,1.0,1,1,4,ALG3
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",1.0,1,1,81,ALG3
+Zinc influx into cells by the SLC39 gene family,1.0,1,1,10,SLC39A3
+Zinc transporters,1.0,1,1,18,SLC39A3
+Metal ion SLC transporters,1.0,1,1,27,SLC39A3
+Diseases associated with N-glycosylation of proteins,0.5,1,2,68,ALG3
+"Transport of bile salts and organic acids, metal ions and amine compounds",0.5,1,2,87,SLC39A3
+Vitamin B2 (riboflavin) metabolism,0.5,1,2,7,FLAD1
+Scavenging by Class A Receptors,0.5,1,2,75,MARCO
+Binding and Uptake of Ligands by Scavenger Receptors,0.3333,1,3,183,MARCO
+Metabolism of water-soluble vitamins and cofactors,0.25,1,4,151,FLAD1
+Diseases of glycosylation,0.25,1,4,483,ALG3
+SLC-mediated transmembrane transport,0.2,1,5,257,SLC39A3
+Metabolism of vitamins and cofactors,0.1667,1,6,312,FLAD1
+Diseases of metabolism,0.1429,1,7,952,ALG3
+Asparagine N-linked glycosylation,0.0556,1,18,488,ALG3
+Transport of small molecules,0.05,1,20,852,SLC39A3
+Vesicle-mediated transport,0.025,1,40,1389,MARCO
+Metabolism,0.0143,1,70,3291,FLAD1
+Post-translational protein modification,0.0128,1,78,3379,ALG3
+Disease,0.0108,1,93,8704,ALG3
+Metabolism of proteins,0.0088,1,113,4511,ALG3

@@ -1,0 +1,271 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Conjugation of benzoate with glycine,1.0,1,1,6,ACSM1
+Conjugation of carboxylic acids,1.0,1,1,9,ACSM1
+Conjugation of phenylacetate with glutamine,1.0,1,1,2,ACSM1
+Histamine receptors,1.0,1,1,4,HRH3
+Alanine metabolism,1.0,1,1,2,GPT2
+Amino Acid conjugation,1.0,1,1,9,ACSM1
+Phosphorylation of CD3 and TCR zeta chains,0.5,1,2,32,CSK
+Branched-chain ketoacid dehydrogenase kinase deficiency,0.5,1,2,8,BCKDK
+Co-inhibition by PD-1,0.5,1,2,30,CSK
+Amine ligand-binding receptors,0.5,1,2,42,HRH3
+Ubiquinol biosynthesis,0.3333,1,3,14,COQ4
+CaMK IV-mediated phosphorylation of CREB,0.3333,1,3,30,CAMK2D
+AKT phosphorylates targets in the nucleus,0.25,1,4,17,RPS6KB2
+Protein hydroxylation,0.25,2,8,30,JMJD4;DRG2
+Diseases of branched-chain amino acid catabolism,0.25,1,4,96,BCKDK
+Advanced glycosylation endproduct receptor signaling,0.25,1,4,21,S100B
+Cytosolic iron-sulfur cluster assembly,0.25,1,4,13,NARFL
+Phase 0 - rapid depolarisation,0.25,1,4,33,CAMK2D
+Branched-chain amino acid catabolism,0.2222,2,9,26,BCAT2;BCKDK
+Long-term potentiation,0.2,1,5,36,CAMK2D
+Negative regulation of NMDA receptor-mediated neuronal transmission,0.2,1,5,28,CAMK2D
+Negative regulation of FLT3,0.2,1,5,30,CSK
+Beta-oxidation of pristanoyl-CoA,0.2,1,5,9,ACOT8
+Beta-oxidation of very long chain fatty acids,0.2,1,5,11,ACOT8
+alpha-linolenic acid (ALA) metabolism,0.2,1,5,14,ACOT8
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,0.2,1,5,14,ACOT8
+"Unblocking of NMDA receptors, glutamate binding and activation",0.2,1,5,45,CAMK2D
+mRNA decay by 5' to 3' exoribonuclease,0.2,1,5,23,EDC3
+Trafficking and processing of endosomal TLR,0.2,1,5,26,CNPY3
+RHOH GTPase cycle,0.1818,2,11,37,OSBPL11;CSK
+Metabolism of cofactors,0.1667,1,6,29,COQ4
+Ras activation upon Ca2+ influx through NMDA receptor,0.1667,1,6,21,CAMK2D
+GAB1 signalosome,0.1667,1,6,23,CSK
+Signaling by RAF1 mutants,0.1538,2,13,96,CSK;CAMK2D
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,0.1429,1,7,23,ACOT8
+RHOBTB1 GTPase cycle,0.1429,1,7,23,GPS1
+Regulation of MECP2 expression and activity,0.1429,1,7,41,CAMK2D
+Integrin signaling,0.1429,1,7,36,CSK
+Nuclear signaling by ERBB4,0.1429,1,7,71,S100B
+Paradoxical activation of RAF signaling by kinase inactive BRAF,0.1333,2,15,121,CSK;CAMK2D
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0.1333,2,15,242,COL2A1;MADCAM1
+NGF-stimulated transcription,0.1333,2,15,80,ID1;ID3
+Ovarian tumor domain proteases,0.1333,2,15,101,OTUB1;OTUD5
+Signaling downstream of RAS mutants,0.1333,2,15,113,CAMK2D;CSK
+Signaling by RAS mutants,0.1333,2,15,133,CAMK2D;CSK
+Signaling by moderate kinase activity BRAF mutants,0.1333,2,15,97,CSK;CAMK2D
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,0.125,1,8,50,CAMK2D
+NCAM1 interactions,0.125,1,8,154,COL2A1
+Platelet Aggregation (Plug Formation),0.125,1,8,71,CSK
+Arachidonate metabolism,0.125,1,8,68,FAAH
+Integrin cell surface interactions,0.1176,2,17,575,MADCAM1;COL2A1
+RHOBTB GTPase Cycle,0.1111,1,9,35,GPS1
+MET activates PTK2 signaling,0.1111,1,9,155,COL2A1
+Assembly and cell surface presentation of NMDA receptors,0.1111,1,9,66,CAMK2D
+Oncogene Induced Senescence,0.1111,1,9,58,ID1
+Calmodulin induced events,0.1111,1,9,67,CAMK2D
+CaM pathway,0.1111,1,9,67,CAMK2D
+Synthesis of bile acids and bile salts,0.1111,1,9,33,ACOT8
+Ca-dependent events,0.1,1,10,70,CAMK2D
+Peroxisomal lipid metabolism,0.1,1,10,28,ACOT8
+Signaling by BRAF and RAF1 fusions,0.1,2,20,103,CSK;CAMK2D
+Constitutive Signaling by AKT1 E17K in Cancer,0.1,1,10,48,RPS6KB2
+Negative regulators of DDX58/IFIH1 signaling,0.1,1,10,89,OTUD5
+Trafficking of AMPA receptors,0.0909,1,11,49,CAMK2D
+"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",0.0909,2,22,137,DRG2;JMJD4
+Sealing of the nuclear envelope (NE) by ESCRT-III,0.0909,1,11,32,VPS4A
+Budding and maturation of HIV virion,0.0909,1,11,39,VPS4A
+Signaling by high-kinase activity BRAF mutants,0.0909,1,11,58,CSK
+"Glutamate binding, activation of AMPA receptors and synaptic plasticity",0.0909,1,11,49,CAMK2D
+Transcriptional Regulation by MECP2,0.0909,1,11,116,CAMK2D
+Nuclear Events (kinase and transcription factor activation),0.087,2,23,117,ID1;ID3
+Bile acid and bile salt metabolism,0.0833,1,12,45,ACOT8
+Ion transport by P-type ATPases,0.0833,1,12,59,CAMK2D
+Collagen chain trimerization,0.0833,1,12,523,COL2A1
+Assembly of collagen fibrils and other multimeric structures,0.0833,1,12,605,COL2A1
+RAF activation,0.0833,1,12,48,CAMK2D
+DAG and IP3 signaling,0.0833,1,12,75,CAMK2D
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.0833,2,24,173,OTUD5;S100B
+Oncogenic MAPK signaling,0.08,2,25,386,CAMK2D;CSK
+Formation of the cornified envelope,0.0769,1,13,173,KRT18
+Collagen degradation,0.0769,1,13,1782,COL2A1
+Endosomal Sorting Complex Required For Transport (ESCRT),0.0769,1,13,55,VPS4A
+MET promotes cell motility,0.0769,1,13,166,COL2A1
+MAP2K and MAPK activation,0.0769,1,13,53,CSK
+Keratinization,0.0714,1,14,261,KRT18
+TRAF6 mediated NF-kB activation,0.0714,1,14,42,S100B
+NCAM signaling for neurite out-growth,0.0714,1,14,192,COL2A1
+FLT3 Signaling,0.0714,1,14,69,CSK
+DNA Damage Recognition in GG-NER,0.0714,1,14,52,GPS1
+PLC beta mediated events,0.0714,1,14,90,CAMK2D
+HSF1-dependent transactivation,0.0714,1,14,69,CAMK2D
+Ion homeostasis,0.0714,1,14,64,CAMK2D
+TAK1-dependent IKK and NF-kappa-B activation  ,0.0667,1,15,85,S100B
+Regulation of T cell activation by CD28 family,0.0667,1,15,103,CSK
+Signaling by EGFR,0.0625,1,16,85,CSK
+Synthesis of PIPs at the plasma membrane,0.0625,1,16,55,MTMR14
+Formation of TC-NER Pre-Incision Complex,0.0625,1,16,64,GPS1
+Association of TriC/CCT with target proteins during biosynthesis,0.0588,1,17,48,FBXW4
+G-protein mediated events,0.0588,1,17,108,CAMK2D
+ECM proteoglycans,0.0588,1,17,443,COL2A1
+mRNA 3'-end processing,0.0588,1,17,59,RNPS1
+Signaling by PDGF,0.0588,1,17,195,COL2A1
+Post NMDA receptor activation events,0.0588,1,17,153,CAMK2D
+Signaling by ERBB4,0.0556,1,18,124,S100B
+Regulation of MITF-M-dependent genes involved in pigmentation,0.0556,1,18,79,SMARCD2
+Activation of NMDA receptors and postsynaptic events,0.0556,1,18,207,CAMK2D
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,0.0526,1,19,39,SMARCD2
+Transcriptional regulation of white adipocyte differentiation,0.0526,1,19,148,MED16
+Collagen biosynthesis and modifying enzymes,0.0526,1,19,1248,COL2A1
+RNA Polymerase II Transcription Termination,0.0526,1,19,68,RNPS1
+Phase II - Conjugation of compounds,0.05,1,20,119,ACSM1
+Signaling by NTRK1 (TRKA),0.0488,2,41,246,ID3;ID1
+Intraflagellar transport,0.0476,1,21,114,IFT122
+Transcription-Coupled Nucleotide Excision Repair (TC-NER),0.0455,1,22,90,GPS1
+Collagen formation,0.0455,1,22,1513,COL2A1
+Fatty acid metabolism,0.0444,2,45,192,FAAH;ACOT8
+Transcriptional and post-translational regulation of MITF-M expression and activity,0.0435,1,23,95,ID1
+Adipogenesis,0.0435,1,23,185,MED16
+Cardiac conduction,0.0435,1,23,146,CAMK2D
+Peroxisomal protein import,0.0435,1,23,223,ACOT8
+RSV-host interactions,0.0417,1,24,171,MED16
+Cargo recognition for clathrin-mediated endocytosis,0.0417,1,24,129,GPS1
+Non-integrin membrane-ECM interactions,0.0417,1,24,430,COL2A1
+RMTs methylate histone arginines,0.0417,1,24,354,SMARCD2
+Toll-like Receptor Cascades,0.0417,2,48,348,S100B;CNPY3
+Deadenylation-dependent mRNA decay,0.0417,1,24,72,EDC3
+Transport of Mature mRNA derived from an Intron-Containing Transcript,0.0417,1,24,93,RNPS1
+MITF-M-regulated melanocyte development,0.0408,2,49,275,SMARCD2;ID1
+Signaling by NTRKs,0.0408,2,49,309,ID1;ID3
+Interferon gamma signaling,0.04,1,25,192,CAMK2D
+Nuclear Envelope (NE) Reassembly,0.04,1,25,106,VPS4A
+PI Metabolism,0.04,1,25,111,MTMR14
+Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),0.04,1,25,97,SMARCD2
+Signaling by MET,0.0385,1,26,232,COL2A1
+Transport of Mature Transcript to Cytoplasm,0.0385,1,26,103,RNPS1
+Degradation of the extracellular matrix,0.037,1,27,2051,COL2A1
+Global Genome Nucleotide Excision Repair (GG-NER),0.037,1,27,123,GPS1
+Opioid Signalling,0.0357,1,28,182,CAMK2D
+TCR signaling,0.0357,1,28,163,CSK
+Activation of HOX genes during differentiation,0.0357,1,28,149,PKNOX1
+PI3K/AKT Signaling in Cancer,0.0357,1,28,300,RPS6KB2
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.0357,1,28,149,PKNOX1
+PPARA activates gene expression,0.0345,1,29,177,MED16
+Regulation of lipid metabolism by PPARalpha,0.0345,1,29,179,MED16
+MITF-M-dependent gene expression,0.0345,1,29,193,SMARCD2
+Chaperonin-mediated protein folding,0.0333,1,30,130,FBXW4
+Respiratory Syncytial Virus Infection Pathway,0.0333,1,30,199,MED16
+Class A/1 (Rhodopsin-like receptors),0.0333,1,30,376,HRH3
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.0323,1,31,300,MED16
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.0323,1,31,300,MED16
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.0323,1,31,309,MED16
+Muscle contraction,0.0323,1,31,236,CAMK2D
+Protein folding,0.0323,1,31,153,FBXW4
+mRNA Splicing - Major Pathway,0.0317,2,63,205,RBM10;RNPS1
+Toll Like Receptor 5 (TLR5) Cascade,0.0312,1,32,197,S100B
+Hedgehog 'off' state,0.0312,1,32,197,IFT122
+Toll Like Receptor 10 (TLR10) Cascade,0.0312,1,32,197,S100B
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.0312,1,32,200,S100B
+MyD88 cascade initiated on plasma membrane,0.0312,1,32,197,S100B
+mRNA Splicing,0.0308,2,65,213,RBM10;RNPS1
+Interleukin-1 signaling,0.0303,1,33,161,S100B
+Toll Like Receptor 3 (TLR3) Cascade,0.0303,1,33,229,S100B
+MyD88 dependent cascade initiated on endosome,0.0303,1,33,214,S100B
+MyD88-independent TLR4 cascade ,0.0303,1,33,212,S100B
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.0303,1,33,221,S100B
+TRIF (TICAM1)-mediated TLR4 signaling ,0.0303,1,33,212,S100B
+Toll Like Receptor 9 (TLR9) Cascade,0.0294,1,34,226,S100B
+Signaling by Receptor Tyrosine Kinases,0.0294,5,170,1247,CSK;COL2A1;S100B;ID3;ID1
+Extracellular matrix organization,0.0294,2,68,3755,MADCAM1;COL2A1
+RAB GEFs exchange GTP for GDP on RABs,0.0286,1,35,122,DENND1A
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.0278,1,36,216,S100B
+Mitochondrial translation termination,0.0278,1,36,91,ERAL1
+Toll Like Receptor TLR6:TLR2 Cascade,0.0278,1,36,216,S100B
+HCMV Late Events,0.0278,1,36,241,VPS4A
+Nucleotide Excision Repair,0.0278,1,36,150,GPS1
+Cellular response to heat stress,0.0278,1,36,181,CAMK2D
+Mitochondrial translation initiation,0.027,1,37,90,ERAL1
+Toll Like Receptor 2 (TLR2) Cascade,0.027,1,37,219,S100B
+Toll Like Receptor TLR1:TLR2 Cascade,0.027,1,37,219,S100B
+Mitochondrial translation elongation,0.027,1,37,178,ERAL1
+Metabolism of steroids,0.0263,1,38,212,ACOT8
+Neddylation,0.0263,2,76,294,FBXW4;GPS1
+Regulation of endogenous retroelements,0.0263,1,38,272,SMARCD2
+Biological oxidations,0.0263,1,38,234,ACSM1
+Adaptive Immune System,0.0254,5,197,1430,RNF144B;FBXW4;COL2A1;CSK;MADCAM1
+Mitochondrial translation,0.025,1,40,185,ERAL1
+Interleukin-1 family signaling,0.025,1,40,239,S100B
+RAF/MAP kinase cascade,0.025,2,80,472,CSK;CAMK2D
+Ion channel transport,0.025,1,40,206,CAMK2D
+Macroautophagy,0.025,1,40,330,MTMR14
+GPCR ligand binding,0.0244,1,41,517,HRH3
+Neurotransmitter receptors and postsynaptic signal transmission,0.0244,1,41,372,CAMK2D
+Toll Like Receptor 4 (TLR4) Cascade,0.0244,1,41,267,S100B
+Rab regulation of trafficking,0.0244,1,41,167,DENND1A
+MAPK1/MAPK3 signaling,0.0241,2,83,484,CSK;CAMK2D
+Clathrin-mediated endocytosis,0.0238,1,42,212,GPS1
+RHO GTPase cycle,0.0234,3,128,497,OSBPL11;CSK;GPS1
+Deubiquitination,0.023,2,87,778,OTUD5;OTUB1
+Autophagy,0.0227,1,44,409,MTMR14
+Signaling by Hedgehog,0.0227,1,44,354,IFT122
+Intracellular signaling by second messengers,0.0227,2,88,486,CAMK2D;RPS6KB2
+HCMV Infection,0.0222,1,45,351,VPS4A
+Processing of Capped Intron-Containing Pre-mRNA,0.022,2,91,305,RNPS1;RBM10
+Diseases of signal transduction by growth factor receptors and second messengers,0.0217,3,138,2316,CSK;CAMK2D;RPS6KB2
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.0217,1,46,352,MED16
+MAPK family signaling cascades,0.0213,2,94,559,CSK;CAMK2D
+G alpha (i) signalling events,0.0213,1,47,444,CAMK2D
+Metabolism of lipids,0.0209,4,191,978,MTMR14;ACOT8;MED16;FAAH
+Metabolism of amino acids and derivatives,0.0208,3,144,379,GPT2;BCKDK;BCAT2
+Epigenetic regulation of gene expression,0.0206,2,97,693,MED16;SMARCD2
+Developmental Biology,0.0203,7,345,2608,PKNOX1;COL2A1;MED16;RNPS1;KRT18;SMARCD2;ID1
+Signaling by GPCR,0.0202,2,99,917,CAMK2D;HRH3
+Antigen processing: Ubiquitination & Proteasome degradation,0.0194,2,103,306,RNF144B;FBXW4
+Cellular Senescence,0.0192,1,52,302,ID1
+RNA Polymerase II Transcription,0.0187,7,374,2337,ZNF282;CAMK2D;SMARCD2;ZNF213;RNPS1;MED16;ZNF446
+Generic Transcription Pathway,0.0181,6,332,2126,SMARCD2;ZNF213;ZNF282;MED16;CAMK2D;ZNF446
+Late Phase of HIV Life Cycle,0.0179,1,56,209,VPS4A
+Immune System,0.0176,9,512,5116,CAMK2D;FBXW4;CSK;MADCAM1;S100B;OTUD5;COL2A1;RNF144B;CNPY3
+Ub-specific processing proteases,0.0175,1,57,628,OTUB1
+Signal Transduction,0.0173,11,637,5444,IFT122;ID1;S100B;GPS1;ID3;COL2A1;HRH3;RPS6KB2;CSK;OSBPL11;CAMK2D
+HIV Life Cycle,0.0172,1,58,225,VPS4A
+Transmission across Chemical Synapses,0.0169,1,59,461,CAMK2D
+Metabolism of vitamins and cofactors,0.0169,1,59,312,COQ4
+Phospholipid metabolism,0.0169,1,59,253,MTMR14
+Nonsense-Mediated Decay (NMD),0.0167,1,60,118,RNPS1
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),0.0167,1,60,118,RNPS1
+Cilium Assembly,0.0164,1,61,321,IFT122
+Class I MHC mediated antigen processing & presentation,0.0164,2,122,538,RNF144B;FBXW4
+Signaling by Rho GTPases,0.0162,3,185,927,OSBPL11;GPS1;CSK
+Protein localization,0.0161,1,62,462,ACOT8
+Mitotic Anaphase,0.0161,1,62,284,VPS4A
+Mitotic Metaphase and Anaphase,0.0159,1,63,287,VPS4A
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0158,3,190,945,CSK;OSBPL11;GPS1
+Cytokine Signaling in Immune system,0.0153,3,196,1716,S100B;CAMK2D;CSK
+Gene expression (Transcription),0.0153,7,458,2954,ZNF213;CAMK2D;MED16;ZNF446;ZNF282;RNPS1;SMARCD2
+Metabolism,0.0151,10,664,3291,GPT2;MED16;ACSM1;COQ4;ACOT8;FAAH;BCKDK;MTMR14;BCAT2;NARFL
+Membrane Trafficking,0.0151,3,199,1206,DENND1A;GPS1;VPS4A
+Transcriptional regulation by RUNX1,0.0149,1,67,389,SMARCD2
+Vesicle-mediated transport,0.0145,3,207,1389,VPS4A;DENND1A;GPS1
+"Platelet activation, signaling and aggregation",0.0145,1,69,497,CSK
+Diseases of metabolism,0.0145,1,69,952,BCKDK
+Post-translational protein modification,0.0137,6,438,3379,GPS1;OTUB1;JMJD4;OTUD5;FBXW4;DRG2
+Regulation of expression of SLITs and ROBOs,0.0137,1,73,206,RNPS1
+PIP3 activates AKT signaling,0.0132,1,76,411,RPS6KB2
+HIV Infection,0.013,1,77,346,VPS4A
+Signaling by ROBO receptors,0.0123,1,81,268,RNPS1
+Interferon Signaling,0.0123,1,81,490,CAMK2D
+Neuronal System,0.0122,1,82,641,CAMK2D
+Axon guidance,0.0119,2,168,1009,RNPS1;COL2A1
+Innate Immune System,0.0118,3,255,2725,CNPY3;S100B;OTUD5
+Organelle biogenesis and maintenance,0.0115,1,87,458,IFT122
+Nervous system development,0.0113,2,177,1059,COL2A1;RNPS1
+Disease,0.0112,6,534,8704,MED16;RPS6KB2;CAMK2D;VPS4A;BCKDK;CSK
+Metabolism of proteins,0.0108,7,647,4511,OTUD5;GPS1;DRG2;ERAL1;OTUB1;JMJD4;FBXW4
+GPCR downstream signalling,0.0108,1,93,825,CAMK2D
+Metabolism of RNA,0.0107,3,280,932,RBM10;RNPS1;EDC3
+Chromatin organization,0.0106,1,94,1433,SMARCD2
+Chromatin modifying enzymes,0.0106,1,94,1433,SMARCD2
+DNA Repair,0.0096,1,104,528,GPS1
+Signaling by Interleukins,0.0089,1,112,1058,S100B
+M Phase,0.0088,1,113,632,VPS4A
+Viral Infection Pathways,0.0075,2,265,1511,MED16;VPS4A
+Translation,0.0073,1,137,492,ERAL1
+Hemostasis,0.0072,1,138,1150,CSK
+Cellular responses to stress,0.0071,2,282,1392,ID1;CAMK2D
+"Cell Cycle, Mitotic",0.007,1,143,1024,VPS4A
+Cellular responses to stimuli,0.0065,2,308,1568,ID1;CAMK2D
+Transport of small molecules,0.0065,1,153,852,CAMK2D
+Infectious disease,0.0063,2,319,2039,MED16;VPS4A
+Cell Cycle,0.0056,1,178,1325,VPS4A

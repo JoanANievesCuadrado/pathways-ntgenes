@@ -1,0 +1,25 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Arachidonate metabolism,1.0,1,1,68,CYP2C8
+Biosynthesis of maresins,1.0,1,1,8,CYP2C8
+Biosynthesis of maresin-like SPMs,1.0,1,1,6,CYP2C8
+Biosynthesis of DHA-derived SPMs,1.0,1,1,18,CYP2C8
+Biosynthesis of specialized proresolving mediators (SPMs),1.0,1,1,22,CYP2C8
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),1.0,1,1,8,CYP2C8
+Cytochrome P450 - arranged by substrate type,1.0,1,1,65,CYP2C8
+CYP2E1 reactions,1.0,1,1,11,CYP2C8
+Phase I - Functionalization of compounds,1.0,1,1,109,CYP2C8
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),1.0,1,1,9,CYP2C8
+OAS antiviral response,1.0,1,1,9,OASL
+Xenobiotics,1.0,1,1,24,CYP2C8
+Interferon gamma signaling,0.5,1,2,192,OASL
+Biological oxidations,0.5,1,2,234,CYP2C8
+Aspirin ADME,0.5,1,2,46,CYP2C8
+Interferon alpha/beta signaling,0.5,1,2,171,OASL
+Drug ADME,0.3333,1,3,122,CYP2C8
+Fatty acid metabolism,0.25,1,4,192,CYP2C8
+Antiviral mechanism by IFN-stimulated genes,0.1,1,10,202,OASL
+Interferon Signaling,0.1,1,10,490,OASL
+Metabolism of lipids,0.0588,1,17,978,CYP2C8
+Cytokine Signaling in Immune system,0.0312,1,32,1716,OASL
+Metabolism,0.0143,1,70,3291,CYP2C8
+Immune System,0.0141,1,71,5116,OASL

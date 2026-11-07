@@ -1,0 +1,123 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+2-LTR circle formation,1.0,1,1,7,BANF1
+Acyl chain remodeling of CL,1.0,1,1,6,TAZ
+Autointegration results in viral DNA circles,1.0,1,1,3,BANF1
+Complement cascade,1.0,1,1,190,FCN2
+Creation of C4 and C2 activators,1.0,1,1,82,FCN2
+Formation of the cornified envelope,1.0,1,1,173,CAPNS1
+Initial triggering of complement,1.0,1,1,129,FCN2
+Ficolins bind to repetitive carbohydrate structures on the target cell surface,1.0,1,1,5,FCN2
+GPVI-mediated activation cascade,1.0,1,1,76,CLEC1B
+Integration of viral DNA into host genomic DNA,1.0,1,1,3,BANF1
+Nonhomologous End-Joining (NHEJ),1.0,1,1,73,BRE
+Keratinization,1.0,1,1,261,CAPNS1
+Lectin pathway of complement activation,1.0,1,1,12,FCN2
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,1.0,1,1,144,BRE
+DNA Double Strand Break Response,0.5,1,2,149,BRE
+Heme signaling,0.5,1,2,71,CLEC1B
+Intraflagellar transport,0.5,1,2,114,DYNLRB1
+"Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells",0.5,1,2,57,CAPNS1
+Metalloprotease DUBs,0.5,1,2,115,BRE
+Integration of provirus,0.5,1,2,12,BANF1
+APOBEC3G mediated resistance to HIV-1 infection,0.5,1,2,6,BANF1
+Golgi Associated Vesicle Biogenesis,0.3333,1,3,102,BLOC1S3
+Early Phase of HIV Life Cycle,0.3333,1,3,18,BANF1
+Cellular responses to mechanical stimuli,0.3333,1,3,159,CAPNS1
+Degradation of the extracellular matrix,0.3333,1,3,2051,CAPNS1
+High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,0.3333,1,3,97,CAPNS1
+Interactions of Vpr with host cellular proteins,0.3333,1,3,41,BANF1
+Negative epigenetic regulation of rRNA expression,0.3333,1,3,230,SAP30BP
+Vpr-mediated nuclear import of PICs,0.3333,1,3,38,BANF1
+Response of endothelial cells to shear stress,0.3333,1,3,143,CAPNS1
+NoRC negatively regulates rRNA expression,0.3333,1,3,195,SAP30BP
+Nucleosome assembly,0.3333,1,3,72,CENPT
+Deposition of new CENPA-containing nucleosomes at the centromere,0.3333,1,3,72,CENPT
+Neurodegenerative Diseases,0.25,1,4,56,CAPNS1
+DNA Damage Recognition in GG-NER,0.25,1,4,52,MCRS1
+Defective Intrinsic Pathway for Apoptosis,0.25,1,4,1366,CAPNS1
+Glycerophospholipid biosynthesis,0.25,1,4,144,TAZ
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,0.25,1,4,56,CAPNS1
+Processing of DNA double-strand break ends,0.25,1,4,117,BRE
+trans-Golgi Network Vesicle Budding,0.25,1,4,156,BLOC1S3
+Initiation of Nuclear Envelope (NE) Reformation,0.2,1,5,27,BANF1
+Mitochondrial protein import,0.2,1,5,151,TAZ
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),0.2,1,5,160,BRE
+Formation of WDR5-containing histone-modifying complexes,0.1667,1,6,53,MCRS1
+"Platelet activation, signaling and aggregation",0.1667,1,6,497,CLEC1B
+Nuclear Envelope Breakdown,0.1667,1,6,80,BANF1
+G2/M DNA damage checkpoint,0.1667,1,6,110,BRE
+Diseases of programmed cell death,0.1667,1,6,1469,CAPNS1
+Homology Directed Repair,0.1429,1,7,169,BRE
+Global Genome Nucleotide Excision Repair (GG-NER),0.1429,1,7,123,MCRS1
+mRNA 3'-end processing,0.1429,1,7,59,RNPS1
+Transport of Mature mRNA derived from an Intron-Containing Transcript,0.1429,1,7,93,RNPS1
+HATs acetylate histones,0.1429,1,7,599,MCRS1
+Extracellular matrix organization,0.1429,1,7,3755,CAPNS1
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,0.1429,1,7,95,CENPT
+Amplification of signal from the kinetochores,0.1429,1,7,95,CENPT
+EML4 and NUDC in mitotic spindle formation,0.1429,1,7,122,CENPT
+Mitotic Prophase,0.1429,1,7,233,BANF1
+Epigenetic regulation of gene expression,0.1333,2,15,693,SAP30BP;MCRS1
+RHO GTPases Activate Formins,0.125,1,8,154,CENPT
+Protein localization,0.125,1,8,462,TAZ
+Phospholipid metabolism,0.125,1,8,253,TAZ
+DNA Double-Strand Break Repair,0.125,1,8,260,BRE
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.125,1,8,352,MCRS1
+Deubiquitination,0.1176,2,17,778,BRE;MCRS1
+Nuclear Envelope (NE) Reassembly,0.1111,1,9,106,BANF1
+Nucleotide Excision Repair,0.1111,1,9,150,MCRS1
+Transport of Mature Transcript to Cytoplasm,0.1111,1,9,103,RNPS1
+RNA Polymerase II Transcription Termination,0.1111,1,9,68,RNPS1
+Resolution of Sister Chromatid Cohesion,0.1111,1,9,155,CENPT
+DNA Repair,0.1053,2,19,528,MCRS1;BRE
+Chromosome Maintenance,0.1,1,10,140,CENPT
+Cilium Assembly,0.0909,1,11,321,DYNLRB1
+UCH proteinases,0.0833,1,12,189,MCRS1
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),0.0833,1,12,118,RNPS1
+Nonsense-Mediated Decay (NMD),0.0833,1,12,118,RNPS1
+Mitotic Spindle Checkpoint,0.0833,1,12,112,CENPT
+Organelle biogenesis and maintenance,0.0833,1,12,458,DYNLRB1
+Chromatin organization,0.0769,1,13,1433,MCRS1
+Chromatin modifying enzymes,0.0769,1,13,1433,MCRS1
+mRNA Splicing - Major Pathway,0.069,2,29,205,PRCC;RNPS1
+mRNA Splicing,0.069,2,29,213,PRCC;RNPS1
+RHO GTPase Effectors,0.0667,1,15,512,CENPT
+Mitotic Prometaphase,0.0667,1,15,263,CENPT
+Cell Cycle Checkpoints,0.0667,2,30,337,BRE;CENPT
+Mitotic Metaphase and Anaphase,0.0645,2,31,287,CENPT;BANF1
+Mitotic Anaphase,0.0645,2,31,284,CENPT;BANF1
+Metabolism of lipids,0.0588,1,17,978,TAZ
+HIV Life Cycle,0.0588,1,17,225,BANF1
+Host Interactions of HIV factors,0.0588,1,17,184,BANF1
+Innate Immune System,0.0571,2,35,2725,C1orf35;FCN2
+G2/M Checkpoints,0.0556,1,18,189,BRE
+Processing of Capped Intron-Containing Pre-mRNA,0.0541,2,37,305,RNPS1;PRCC
+Hemostasis,0.0526,1,19,1150,CLEC1B
+M Phase,0.0526,2,38,632,CENPT;BANF1
+Neutrophil degranulation,0.05,1,20,1316,C1orf35
+Cell Cycle,0.0492,3,61,1325,BRE;BANF1;CENPT
+Regulation of expression of SLITs and ROBOs,0.0476,1,21,206,RNPS1
+Signaling by ROBO receptors,0.0435,1,23,268,RNPS1
+Separation of Sister Chromatids,0.0435,1,23,209,CENPT
+"Cell Cycle, Mitotic",0.0385,2,52,1024,CENPT;BANF1
+Developmental Biology,0.0364,2,55,2608,RNPS1;CAPNS1
+Signaling by Rho GTPases,0.0357,1,28,927,CENPT
+Cellular responses to stimuli,0.0357,2,56,1568,CLEC1B;CAPNS1
+HIV Infection,0.0357,1,28,346,BANF1
+Gene expression (Transcription),0.0357,3,84,2954,RNPS1;MCRS1;SAP30BP
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0345,1,29,945,CENPT
+Axon guidance,0.0312,1,32,1009,RNPS1
+Nervous system development,0.0303,1,33,1059,RNPS1
+Immune System,0.0282,2,71,5116,FCN2;C1orf35
+Metabolism of RNA,0.0274,2,73,932,PRCC;RNPS1
+Membrane Trafficking,0.027,1,37,1206,BLOC1S3
+Post-translational protein modification,0.0256,2,78,3379,MCRS1;BRE
+Vesicle-mediated transport,0.025,1,40,1389,BLOC1S3
+Disease,0.0215,2,93,8704,CAPNS1;BANF1
+Cellular responses to stress,0.0185,1,54,1392,CLEC1B
+Metabolism of proteins,0.0177,2,113,4511,MCRS1;BRE
+Viral Infection Pathways,0.0172,1,58,1511,BANF1
+Infectious disease,0.0149,1,67,2039,BANF1
+Metabolism,0.0143,1,70,3291,TAZ
+RNA Polymerase II Transcription,0.0133,1,75,2337,RNPS1
+Signal Transduction,0.0123,1,81,5444,CENPT

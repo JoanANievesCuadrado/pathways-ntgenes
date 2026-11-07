@@ -1,0 +1,1693 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+3-methylglutaconic aciduria,1.0,1,1,4,AUH
+3-Methylcrotonyl-CoA carboxylase deficiency,1.0,2,2,14,MCCC2;MCCC1
+PDE3B signalling,1.0,1,1,4,AKT2
+Intestinal infectious diseases,1.0,1,1,2,GUCY2C
+Signaling by FGFR2 fusions,1.0,1,1,16,FGFR2
+NADPH regeneration,1.0,1,1,3,ACO1
+Signaling by FGFR2 amplification mutants,1.0,1,1,4,FGFR2
+NTF3 activates NTRK2 (TRKB) signaling,1.0,1,1,3,NTF3
+Mitochondrial transcription termination,1.0,1,1,1,MTERF1
+Methylation of MeSeH for excretion,1.0,1,1,1,INMT
+Defective SLC26A2 causes chondrodysplasias,1.0,1,1,4,SLC26A2
+Defective CYP17A1 causes AH5,1.0,1,1,8,CYP17A1
+NTF3 activates NTRK3 signaling,1.0,1,1,5,NTF3
+Defective SLC34A2 causes PALM,1.0,1,1,5,SLC34A2
+"Defective SLCO1B3 causes hyperbilirubinemia, Rotor type (HBLRR)",1.0,1,1,1,SLCO1B3
+Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM),1.0,1,1,7,SLC5A1
+Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM),1.0,1,1,4,SLC34A2
+Defective GCK causes maturity-onset diabetes of the young 2 (MODY2),1.0,1,1,6,GCK
+Defective CYP4F22 causes ARCI5,1.0,1,1,4,CYP4F22
+Rhesus glycoproteins mediate ammonium transport,1.0,2,2,3,RHBG;RHCG
+Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,1.0,1,1,1,CYP1A2
+MPS IX - Natowicz syndrome,1.0,1,1,2,HYAL1
+MPS II - Hunter syndrome,1.0,1,1,4,IDS
+Defective CYP27A1 causes CTX,1.0,1,1,4,CYP27A1
+Defective CYP1B1 causes Glaucoma,1.0,1,1,9,CYP1B1
+MPS IV - Morquio syndrome B,1.0,1,1,4,GLB1
+Defective NEU1 causes sialidosis,1.0,3,3,8,CTSA;NEU1;GLB1
+Drug resistance of PDGFR mutants,1.0,1,1,11,PDGFRA
+Defective CSF2RA causes SMDP4,1.0,1,1,8,SFTPD
+Defective CSF2RB causes SMDP5,1.0,1,1,9,SFTPD
+Sorafenib-resistant PDGFR mutants,1.0,1,1,2,PDGFRA
+Defective ABCC6 causes PXE,1.0,1,1,1,ABCC6
+Defective ALG2 causes CDG-1i,1.0,1,1,3,ALG2
+Defective AVP does not bind AVPR2 and causes neurohypophyseal diabetes insipidus (NDI),1.0,1,1,8,AVPR2
+Synthesis of Hepoxilins (HX) and Trioxilins (TrX),1.0,1,1,1,ALOX12
+Sunitinib-resistant PDGFR mutants,1.0,1,1,1,PDGFRA
+Blockage of phagosome acidification,1.0,1,1,1,ATP6V1H
+NFG and proNGF binds to p75NTR,1.0,1,1,3,NGFR
+Defective SLC17A5 causes Salla disease (SD) and ISSD,1.0,1,1,5,SLC17A5
+Tandem pore domain halothane-inhibited K+ channel (THIK),1.0,1,1,1,KCNK13
+PDGFR mutants bind TKIs,1.0,1,1,11,PDGFRA
+Biosynthesis of DPAn-6 SPMs,1.0,1,1,2,ALOX12
+Regorafenib-resistant PDGFR mutants,1.0,1,1,1,PDGFRA
+Activation of AMPA receptors,1.0,1,1,4,GRIA3
+Conjugation of phenylacetate with glutamine,1.0,1,1,2,ACSM2B
+NFE2L2 regulating TCA cycle genes,1.0,1,1,6,ME1
+"Defective SLC12A6 causes agenesis of the corpus callosum, with peripheral neuropathy (ACCPN)",1.0,1,1,5,SLC12A6
+Imatinib-resistant PDGFR mutants,1.0,1,1,11,PDGFRA
+PKB-mediated events,1.0,1,1,4,AKT2
+PDH complex synthesizes acetyl-CoA from PYR,0.8,4,5,9,PDHX;DLD;PDHB;PDHA1
+Ficolins bind to repetitive carbohydrate structures on the target cell surface,0.75,3,4,5,FCN3;FCN2;MASP2
+Prostanoid ligand receptors,0.75,3,4,9,PTGFR;PTGIR;TBXA2R
+Lectin pathway of complement activation,0.7143,5,7,12,COLEC10;COLEC11;FCN3;FCN2;MASP2
+RHO GTPases regulate CFTR trafficking,0.6667,2,3,8,CFTR;RHOQ
+OGDH complex synthesizes succinyl-CoA from 2-OG,0.6667,2,3,6,DLD;OGDH
+Electric Transmission Across Gap Junctions,0.6667,2,3,5,PANX2;GJC1
+Co-inhibition by BTLA,0.6667,2,3,9,TNFRSF14;PTPN11
+Defective SERPING1 causes hereditary angioedema,0.6667,2,3,47,SERPING1;F12
+Electron transport from NADPH to Ferredoxin,0.6667,2,3,3,FDX1;FDXR
+Enzymatic degradation of dopamine by COMT,0.6667,2,3,3,COMT;ENSG00000184154
+Lipid particle organization,0.6667,2,3,6,FITM1;FITM2
+Transmission across Electrical Synapses ,0.6667,2,3,5,PANX2;GJC1
+Alternative complement activation,0.6667,2,3,32,CFB;CFP
+Dopamine clearance from the synaptic cleft,0.6667,2,3,4,COMT;ENSG00000184154
+Diseases associated with surfactant metabolism,0.6667,2,3,26,SLC34A2;SFTPD
+Defective factor XII causes hereditary angioedema,0.6667,2,3,12,F2;F12
+Biosynthesis of protectins,0.6667,2,3,4,CYP1A1;CYP1A2
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),0.625,5,8,9,CYP1A1;CYP1B1;CYP2C9;CYP1A2;CYP4A11
+Eicosanoid ligand-binding receptors,0.5714,4,7,15,PTGIR;GPR17;TBXA2R;PTGFR
+Defective HLCS causes multiple carboxylase deficiency,0.5714,4,7,13,MCCC1;MCCC2;ACACA;PCCB
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),0.5714,4,7,8,CYP2C9;CYP1B1;CYP1A2;CYP1A1
+Regulation of pyruvate dehydrogenase (PDH) complex,0.5385,7,13,16,PDP1;DLD;PDHX;PDHB;PDK1;SIRT4;PDHA1
+Activated NTRK3 signals through PLCG1,0.5,1,2,7,NTF3
+betaKlotho-mediated ligand binding,0.5,1,2,4,KLB
+Biosynthesis of Lipoxins (LX),0.5,2,4,6,HPGD;ALOX12
+Binding and entry of HIV virion,0.5,1,2,5,CD4
+Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK),0.5,1,2,3,KCNK1
+Interconversion of 2-oxoglutarate and 2-hydroxyglutarate,0.5,1,2,3,D2HGDH
+MyD88 deficiency (TLR5),0.5,1,2,5,MYD88
+Regulation of thyroid hormone activity,0.5,1,2,3,DIO2
+Enzymatic degradation of Dopamine by monoamine oxidase,0.5,1,2,2,COMT
+Transfer of LPS from LBP carrier to CD14,0.5,1,2,3,CD14
+Serotonin clearance from the synaptic cleft,0.5,1,2,3,ALDH2
+Abacavir metabolism,0.5,2,4,4,NT5C2;ADAL
+Mitochondrial ABC transporters,0.5,2,4,4,ABCB8;ABCB7
+Type II Na+/Pi cotransporters,0.5,1,2,3,SLC34A2
+Metabolism of serotonin,0.5,1,2,2,ALDH2
+5-Phosphoribose 1-diphosphate biosynthesis,0.5,1,2,3,PRPS2
+Defects in biotin (Btn) metabolism,0.5,4,8,24,ACACA;MCCC2;MCCC1;PCCB
+Defective visual phototransduction due to LRAT loss of function,0.5,1,2,2,LRAT
+Defective Mismatch Repair Associated With MLH1,0.5,1,2,3,MLH1
+Defective Mismatch Repair Associated With PMS2,0.5,1,2,3,MLH1
+Defective CYP11A1 causes AICSR,0.5,2,4,6,FDX1;FDXR
+"Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3",0.5,1,2,6,POMGNT1
+Manipulation of host energy metabolism,0.5,1,2,2,PGK1
+Neurotransmitter clearance,0.5,3,6,10,COMT;ENSG00000184154;ALDH2
+Reuptake of GABA,0.5,2,4,4,SLC6A12;SLC6A1
+Translocation of ZAP-70 to Immunological synapse,0.5,1,2,29,CD4
+NR1H2 & NR1H3 regulate gene expression linked to gluconeogenesis ,0.5,1,2,6,RXRB
+Vasopressin-like receptors,0.5,1,2,6,AVPR2
+Multifunctional anion exchangers,0.5,2,4,9,SLC26A2;SLC26A6
+Biosynthesis of DPA-derived SPMs,0.5,1,2,4,ALOX12
+Synthesis of 12-eicosatetraenoic acid derivatives,0.5,2,4,7,GPX1;ALOX12
+Biosynthesis of maresin-like SPMs,0.5,3,6,6,CYP2C9;CYP1A2;CYP2E1
+Ceramide signalling,0.5,1,2,3,NGFR
+Phosphorylation of proteins involved in the G2/M transition by Cyclin A:Cdc2 complexes,0.5,1,2,3,CCNA2
+FMO oxidises nucleophiles,0.5,1,2,3,FMO1
+OADH complex synthesizes glutaryl-CoA from 2-OA,0.5,1,2,5,DLD
+Biosynthesis of DPAn-3-derived maresins,0.5,1,2,2,ALOX12
+HCN channels,0.5,1,2,4,HCN2
+Regulation of NPAS4 gene transcription,0.5,1,2,6,KCNIP3
+Biosynthesis of DPAn-3 SPMs,0.5,1,2,4,ALOX12
+Mitochondrial iron-sulfur cluster biogenesis,0.4545,5,11,13,FXN;FDXR;SLC25A37;FDX1;NFS1
+Eicosanoids,0.4444,4,9,12,CYP4F12;PTGIS;CYP4F22;CYP4A11
+Creatine metabolism,0.4444,4,9,11,SLC6A12;SLC6A8;GAMT;CKMT2
+Regulation of MITF-M-dependent genes involved in lysosome biogenesis and autophagy,0.4375,7,16,29,ATP6V0D1;ASAH1;ATP6V1C1;ATP6V0C;ATP6AP2;ATP6V1H;ATP6V1A
+Biosynthesis of DHA-derived SPMs,0.4286,6,14,18,CYP1A2;CYP2E1;ALOX12;CYP1A1;HPGD;CYP2C9
+Release of apoptotic factors from the mitochondria,0.4286,3,7,10,CYCS;DFNA5;SEPT4
+Citric acid cycle (TCA cycle),0.4194,13,31,42,ACO2;IDH3G;MDH2;SDHC;FXN;DLD;NNT;NFS1;TRAP1;OGDH;SDHA;SUCLG1;SUCLA2
+Heme biosynthesis,0.4167,5,12,15,PPOX;COX15;UROS;ALAD;ALAS1
+Complex III assembly,0.4167,10,24,37,UQCRC1;NFS1;UQCRC2;FXN;UQCRFS1;UQCC1;CYC1;SMIM4;LYRM7;HSPA9
+VLDL clearance,0.4,2,5,9,LSR;APOC4
+Signaling by MAPK mutants,0.4,2,5,15,DUSP10;DUSP6
+Defective GALNT12 causes CRCS1,0.4,2,5,20,GALNT12;MUC13
+Bicarbonate transporters,0.4,2,5,10,AHCYL2;SLC4A2
+Formation of lateral plate mesoderm,0.4,2,5,8,FOXF1;GATA4
+Co-inhibition by PD-1,0.4,2,5,30,PTPN11;CD4
+Biosynthesis of specialized proresolving mediators (SPMs),0.4,6,15,22,CYP1A1;CYP2C9;ALOX12;CYP1A2;CYP2E1;HPGD
+Biotin transport and metabolism,0.4,4,10,22,ACACA;PCCB;MCCC2;MCCC1
+Thyroxine biosynthesis,0.4,2,5,10,DIO2;IYD
+Terminal pathway of complement,0.375,3,8,10,C9;C8A;C8B
+CYP2E1 reactions,0.375,3,8,11,CYP2C9;CYP2B6;CYP2E1
+Biosynthesis of maresins,0.375,3,8,8,CYP2C9;CYP2E1;CYP1A2
+Passive transport by Aquaporins,0.375,3,8,13,AQP11;AQP8;AQP3
+Reversible hydration of carbon dioxide,0.375,3,8,12,CA4;CA9;CA5B
+Fatty acids,0.3636,4,11,15,CYP4A11;CYP4F12;CYP2B6;CYP4F22
+Diseases of branched-chain amino acid catabolism,0.3636,4,11,96,MCCC2;MCCC1;AUH;DLD
+Formation of the cornified envelope,0.36,9,25,173,PPL;DSC2;PERP;PKP4;KRT85;KRT7;DSG1;KRT19;ST14
+p75NTR regulates axonogenesis,0.3333,2,6,10,RTN4R;NGFR
+Activation of AKT2,0.3333,1,3,5,AKT2
+Tandem pore domain potassium channels,0.3333,2,6,12,KCNK1;KCNK13
+Ca2+ activated K+ channels,0.3333,1,3,9,KCNN3
+TGFBR3 regulates TGF-beta signaling,0.3333,2,6,12,ARRB1;TGFBR1
+TGFBR2 Kinase Domain Mutants in Cancer,0.3333,1,3,7,TGFBR1
+Inhibition of Signaling by Overexpressed EGFR,0.3333,1,3,8,TGFA
+Pyrophosphate hydrolysis,0.3333,1,3,3,PPA2
+GLI proteins bind promoters of Hh responsive genes to promote transcription,0.3333,1,3,9,HHIP
+Conjugation of benzoate with glycine,0.3333,1,3,6,ACSM2B
+Synthesis of 15-eicosatetraenoic acid derivatives,0.3333,1,3,7,GPX1
+Branched-chain ketoacid dehydrogenase kinase deficiency,0.3333,1,3,8,DLD
+IRAK4 deficiency (TLR5),0.3333,1,3,6,MYD88
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,0.3333,7,21,23,AMACR;CYP27A1;AKR1C1;CYP7A1;AKR1C4;HSD17B4;BAAT
+Synthesis of dolichyl-phosphate mannose,0.3333,1,3,3,DPM1
+Phase 1 - inactivation of fast Na+ channels,0.3333,1,3,7,KCNIP3
+Synthesis of bile acids and bile salts via 24-hydroxycholesterol,0.3333,4,12,13,CYP27A1;AKR1C1;AKR1C4;AMACR
+AMPK inhibits chREBP transcriptional activation activity,0.3333,2,6,13,PRKAB2;PRKAA2
+Vitamin B6 activation to pyridoxal phosphate,0.3333,1,3,3,AOX1
+Formyl peptide receptors bind formyl peptides and many other ligands,0.3333,1,3,8,HEBP1
+Synthesis of bile acids and bile salts via 27-hydroxycholesterol,0.3333,4,12,14,CYP27A1;CYP7A1;AKR1C4;AKR1C1
+Glycine degradation,0.3333,2,6,8,DLD;OGDH
+Intestinal hexose absorption,0.3333,1,3,4,SLC5A1
+NR1H2 & NR1H3 regulate gene expression linked to lipogenesis,0.3333,2,6,13,SREBF1;RXRB
+Signaling by Overexpressed Wild-Type EGFR in Cancer,0.3333,1,3,8,TGFA
+FGFR2c ligand binding and activation,0.3333,1,3,16,FGFR2
+Ketone body metabolism,0.3333,3,9,10,AACS;OXCT1;ACSS3
+Opsins,0.3333,1,3,9,RHO
+Signaling by membrane-tethered fusions of PDGFRA or PDGFRB,0.3333,1,3,12,GOLGA4
+Formation of intermediate mesoderm,0.3333,2,6,12,FOXC1;PAX8
+"Sodium-coupled sulphate, di- and tri-carboxylate transporters",0.3333,1,3,5,SLC13A5
+Leukotriene receptors,0.3333,1,3,5,GPR17
+Regulation of MITF-M dependent genes involved in invasion,0.3333,1,3,7,CEACAM1
+Inhibition of TSC complex formation by PKB,0.3333,1,3,5,AKT2
+NFE2L2 regulating inflammation associated genes,0.3333,1,3,7,CCL2
+Molybdenum cofactor biosynthesis,0.3333,2,6,10,MOCS2;NFS1
+Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects,0.3333,1,3,80,CDK6
+Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6,0.3333,1,3,56,CDK6
+Defective DPM3 causes DPM3-CDG,0.3333,1,3,3,DPM1
+Transport and synthesis of PAPS,0.3333,2,6,6,SLC26A2;SLC35B3
+MET Receptor Activation,0.3333,2,6,11,HGFAC;SPINT1
+Expression and translocation of olfactory receptors,0.3333,3,9,842,OR51E1;EBF1;LHX2
+Attachment of GPI anchor to uPAR,0.3333,2,6,10,PIGT;GPAA1
+Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6,0.3333,1,3,56,CDK6
+LTC4-CYSLTR mediated IL4 production,0.3333,1,3,8,GGT5
+Defective DPM1 causes DPM1-CDG,0.3333,1,3,5,DPM1
+Lysine catabolism,0.3333,3,9,14,DLD;AADAT;HYKK
+Loss-of-function mutations in DLD cause MSUD3/DLDD,0.3333,1,3,11,DLD
+Loss of Function of TGFBR2 in Cancer,0.3333,1,3,9,TGFBR1
+Loss-of-function mutations in DBT cause MSUD2,0.3333,1,3,10,DLD
+Axonal growth inhibition (RHOA activation),0.3333,2,6,9,NGFR;RTN4R
+Defective DPM2 causes DPM2-CDG,0.3333,1,3,3,DPM1
+Axonal growth stimulation,0.3333,1,3,4,NGFR
+Sodium-coupled phosphate cotransporters,0.3333,1,3,5,SLC34A2
+Evasion of Oncogene Induced Senescence Due to p16INK4A Defects,0.3333,1,3,80,CDK6
+"BCKDH synthesizes BCAA-CoA from KIC, KMVA, KIV",0.3333,1,3,8,DLD
+"SMAC, XIAP-regulated apoptotic response",0.3333,2,6,15,CYCS;SEPT4
+Alpha-defensins,0.3333,1,3,34,CD4
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",0.3333,1,3,4,ANG
+Activation of C3 and C5,0.3333,2,6,29,CFB;CFP
+NR1H2 & NR1H3 regulate gene expression linked to triglyceride lipolysis in adipose,0.3333,1,3,6,RXRB
+STAT5 activation downstream of FLT3 ITD mutants,0.3333,2,6,39,PTPN11;NOX4
+Diseases of Cellular Senescence,0.3333,1,3,81,CDK6
+NR1H2 & NR1H3 regulate gene expression to limit cholesterol uptake ,0.3333,1,3,6,RXRB
+Defective F8 cleavage by thrombin,0.3333,1,3,11,F2
+Diseases of cellular response to stress,0.3333,1,3,81,CDK6
+Metabolism of Angiotensinogen to Angiotensins,0.3333,4,12,28,ACE2;MME;CTSD;ATP6AP2
+Sialic acid metabolism,0.3182,7,22,34,NEU1;ST6GALNAC6;CTSA;ST6GALNAC2;SLC17A5;NEU4;GLB1
+Cristae formation,0.3125,10,32,33,ATP5C1;ATP5G3;APOO;HSPA9;ATP5F1;ATP5A1;SAMM50;ATP5B;IMMT;CHCHD3
+Endogenous sterols,0.3125,5,16,26,FDXR;CYP27A1;CYP7A1;FDX1;CYP1B1
+Cytochrome P450 - arranged by substrate type,0.3111,14,45,65,CYP1A2;CYP2B6;CYP7A1;CYP4A11;CYP27A1;CYP1A1;FDX1;CYP2E1;PTGIS;CYP4F12;CYP2C9;CYP4F22;CYP1B1;FDXR
+Keratinization,0.3103,9,29,261,KRT19;KRT85;PKP4;DSC2;KRT7;DSG1;ST14;PERP;PPL
+NGF-stimulated transcription,0.3077,8,26,80,FOSB;ID1;TRIB1;FOS;JUNB;EGR2;F3;EGR1
+Interaction between L1 and Ankyrins,0.3,3,10,45,SCN4B;ANK3;SCN4A
+Mitochondrial tRNA aminoacylation,0.3,6,20,21,NARS2;EARS2;DARS2;PPA2;IARS2;PARS2
+Complement cascade,0.2985,20,67,190,IGHG4;C1R;COLEC11;SERPING1;CD81;C8B;CFP;FCN2;VTN;C1S;CFB;FCN3;C8A;C9;C4BPB;C4BPA;MASP2;CPN1;COLEC10;F2
+Synthesis of bile acids and bile salts,0.2963,8,27,33,CYP27A1;OSBPL2;AMACR;AKR1C4;CYP7A1;AKR1C1;BAAT;HSD17B4
+Insulin receptor recycling,0.2963,8,27,36,IDE;ATP6V0D1;CTSD;ATP6V0C;ATP6V1H;ATP6V1E2;ATP6V1A;ATP6V1C1
+RAF-independent MAPK1/3 activation,0.2941,5,17,36,PTPN11;DUSP10;DUSP5;DUSP2;DUSP6
+"Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)",0.2857,2,7,24,DPP4;GATA4
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,0.2857,2,7,8,PARVB;PXN
+Bile acid and bile salt metabolism,0.2857,10,35,45,OSBPL2;SLCO1B3;AKR1C4;SLC51A;HSD17B4;BAAT;CYP27A1;AKR1C1;AMACR;CYP7A1
+RUNX3 regulates WNT signaling,0.2857,2,7,10,TCF7L1;MYC
+Signal regulatory protein family interactions,0.2857,2,7,20,SFTPD;PTPN11
+rRNA modification in the mitochondrion,0.2857,2,7,13,MTERF4;TFB1M
+Synthesis of Ketone Bodies,0.2857,2,7,8,ACSS3;AACS
+Binding of TCF/LEF:CTNNB1 to target gene promoters,0.2857,2,7,10,MYC;TCF7L1
+Glycosphingolipid catabolism,0.2812,9,32,63,GLB1;NEU1;GBA2;ENPP7;ASAH1;NEU4;GBA;CTSA;ARSG
+Pyruvate metabolism,0.2791,12,43,67,PDHA1;PDHB;SIRT4;DLD;GLO1;FAHD1;PDK1;MPC1;PDHX;PDP1;ME1;LDHB
+Xenobiotics,0.2778,5,18,24,CYP1A2;CYP2E1;CYP2B6;CYP2C9;CYP1A1
+Maturation of TCA enzymes and regulation of TCA cycle,0.2778,5,18,26,NFS1;SDHA;FXN;ACO2;SDHC
+Intrinsic Pathway of Fibrin Clot Formation,0.2778,5,18,60,SERPING1;F12;KNG1;F2;SERPINA5
+Interleukin-37 signaling,0.2727,3,11,43,SIGIRR;PTPN11;PTPN14
+Ubiquinol biosynthesis,0.2727,3,11,14,COQ9;COQ6;ADCK4
+Tight junction interactions,0.2727,6,22,57,CLDN4;CLDN19;CLDN16;CLDN2;CLDN10;CLDN3
+GAB1 signalosome,0.2727,3,11,23,PXN;TGFA;PTPN11
+Induction of Cell-Cell Fusion,0.2727,3,11,13,ANO10;ANO6;ACE2
+Mucopolysaccharidoses,0.2727,3,11,43,GLB1;IDS;HYAL1
+TRP channels,0.2727,3,11,28,TRPM8;TRPV4;MCOLN3
+Diseases of hemostasis,0.2667,4,15,263,ADAMTS13;F12;F2;SERPING1
+Aerobic respiration and respiratory electron transport,0.2655,60,226,311,COX11;DLD;TIMM21;NDUFAF7;PDP1;TMEM186;CYCS;ATP5G3;UQCRFS1;COX4I2;OGDH;PDHX;D2HGDH;COX7B;HSPA9;NDUFS2;ATP5C1;NDUFA8;NNT;COX18;UQCRC1;NDUFS1;FAHD1;SMIM4;OXA1L;PDHB;TRAP1;NDUFAF6;LYRM7;COX7A2;PDHA1;ATP5B;NDUFB5;ACO2;SUCLA2;SUCLG1;PDK1;ME1;ATP5A1;IDH3G;COX15;COX6A1;NDUFA9;UQCRC2;NDUFA4;FXN;MDH1;GLO1;UQCC1;CYC1;SDHA;MDH2;SDHC;NFS1;NDUFA10;MPC1;ATP5F1;SIRT4;LDHB;NDUFA6
+Branched-chain amino acid catabolism,0.2632,5,19,26,MCCC1;MCCC2;AUH;DLD;ACAD8
+Formation of ATP by chemiosmotic coupling,0.2632,5,19,20,ATP5F1;ATP5A1;ATP5C1;ATP5G3;ATP5B
+ROS and RNS production in phagocytes,0.2609,6,23,37,ATP6V0D1;ATP6V1C1;ATP6V1H;ATP6V1A;ATP6V1E2;ATP6V0C
+Respiratory electron transport,0.259,36,139,178,LYRM7;CYC1;NFS1;COX6A1;COX4I2;COX7B;CYCS;SDHC;NDUFB5;SMIM4;OXA1L;UQCRC2;FXN;SDHA;NDUFA8;TRAP1;UQCRFS1;NDUFA10;NDUFA9;UQCC1;NDUFAF7;COX18;UQCRC1;NDUFA6;NDUFS2;TIMM21;MDH2;COX11;COX7A2;NDUFA4;NDUFS1;HSPA9;TMEM186;NDUFAF6;MDH1;COX15
+Regulation of pyruvate metabolism,0.2581,8,31,47,PDHA1;ME1;PDK1;SIRT4;PDHB;DLD;PDHX;PDP1
+Initial triggering of complement,0.2564,10,39,129,MASP2;CFB;FCN2;COLEC10;IGHG4;FCN3;CFP;COLEC11;C1S;C1R
+Regulation of Complement cascade,0.2542,15,59,154,CFB;C1S;IGHG4;C9;C1R;SERPING1;C4BPA;CD81;C8A;F2;C4BPB;VTN;CFP;CPN1;C8B
+AKT-mediated inactivation of FOXO1A,0.25,1,4,6,AKT2
+Activated NTRK3 signals through PI3K,0.25,1,4,10,NTF3
+Activated NTRK2 signals through CDK5,0.25,1,4,9,TIAM1
+STAT5 Activation,0.25,1,4,9,PTPN11
+Activation of caspases through apoptosome-mediated cleavage,0.25,1,4,11,CYCS
+Utilization of Ketone Bodies,0.25,1,4,4,OXCT1
+Replication of the SARS-CoV-2 genome,0.25,1,4,4,ZCRB1
+Release of Hh-Np from the secreting cell,0.25,2,8,19,GPC5;DISP2
+Enhanced cleavage of VWF variant by ADAMTS13,0.25,1,4,37,ADAMTS13
+Erythrocytes take up oxygen and release carbon dioxide,0.25,1,4,12,CA4
+Regulation of gene expression in early pancreatic precursor cells,0.25,1,4,14,HNF1B
+Defective B3GALTL causes PpS,0.25,7,28,38,ADAMTSL3;ADAMTS3;CFP;ADAMTS13;B3GALTL;ADAMTSL2;THSD4
+Lipophagy,0.25,2,8,14,PRKAB2;PRKAA2
+Fibronectin matrix formation,0.25,1,4,6,CEACAM1
+Defective GALNT3 causes HFTC,0.25,1,4,19,MUC13
+Abacavir ADME,0.25,2,8,9,ADAL;NT5C2
+SARS-CoV-2 Genome Replication and Transcription,0.25,1,4,4,ZCRB1
+Drug-mediated inhibition of CDK4/CDK6 activity,0.25,1,4,5,CDK6
+EGFR interacts with phospholipase C-gamma,0.25,1,4,10,TGFA
+SARS-CoV-1 Genome Replication and Transcription,0.25,1,4,4,ZCRB1
+Arachidonate metabolism,0.25,11,44,68,GPX1;ALOX12;GGT5;PTGIS;HPGD;CYP2C9;CYP1A2;CYP1B1;CYP4F22;CYP4A11;CYP1A1
+Replication of the SARS-CoV-1 genome,0.25,1,4,4,ZCRB1
+Biosynthesis of D-series resolvins,0.25,1,4,4,HPGD
+RUNX1 regulates transcription of genes involved in interleukin signaling,0.25,1,4,7,LIFR
+IRS activation,0.25,1,4,9,GRB10
+ALKBH3 mediated reversal of alkylation damage,0.25,1,4,4,ASCC1
+PKA-mediated phosphorylation of key metabolic factors,0.25,1,4,14,PFKFB1
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",0.25,1,4,10,GATA6
+Digestion and absorption,0.25,3,12,30,SLC5A1;GUCA2B;GUCY2C
+PKA activation in glucagon signalling,0.25,3,12,18,GNAS;PRKAR2B;ADCY6
+Defects of platelet adhesion to exposed collagen,0.25,1,4,61,ADAMTS13
+Biosynthesis of EPA-derived SPMs,0.25,1,4,7,HPGD
+H139Hfs13* PPM1K causes a mild variant of  MSUD,0.25,1,4,5,DLD
+Intestinal absorption,0.25,1,4,6,SLC5A1
+Pyrimidine catabolism,0.25,2,8,12,NT5E;NT5M
+Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),0.25,3,12,207,SERPING1;F12;F2
+TGFBR1 LBD Mutants in Cancer,0.25,1,4,8,TGFBR1
+TFAP2 (AP-2) family regulates transcription of cell cycle factors,0.25,1,4,6,MYC
+Vitamin B1 (thiamin) metabolism,0.25,1,4,5,THTPA
+Digestion,0.25,2,8,24,GUCY2C;GUCA2B
+Carnitine shuttle,0.25,3,12,15,ACACA;PRKAB2;PRKAA2
+Biosynthesis of E-series 18(S)-resolvins,0.25,1,4,5,HPGD
+G2 Phase,0.25,1,4,7,CCNA2
+P2Y receptors,0.25,1,4,12,GPR17
+Glucocorticoid biosynthesis,0.25,1,4,10,CYP17A1
+Class C/3 (Metabotropic glutamate/pheromone receptors),0.25,1,4,39,GABBR2
+Beta-oxidation of pristanoyl-CoA,0.25,2,8,9,AMACR;HSD17B4
+Transcription from mitochondrial promoters,0.25,1,4,4,MTERF1
+Synthesis of PI,0.25,1,4,5,PITPNM1
+Butyrophilin (BTN) family interactions,0.25,2,8,12,BTNL9;PPL
+CD28 dependent PI3K/Akt signaling,0.25,4,16,39,AKT2;MTOR;MAPKAP1;PRR5
+Physiological factors,0.25,2,8,19,MME;GATA4
+ChREBP activates metabolic gene expression,0.25,2,8,17,ACACA;ACLY
+Phase I - Functionalization of compounds,0.25,20,80,109,CYP4F22;PTGIS;CYP1A2;CYP1B1;ALDH2;CYP1A1;CYP4F12;FMO1;CYP27A1;ACSS1;CYB5B;CYP2B6;CYP2E1;FDXR;CYP4A11;CES3;CYP2C9;MARC2;FDX1;CYP7A1
+FGFR4 ligand binding and activation,0.25,1,4,15,KLB
+Localization of the PINCH-ILK-PARVIN complex to focal adhesions,0.25,1,4,4,PXN
+Defective VWF cleavage by ADAMTS13 variant,0.25,1,4,28,ADAMTS13
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors,0.25,2,8,24,KCTD1;WWOX
+Malate-aspartate shuttle,0.25,2,8,9,MDH1;MDH2
+Maple Syrup Urine Disease,0.25,1,4,33,DLD
+Metabolism of amine-derived hormones,0.25,2,8,18,DIO2;IYD
+Nef Mediated CD4 Down-regulation,0.25,2,8,11,CD4;ATP6V1H
+Formation of Fibrin Clot (Clotting Cascade),0.2414,7,29,114,KNG1;F2;F12;F3;SERPING1;F13B;SERPINA5
+O-glycosylation of TSR domain-containing proteins,0.2414,7,29,113,ADAMTS13;ADAMTSL2;THSD4;B3GALTL;ADAMTS3;ADAMTSL3;CFP
+Metabolism of porphyrins,0.24,6,25,28,SLCO1B3;ALAD;PPOX;ALAS1;COX15;UROS
+Defective pyroptosis,0.24,12,50,88,HIST1H2BE;HIST1H2BD;HIST1H2AD;HIST1H3E;HIST2H2BE;HIST2H4A;RBBP4;DFNA5;HIST1H2BF;HIST1H2BC;HIST1H3A;RBBP7
+Diseases associated with O-glycosylation of proteins,0.2391,11,46,113,ADAMTS3;MUC13;B3GALTL;THSD4;ADAMTSL2;CFP;GALNT12;NOTCH3;ADAMTSL3;ADAMTS13;POMGNT1
+Mitochondrial protein degradation,0.2386,21,88,107,IARS2;ALDH2;UQCRC2;OGDH;ATP5B;OMA1;PDHA1;PDK1;MDH2;ATP5A1;ATP5C1;OPA1;DLD;ALAS1;PCCB;PDHB;ACO2;HSPA9;NDUFS1;OXCT1;ACAD8
+Creation of C4 and C2 activators,0.2353,8,34,82,FCN3;C1S;MASP2;IGHG4;COLEC10;C1R;COLEC11;FCN2
+Mitochondrial biogenesis,0.2317,19,82,137,MTERF1;PRKAA2;TBL1X;ATP5G3;ATP5B;ALAS1;TFB1M;ATP5F1;APOO;SAMM50;SIRT4;HSPA9;CYCS;CHCHD3;SMARCD3;IMMT;ATP5A1;PRKAB2;ATP5C1
+Interleukin-6 family signaling,0.2308,3,13,41,PTPN11;LIFR;CNTFR
+Aflatoxin activation and detoxification,0.2308,3,13,22,CYP1A2;GGT5;AKR7A3
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,0.2308,3,13,20,MAML2;MAML3;HNF1B
+RORA activates gene expression,0.2308,3,13,20,TBL1X;SREBF1;SMARCD3
+Recycling of bile acids and salts,0.2308,3,13,18,SLCO1B3;SLC51A;BAAT
+Formation of the ureteric bud,0.2308,3,13,29,FOXC1;WNT11;NPNT
+Glutamate and glutamine metabolism,0.2308,3,13,15,OAT;GLS;CCBL1
+Complex IV assembly,0.2308,9,39,54,TIMM21;COX4I2;COX7A2;NDUFA4;COX15;COX7B;COX18;COX11;COX6A1
+CS/DS degradation,0.2308,3,13,102,IDS;BGN;HYAL1
+Olfactory Signaling Pathway,0.2308,3,13,980,EBF1;LHX2;OR51E1
+Synthesis of substrates in N-glycan biosythesis,0.2292,11,48,65,CTSA;SLC17A5;ST6GALNAC6;NEU1;AMDHD2;NEU4;GMPPB;GMDS;GLB1;ST6GALNAC2;DPM1
+RNA Polymerase I Promoter Opening,0.225,9,40,78,HIST1H2BE;HIST1H2BF;HIST1H3E;HIST2H4A;HIST1H2BD;HIST1H3A;HIST2H2BE;HIST1H2AD;HIST1H2BC
+Signaling by Insulin receptor,0.2241,13,58,112,KLB;CTSD;ATP6V1H;PTPN11;ATP6V0C;ATP6V1C1;ATP6V1A;ATP6V1E2;IDE;FGFR2;AKT2;ATP6V0D1;GRB10
+Dermatan sulfate biosynthesis,0.2222,2,9,67,BGN;DSEL
+PI-3K cascade:FGFR4,0.2222,2,9,20,PTPN11;KLB
+IL-6-type cytokine receptor ligand interactions,0.2222,2,9,17,CNTFR;LIFR
+TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling,0.2222,2,9,27,MYD88;UBE2V1
+Diseases associated with N-glycosylation of proteins,0.2222,4,18,68,NEU1;ALG2;CTSA;GLB1
+Urea cycle,0.2222,2,9,10,NMRAL1;NAGS
+tRNA modification in the mitochondrion,0.2222,2,9,9,MTO1;TRMT61B
+Activation of PPARGC1A (PGC-1alpha) by phosphorylation,0.2222,2,9,12,PRKAA2;PRKAB2
+Activation of the AP-1 family of transcription factors,0.2222,2,9,13,JUN;FOS
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane,0.2222,2,9,14,SLC29A2;SLC29A1
+Apoptotic factor-mediated response,0.2222,4,18,41,SEPT4;CYCS;DFNA5;APIP
+Pregnenolone biosynthesis,0.2222,2,9,12,FDXR;FDX1
+Formation of the nephric duct,0.2222,2,9,30,PAX8;NPNT
+Defects in vitamin and cofactor metabolism,0.2222,4,18,69,MCCC1;ACACA;MCCC2;PCCB
+NOTCH2 intracellular domain regulates transcription,0.2222,2,9,22,MAML3;MAML2
+Na+/Cl- dependent neurotransmitter transporters,0.2222,2,9,19,SLC6A1;SLC6A12
+Metabolic disorders of biological oxidation enzymes,0.2222,6,27,138,CYP1B1;CYP17A1;CYP4F22;CYP27A1;FDXR;FDX1
+"Regulation of MITF-M-dependent genes involved in extracellular matrix, focal adhesion and epithelial-to-mesenchymal transition",0.2222,2,9,23,PXN;SERPINE1
+Formation of annular gap junctions,0.2222,2,9,11,DAB2;CLTCL1
+Regulation of gene expression by Hypoxia-inducible Factor,0.2222,2,9,18,EPO;CA9
+Signaling by LTK,0.2222,2,9,19,TNK2;FAM150B
+Zinc influx into cells by the SLC39 gene family,0.2222,2,9,10,SLC39A1;SLC39A7
+Metabolism of cofactors,0.2222,4,18,29,COQ6;COQ9;ADCK4;ACO1
+Ribavirin ADME,0.2222,2,9,11,NT5C2;SLC29A1
+PRC2 methylates histones and DNA,0.22,11,50,87,RBBP4;HIST1H2BE;HIST1H2AD;HIST2H2BE;HIST1H3E;HIST1H2BF;RBBP7;HIST2H4A;HIST1H3A;HIST1H2BD;HIST1H2BC
+DNA methylation,0.2195,9,41,64,HIST1H2BD;HIST1H2BE;HIST1H2AD;HIST2H4A;HIST1H3A;HIST1H2BC;HIST1H2BF;HIST2H2BE;HIST1H3E
+Thrombin signalling through proteinase activated receptors (PARs),0.2174,5,23,63,F2RL3;ARRB1;GNA12;F2;GNA14
+Nicotinate metabolism,0.2174,5,23,31,NMNAT1;QPRT;CARKD;PTGIS;NT5E
+Interleukin-10 signaling,0.2143,3,14,91,IL1RN;CCL2;CCL19
+Phase 0 - rapid depolarisation,0.2143,3,14,33,SCN4A;SCN4B;CACNB2
+Synthesis of Leukotrienes (LT) and Eoxins (EX),0.2143,3,14,24,CYP4A11;GGT5;CYP4F22
+Detoxification of Reactive Oxygen Species,0.2143,6,28,55,GPX1;NOX4;SOD1;CYCS;CCS;AQP8
+Regulation of TLR by endogenous ligand,0.2143,3,14,23,CD14;SFTPD;DFNA5
+O-linked glycosylation,0.2143,15,70,431,CFP;GALNT12;B3GNT3;POMGNT2;CHST4;ADAMTSL2;B3GALTL;GALNT11;ADAMTSL3;ADAMTS3;ST6GALNAC2;THSD4;MUC13;POMGNT1;ADAMTS13
+Replacement of protamines by nucleosomes in the male pronucleus,0.2143,6,28,46,HIST1H2BC;HIST2H2BE;HIST1H2BF;HIST1H2BE;HIST1H2BD;HIST2H4A
+Methylation,0.2143,3,14,14,CYP1A2;AS3MT;COMT
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,0.2143,9,42,130,HIST1H2BC;HIST1H2BD;HIST2H2BE;HIST1H3A;HIST1H3E;HIST2H4A;HIST1H2BE;HIST1H2BF;HIST1H2AD
+NOTCH3 Intracellular Domain Regulates Transcription,0.2105,4,19,51,NOTCH3;MAML2;PBX1;MAML3
+Glycosphingolipid metabolism,0.2083,10,48,82,ARSG;GBA;ASAH1;ST6GALNAC6;GBA2;GLB1;ENPP7;CTSA;NEU1;NEU4
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,0.2075,11,53,90,HIST1H2BE;HIST1H2BD;HIST1H2BF;HIST2H4A;RBBP7;HIST1H3E;HIST1H3A;HIST1H2AD;RBBP4;HIST2H2BE;HIST1H2BC
+Transferrin endocytosis and recycling,0.2069,6,29,33,ATP6V0D1;ATP6V1E2;ATP6V1A;ATP6V1C1;ATP6V0C;ATP6V1H
+Regulation of beta-cell development,0.2069,6,29,71,FOXA3;AKT2;MAML2;HNF1B;GCK;MAML3
+SIRT1 negatively regulates rRNA expression,0.2045,9,44,99,HIST1H2BE;HIST2H4A;HIST1H2BF;HIST1H3A;HIST1H3E;HIST1H2BD;HIST1H2BC;HIST2H2BE;HIST1H2AD
+Amino Acid conjugation,0.2,1,5,9,ACSM2B
+Aquaporin-mediated transport,0.2,7,35,55,PRKAR2B;AVPR2;AQP11;ADCY6;AQP8;GNAS;AQP3
+Triglyceride biosynthesis,0.2,2,10,14,MOGAT3;LPIN1
+VLDL assembly,0.2,1,5,7,APOC4
+Netrin mediated repulsion signals,0.2,1,5,12,PTPN11
+Notch-HLH transcription pathway,0.2,5,25,28,MAML3;MAML2;TBL1X;HDAC8;NOTCH3
+Nuclear Events (kinase and transcription factor activation),0.2,9,45,117,FOS;TRIB1;JUNB;F3;DUSP6;ID1;EGR2;FOSB;EGR1
+Organic anion transporters,0.2,1,5,12,SLC17A5
+SMAC (DIABLO) binds to IAPs ,0.2,1,5,12,CYCS
+PI-3K cascade:FGFR2,0.2,2,10,26,FGFR2;PTPN11
+Packaging Of Telomere Ends,0.2,7,35,51,HIST1H2BC;HIST1H2BE;HIST1H2BF;HIST1H2BD;HIST1H2AD;HIST2H2BE;HIST2H4A
+MET activates PTPN11,0.2,1,5,6,PTPN11
+Modulation of host responses by IFN-stimulated genes,0.2,2,10,20,HERC5;UBE2L6
+Activated point mutants of FGFR2,0.2,1,5,60,FGFR2
+cGMP effects,0.2,1,5,20,PDE5A
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d),0.2,1,5,22,FMOD
+Activation of RAC1 downstream of NMDARs,0.2,1,5,17,ARHGEF7
+Conjugation of salicylate with glycine,0.2,1,5,8,ACSM2B
+Condensation of Prophase Chromosomes,0.2,10,50,112,HIST1H3A;HIST1H2BC;HIST2H4A;HIST1H2AD;HIST2H2BE;HIST1H2BE;SMC4;HIST1H2BD;HIST1H2BF;HIST1H3E
+Specification of the neural plate border,0.2,2,10,27,DLX5;TCF7L1
+Formation of xylulose-5-phosphate,0.2,1,5,5,AKR1A1
+Formation of apoptosome,0.2,2,10,19,APIP;CYCS
+SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes ,0.2,1,5,12,CYCS
+IFNG signaling activates MAPKs,0.2,1,5,12,RAF1
+Phase 4 - resting membrane potential,0.2,2,10,19,KCNK1;KCNK13
+Synthesis of UDP-N-acetyl-glucosamine,0.2,1,5,8,AMDHD2
+"Synthesis, secretion, and deacylation of Ghrelin",0.2,2,10,40,IGF1;KLF4
+Phospholipase C-mediated cascade; FGFR4,0.2,1,5,16,KLB
+Phosphorylation of CD3 and TCR zeta chains,0.2,1,5,32,CD4
+Diseases of Mismatch Repair (MMR),0.2,1,5,13,MLH1
+Termination of O-glycan biosynthesis,0.2,2,10,98,MUC13;ST6GALNAC2
+Propionyl-CoA catabolism,0.2,1,5,5,PCCB
+Purine catabolism,0.2,3,15,20,NUDT5;NT5C2;NT5E
+Defective CHST6 causes MCDC1,0.2,1,5,15,FMOD
+Defective LFNG causes SCDO3,0.2,1,5,5,NOTCH3
+Cholesterol biosynthesis,0.2,3,15,28,NSDHL;SQLE;SREBF1
+Chromatin modifications during the maternal to zygotic transition (MZT),0.2,9,45,149,HIST1H2AD;HIST1H3A;HIST2H4A;HIST2H2BE;HIST1H2BC;HIST1H2BF;HIST1H3E;HIST1H2BD;HIST1H2BE
+Pre-NOTCH Transcription and Translation,0.2,14,70,162,HIST1H3E;MAML2;HIST2H2BE;HIST1H2BC;HIST1H3A;HIST1H2BD;HIST1H2BF;HIST2H4A;MAML3;NOTCH3;HIST1H2AD;HIST1H2BE;JUN;AGO3
+Synthesis of PIPs at the ER membrane,0.2,1,5,5,SACM1L
+RUNX2 regulates genes involved in cell migration,0.2,1,5,19,AKT2
+"GABA synthesis, release, reuptake and degradation",0.2,3,15,27,SLC6A12;SLC6A1;STXBP1
+Gap junction degradation,0.2,2,10,24,CLTCL1;DAB2
+RUNX1 regulates transcription of genes involved in WNT signaling,0.2,1,5,8,RSPO3
+GDP-fucose biosynthesis,0.2,1,5,6,GMDS
+Reelin signalling pathway,0.2,1,5,6,RELN
+TP53 Regulates Transcription of Death Receptors and Ligands,0.2,2,10,18,TNFRSF10D;IGFBP3
+Cation-coupled Chloride cotransporters,0.2,1,5,7,SLC12A6
+NADE modulates death signalling,0.2,1,5,11,NGFR
+Erythropoietin activates STAT5,0.2,1,5,9,EPO
+p75NTR negatively regulates cell cycle via SC1,0.2,1,5,7,NGFR
+Ethanol oxidation,0.2,2,10,12,ALDH2;ACSS1
+Regulation of the apoptosome activity,0.2,2,10,19,CYCS;APIP
+Signaling by MST1,0.2,1,5,10,SPINT1
+"Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",0.2,2,10,15,PFKFB1;PFKFB2
+Conjugation of carboxylic acids,0.2,1,5,9,ACSM2B
+Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion,0.2,1,5,15,GNA14
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production ,0.2,1,5,11,MYD88
+Regulation of NPAS4 gene expression,0.2,2,10,15,KCNIP3;AGO3
+Regulation of NFE2L2 gene expression,0.2,1,5,17,MYC
+FGFR2b ligand binding and activation,0.2,1,5,13,FGFR2
+Regulation of gene expression in beta cells,0.2,3,15,36,GCK;AKT2;FOXA3
+Extrinsic Pathway of Fibrin Clot Formation,0.2,1,5,20,F3
+Signaling by Retinoic Acid,0.2,6,30,44,DLD;PDHA1;PDHX;RXRB;PDK1;PDHB
+Mitochondrial protein import,0.1967,12,61,151,IDH3G;FXN;CHCHD3;ATP5B;SAMM50;TIMM21;CYC1;ACO2;DNAJC19;HSPA9;ATP5A1;TIMM44
+Complex I biogenesis,0.1967,12,61,68,NDUFB5;NDUFAF7;NDUFA8;NDUFA9;HSPA9;NDUFA10;NDUFS2;TMEM186;NDUFAF6;NDUFA6;OXA1L;NDUFS1
+Assembly of the ORC complex at the origin of replication,0.1957,9,46,74,HIST1H2BC;HIST1H2AD;HIST1H3A;HIST1H2BF;HIST1H3E;HIST1H2BE;HIST1H2BD;HIST2H4A;HIST2H2BE
+O-linked glycosylation of mucins,0.1935,6,31,302,B3GNT3;GALNT12;CHST4;MUC13;GALNT11;ST6GALNAC2
+Kidney development,0.1923,5,26,74,PAX8;NPNT;FOXC1;WNT11;HNF1B
+Biological oxidations,0.1916,32,167,234,UGT1A7;CYP4F12;AKR7A3;GGT5;CYP2E1;ALDH2;CYP1A1;CYP27A1;CYP1A2;ACSS1;SLC35B3;AS3MT;SULT1C2;FDX1;COMT;AKR1A1;CES3;GSTA4;CYP7A1;FMO1;CYP2B6;PTGIS;ABHD10;MARC2;FDXR;SLC26A2;CYP1B1;CYP4A11;ACSM2B;CYP2C9;CYB5B;CYP4F22
+Regulation of endogenous retroelements by the Human Silencing Hub (HUSH) complex,0.1915,9,47,151,HIST1H3E;HIST1H2BC;HIST1H2BE;HIST1H3A;HIST2H4A;HIST1H2BD;HIST1H2AD;HIST2H2BE;HIST1H2BF
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",0.1905,12,63,81,GLB1;AMDHD2;ST6GALNAC2;SLC17A5;ST6GALNAC6;ALG2;DPM1;GMDS;NEU1;GMPPB;CTSA;NEU4
+Cytoprotection by HMOX1,0.1905,8,42,68,CYCS;SMARCD3;COX6A1;COX4I2;COX7B;COX7A2;TBL1X;NDUFA4
+Transcriptional regulation of pluripotent stem cells,0.1875,3,16,45,KLF4;GATA6;PBX1
+Attachment and Entry,0.1875,3,16,165,VCP;ACE2;GPC5
+Cardiogenesis,0.1875,3,16,41,GATA6;GATA4;HAND2
+Regulation of RUNX1 Expression and Activity,0.1875,3,16,20,CDK6;PTPN11;AGO3
+Surfactant metabolism,0.1875,3,16,64,SFTPD;SLC34A2;GATA6
+Regulation of TP53 Expression and Degradation,0.1875,6,32,162,MAPKAP1;AKT2;MTOR;PRR5;CHEK2;CCNA2
+Regulation of TP53 Degradation,0.1875,6,32,159,CHEK2;AKT2;MAPKAP1;CCNA2;PRR5;MTOR
+Transcriptional activation of mitochondrial biogenesis,0.186,8,43,96,SIRT4;TFB1M;ATP5B;ALAS1;CYCS;MTERF1;SMARCD3;TBL1X
+HDACs deacetylate histones,0.1857,13,70,277,HIST1H3A;RBBP4;HIST2H4A;HIST1H2BD;HIST1H2AD;TBL1X;HIST1H2BC;HIST1H3E;HIST1H2BE;HIST2H2BE;HIST1H2BF;HDAC8;RBBP7
+Signaling by FLT3 ITD and TKD mutants,0.1818,2,11,224,NOX4;PTPN11
+Miscellaneous substrates,0.1818,2,11,12,CYP4A11;CYP4F22
+Transcriptional regulation of granulopoiesis,0.1818,10,55,131,HIST2H2BE;HIST1H2BD;HIST1H2BE;HIST1H3A;HIST1H2BC;HIST2H4A;HIST1H2AD;HIST1H3E;MYC;HIST1H2BF
+Formation of definitive endoderm,0.1818,2,11,29,GATA4;GATA6
+Lewis blood group biosynthesis,0.1818,2,11,18,ST6GALNAC6;B3GALT1
+Condensation of Prometaphase Chromosomes,0.1818,2,11,26,CSNK2A2;SMC4
+Interferon alpha/beta signaling,0.1818,6,33,171,IFITM2;BST2;EGR1;IFITM1;IRF8;PTPN11
+Acetylcholine Neurotransmitter Release Cycle,0.1818,2,11,21,STXBP1;UNC13B
+"BMAL1:CLOCK,NPAS2 activates circadian gene expression",0.1818,4,22,42,SERPINE1;TBL1X;KLF15;SMARCD3
+Class A/1 (Rhodopsin-like receptors),0.1818,20,110,376,SSTR1;CXCL12;AVPR2;HEBP1;CCL2;PTGFR;F2;ADRB2;RHO;GPR17;F2RL1;PTGIR;F2RL3;CCL19;AGTR1;NPY1R;GPR4;MTNR1B;KNG1;TBXA2R
+Josephin domain DUBs,0.1818,2,11,108,VCP;PARK2
+MyD88 deficiency (TLR2/4),0.1818,2,11,22,MYD88;CD14
+rRNA processing in the mitochondrion,0.1818,2,11,17,TFB1M;MTERF4
+p75NTR recruits signalling complexes,0.1818,2,11,30,MYD88;NGFR
+Response of EIF2AK1 (HRI) to heme deficiency,0.1818,2,11,32,PPP1R15A;GRB10
+Generation of second messenger molecules,0.1818,2,11,44,CD4;EVL
+Cytochrome c-mediated apoptotic response,0.1818,2,11,25,APIP;CYCS
+Mitochondrial translation termination,0.1807,15,83,91,OXA1L;MRPS28;MRPL39;PTCD3;MRPL35;GFM2;MRPL38;MRPL49;MRPS11;MRPS15;MRPS27;MRPS18A;MRPL19;MRPS16;MRPL13
+Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),0.1806,13,72,97,RBBP4;RBBP7;HIST1H2BE;SMARCD3;SS18L1;HIST1H2BF;HIST2H4A;HIST1H2BD;HIST1H2BC;HIST1H3E;HIST1H2AD;HIST1H3A;HIST2H2BE
+Mitochondrial translation,0.1798,16,89,185,MRPS11;GFM1;MRPS16;PTCD3;MRPL35;MRPL13;GFM2;MRPS28;MRPS15;MRPL19;OXA1L;MRPL39;MRPS18A;MRPL49;MRPS27;MRPL38
+Depurination,0.1795,7,39,110,HIST1H2AD;HIST2H4A;HIST1H2BC;HIST1H2BD;HIST1H2BE;HIST1H2BF;HIST2H2BE
+Recognition and association of DNA glycosylase with site containing an affected purine,0.1795,7,39,110,HIST2H4A;HIST1H2BC;HIST1H2AD;HIST1H2BE;HIST2H2BE;HIST1H2BF;HIST1H2BD
+Cleavage of the damaged purine,0.1795,7,39,108,HIST1H2BD;HIST1H2BF;HIST1H2AD;HIST2H4A;HIST2H2BE;HIST1H2BE;HIST1H2BC
+Senescence-Associated Secretory Phenotype (SASP),0.1795,14,78,154,CCNA2;FOS;HIST1H2BC;HIST2H4A;HIST1H2BE;HIST2H2BE;HIST1H2AD;HIST1H2BD;ANAPC1;CDK6;HIST1H3A;HIST1H2BF;JUN;HIST1H3E
+Diseases of metabolism,0.1791,36,201,952,SLC26A2;NOTCH3;AUH;GLB1;CYP4F22;GPC5;CYP17A1;NEU1;MCCC1;GALNT12;ALG2;POMGNT1;CYP27A1;CTSA;THSD4;SFTPD;FDXR;B3GALTL;SLC34A2;ADAMTS3;ADAMTSL3;ADAMTSL2;ACACA;DPM1;CFP;ADAMTS13;MCCC2;HYAL1;BGN;DLD;PCCB;IDS;CYP1B1;MUC13;FMOD;FDX1
+Diseases of glycosylation,0.1786,20,112,483,NEU1;FMOD;BGN;SLC26A2;CTSA;NOTCH3;GLB1;CFP;ADAMTS13;DPM1;MUC13;THSD4;ALG2;GPC5;POMGNT1;GALNT12;B3GALTL;ADAMTSL3;ADAMTSL2;ADAMTS3
+Activation of gene expression by SREBF (SREBP),0.1786,5,28,72,SQLE;SREBF1;TBL1X;ACACA;SMARCD3
+Metabolism of steroids,0.1786,20,112,212,AMACR;SREBF1;FDXR;SLC51A;SMARCD3;AKR1C4;AKR1C1;SLCO1B3;CYP17A1;CYP7A1;FDX1;BAAT;OSBPL2;ACACA;NSDHL;TBL1X;SQLE;HSD17B2;HSD17B4;CYP27A1
+Vasopressin regulates renal water homeostasis via Aquaporins,0.1786,5,28,46,AVPR2;ADCY6;AQP3;PRKAR2B;GNAS
+Mitochondrial translation elongation,0.1786,15,84,178,MRPL35;MRPL19;PTCD3;MRPL13;MRPL38;MRPL39;MRPS27;MRPS18A;MRPS28;GFM1;MRPL49;MRPS16;MRPS15;MRPS11;OXA1L
+TP53 Regulates Metabolic Genes,0.1781,13,73,101,RRAGD;NDUFA4;AKT2;PRKAB2;COX4I2;COX7A2;GLS;AGO3;CYCS;PRKAA2;COX7B;COX6A1;MTOR
+Common Pathway of Fibrin Clot Formation,0.1765,3,17,60,F2;F13B;SERPINA5
+LDL clearance,0.1765,3,17,36,CES3;PCSK9;LSR
+Neurotransmitter release cycle,0.1765,6,34,71,UNC13B;STXBP1;NAAA;SLC6A12;SLC6A1;GLS
+Glutamate Neurotransmitter Release Cycle,0.1765,3,17,28,UNC13B;GLS;STXBP1
+Platelet degranulation ,0.1765,18,102,264,IGF1;SERPING1;SYTL4;SCCPDH;SERPINA1;MAGED2;CD109;SERPINE1;QSOX1;ORM2;RARRES2;SELP;SOD1;ISLR;KNG1;ABCC4;ECM1;ITIH3
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling,0.1765,3,17,36,TGFA;FOS;AKT2
+Signaling by Hippo,0.1765,3,17,39,MOB1B;AMOTL2;SAV1
+Nucleosome assembly,0.1754,10,57,72,RBBP7;HIST2H2BE;HIST1H2BC;HIST1H2BD;HIST1H2BF;HIST1H2AD;APITD1;HIST1H2BE;RBBP4;HIST2H4A
+Deposition of new CENPA-containing nucleosomes at the centromere,0.1754,10,57,72,HIST1H2BF;HIST2H4A;RBBP7;HIST1H2BC;HIST1H2AD;APITD1;RBBP4;HIST1H2BE;HIST2H2BE;HIST1H2BD
+Regulation of T cell activation by CD28 family,0.175,7,40,103,CD4;PRR5;PTPN11;AKT2;TNFRSF14;MAPKAP1;MTOR
+VEGFR2 mediated vascular permeability,0.1739,4,23,43,PRR5;MTOR;AKT2;MAPKAP1
+Transcriptional regulation of brown and beige adipocyte differentiation by EBF2,0.1739,4,23,41,EBF2;DIO2;RBBP4;RBBP7
+Transcriptional regulation of brown and beige adipocyte differentiation,0.1739,4,23,41,RBBP4;EBF2;RBBP7;DIO2
+PI3K Cascade,0.1739,4,23,55,PTPN11;AKT2;FGFR2;KLB
+Developmental Lineage of Pancreatic Acinar Cells,0.1739,4,23,43,GATA4;GATA6;AQP8;HNF1B
+Peptide ligand-binding receptors,0.1739,12,69,243,CCL19;CCL2;F2RL3;SSTR1;AGTR1;AVPR2;CXCL12;NPY1R;F2RL1;F2;KNG1;HEBP1
+Amyloid fiber formation,0.1733,13,75,257,PARK2;HIST1H2BE;UBE2L6;HIST1H3A;HIST1H2BC;HIST1H2BD;HIST1H2BF;HIST2H4A;GGA2;HIST1H2AD;NAT8;HIST2H2BE;HIST1H3E
+Fatty acid metabolism,0.1724,25,145,192,PRKAA2;CYP1B1;CYP4F22;ACOT11;PTGIS;AMACR;HPGD;ACLY;ALOX12;CYP2C9;DECR1;THEM5;HSD17B4;ACAD10;CYP1A2;GGT5;ACACA;GPX1;PCCB;PRKAB2;CYP1A1;SLC25A17;ACSL5;CYP4A11;SCD5
+Smooth Muscle Contraction,0.1724,5,29,60,DYSF;PXN;CALD1;ALDH2;PDE5A
+Formation of the beta-catenin:TCF transactivating complex,0.1719,11,64,176,HIST2H2BE;MYC;HIST2H4A;HIST1H2BD;HIST1H3A;HIST1H2BF;HIST1H2BE;HIST1H2AD;TCF7L1;HIST1H2BC;HIST1H3E
+Response to elevated platelet cytosolic Ca2+,0.1714,18,105,273,KNG1;SYTL4;QSOX1;SCCPDH;SERPINE1;ITIH3;MAGED2;IGF1;SOD1;SERPING1;ECM1;CD109;ABCC4;SELP;ORM2;SERPINA1;RARRES2;ISLR
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle,0.1714,6,35,45,EDEM2;DERL2;DERL1;UGGT2;VCP;MLEC
+Retinoid metabolism and transport,0.1714,6,35,129,GPC5;BCO2;AKR1C1;GPIHBP1;LRAT;AKR1C4
+Cardiac conduction,0.1714,12,70,146,ATP1B2;KCNK13;KCNIP3;ATP2B2;SCN4B;CASQ2;MME;KCNK1;FXYD2;CACNB2;GATA4;SCN4A
+Pre-NOTCH Expression and Processing,0.1707,14,82,238,NOTCH3;HIST1H3E;MAML3;HIST2H4A;HIST1H2BF;HIST1H2BC;HIST1H2BE;MAML2;HIST1H2AD;JUN;HIST1H3A;HIST2H2BE;HIST1H2BD;AGO3
+Post-translational modification: synthesis of GPI-anchored proteins,0.1698,9,53,162,DPM1;CD109;ALPL;PIGT;CPM;GPAA1;LY6E;GPIHBP1;PIGZ
+Amino acids regulate mTORC1,0.1698,9,53,55,RRAGD;ATP6V1C1;ATP6V0D1;ATP6V1E2;MTOR;ATP6V1A;ATP6V1H;FLCN;ATP6V0C
+Cell-cell junction organization,0.1695,10,59,149,CLDN16;FOXF1;AGO3;CLDN4;CLDN2;CLDN19;CLDN10;CLDN3;ANG;CDH12
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.1685,15,89,149,HIST1H3A;HIST2H4A;PBX1;HIST1H2BC;HOXD4;HIST1H3E;JUN;RBBP4;HIST2H2BE;EGR2;HIST1H2BE;RBBP7;HIST1H2AD;HIST1H2BD;HIST1H2BF
+Activation of HOX genes during differentiation,0.1685,15,89,149,HOXD4;HIST2H2BE;RBBP7;HIST1H2BD;HIST1H2BE;HIST1H3E;HIST1H2AD;EGR2;RBBP4;HIST1H2BC;HIST2H4A;HIST1H3A;JUN;HIST1H2BF;PBX1
+Ion channel transport,0.1681,20,119,206,ANO10;ATP1B2;MCOLN3;ATP6V0C;NEDD4L;ATP6V1H;FXYD2;ATP2C1;ATP6V1C1;ATP6V0D1;TRPM8;RAF1;TRPV4;CLCN3;CASQ2;ATP6V1E2;CLCN5;ANO6;ATP6V1A;ATP2B2
+Estrogen-dependent gene expression,0.1681,19,113,218,HIST1H2BE;HIST1H2BC;RAD21;HIST1H2BD;FOS;MYC;HIST1H2BF;AGO3;FOSB;HIST2H4A;CXCL12;HIST1H2AD;HIST1H3E;KCTD6;JUN;HIST1H3A;CTSD;HIST2H2BE;TGFA
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX),0.1667,2,12,17,PTGIS;HPGD
+Interleukin-6 signaling,0.1667,1,6,28,PTPN11
+Glyoxylate metabolism and glycine degradation,0.1667,3,18,20,OGDH;AGXT;DLD
+TRIF-mediated programmed cell death,0.1667,1,6,12,CD14
+Diseases of programmed cell death,0.1667,13,78,1469,HIST1H3E;JUN;HIST2H2BE;HIST1H3A;HIST1H2AD;RBBP4;HIST1H2BC;HIST1H2BD;HIST1H2BE;DFNA5;HIST2H4A;HIST1H2BF;RBBP7
+Downregulation of TGF-beta receptor signaling,0.1667,4,24,67,NEDD4L;PPP1R15A;UCHL5;TGFBR1
+SMAD2/3 Phosphorylation Motif Mutants in Cancer,0.1667,1,6,30,TGFBR1
+IRS-related events triggered by IGF1R,0.1667,5,30,75,FGFR2;AKT2;KLB;PTPN11;IGF1
+Pentose phosphate pathway,0.1667,2,12,15,PRPS2;DERA
+IRAK4 deficiency (TLR2/4),0.1667,2,12,21,MYD88;CD14
+Defective C1GALT1C1 causes TNPS,0.1667,1,6,21,MUC13
+Defective ST3GAL3 causes MCT12 and EIEE15,0.1667,1,6,10,FMOD
+PKA activation,0.1667,2,12,19,PRKAR2B;ADCY6
+Defective CHSY1 causes TPBS,0.1667,1,6,18,BGN
+Histidine catabolism,0.1667,1,6,8,UROC1
+TGFBR1 KD Mutants in Cancer,0.1667,1,6,10,TGFBR1
+IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation,0.1667,2,12,25,UBE2V1;PELI2
+IRAK1 recruits IKK complex,0.1667,2,12,26,PELI2;UBE2V1
+Phospholipase C-mediated cascade; FGFR2,0.1667,1,6,22,FGFR2
+Phenylalanine metabolism,0.1667,1,6,7,CCBL1
+Adrenoceptors,0.1667,1,6,9,ADRB2
+Mitochondrial translation initiation,0.1667,14,84,90,MRPL13;MRPL19;MRPL38;MRPS11;OXA1L;MRPS15;MRPS16;MRPL49;MRPS28;MRPS27;MRPL39;PTCD3;MRPL35;MRPS18A
+TRAIL  signaling,0.1667,1,6,8,TNFRSF10D
+Crosslinking of collagen fibrils,0.1667,2,12,247,PCOLCE;COL4A5
+Constitutive Signaling by AKT1 E17K in Cancer,0.1667,4,24,48,PRR5;AKT2;MTOR;MAPKAP1
+Ligand-receptor interactions,0.1667,1,6,12,HHIP
+MAPK1 (ERK2) activation,0.1667,1,6,11,PTPN11
+Glycogen breakdown (glycogenolysis),0.1667,2,12,36,PHKB;PYGL
+Pre-NOTCH Processing in the Endoplasmic Reticulum,0.1667,1,6,14,NOTCH3
+Azathioprine ADME,0.1667,3,18,23,SLC29A1;SLC29A2;ABCC4
+RHO GTPases activate PKNs,0.1667,11,66,168,PKN3;HIST1H3E;HIST1H2BD;HIST1H2BE;HIST1H3A;HIST1H2AD;RHOB;HIST2H2BE;HIST2H4A;HIST1H2BC;HIST1H2BF
+Synthesis of GDP-mannose,0.1667,1,6,6,GMPPB
+Tryptophan catabolism,0.1667,2,12,14,AADAT;CCBL1
+Repression of WNT target genes,0.1667,2,12,26,MYC;TCF7L1
+Reduction of cytosolic Ca++ levels,0.1667,1,6,12,ATP2B2
+Translesion Synthesis by POLH,0.1667,3,18,31,RFC1;NPLOC4;VCP
+Loss of MECP2 binding ability to the NCoR/SMRT complex,0.1667,1,6,16,TBL1X
+Transcriptional regulation of testis differentiation,0.1667,1,6,20,GATA4
+RUNX1 regulates estrogen receptor mediated transcription,0.1667,1,6,9,KCTD6
+Negative feedback regulation of MAPK pathway,0.1667,1,6,9,RAF1
+Methionine salvage pathway,0.1667,1,6,6,APIP
+Estrogen biosynthesis,0.1667,1,6,6,HSD17B2
+FGFR2 ligand binding and activation,0.1667,1,6,27,FGFR2
+Erythropoietin activates Phospholipase C gamma (PLCG),0.1667,1,6,9,EPO
+Nephron development,0.1667,1,6,23,HNF1B
+Regulation of IFNA/IFNB signaling,0.1667,1,6,55,PTPN11
+Respiratory syncytial virus (RSV) attachment and entry,0.1667,3,18,87,CD14;GPC5;RAB5B
+Androgen biosynthesis,0.1667,1,6,11,CYP17A1
+RUNX3 regulates NOTCH signaling,0.1667,2,12,29,MAML2;MAML3
+Serotonin Neurotransmitter Release Cycle,0.1667,2,12,22,UNC13B;STXBP1
+"Sensory perception of sweet, bitter, and umami (glutamate) taste",0.1667,1,6,68,SCN4B
+Activation of the phototransduction cascade,0.1667,1,6,26,RHO
+FRS-mediated FGFR4 signaling,0.1667,2,12,27,KLB;PTPN11
+Nef Mediated CD8 Down-regulation,0.1667,1,6,9,ATP6V1H
+Defensins,0.1667,1,6,160,CD4
+NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis,0.1667,1,6,11,RXRB
+"Incretin synthesis, secretion, and inactivation",0.1667,2,12,49,GATA4;DPP4
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,0.1667,1,6,6,DECR1
+Adenylate cyclase activating pathway,0.1667,1,6,10,ADCY6
+Alpha-oxidation of phytanate,0.1667,1,6,6,SLC25A17
+GPCR ligand binding,0.1656,27,163,517,TBXA2R;ADRB2;AGTR1;AVPR2;CCL19;GPR17;PTH1R;FZD5;VIPR1;GNAS;HEBP1;PTGIR;WNT11;RHO;GPR4;PTGFR;CXCL12;CCL2;FZD1;F2RL3;KNG1;GABBR2;F2RL1;F2;NPY1R;MTNR1B;SSTR1
+Meiotic recombination,0.1639,10,61,106,HIST2H4A;HIST2H2BE;HIST1H3A;HIST1H2BD;HIST1H3E;HIST1H2BF;HIST1H2BC;HIST1H2BE;MLH1;HIST1H2AD
+Stimuli-sensing channels,0.1639,10,61,125,NEDD4L;TRPM8;CASQ2;ANO10;TRPV4;CLCN5;MCOLN3;RAF1;ANO6;CLCN3
+Oxidative Stress Induced Senescence,0.1633,16,98,184,FOS;JUN;HIST1H2BE;HIST1H3A;HIST2H2BE;HIST1H3E;RBBP4;AGO3;CDK6;HIST1H2BD;HIST1H2BC;HIST1H2BF;RBBP7;MAP3K5;HIST2H4A;HIST1H2AD
+MITF-M-dependent gene expression,0.163,15,92,193,ATP6V0D1;PXN;SMARCD3;ATP6V1A;SS18L1;ASAH1;ATP6AP2;CEACAM1;SERPINE1;TCF7L1;ATP6V0C;ATP6V1H;AKT2;ATP6V1C1;AGO3
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine,0.1628,7,43,61,HIST1H2AD;HIST1H2BD;HIST1H2BF;HIST2H2BE;HIST1H2BE;HIST1H2BC;HIST2H4A
+Cleavage of the damaged pyrimidine ,0.1628,7,43,60,HIST2H4A;HIST2H2BE;HIST1H2AD;HIST1H2BD;HIST1H2BF;HIST1H2BC;HIST1H2BE
+Depyrimidination,0.1628,7,43,61,HIST2H2BE;HIST1H2BD;HIST1H2BE;HIST1H2BF;HIST2H4A;HIST1H2BC;HIST1H2AD
+Cargo recognition for clathrin-mediated endocytosis,0.1622,12,74,129,AVPR2;CD4;TGFA;CFTR;ADRB2;EPS15L1;VAMP7;CLTCL1;AGTR1;DAB2;COPS8;ARRB1
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),0.1613,5,31,86,AKT2;FGFR2;PTPN11;KLB;IGF1
+IGF1R signaling cascade,0.1613,5,31,84,IGF1;KLB;PTPN11;AKT2;FGFR2
+EGFR downregulation,0.16,4,25,50,ARHGEF7;SPRY2;EPS15L1;TGFA
+Metabolism of steroid hormones,0.16,4,25,36,FDXR;CYP17A1;HSD17B2;FDX1
+Metabolism of vitamins and cofactors,0.1592,25,157,312,GPC5;NT5E;NFS1;COQ6;AOX1;AKR1C1;AKR1C4;THTPA;COQ9;ACACA;CARKD;ADCK4;MOCS2;ACO1;MCCC2;MCCC1;QPRT;BCO2;PCCB;PPCS;LRAT;MTHFS;GPIHBP1;PTGIS;NMNAT1
+Negative regulation of MAPK pathway,0.1579,6,38,80,DUSP10;DUSP2;DUSP6;PAQR3;RAF1;DUSP5
+DNA Damage/Telomere Stress Induced Senescence,0.1579,9,57,83,HIST2H4A;HIST1H1C;HIST1H2BF;HIST1H2AD;HIST1H2BD;HIST1H2BC;HIST2H2BE;HIST1H2BE;CCNA2
+"Transport of bile salts and organic acids, metal ions and amine compounds",0.1579,9,57,87,SLC13A5;SLC44A3;SLC39A7;RHCG;RHBG;SLC39A1;SLC6A1;SLC6A12;SLC22A15
+Metabolism of fat-soluble vitamins,0.1579,6,38,133,AKR1C4;AKR1C1;BCO2;LRAT;GPC5;GPIHBP1
+Basigin interactions,0.1579,3,19,26,PPIL2;ATP1B2;SLC7A11
+Interleukin-7 signaling,0.1579,3,19,181,HIST1H3A;TSLP;HIST1H3E
+Chemokine receptors bind chemokines,0.1579,3,19,58,CCL19;CXCL12;CCL2
+RND3 GTPase cycle,0.1579,6,38,42,RND3;DSG1;EPHA2;DLG5;PKP4;MUC13
+Cytosolic sulfonation of small molecules,0.1579,3,19,26,SLC26A2;SULT1C2;SLC35B3
+Integration of energy metabolism,0.1566,13,83,191,PRKAR2B;GNA14;PRKAB2;GNAS;PFKFB1;STXBP1;PRKAA2;CACNA1D;ADCY6;KCNB1;CACNB2;ACLY;ACACA
+Muscle contraction,0.1565,18,115,236,CALD1;PXN;KCNIP3;GATA4;KCNK13;ATP1B2;PDE5A;CASQ2;SCN4A;CACNB2;SCN4B;FXYD2;KCNK1;MME;NEB;DYSF;ALDH2;ATP2B2
+Insulin receptor signalling cascade,0.1562,5,32,77,FGFR2;GRB10;KLB;AKT2;PTPN11
+RNA Polymerase I Promoter Escape,0.1562,10,64,91,HIST2H2BE;HIST1H3E;HIST1H2BF;HIST1H2BC;POLR1E;HIST1H2BE;HIST2H4A;HIST1H2BD;HIST1H2AD;HIST1H3A
+Potassium Channels,0.1556,7,45,103,KCNN3;GABBR2;KCNB1;KCNK13;KCNJ3;KCNK1;HCN2
+"Base-Excision Repair, AP Site Formation",0.1556,7,45,118,HIST2H4A;HIST2H2BE;HIST1H2BD;HIST1H2BC;HIST1H2BE;HIST1H2AD;HIST1H2BF
+Blood group systems biosynthesis,0.1538,2,13,23,B3GALT1;ST6GALNAC6
+Prostacyclin signalling through prostacyclin receptor,0.1538,2,13,40,GNAS;PTGIR
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion,0.1538,2,13,27,RND1;FES
+CRMPs in Sema3A signaling,0.1538,2,13,43,FES;DPYSL2
+Keratan sulfate degradation,0.1538,2,13,32,FMOD;GLB1
+p75NTR signals via NF-kB,0.1538,2,13,37,NGFR;MYD88
+Triglyceride metabolism,0.1538,4,26,43,MOGAT3;FABP3;FABP4;LPIN1
+tRNA Aminoacylation,0.1538,6,39,45,PARS2;EARS2;PPA2;NARS2;DARS2;IARS2
+Zinc transporters,0.1538,2,13,18,SLC39A1;SLC39A7
+Cytosolic iron-sulfur cluster assembly,0.1538,2,13,13,ABCB7;CIAO1
+Energy dependent regulation of mTOR by LKB1-AMPK,0.1538,4,26,34,PRKAA2;RRAGD;PRKAB2;MTOR
+FRS-mediated FGFR2 signaling,0.1538,2,13,33,FGFR2;PTPN11
+Sphingolipid metabolism,0.1538,14,91,135,GBA2;CYB5B;ST6GALNAC6;NEU4;NEU1;VAPB;MFSD2B;GLB1;ENPP7;PPM1L;ARSG;CTSA;GBA;ASAH1
+Norepinephrine Neurotransmitter Release Cycle,0.1538,2,13,22,UNC13B;STXBP1
+Transport of inorganic cations/anions and amino acids/oligopeptides,0.1525,9,59,109,AHCYL2;SLC12A6;SLC7A11;SLC26A6;SLC17A5;SLC4A2;SLC26A2;SLC34A2;SLC6A12
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,0.1515,10,66,138,HIST1H3E;HIST1H2BF;HIST1H2BC;HIST2H2BE;HIST1H2BD;HIST1H3A;AGO3;HIST1H2AD;HIST2H4A;HIST1H2BE
+PI3K/AKT Signaling in Cancer,0.1515,10,66,300,AKT2;NTF3;FGFR2;PDGFRA;MTOR;TGFA;KLB;MAPKAP1;PTPN11;PRR5
+B-WICH complex positively regulates rRNA expression,0.1515,10,66,105,HIST1H3A;HIST1H2BC;HIST1H2BF;HIST1H2AD;HIST1H3E;HIST1H2BD;HIST1H2BE;POLR1E;HIST2H4A;HIST2H2BE
+Meiotic synapsis,0.1509,8,53,79,HIST2H2BE;HIST1H2AD;HIST2H4A;HIST1H2BD;RAD21;HIST1H2BF;HIST1H2BE;HIST1H2BC
+Peptide hormone metabolism,0.1509,8,53,167,MME;DPP4;GATA4;ATP6AP2;ACE2;IGF1;CTSD;KLF4
+Cellular response to chemical stress,0.1509,24,159,347,CYCS;ME1;NDUFA4;NPLOC4;GPX1;SOD1;COX4I2;MYC;CCS;PSMD2;CSNK2A2;AQP8;COX7A2;VCP;SLC7A11;NOX4;COX7B;CCL2;AKT2;SKP2;SMARCD3;TBL1X;COX6A1;PRKAA2
+Developmental Cell Lineages,0.15,6,40,83,GATA6;AQP3;KRT19;HNF1B;GATA4;AQP8
+Signaling by NTRK2 (TRKB),0.15,3,20,50,TIAM1;PTPN11;NTF3
+Miscellaneous transport and binding events,0.15,3,20,26,NIPAL3;LRRC8D;MAGT1
+EGR2 and SOX10-mediated initiation of Schwann cell myelination,0.15,3,20,52,MBP;EGR2;SCD5
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,0.15,3,20,51,SEC61B;PRNP;WRB
+HS-GAG degradation,0.15,3,20,50,IDS;GPC5;GLB1
+Interleukin-4 and Interleukin-13 signaling,0.15,9,60,223,FOS;JUNB;IL4R;CEBPD;MYC;CCL2;IGHG4;MCL1;IL13RA1
+Clathrin-mediated endocytosis,0.1495,16,107,212,CLTCL1;ARRB1;AVPR2;CD4;ADRB2;COPS8;VAMP7;CFTR;BIN1;RAB5B;EPS15L1;DAB2;DNAJC6;PACSIN2;TGFA;AGTR1
+RAB geranylgeranylation,0.1489,7,47,125,RAB10;RAB22A;RAB1A;RAB5B;RAB2A;RAB25;RAB4A
+NCAM1 interactions,0.1481,4,27,154,CACNA1D;PRNP;CACNB2;COL4A5
+Positive epigenetic regulation of rRNA expression,0.1481,12,81,195,HIST1H2BD;HIST1H2BC;POLR1E;HIST2H4A;HIST1H2AD;HIST1H2BF;HIST1H2BE;HIST2H2BE;RBBP7;RBBP4;HIST1H3E;HIST1H3A
+Cell junction organization,0.1481,12,81,178,FOXF1;CLDN3;CLDN10;CLDN16;ANG;AGO3;PARVB;CLDN4;PXN;CLDN2;CDH12;CLDN19
+IRS-mediated signalling,0.1481,4,27,64,FGFR2;PTPN11;AKT2;KLB
+Mitochondrial Fatty Acid Beta-Oxidation,0.1471,5,34,38,THEM5;ACAD10;PCCB;ACOT11;DECR1
+Metabolism of water-soluble vitamins and cofactors,0.1471,15,102,151,NFS1;AOX1;MCCC2;CARKD;MCCC1;ACACA;NMNAT1;NT5E;MTHFS;THTPA;PTGIS;MOCS2;QPRT;PCCB;PPCS
+Constitutive Signaling by Aberrant PI3K in Cancer,0.1463,6,41,144,KLB;PTPN11;FGFR2;TGFA;NTF3;PDGFRA
+Iron uptake and transport,0.1455,8,55,73,ACO1;ATP6V0D1;SLC22A17;ATP6V1E2;ATP6V1C1;ATP6V1A;ATP6V0C;ATP6V1H
+"Platelet activation, signaling and aggregation",0.1452,27,186,497,ITIH3;KNG1;ORM2;SERPINE1;CD109;SOD1;ABCC4;SELP;ISLR;IGF1;GNA12;PTPN11;RAF1;SERPINA1;ARRB1;TBXA2R;SERPING1;F2RL3;ECM1;F2;MAGED2;SYTL4;QSOX1;RHOB;SCCPDH;GNA14;RARRES2
+SLC-mediated transmembrane transport,0.1447,23,159,257,SLC17A5;SLC26A6;SLC26A2;AHCYL2;SLC45A3;RHBG;SLC34A2;SLC39A7;SLC29A2;SLC39A1;SLC35B3;SLC22A15;SLC5A1;SLCO1B3;SLC44A3;SLC12A6;SLC29A1;SLC7A11;SLC13A5;RHCG;SLC6A1;SLC4A2;SLC6A12
+Phase II - Conjugation of compounds,0.1446,12,83,119,SULT1C2;SLC35B3;COMT;GSTA4;SLC26A2;GGT5;CYP1A2;UGT1A7;ACSM2B;AS3MT;ABHD10;AKR1A1
+RNA Polymerase I Promoter Clearance,0.1446,12,83,145,RBBP7;HIST1H2BD;RBBP4;HIST1H2AD;HIST1H3A;POLR1E;HIST1H2BF;HIST2H4A;HIST1H3E;HIST2H2BE;HIST1H2BC;HIST1H2BE
+Drug ADME,0.1446,12,83,122,ABCC4;NT5C2;SLC29A1;UGT1A7;ADAL;SLC29A2;GGT5;SLCO1B3;AKR1C1;ACSM2B;CYP2C9;CYP2E1
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.1442,15,104,300,HIST2H4A;ACSS3;FABP4;HIST1H2BC;LPIN1;HIST1H3A;SCD5;HIST1H2BE;HIST1H2BD;HIST1H3E;HIST1H2AD;HIST1H2BF;TBL1X;HIST2H2BE;PLIN4
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.1442,15,104,300,HIST2H2BE;HIST1H2AD;HIST1H3A;HIST2H4A;HIST1H3E;LPIN1;HIST1H2BD;HIST1H2BE;FABP4;ACSS3;HIST1H2BF;PLIN4;HIST1H2BC;TBL1X;SCD5
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.1442,15,104,309,HIST2H2BE;TBL1X;LPIN1;HIST1H2BE;FABP4;HIST1H2BD;HIST1H3E;ACSS3;HIST2H4A;HIST1H2BF;PLIN4;HIST1H3A;SCD5;HIST1H2AD;HIST1H2BC
+Erythrocytes take up carbon dioxide and release oxygen,0.1429,1,7,16,CA4
+Dectin-2 family,0.1429,1,7,36,MUC13
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K),0.1429,1,7,25,EPO
+Signaling by Leptin,0.1429,1,7,22,PTPN11
+Regulation of endogenous retroelements by KRAB-ZFP proteins,0.1429,12,84,214,HIST1H3E;HIST1H2AD;RBBP4;HIST2H4A;HIST1H3A;HIST1H2BC;HIST1H2BF;ZNF425;HIST2H2BE;HIST1H2BD;HIST1H2BE;RBBP7
+Sema4D mediated inhibition of cell attachment and migration,0.1429,1,7,9,RND1
+Activated NTRK3 signals through RAS,0.1429,1,7,12,NTF3
+WNT mediated activation of DVL,0.1429,1,7,14,CSNK2A2
+Signaling by SCF-KIT,0.1429,4,28,70,TEC;GRB10;PTPN11;FES
+Signaling by NTRK3 (TRKC),0.1429,2,14,35,PTPRS;NTF3
+Fatty acyl-CoA biosynthesis,0.1429,4,28,40,ACLY;SCD5;ACSL5;ACACA
+Regulation of CDH11 gene transcription,0.1429,1,7,16,FOXF1
+Free fatty acids regulate insulin secretion,0.1429,1,7,18,GNA14
+Regulation of IFNG signaling,0.1429,1,7,22,PTPN11
+ER Quality Control Compartment (ERQC),0.1429,3,21,31,UGGT2;DERL2;EDEM2
+Signaling by RNF43 mutants,0.1429,1,7,15,FZD5
+Nucleotide-like (purinergic) receptors,0.1429,1,7,16,GPR17
+Nucleotide catabolism,0.1429,4,28,38,NT5M;NUDT5;NT5C2;NT5E
+Nuclear signaling by ERBB4,0.1429,3,21,71,MXD4;CXCL12;WWOX
+Loss of Function of SMAD2/3 in Cancer,0.1429,1,7,40,TGFBR1
+Loss of Function of TGFBR1 in Cancer,0.1429,1,7,16,TGFBR1
+Reversal of alkylation damage by DNA dioxygenases,0.1429,1,7,7,ASCC1
+G alpha (s) signalling events,0.1429,10,70,195,ARRB1;AVPR2;PTGIR;GPR150;VIPR1;ADCY6;PRKAR2B;GNAS;PTH1R;ADRB2
+Maturation of protein 3a,0.1429,1,7,18,ST6GALNAC2
+MAPK3 (ERK1) activation,0.1429,1,7,15,PTPN11
+Negative regulation of FGFR4 signaling,0.1429,3,21,51,SPRY2;PTPN11;KLB
+GP1b-IX-V activation signalling,0.1429,1,7,35,RAF1
+Synaptic adhesion-like molecules,0.1429,2,14,21,GRIA3;PTPRS
+RNA Polymerase I Transcription,0.1429,12,84,147,HIST2H4A;HIST1H3A;HIST1H2BD;RBBP4;HIST1H2BC;HIST2H2BE;HIST1H3E;HIST1H2AD;RBBP7;HIST1H2BF;POLR1E;HIST1H2BE
+Synthesis of 5-eicosatetraenoic acids,0.1429,1,7,9,GPX1
+Coenzyme A biosynthesis,0.1429,1,7,7,PPCS
+Presynaptic depolarization and calcium channel opening,0.1429,1,7,11,CACNB2
+Synthesis of PG,0.1429,1,7,8,PLD1
+Tie2 Signaling,0.1429,2,14,23,PTPN11;GRB14
+TYSND1 cleaves peroxisomal proteins,0.1429,1,7,22,HSD17B4
+Post-transcriptional silencing by small RNAs,0.1429,1,7,7,AGO3
+Golgi Cisternae Pericentriolar Stack Reorganization,0.1429,2,14,26,RAB1A;RAB2A
+O2/CO2 exchange in erythrocytes,0.1429,1,7,16,CA4
+Organic cation transport,0.1429,1,7,10,SLC22A15
+Interferon gamma signaling,0.1429,7,49,192,TRIM2;IRF8;MT2A;PTPN11;GBP4;GBP1;RAF1
+Phosphate bond hydrolysis by NUDT proteins,0.1429,1,7,10,NUDT5
+PP2A-mediated dephosphorylation of key metabolic factors,0.1429,1,7,17,PFKFB1
+PKA-mediated phosphorylation of CREB,0.1429,2,14,28,PRKAR2B;ADCY6
+HuR (ELAVL1) binds and stabilizes mRNA,0.1429,1,7,14,ELAVL1
+Defective factor VIII causes hemophilia A,0.1429,1,7,97,F2
+Defective CHST3 causes SEDCJD,0.1429,1,7,14,BGN
+"Defective CHST14 causes EDS, musculocontractural type",0.1429,1,7,22,BGN
+Paracetamol ADME,0.1429,3,21,33,ABCC4;CYP2E1;GGT5
+Protein localization,0.1419,22,155,462,ACO2;ATP5B;IDE;CHCHD3;PRNP;HSD17B4;WRB;PXMP4;BAAT;TIMM44;SLC25A17;TIMM21;IDH3G;AMACR;AGXT;SAMM50;SEC61B;HSPA9;DNAJC19;CYC1;ATP5A1;FXN
+Neuronal System,0.1402,30,214,641,ADCY6;PRKAA2;STXBP1;KCNB1;HCN2;PTPRS;COMT;SLC6A1;PRKAR2B;PRKAB2;ARHGEF9;SYT12;GJC1;GABBR2;NAAA;ARHGEF7;KCNN3;EPB41L1;GLS;ENSG00000184154;SLC6A12;ALDH2;KCNK1;CACNB2;GRIA3;PANX2;KCNK13;KCNJ3;UNC13B;HOMER1
+Metabolism,0.14,245,1750,3291,NUDT5;UGT1A7;ATP5C1;UQCRFS1;FDXR;SDHA;PGK1;ABCB7;ACACA;GLS;SMARCD3;AACS;MDH2;B3GALT1;LYRM7;GBA2;COX7B;PSPH;GPC5;BGN;NT5E;MARC2;AKR1C1;TBL1X;COMT;CACNB2;PRPS2;CYP4A11;RARRES3;CYP7A1;PDK1;CA9;ATP5A1;COQ9;PRKAR2B;PDP1;CSNK2A2;SIRT4;TMEM186;ME1;MTHFS;CYP4F12;RAB4A;ADCY6;SLC44A3;GBA;NDUFAF7;PHKB;ATP5G3;SMIM4;PFKFB1;PYGL;AKR7A3;NDUFB5;HS3ST3B1;NSDHL;FAHD1;FITM2;SLC25A37;AGPAT6;PPOX;SDHC;ACO1;CYP27A1;ADAL;GCK;FABP4;COX4I2;NMRAL1;SUCLA2;FXN;FMO1;NDUFS2;MDH1;APIP;COX15;NDUFA4;MFSD2B;CA4;ABHD10;ACSM2B;AGXT;AKR1A1;ACLY;ATP5F1;ACAD10;NFS1;PSMD2;HSD17B4;ALDH2;DERA;SREBF1;HSD17B2;VAPB;IDH3G;UQCC1;NDUFA10;ATP5B;ADCK4;GGT5;ACSS3;NT5M;ALAS1;NAGS;NDUFS1;ARSG;PFKFB2;LPIN1;SLC6A12;RRM1;SCD5;PLEKHA2;LDHB;PITPNM1;ASPG;OXCT1;GLB1;ENPP7;COX11;SLCO1B3;ACAD8;THTPA;GPX1;ST6GALNAC6;COX6A1;AKR1C4;PDHX;CKMT2;CTPS1;NUP107;GNAS;UROC1;D2HGDH;GAPDH;THEM5;CIAO1;PPM1L;AUH;PCCB;CTSA;FITM1;MCCC2;CYP2B6;FDX1;TIMM21;CCBL1;COX18;CES3;MPC1;SQLE;CACNA1D;CYP1B1;HPGD;MOCS2;DECR1;NEU1;PPA2;PRKAB2;TRAP1;GSTA4;CA5B;OGDH;PPCS;NDUFAF6;SUCLG1;BCO2;PFKL;LRAT;PDHA1;MCCC1;QPRT;NDUFA8;FMOD;CYP2E1;CARKD;DIO2;OSBPL2;DLD;CYCS;AS3MT;CYP1A2;CYP1A1;SACM1L;NNT;HSPA9;COQ6;COX7A2;PLEKHA4;ADSSL1;CYP2C9;SLC51A;ASAH1;ALAD;DSEL;NT5C2;AOX1;AADAT;PLD1;AGK;UQCRC2;SLC6A8;SULT1C2;HYKK;STXBP1;ALOX12;PRKAA2;CYP4F22;ACO2;AK4;KCNB1;CYC1;CYP17A1;UQCRC1;NEU4;CYB5B;B3GNT3;ACSS1;BAAT;OXA1L;IYD;PTGIS;ACOT11;SLC35B3;HYAL1;AMACR;NDUFA9;NDUFA6;GNA14;GPIHBP1;NMNAT1;SEPHS2;OAT;SLC25A17;GLO1;ACSL5;GAMT;INMT;UROS;IDS;PDHB;TMEM86B;SLC26A2;RXRB;MOGAT3;FABP3
+Inhibition of DNA recombination at telomere,0.14,7,50,67,HIST2H2BE;HIST2H4A;HIST1H2BD;HIST1H2AD;HIST1H2BC;HIST1H2BE;HIST1H2BF
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,0.1389,5,36,55,VCP;RFC1;POLE4;UBE2L6;NPLOC4
+Regulation of insulin secretion,0.1379,8,58,128,GNA14;CACNA1D;STXBP1;GNAS;KCNB1;ADCY6;PRKAR2B;CACNB2
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,0.1379,4,29,66,MYC;TGFA;WWOX;KCTD1
+Lysosome Vesicle Biogenesis,0.1379,4,29,77,VAMP7;DNAJC6;CLVS1;ARRB1
+Transport of small molecules,0.1377,72,523,852,NIPAL3;ATP6V0D1;APOC4;CFTR;AQP11;ATP6V1A;SLC5A1;ATP6V1E2;TRPV4;ERLEC1;AVPR2;CES3;SLC22A17;GNAS;SLC17A5;ATP1B2;SLC29A2;PCSK9;SLC6A12;SLC39A7;DERL2;SLC39A1;SLC35B3;SLC45A3;TRPM8;CLCN3;ABCB8;AHCYL2;CA4;ABCC4;ACO1;ABCC6;SLC34A2;SLCO1B3;ATP2C1;PSMD2;ATP6V1H;MAGT1;LSR;ADCY6;SLC4A2;ATP2B2;SLC6A1;DERL1;LRRC8D;PRKAR2B;CLCN5;MCOLN3;ATP6V0C;AQP8;GPIHBP1;SLC22A15;SLC26A2;ANO6;FXYD2;NEDD4L;SLC7A11;SLC26A6;SLC13A5;ABCB7;ANO10;SLC44A3;MICU1;ATP6V1C1;RHCG;VCP;AQP3;RAF1;CASQ2;RHBG;SLC12A6;SLC29A1
+MITF-M-regulated melanocyte development,0.1374,18,131,275,SS18L1;ASAH1;SMARCD3;PXN;ATP6V1A;ATP6AP2;SNAI2;ATP6V1H;AKT2;TCF7L1;AGO3;SERPINE1;ATP6V0D1;CEACAM1;TFEB;ID1;ATP6V1C1;ATP6V0C
+High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,0.1373,7,51,97,ADCY6;PRR5;PRKAR2B;GNAS;MTOR;MAPKAP1;TRPV4
+Cellular Senescence,0.1373,21,153,302,ANAPC1;HIST1H2AD;HIST2H4A;AGO3;JUN;ID1;CCNA2;RBBP7;HIST1H3A;HIST1H3E;HIST1H2BC;RBBP4;HIST2H2BE;HIST1H2BD;ETS2;HIST1H2BE;FOS;MAP3K5;CDK6;HIST1H1C;HIST1H2BF
+GPCR downstream signalling,0.1373,39,284,825,HEBP1;AVPR2;GNAS;GNA12;MTNR1B;F2;RGS2;F2RL1;GPR17;NPY1R;ARHGEF37;KNG1;RHO;AGTR1;AKT2;PTGIR;PRKAR2B;PTGFR;GPR150;PTH1R;GNA14;RHOB;CCL19;MCF2L;TBXA2R;ADRB2;GABBR2;VIPR1;GPR4;ARRB1;F2RL3;CXCL12;RGS5;TIAM1;ARHGEF7;ADCY6;SSTR1;GAST;ARHGEF9
+Metabolism of lipids,0.1373,81,590,978,SACM1L;CYP1A1;DECR1;SQLE;SMARCD3;CYP1B1;HPGD;FITM1;PRKAB2;ST6GALNAC6;NEU1;PPM1L;FDX1;PCCB;FDXR;ASAH1;CYP4A11;RARRES3;CYP1A2;OSBPL2;CYP7A1;TBL1X;CYP2E1;PLEKHA4;SLC51A;CYP2C9;ACACA;AGK;AKR1C1;PLD1;CYP27A1;CYB5B;BAAT;PTGIS;CYP17A1;FABP4;NEU4;ALOX12;SLC44A3;NSDHL;GBA;RAB4A;ME1;AGPAT6;TMEM86B;MOGAT3;FITM2;CYP4F22;AMACR;GBA2;CTSA;AACS;SLC25A17;PRKAA2;ACSL5;FABP3;RXRB;ACOT11;ALAS1;SREBF1;LPIN1;HSD17B2;ACLY;VAPB;AKR1C4;MFSD2B;GPX1;ACSS3;ARSG;SCD5;THEM5;CSNK2A2;GGT5;GLB1;PLEKHA2;OXCT1;PITPNM1;ENPP7;SLCO1B3;HSD17B4;ACAD10
+Signaling by EGFR,0.1364,6,44,85,ARHGEF7;SPRY2;TGFA;EPS15L1;PXN;PTPN11
+"Adrenaline,noradrenaline inhibits insulin secretion",0.1364,3,22,47,CACNB2;CACNA1D;ADCY6
+"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",0.1364,3,22,52,GCK;SREBF1;FBXO32
+FLT3 signaling in disease,0.1364,3,22,316,PTPN11;TRIP11;NOX4
+Negative regulation of FGFR2 signaling,0.1364,3,22,57,FGFR2;SPRY2;PTPN11
+Glucagon signaling in metabolic regulation,0.1364,3,22,34,GNAS;ADCY6;PRKAR2B
+Adipogenesis,0.1364,12,88,185,RBBP7;EGR2;RBBP4;FABP4;EBF1;EBF2;KLF4;TBL1X;SREBF1;CEBPD;SMARCD3;DIO2
+Cell-Cell communication,0.1359,14,103,227,PARVB;ANG;SFTPD;CLDN4;PXN;CLDN16;PTPN11;CLDN10;CLDN3;AGO3;CLDN2;CDH12;CLDN19;FOXF1
+RND1 GTPase cycle,0.1351,5,37,42,PKP4;DLG5;MUC13;EPHA2;RND1
+Signaling by GPCR,0.1348,43,319,917,WNT11;HEBP1;NPY1R;ARHGEF7;CXCL12;FZD1;GAST;F2;AGTR1;SSTR1;ARHGEF9;PRKAR2B;MTNR1B;GNAS;GPR17;VIPR1;GPR150;PTGIR;F2RL1;AKT2;RGS5;CCL19;PTGFR;ADRB2;FZD5;MCF2L;GNA14;RHO;PTH1R;GNA12;KNG1;RGS2;CCL2;F2RL3;TBXA2R;ADCY6;GPR4;TIAM1;RHOB;ARRB1;GABBR2;AVPR2;ARHGEF37
+Signaling by FLT3 fusion proteins,0.1333,2,15,59,TRIP11;NOX4
+DNA Damage Bypass,0.1333,6,45,66,UBE2L6;RFC1;DDB1;VCP;POLE4;NPLOC4
+Signaling by PDGFR in disease,0.1333,2,15,81,PDGFRA;GOLGA4
+Neurexins and neuroligins,0.1333,4,30,87,HOMER1;STXBP1;EPB41L1;SYT12
+"Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)",0.1333,2,15,38,CD14;PTPN11
+Protein methylation,0.1333,2,15,26,METTL22;VCP
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters,0.1333,2,15,28,CD4;ATP6V1H
+Activation of AMPK downstream of NMDARs,0.1333,2,15,32,PRKAA2;PRKAB2
+Other interleukin signaling,0.1333,2,15,28,CD4;TXLNA
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,0.1333,8,60,144,HIST1H2BE;HIST1H2BD;HIST2H2BE;HIST1H2BF;HIST1H2BC;BRE;HIST2H4A;CHEK2
+The canonical retinoid cycle in rods (twilight vision),0.1333,2,15,25,RHO;LRAT
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1,0.1333,2,15,20,CCNA2;RBBP4
+Nicotinamide salvaging,0.1333,2,15,19,CARKD;PTGIS
+TBC/RABGAPs,0.1333,4,30,45,TBC1D20;RAB4A;GGA2;RAB5B
+mRNA decay by 3' to 5' exoribonuclease,0.1333,2,15,16,DCPS;HBS1L
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,0.1333,2,15,393,CDKN1C;CDK6
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",0.1333,2,15,24,CDKN1C;CDK6
+Cellular hexose transport,0.1333,2,15,21,SLC5A1;SLC45A3
+Transmission across Chemical Synapses,0.1325,20,151,461,UNC13B;SLC6A1;STXBP1;GABBR2;EPB41L1;ARHGEF7;NAAA;PRKAR2B;ADCY6;COMT;ARHGEF9;GRIA3;CACNB2;ENSG00000184154;PRKAA2;SLC6A12;ALDH2;KCNJ3;GLS;PRKAB2
+Negative regulation of the PI3K/AKT network,0.1324,9,68,158,MYD88;TGFA;IER3;PTPN11;KLB;PDGFRA;AKT2;FGFR2;NTF3
+Translocation of SLC2A4 (GLUT4) to the plasma membrane,0.1321,7,53,80,PRKAB2;PRKAA2;RAB10;TBC1D4;RAB4A;AKT2;RHOQ
+Signaling by Nuclear Receptors,0.1318,29,220,444,KCTD6;HIST1H3E;RXRB;PDHB;SREBF1;RAD21;FOSB;HIST1H3A;CTSD;TGFA;HIST2H2BE;HIST1H2BF;APOC4;JUN;TBL1X;PDHX;DLD;PDK1;AKT2;MYC;PDHA1;HIST1H2AD;HIST1H2BC;HIST1H2BD;HIST1H2BE;CXCL12;FOS;AGO3;HIST2H4A
+Regulation of cholesterol biosynthesis by SREBP (SREBF),0.1316,5,38,103,ACACA;SQLE;SREBF1;TBL1X;SMARCD3
+MTOR signalling,0.1316,5,38,55,PRKAA2;PRKAB2;MTOR;RRAGD;AKT2
+Signaling by NTRKs,0.1313,13,99,309,ID1;FOSB;NTF3;F3;TIAM1;EGR1;PTPN11;TRIB1;FOS;EGR2;DUSP6;JUNB;PTPRS
+DNA Double Strand Break Response,0.1311,8,61,149,HIST2H4A;HIST1H2BE;HIST2H2BE;CHEK2;HIST1H2BC;HIST1H2BF;BRE;HIST1H2BD
+G alpha (12/13) signalling events,0.1311,8,61,81,GNA12;TBXA2R;ARHGEF7;MCF2L;TIAM1;ARHGEF9;RHOB;ARHGEF37
+Meiosis,0.131,11,84,138,HIST1H3E;HIST1H2AD;RAD21;HIST1H2BC;HIST1H3A;HIST2H4A;HIST2H2BE;HIST1H2BE;HIST1H2BF;HIST1H2BD;MLH1
+Synthesis of PC,0.1304,3,23,30,CSNK2A2;SLC44A3;LPIN1
+Antimicrobial peptides,0.1304,3,23,220,BPIFB4;ITLN1;CD4
+NRAGE signals death through JNK,0.1304,6,46,65,MCF2L;ARHGEF37;NGFR;ARHGEF7;ARHGEF9;TIAM1
+Transcriptional Regulation by NPAS4,0.1304,3,23,59,KCNIP3;AGO3;FOS
+Signaling by Receptor Tyrosine Kinases,0.1298,51,393,1247,CXCL12;PXN;ATP6V1A;TNK2;ATP6V1E2;NCKAP1;AKT2;IGF1;ARHGEF7;FGFR2;ATP6V1H;HGFAC;THBS4;GRB10;PTPRS;PDGFRA;SPRY2;SPINT1;TIAL1;MTOR;ATP6V1C1;PTPN11;EGR2;KLB;DUSP6;TGFA;MYC;FES;TEC;EGR1;ATP6V0D1;F3;PRR5;FAM150B;ID1;TIAM1;CTSD;MXD4;PDGFC;TRIB1;MAPKAP1;FOSB;COL4A5;NTF3;IDE;EPS15L1;WWOX;RAB4A;FOS;JUNB;ATP6V0C
+Nonhomologous End-Joining (NHEJ),0.1296,7,54,73,HIST1H2BF;HIST2H4A;BRE;HIST1H2BE;HIST2H2BE;HIST1H2BC;HIST1H2BD
+Early SARS-CoV-2 Infection Events,0.129,4,31,176,GPC5;ZCRB1;VCP;ACE2
+Ub-specific processing proteases,0.129,20,155,628,HIST1H2AD;SKP2;ARRB1;CCNA2;MYC;HIST1H2BD;HIST1H2BF;HIST2H2BE;USP24;USP28;USP30;RNF123;HIST1H2BC;TGFBR1;USP49;ADRB2;IDE;CFTR;HIST1H2BE;PSMD2
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux,0.129,4,31,56,RXRB;APOC4;AGO3;TBL1X
+Aggrephagy,0.129,4,31,126,CFTR;UBE2V1;PARK2;VCP
+"Transport of vitamins, nucleosides, and related molecules",0.129,4,31,47,SLCO1B3;SLC29A1;SLC29A2;SLC35B3
+RND2 GTPase cycle,0.1282,5,39,43,DSG1;EPHA2;DLG5;PKP4;MUC13
+Intra-Golgi traffic,0.1282,5,39,56,CUX1;COG3;TRIP11;COG2;COG7
+Defective CFTR causes cystic fibrosis,0.1277,6,47,66,CFTR;VCP;DERL1;ERLEC1;PSMD2;DERL2
+Mitotic Prophase,0.1271,15,118,233,RAB1A;HIST1H3E;HIST1H2BF;SMC4;HIST1H2BE;RAB2A;VRK1;HIST1H2BD;HIST1H2BC;NUP107;HIST2H2BE;HIST1H3A;HIST2H4A;LPIN1;HIST1H2AD
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",0.127,8,63,145,FGFR2;KLB;IER3;TGFA;PDGFRA;MYD88;PTPN11;NTF3
+Neddylation,0.1269,25,197,294,DCUN1D1;LRR1;FBXO27;KLHL22;FBXW8;COPS8;VCP;PSMD2;ASB8;DCUN1D2;FBXO9;KCTD6;DDB1;CUL7;FBXO17;FBXO22;BTBD1;COMMD8;SKP2;FBXW5;RBBP7;FBXW2;NPLOC4;ASB16;FBXO32
+HCMV Early Events,0.1262,13,103,327,HIST1H2AD;HIST2H4A;HIST1H3A;HIST1H2BD;HIST1H2BE;HIST1H2BF;TBL1X;NUP107;HIST2H2BE;RBBP4;HIST1H2BC;HIST1H3E;RBBP7
+Macroautophagy,0.1261,15,119,330,ATG10;UBE2V1;ATG13;RB1CC1;PARK2;MTOR;CSNK2A2;ATG4A;CFTR;USP30;PRKAB2;VCP;PRKAA2;WIPI1;RRAGD
+Neutrophil degranulation,0.1258,39,310,1316,ACLY;ATP6AP2;CYSTM1;DERA;FUCA2;ASAH1;RAB10;QSOX1;PSMD2;DSG1;BST2;TMEM63A;GLB1;CFP;VCP;MAGT1;ATP6V0C;ORM2;CTSD;CD14;PYGL;CRISPLD2;PFKL;PGRMC1;CPPED1;SYNGR1;ANO6;CEACAM1;DNASE1L1;SURF4;ALAD;NEU1;SERPINA1;PIGR;MLEC;MME;PLD1;CTSA;RAB5B
+Dopamine Neurotransmitter Release Cycle,0.125,2,16,27,STXBP1;UNC13B
+PI-3K cascade:FGFR3,0.125,1,8,19,PTPN11
+Diseases of the neuronal system,0.125,1,8,37,LRAT
+Scavenging by Class A Receptors,0.125,2,16,75,MARCO;COLEC11
+Heparan sulfate/heparin (HS-GAG) metabolism,0.125,5,40,412,GPC5;IDS;HS3ST3B1;GLB1;BGN
+CREB1 phosphorylation through the activation of Adenylate Cyclase,0.125,1,8,19,PRKAR2B
+Thromboxane signalling through TP receptor,0.125,2,16,26,TBXA2R;GNA14
+Signaling by NOTCH1,0.125,8,64,148,MAML3;TBL1X;DTX1;ARRB1;HDAC8;MYC;MAML2;MIB1
+Signaling by MRAS-complex mutants,0.125,1,8,20,RAF1
+Activated NTRK2 signals through FRS2 and FRS3,0.125,1,8,21,PTPN11
+Acetylcholine regulates insulin secretion,0.125,1,8,18,GNA14
+Competing endogenous RNAs (ceRNAs) regulate PTEN translation,0.125,1,8,8,AGO3
+Signaling by TGF-beta Receptor Complex in Cancer,0.125,1,8,148,TGFBR1
+Transport of nucleotide sugars,0.125,1,8,10,SLC35B3
+Regulation of NPAS4 mRNA translation,0.125,1,8,9,AGO3
+MET receptor recycling,0.125,1,8,12,RAB4A
+Transport of organic anions,0.125,1,8,12,SLCO1B3
+Sensory Perception,0.125,16,128,1355,EBF1;GPC5;LRAT;AKR1C4;CACNB2;LHX2;EPB41L1;BCO2;ATP2B2;GPIHBP1;RHO;SCN4B;OR51E1;LRRC52;CACNA1D;AKR1C1
+DNA Damage Reversal,0.125,1,8,9,ASCC1
+Triglyceride catabolism,0.125,2,16,29,FABP3;FABP4
+Diseases associated with visual transduction,0.125,1,8,37,LRAT
+Cellular response to mitochondrial stress,0.125,1,8,14,OMA1
+Dual Incision in GG-NER,0.125,5,40,52,ERCC4;CHD1L;RFC1;POLE4;DDB1
+PECAM1 interactions,0.125,1,8,13,PTPN11
+SHOC2 M1731 mutant abolishes MRAS complex function,0.125,1,8,8,RAF1
+Plasma lipoprotein clearance,0.125,4,32,83,CES3;APOC4;LSR;PCSK9
+Phase 2 - plateau phase,0.125,1,8,16,CACNB2
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,0.125,1,8,23,CD40
+Oncogene Induced Senescence,0.125,4,32,58,AGO3;ID1;CDK6;ETS2
+Gain-of-function MRAS complexes activate RAF signaling,0.125,1,8,19,RAF1
+Gap junction trafficking,0.125,3,24,92,CLTCL1;GJC1;DAB2
+Prednisone ADME,0.125,1,8,10,AKR1C1
+Protein-protein interactions at synapses,0.125,6,48,125,PTPRS;GRIA3;STXBP1;HOMER1;EPB41L1;SYT12
+Cell-extracellular matrix interactions,0.125,2,16,18,PARVB;PXN
+Protein ubiquitination,0.125,9,72,243,HIST1H2BD;DERL1;UBA1;UBE2E3;HIST1H2BE;HIST1H2BC;HIST1H2BF;VCP;UBE2Q2
+Pyroptosis,0.125,2,16,48,CYCS;DFNA5
+Organelle biogenesis and maintenance,0.125,32,256,458,B9D1;PRKAB2;APOO;TFB1M;ALAS1;IFT80;SAMM50;PRKAR2B;CYCS;ATP5F1;NINL;CDK5RAP2;IFT20;ATP5A1;CEP63;TRIP11;RHO;TBL1X;ATP5B;ATP5G3;TTC8;HSPA9;DCTN2;CEP70;ATP5C1;MKKS;SIRT4;SMARCD3;PRKAA2;CHCHD3;IMMT;MTERF1
+DNA replication initiation,0.125,1,8,8,POLE4
+Serine biosynthesis,0.125,1,8,9,PSPH
+NoRC negatively regulates rRNA expression,0.125,10,80,195,HIST1H3E;HIST2H4A;HIST1H2AD;HIST1H2BF;HIST2H2BE;HIST1H2BC;HIST1H2BD;HIST1H3A;POLR1E;HIST1H2BE
+Nitric oxide stimulates guanylate cyclase,0.125,1,8,26,PDE5A
+Atorvastatin ADME,0.125,1,8,11,SLCO1B3
+Spry regulation of FGF signaling,0.125,2,16,32,SPRY2;PTPN11
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,0.125,4,32,69,PRKAR2B;GNAS;KCNB1;ADCY6
+RHO GTPases Activate Rhotekin and Rhophilins,0.125,1,8,14,RHOB
+GRB2 events in EGFR signaling,0.125,1,8,14,TGFA
+Noncanonical activation of NOTCH3,0.125,1,8,12,NOTCH3
+Retinoid cycle disease events,0.125,1,8,35,LRAT
+Downstream signaling of activated FGFR4,0.125,2,16,36,PTPN11;KLB
+NR1H2 and NR1H3-mediated signaling,0.125,5,40,75,APOC4;TBL1X;RXRB;AGO3;SREBF1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),0.1237,12,97,251,FUCA2;CYR61;QSOX1;KNG1;SERPINA10;APOL1;IGFALS;F2;IGF1;IGFBP3;PCSK9;SERPINA1
+ESR-mediated signaling,0.1235,20,162,339,CXCL12;HIST1H2BC;KCTD6;HIST1H3E;HIST1H2BD;HIST1H2BE;AGO3;HIST1H2AD;FOSB;HIST2H2BE;HIST2H4A;RAD21;HIST1H3A;TGFA;FOS;AKT2;MYC;CTSD;JUN;HIST1H2BF
+Base Excision Repair,0.1233,9,73,148,HIST1H2BC;HIST1H2AD;HIST2H4A;HIST1H2BE;HIST2H2BE;HIST1H2BD;POLE4;HIST1H2BF;RFC1
+Innate Immune System,0.1224,84,686,2725,BPIFB4;NEU1;DUSP6;SIGIRR;CTSA;C1R;CD14;MLEC;DFNA5;ATP6V1E2;ITLN1;CD4;HERC5;MME;SURF4;PYGL;IGHG4;ACLY;F2;VCP;PLD1;FOS;ATP6V1H;PTPN11;MAGT1;ATP6V0D1;CPPED1;UBE2V1;ATP6V1C1;FCN3;NCKAP1;PIGR;ATP6V1A;C8A;SERPINA1;FUCA2;RAB5B;CFP;C9;SYNGR1;PFKL;UBE2L6;ANO6;VTN;ASAH1;MUC13;CEACAM1;ATP6V0C;MASP2;TMEM63A;COLEC10;ORM2;ALAD;BST2;CPN1;QSOX1;GLB1;RAF1;CRISPLD2;PELI2;DSG1;CYSTM1;DNASE1L1;PSMD2;JUN;SERPING1;RAB10;FCN2;PPAPDC1A;CTSD;C4BPA;CFB;C1S;DERA;C8B;TEC;PGRMC1;MYD88;CD81;NF2;SFTPD;ATP6AP2;COLEC11;C4BPB
+Class B/2 (Secretin family receptors),0.1224,6,49,102,FZD1;PTH1R;VIPR1;FZD5;WNT11;GNAS
+NOTCH1 Intracellular Domain Regulates Transcription,0.122,5,41,78,MAML3;MAML2;MYC;TBL1X;HDAC8
+Negative epigenetic regulation of rRNA expression,0.122,10,82,230,HIST1H3A;HIST1H3E;HIST1H2BE;HIST1H2BF;HIST2H2BE;HIST1H2BC;HIST1H2BD;HIST2H4A;POLR1E;HIST1H2AD
+Regulation of endogenous retroelements,0.1217,14,115,272,SS18L1;HIST1H2BD;HIST2H4A;HIST1H2BF;HIST1H2BC;HIST1H3A;HIST1H3E;SMARCD3;RBBP4;HIST1H2AD;HIST1H2BE;RBBP7;ZNF425;HIST2H2BE
+G alpha (q) signalling events,0.1215,13,107,249,F2RL1;F2;PTGFR;GAST;F2RL3;AGTR1;TBXA2R;RGS5;GNA14;KNG1;RGS2;GPR4;GPR17
+Signaling by NOTCH,0.1215,22,181,494,HIST1H2BF;AGO3;HDAC8;PSMD2;NOTCH3;HIST2H4A;HIST1H2BE;MIB1;ARRB1;HIST2H2BE;TBL1X;DTX1;HIST1H2AD;HIST1H3A;MYC;PBX1;JUN;HIST1H3E;HIST1H2BC;MAML3;HIST1H2BD;MAML2
+GABA receptor activation,0.1212,4,33,86,ARHGEF9;ADCY6;KCNJ3;GABBR2
+Aspirin ADME,0.1212,4,33,46,ACSM2B;CYP2E1;CYP2C9;UGT1A7
+Diseases associated with glycosaminoglycan metabolism,0.1212,4,33,245,BGN;SLC26A2;GPC5;FMOD
+Interleukin-12 signaling,0.1212,4,33,112,HSPA9;PDCD4;VAMP7;SOD1
+Hemostasis,0.1212,52,429,1150,RARRES2;F2RL3;F2;ADAMTS13;SERPINA5;ITIH3;ISLR;PRKAR2B;SERPING1;PPIL2;PTGIR;HIST1H3A;EPCAM;PTPN11;GATA6;ABCC4;RAF1;F12;TBXA2R;SERPINE1;HIST1H3E;MAGED2;CD109;IGF1;KNG1;ARRB1;SCCPDH;TNFRSF10D;CD99L2;RAD51B;SYTL4;CABLES1;SLC7A11;PDE5A;GNA14;SERPINA1;GRB14;RHOB;GNAS;SOD1;F13B;GATA4;SELP;ATP1B2;ORM2;QSOX1;KIF1C;F3;CEACAM1;ATP2B2;GNA12;ECM1
+ABC-family proteins mediated transport,0.1205,10,83,106,PSMD2;VCP;ABCC6;DERL2;DERL1;CFTR;ABCC4;ABCB7;ERLEC1;ABCB8
+Transcriptional regulation by small RNAs,0.1205,10,83,114,HIST1H2AD;HIST1H2BE;HIST2H2BE;HIST2H4A;HIST1H2BC;HIST1H3A;HIST1H3E;HIST1H2BD;HIST1H2BF;NUP107
+SLC transporter disorders,0.12,9,75,308,GCK;SLCO1B3;SLC34A2;SLC5A1;SLC17A5;SLC12A6;SLC26A2;AVPR2;NUP107
+Molecules associated with elastic fibres,0.12,3,25,54,ELN;MFAP4;VTN
+Carboxyterminal post-translational modifications of tubulin,0.12,3,25,128,AGBL5;NICN1;TTL
+Glutathione conjugation,0.12,3,25,40,GSTA4;AKR1A1;GGT5
+G0 and Early G1,0.12,3,25,52,RBBP4;MYC;CCNA2
+HCMV Late Events,0.1196,11,92,241,HIST1H2BD;CEBPD;HIST2H4A;HIST1H2BC;HIST1H3A;HIST1H3E;HIST2H2BE;HIST1H2AD;HIST1H2BF;NUP107;HIST1H2BE
+Glycosaminoglycan metabolism,0.1196,11,92,715,FMOD;DSEL;HYAL1;SLC35B3;SLC26A2;B3GNT3;IDS;BGN;GPC5;HS3ST3B1;GLB1
+Deubiquitination,0.1195,27,226,778,HIST1H2BC;ARRB1;HIST1H2BD;HIST1H2BF;BRE;HIST1H2BE;USP24;PARK2;VCP;UCHL5;HIST2H2BE;HIST1H2AD;USP28;USP49;USP30;PSMD2;INO80C;TNIP1;CCNA2;TGFBR1;RNF123;MYC;ZRANB1;IDE;SKP2;CFTR;ADRB2
+Signaling by NOTCH3,0.119,5,42,122,NOTCH3;MAML3;MAML2;MIB1;PBX1
+Chondroitin sulfate/dermatan sulfate metabolism,0.119,5,42,292,BGN;IDS;DSEL;HYAL1;GPC5
+Sensory processing of sound by inner hair cells of the cochlea,0.119,5,42,70,ATP2B2;LRRC52;CACNA1D;EPB41L1;CACNB2
+Regulation of PTEN gene transcription,0.1186,7,59,100,SNAI2;EGR1;RRAGD;JUN;RBBP4;MTOR;RBBP7
+Asparagine N-linked glycosylation,0.1181,30,254,488,ST6GALNAC2;COG2;COG7;COG3;TGFA;SLC17A5;DPM1;CTSA;EDEM2;MLEC;MAGT1;AMDHD2;RAB1A;ANK3;NEU4;SERPINA1;TFG;DERL1;VCP;TBC1D20;DCTN2;UGGT2;COPB2;DERL2;NEU1;ALG2;GLB1;ST6GALNAC6;GMDS;GMPPB
+Immune System,0.1179,154,1306,5116,MUC13;ASAH1;APITD1;CEACAM1;DFNA5;ATP6V1E2;UBA5;CLEC4G;MAGT1;IRF8;MCL1;CTSF;PDCD4;ASB8;UBE2V1;MYD88;UBE2Q2;CFP;PELI2;FCN3;PLD1;ATP6V1C1;ANAPC1;ORM2;COLEC10;TNFRSF14;CCL2;ANO6;FBXO32;TXLNA;SYNGR1;CD40;IGHG4;F2;PTPN11;ATP6V0D1;FBXW8;HIST1H3E;PYGL;UBE2L6;PFKL;C1R;SURF4;ALAD;CCL19;LAG3;C8A;FBXW5;CEBPD;RAB10;SEC61B;FBXO17;SKP2;PSMD2;ITLN1;CRISPLD2;VAMP7;KLHL22;GRB10;SERPING1;PTPN14;IL4R;FCN2;C4BPB;AKT2;C4BPA;JUN;ATP6AP2;UBE2E2;CPPED1;TSLP;PGRMC1;C1S;CFB;SOD1;DCTN2;FBXO22;DERA;MTOR;C8B;CPN1;DNASE1L1;GLB1;GBP1;IL13RA1;TRIM2;TEC;LRR1;PRR5;BTNL9;PPAPDC1A;BST2;DSG1;QSOX1;CYSTM1;EVL;HIST1H3A;MASP2;NUP107;RAB5B;MT2A;MLEC;MAPKAP1;GBP4;FBXW2;PIGR;PPL;SFTPD;CD81;RAF1;CTSD;UBE2E3;COLEC11;KCTD6;CD4;DUSP6;TMEM63A;NEDD4L;JUNB;ATP6V1A;NCKAP1;CNTFR;MYC;FBXO27;UBA1;VTN;ATP6V0C;IFITM1;IFITM2;SIGIRR;PARK2;RNF123;C9;LIFR;SERPINA1;FUCA2;CUL7;EGR1;VCP;BPIFB4;ACLY;MME;CD14;CTSA;BTBD1;NEU1;ATP6V1H;NF2;IL1RN;ASB16;HERC5;HSPA9;FOS;FBXO9
+Metabolism of proteins,0.1177,198,1682,4511,BTBD1;ARRB1;OGDH;PIGZ;SATB2;EARS2;USP49;CD109;DCUN1D2;MRPL13;HIST1H2BD;CFTR;CTSA;PDHA1;UBE2L6;GMPPB;PARK2;NICN1;DPP4;METTL22;NARS2;FBXW2;ADRB2;GGA2;FBXO32;HIST1H2BF;QSOX1;PARS2;USP24;PSMD2;DERL1;MUC13;OXA1L;COG7;MYC;ALDH2;UQCRC2;APOL1;DCTN2;ALPL;ADAMTS3;ADAMTSL3;GPIHBP1;TFG;TBC1D20;GNA14;IGF1;MLEC;GMDS;KLHL22;ASB16;TBCD;MRPS18A;FUCA2;BRE;AMDHD2;THSD4;HIST1H2AD;HSPA9;MRPS15;ATP5B;MRPS27;SKP2;DPM1;SLC34A2;COMMD8;SLC17A5;HIST1H3A;UCHL5;MRPL35;ZRANB1;PTCD3;CCNA2;FBXO22;GALNT11;OMA1;DLD;IARS2;PIGT;ASB8;KNG1;SERPINA1;PPA2;ALAS1;PCCB;FDX1;GFM2;HIST1H2BE;NEU1;GALNT12;ALG2;RAB1A;POMGNT1;MRPL38;B3GALTL;RAB2A;HIST1H3E;ARSG;GATA6;NDUFS1;RNF123;COG2;MRPS11;VCP;DARS2;ANK3;UGGT2;LY6E;UBE2E3;FBXW5;GSPT2;MRPL19;NUP107;COG3;NAT8;COPB2;CUL7;MRPL49;RAB4A;GBA;DCUN1D1;HIST2H4A;TGFA;INO80C;NR4A2;ST6GALNAC2;PDK1;ATP5A1;NPLOC4;HIST1H2BC;HIST2H2BE;SFTPD;SERPINA10;ST6GALNAC6;EDEM2;UBE2Q2;ATP6AP2;USP30;ATP5C1;ADAMTS13;GFM1;DERL2;SRP54;ACAD8;MDH2;FBXW8;CPM;GLB1;TGFBR1;LRR1;CTSD;ACE2;SEC61B;MAGT1;SRP9;IGFBP3;COPS8;DDB1;OXCT1;MRPS16;RBBP7;TNIP1;MRPS28;IDE;OPA1;ARFGEF2;RAB5B;USP28;GATA4;POMGNT2;CSNK2A2;RAD21;RAB25;FBXO9;RAB22A;KLF4;CFP;PDHB;PCSK9;KCTD6;ACO2;IGFALS;B3GNT3;SSR3;AGBL5;ADAMTSL2;GPAA1;MRPL39;TTL;RAB10;CHST4;CYR61;F2;MME;NEU4;FBXO27;FBXO17;UBA1
+"Defective B4GALT7 causes EDS, progeroid type",0.1176,2,17,22,GPC5;BGN
+Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits,0.1176,2,17,29,KCNJ3;GABBR2
+Aberrant regulation of mitotic cell cycle due to RB1 defects,0.1176,4,34,412,CDK6;SKP2;CDKN1C;ANAPC1
+Disorders of transmembrane transporters,0.1176,16,136,456,DERL1;SLC17A5;GCK;PSMD2;AVPR2;VCP;DERL2;ERLEC1;CFTR;SLC5A1;SLCO1B3;NUP107;SLC26A2;SLC12A6;ABCC6;SLC34A2
+Downstream signaling of activated FGFR2,0.1176,2,17,42,PTPN11;FGFR2
+Regulation of FZD by ubiquitination,0.1176,2,17,37,RSPO3;FZD5
+Transcriptional regulation of white adipocyte differentiation,0.1176,8,68,148,FABP4;SREBF1;SMARCD3;CEBPD;EBF1;EGR2;TBL1X;KLF4
+Co-inhibition by CTLA4,0.1176,2,17,25,PTPN11;AKT2
+Co-stimulation by CD28,0.1176,4,34,64,MAPKAP1;PRR5;MTOR;AKT2
+Sphingolipid de novo biosynthesis,0.1176,4,34,41,CYB5B;PPM1L;VAPB;MFSD2B
+RHOQ GTPase cycle,0.1176,6,51,60,ARHGEF7;MPP7;CFTR;RHOQ;ARHGEF9;DIAPH3
+Gluconeogenesis,0.1176,2,17,26,GAPDH;PGK1
+Hedgehog ligand biogenesis,0.1176,6,51,95,GPC5;PSMD2;DERL2;DISP2;ERLEC1;VCP
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,0.1176,10,85,151,HIST1H2BC;HIST1H2BF;PSMD2;HIST1H2AD;HIST2H2BE;HIST1H3E;HIST1H2BD;HIST2H4A;HIST1H2BE;HIST1H3A
+G protein gated Potassium channels,0.1176,2,17,29,KCNJ3;GABBR2
+Defective B3GAT3 causes JDSSDHD,0.1176,2,17,20,BGN;GPC5
+Defective B3GALT6 causes EDSP2 and SEMDJL1,0.1176,2,17,29,GPC5;BGN
+Activation of G protein gated Potassium channels,0.1176,2,17,29,KCNJ3;GABBR2
+Sema4D induced cell migration and growth-cone collapse,0.1176,2,17,30,RHOB;RND1
+E3 ubiquitin ligases ubiquitinate target proteins,0.1154,6,52,132,HIST1H2BD;DERL1;HIST1H2BE;HIST1H2BC;HIST1H2BF;VCP
+GABA B receptor activation,0.1154,3,26,56,GABBR2;KCNJ3;ADCY6
+Activation of GABAB receptors,0.1154,3,26,56,KCNJ3;GABBR2;ADCY6
+Calnexin/calreticulin cycle,0.1154,3,26,36,EDEM2;DERL2;UGGT2
+Gap junction trafficking and regulation,0.1154,3,26,98,DAB2;CLTCL1;GJC1
+FLT3 Signaling,0.1154,3,26,69,GRB10;AKT2;PTPN11
+ECM proteoglycans,0.1154,6,52,443,SERPINE1;PTPRS;VTN;COL4A5;BGN;FMOD
+ABC transporter disorders,0.1148,7,61,148,DERL1;ABCC6;ERLEC1;VCP;PSMD2;DERL2;CFTR
+G alpha (i) signalling events,0.1145,15,131,444,HEBP1;ADCY6;PRKAR2B;GABBR2;CXCL12;GNA14;GNAS;RGS5;NPY1R;RHO;CCL19;GPR17;MTNR1B;KNG1;SSTR1
+Adherens junctions interactions,0.1143,4,35,90,FOXF1;AGO3;ANG;CDH12
+Ion homeostasis,0.1143,4,35,64,FXYD2;CASQ2;ATP1B2;ATP2B2
+RAC2 GTPase cycle,0.1143,8,70,92,ARMCX3;TIAM1;DIAPH3;SAMM50;MPP7;NCKAP1;EPHA2;VAPB
+G2/M DNA damage checkpoint,0.1139,9,79,110,HIST2H2BE;CHEK2;HIST2H4A;HIST1H2BE;HIST1H2BF;HIST1H2BC;BRE;RAD1;HIST1H2BD
+Sensory processing of sound,0.1136,5,44,79,CACNA1D;ATP2B2;EPB41L1;LRRC52;CACNB2
+Gastrulation,0.1136,10,88,181,PAX8;MAML3;GATA4;PSMD2;DLX5;TCF7L1;MAML2;FOXF1;GATA6;FOXC1
+Autophagy,0.1136,15,132,409,CFTR;RB1CC1;PRKAB2;RRAGD;ATG4A;UBE2V1;ATG13;MTOR;ATG10;PRKAA2;WIPI1;VCP;USP30;PARK2;CSNK2A2
+Gene Silencing by RNA,0.1132,12,106,166,HIST1H3E;HIST2H2BE;HIST1H3A;HIST1H2BF;AGO3;HIST1H2BD;ANG;HIST2H4A;NUP107;HIST1H2BE;HIST1H2BC;HIST1H2AD
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,0.1132,6,53,100,HDAC8;MAML3;TBL1X;MIB1;MAML2;MYC
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,0.1132,6,53,100,MAML2;MYC;TBL1X;HDAC8;MIB1;MAML3
+Signaling by NOTCH1 in Cancer,0.1132,6,53,133,HDAC8;MYC;MAML2;TBL1X;MAML3;MIB1
+Signaling by NOTCH1 PEST Domain Mutants in Cancer,0.1132,6,53,99,HDAC8;TBL1X;MIB1;MYC;MAML2;MAML3
+Constitutive Signaling by NOTCH1 PEST Domain Mutants,0.1132,6,53,99,TBL1X;HDAC8;MIB1;MAML2;MAML3;MYC
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),0.113,13,115,160,RAD51B;HIST2H4A;CCNA2;ERCC4;HIST1H2BF;BRE;HIST1H2BD;HIST1H2BE;POLE4;RFC1;HIST2H2BE;RAD1;HIST1H2BC
+Antigen processing: Ubiquitination & Proteasome degradation,0.1128,29,257,306,PARK2;FBXO22;RNF123;UBE2Q2;FBXO27;FBXW8;FBXO32;UBE2L6;FBXO9;ASB16;FBXW2;UBE2V1;UBE2E3;NEDD4L;ASB8;UBE2E2;KCTD6;BTBD1;UBA5;ANAPC1;KLHL22;SKP2;CUL7;FBXW5;PSMD2;LRR1;HERC5;FBXO17;UBA1
+Signaling by Interleukins,0.1123,32,285,1058,TXLNA;CEBPD;PELI2;IL4R;SIGIRR;MYD88;CCL19;CCL2;VAMP7;HIST1H3A;UBE2V1;JUNB;JUN;MYC;PTPN11;HSPA9;FOS;TEC;PTPN14;PSMD2;CNTFR;DUSP6;PDCD4;SOD1;TSLP;IL13RA1;IL1RN;IGHG4;MCL1;LIFR;CD4;HIST1H3E
+KEAP1-NFE2L2 pathway,0.1122,11,98,239,AKT2;MYC;CCL2;ME1;PRKAA2;VCP;SKP2;PSMD2;CSNK2A2;SLC7A11;NPLOC4
+HCMV Infection,0.112,14,125,351,HIST1H2BC;HIST1H2BE;HIST1H2BD;HIST1H2BF;HIST1H2AD;HIST2H4A;HIST2H2BE;RBBP4;HIST1H3A;HIST1H3E;CEBPD;RBBP7;TBL1X;NUP107
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.1119,15,134,352,HIST2H4A;HIST2H2BE;HIST1H2AD;FABP4;HIST1H3A;TBL1X;HIST1H2BD;HIST1H2BE;HIST1H3E;LPIN1;HIST1H2BC;ACSS3;SCD5;PLIN4;HIST1H2BF
+TCF dependent signaling in response to WNT,0.1118,19,170,419,AKT2;HIST2H2BE;HIST1H3A;SFRP1;HIST1H2AD;HIST1H2BE;HIST1H2BF;MYC;CSNK2A2;HIST1H2BD;FZD5;HIST1H2BC;RSPO3;PSMD2;HIST2H4A;HIST1H3E;TCF7L1;FZD1;CTNNBIP1
+Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus,0.1111,1,9,22,F2
+Apoptotic cleavage of cell adhesion  proteins,0.1111,1,9,27,DSG1
+Anchoring fibril formation,0.1111,1,9,137,COL4A5
+Regulation of CDH11 mRNA translation by microRNAs,0.1111,1,9,19,AGO3
+Apoptosis induced DNA fragmentation,0.1111,1,9,24,HIST1H1C
+Metallothioneins bind metals,0.1111,1,9,14,MT2A
+Interleukin-20 family signaling,0.1111,1,9,43,PTPN11
+Regulated proteolysis of p75NTR,0.1111,1,9,19,NGFR
+MAPK targets/ Nuclear events mediated by MAP kinases,0.1111,3,27,49,JUN;FOS;DUSP6
+Maternal to zygotic transition (MZT),0.1111,9,81,228,HIST1H3A;HIST1H3E;HIST1H2BD;HIST1H2BE;HIST2H4A;HIST1H2AD;HIST1H2BF;HIST2H2BE;HIST1H2BC
+Activation of the TFAP2 (AP-2) family of transcription factors,0.1111,1,9,13,WWOX
+Adenylate cyclase inhibitory pathway,0.1111,1,9,27,ADCY6
+Regulation of BACH1 activity,0.1111,1,9,26,SKP2
+PI-3K cascade:FGFR1,0.1111,1,9,24,PTPN11
+Prolactin receptor signaling,0.1111,1,9,34,PTPN11
+Interconversion of nucleotide di- and triphosphates,0.1111,3,27,31,RRM1;AK4;CTPS1
+Protein lipoylation,0.1111,1,9,16,FDX1
+Glutathione synthesis and recycling,0.1111,1,9,16,GGT5
+Processing of DNA double-strand break ends,0.1111,9,81,117,HIST2H2BE;HIST2H4A;HIST1H2BC;RAD1;HIST1H2BD;CCNA2;HIST1H2BF;BRE;HIST1H2BE
+"Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",0.1111,1,9,49,PDGFRA
+Signaling by PDGFRA extracellular domain mutants,0.1111,1,9,16,PDGFRA
+IKK complex recruitment mediated by RIP1,0.1111,2,18,48,CD14;UBE2V1
+Small interfering RNA (siRNA) biogenesis,0.1111,1,9,9,AGO3
+YAP1- and WWTR1 (TAZ)-stimulated gene expression,0.1111,1,9,19,GATA4
+Regulation of PTEN mRNA translation,0.1111,1,9,10,AGO3
+Peroxisomal lipid metabolism,0.1111,3,27,28,AMACR;SLC25A17;HSD17B4
+Pervasive developmental disorders,0.1111,1,9,36,TBL1X
+Classical antibody-mediated complement activation,0.1111,3,27,70,C1R;C1S;IGHG4
+Pexophagy,0.1111,1,9,27,USP30
+Selective autophagy,0.1111,8,72,219,PARK2;CSNK2A2;USP30;PRKAA2;UBE2V1;VCP;CFTR;PRKAB2
+Sensory perception of taste,0.1111,1,9,74,SCN4B
+SHC1 events in EGFR signaling,0.1111,1,9,16,TGFA
+SHC-related events triggered by IGF1R,0.1111,1,9,21,IGF1
+Disorders of Developmental Biology,0.1111,1,9,36,TBL1X
+Interleukin-12 family signaling,0.1111,4,36,152,HSPA9;SOD1;PDCD4;VAMP7
+Differentiation of Keratinocytes in Interfollicular Epidermis in Mammalian Skin,0.1111,2,18,41,AQP3;KRT19
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors,0.1111,1,9,23,TGFA
+Glucagon-type ligand receptors,0.1111,2,18,39,VIPR1;GNAS
+Ca2+ pathway,0.1111,5,45,107,WNT11;FZD5;AGO3;MYC;TCF7L1
+Signal attenuation,0.1111,1,9,16,GRB10
+Disorders of Nervous System Development,0.1111,1,9,36,TBL1X
+Trafficking of GluR2-containing AMPA receptors,0.1111,1,9,25,GRIA3
+Transcription of E2F targets under negative control by DREAM complex,0.1111,2,18,38,RBBP4;MYC
+Loss of function of MECP2 in Rett syndrome,0.1111,1,9,36,TBL1X
+Association of TriC/CCT with target proteins during biosynthesis,0.1111,4,36,48,FBXW2;GBA;FBXW5;ARFGEF2
+Diseases of mitotic cell cycle,0.1111,4,36,562,ANAPC1;CDKN1C;CDK6;SKP2
+Keratan sulfate/keratin metabolism,0.1111,3,27,109,FMOD;B3GNT3;GLB1
+Metabolism of carbohydrates,0.1106,25,226,934,SLC35B3;B3GALT1;HYAL1;SLC26A2;GLB1;PFKFB1;PHKB;NUP107;FMOD;IDS;PYGL;GCK;B3GNT3;AKR1A1;GAPDH;BGN;PFKFB2;PRPS2;HS3ST3B1;ST6GALNAC6;DSEL;PGK1;GPC5;DERA;PFKL
+Reproduction,0.11,11,100,188,HIST1H3A;HIST1H3E;HIST1H2BE;HIST2H4A;HIST1H2BC;RAD21;HIST1H2BF;HIST1H2AD;HIST1H2BD;HIST2H2BE;MLH1
+Transcriptional regulation by RUNX1,0.1098,18,164,389,LIFR;SMARCD3;HIST1H3E;HIST2H2BE;HIST1H2BD;PSMD2;HIST1H2AD;CDK6;KCTD6;PTPN11;CSNK2A2;HIST1H2BF;RSPO3;HIST1H2BC;AGO3;HIST2H4A;HIST1H3A;HIST1H2BE
+Post-translational protein modification,0.1098,129,1175,3379,PARK2;ASB8;SERPINA1;HIST1H2AD;GMPPB;ADAMTSL2;GPAA1;GALNT11;B3GNT3;FBXW8;PSMD2;FBXO17;F2;DCTN2;UBE2E3;GLB1;COPS8;HIST1H2BC;B3GALTL;THSD4;MUC13;HIST1H2BE;COPB2;NEU4;HIST1H2BF;GPIHBP1;NEU1;HIST2H2BE;NPLOC4;HIST2H4A;ALPL;MYC;DERL1;USP24;CFP;FBXO22;ARRB1;TNIP1;TGFA;TBC1D20;UCHL5;RAB4A;LY6E;KNG1;DDB1;SKP2;AMDHD2;CCNA2;BTBD1;FBXO27;ASB16;CTSA;SERPINA10;PIGZ;VCP;UBE2Q2;FBXW2;DCUN1D2;SATB2;EDEM2;RAD21;NUP107;RAB5B;CUL7;DCUN1D1;SLC17A5;ARSG;IDE;ZRANB1;LRR1;ALG2;GMDS;GALNT12;CHST4;FBXO9;IGFBP3;RAB1A;POMGNT1;FDX1;AGBL5;RAB10;USP28;USP49;RBBP7;RNF123;UGGT2;RAB22A;MAGT1;MLEC;PIGT;APOL1;COMMD8;TTL;HIST1H2BD;TFG;ST6GALNAC2;NR4A2;RAB2A;FBXW5;METTL22;COG3;ANK3;ADRB2;TGFBR1;CFTR;PCSK9;UBA1;CPM;COG2;KLHL22;BRE;RAB25;NICN1;FUCA2;KCTD6;DERL2;USP30;DPM1;FBXO32;QSOX1;CYR61;INO80C;ADAMTS3;ST6GALNAC6;ADAMTS13;ADAMTSL3;CD109;COG7;POMGNT2
+Collagen biosynthesis and modifying enzymes,0.1087,5,46,1248,PCOLCE;COL15A1;ADAMTS3;COL4A5;P3H3
+Ion transport by P-type ATPases,0.1081,4,37,59,ATP2B2;ATP2C1;ATP1B2;FXYD2
+Visual phototransduction,0.1077,7,65,226,AKR1C4;RHO;GPIHBP1;LRAT;BCO2;GPC5;AKR1C1
+Homology Directed Repair,0.1074,13,121,169,POLE4;HIST2H2BE;HIST1H2BD;HIST1H2BF;HIST1H2BC;CCNA2;RAD51B;ERCC4;RFC1;RAD1;HIST2H4A;BRE;HIST1H2BE
+Regulation of TP53 Activity through Acetylation,0.1071,3,28,36,RBBP7;RBBP4;AKT2
+Activated NOTCH1 Transmits Signal to the Nucleus,0.1071,3,28,71,DTX1;ARRB1;MIB1
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,0.1071,3,28,75,HSPA9;SOD1;PDCD4
+Cell surface interactions at the vascular wall,0.1068,11,103,265,F2;ATP1B2;TNFRSF10D;GRB14;CEACAM1;SLC7A11;EPCAM;SELP;CD99L2;PPIL2;PTPN11
+Retrograde transport at the Trans-Golgi-Network,0.1064,5,47,69,SYS1;COG3;COG7;GOLGA4;COG2
+Signal Transduction,0.1063,189,1778,5444,EPO;DUSP2;EGR1;ALS2;CXCL12;HIST1H2BD;MYD88;EVL;TRIB1;FZD1;ADRB2;HEBP1;RAF1;SERPINE1;TIAM1;THBS4;CFTR;GNA14;CSNK2A2;CTSD;TNFRSF10D;GRB10;MOB1B;ARHGEF9;IDE;ERLEC1;FAM150B;HIST1H3A;SPINT1;MAD1L1;RRAGD;TGFBR1;WDR11;IGF1;PRKAB2;PDHA1;ZRANB1;RHOQ;SNAI2;MAPKAP1;MCF2L;MXD4;PDHB;HHIP;NCKAP1;NPY1R;TNK2;KCTD6;F2RL1;VAPB;NEDD4L;AGO3;RXRB;PRKAA2;ARHGAP6;RBBP4;AMOTL2;HIST1H2BF;PDHX;RAB4A;JUNB;RHO;FOSB;HGFAC;TGFA;RGS2;ID1;UCHL5;MTOR;FZD5;TBXA2R;PAQR3;VIPR1;PKN3;FGFR2;FOS;VCP;CCL19;RND1;ATP6V0D1;F3;PTGIR;RTN4R;PTGFR;ATP6V1H;NGFR;AVPR2;KNG1;EGR2;EPS15L1;NUP107;RND3;ATP6V1A;BAIAP2L2;PTH1R;PRKAR2B;RAD21;F2RL3;CCL2;HIST1H2AD;MAML3;SSTR1;CTNNBIP1;DIAPH3;KLB;SAV1;GAST;DSG1;MAML2;PXN;PDGFRA;DISP2;TIAL1;HIST2H2BE;GPR150;GNAS;RBBP7;DLG5;MPP7;TBL1X;DUSP6;MIB1;NOTCH3;PTPRS;DLD;PDK1;PTPN11;MTNR1B;TCF7L1;GPC5;HIST2H4A;SPRY2;IER3;ARRB1;WWOX;ATP6V0C;MYC;PBX1;GABBR2;SFRP1;NTF3;AKT2;HIST1H2BE;PLD1;ARMCX3;TEC;SPPL2A;PSMD2;DTX1;PDE5A;APOC4;JUN;WNT11;GPR4;PRR5;PPP1R15A;NF2;ARHGEF7;GDF2;DUSP5;APITD1;KCTD3;COL4A5;HIST1H3E;PDGFC;MUC13;ATP6V1C1;F2;DUSP10;ADCY10;GREM2;RGS5;GNA12;RSPO3;GPR17;PKP4;ARHGEF37;ATP6V1E2;DERL2;ADCY6;MSI2;SAMM50;RHOB;EPHA2;HDAC8;AGTR1;SREBF1;HIST1H2BC;FES
+Glycolysis,0.1061,7,66,86,GAPDH;PFKFB1;PFKFB2;PFKL;NUP107;GCK;PGK1
+Metabolism of nucleotides,0.1059,9,85,102,NUDT5;AK4;NT5C2;NT5M;ADSSL1;NT5E;ADAL;CTPS1;RRM1
+Class I MHC mediated antigen processing & presentation,0.1056,32,303,538,UBE2E2;MYD88;BTBD1;ANAPC1;UBA1;FBXO9;FBXW5;RNF123;UBE2Q2;UBE2V1;HERC5;FBXO22;ASB8;KLHL22;CD14;PSMD2;NEDD4L;LRR1;PARK2;FBXO32;UBE2L6;CUL7;FBXW2;SKP2;UBA5;ASB16;SEC61B;FBXO27;FBXW8;KCTD6;UBE2E3;FBXO17
+Class I peroxisomal membrane protein import,0.1053,2,19,42,PXMP4;SLC25A17
+Signaling by ALK,0.1053,2,19,54,MYC;FAM150B
+The role of Nef in HIV-1 replication and disease pathogenesis,0.1053,2,19,35,CD4;ATP6V1H
+HS-GAG biosynthesis,0.1053,2,19,283,HS3ST3B1;GPC5
+Cellular responses to mechanical stimuli,0.1053,8,76,159,ADCY6;PRKAR2B;CACNB2;MAPKAP1;TRPV4;GNAS;MTOR;PRR5
+Signaling by BMP,0.1053,2,19,40,GDF2;GREM2
+Keratan sulfate biosynthesis,0.1053,2,19,84,B3GNT3;FMOD
+RMTs methylate histone arginines,0.1053,6,57,354,HIST1H3A;SMARCD3;HIST2H4A;HIST1H2AD;HIST1H3E;RBBP7
+NOTCH4 Intracellular Domain Regulates Transcription,0.1053,2,19,33,MAML3;MAML2
+Response of Mtb to phagocytosis,0.1053,2,19,41,ATP6V1H;PGK1
+Signaling by PDGF,0.1042,5,48,195,PDGFC;PTPN11;COL4A5;PDGFRA;THBS4
+Platelet homeostasis,0.1042,5,48,115,GNAS;PDE5A;ATP2B2;PTGIR;PTPN11
+RET signaling,0.1034,3,29,45,PTPN11;GRB10;DOK4
+Diseases of carbohydrate metabolism,0.1034,3,29,109,GLB1;IDS;HYAL1
+Signaling by NOTCH2,0.1034,3,29,74,MAML3;MAML2;MIB1
+Signaling by NTRK1 (TRKA),0.1034,9,87,246,EGR1;FOS;FOSB;JUNB;DUSP6;TRIB1;ID1;F3;EGR2
+Cyclin E associated events during G1/S transition ,0.1029,7,68,111,CABLES1;SKP2;RBBP4;AKT2;MYC;CCNA2;PSMD2
+PIP3 activates AKT signaling,0.1029,21,204,411,CSNK2A2;TGFA;KLB;RBBP7;RRAGD;PRR5;MAPKAP1;RBBP4;MYD88;PTPN11;AKT2;SNAI2;IER3;JUN;NTF3;FGFR2;PDGFRA;PSMD2;MTOR;AGO3;EGR1
+Cytokine Signaling in Immune system,0.1027,50,487,1716,MCL1;HIST1H3E;GBP1;IL4R;JUN;HERC5;CEBPD;PSMD2;CD4;APITD1;IFITM2;PTPN11;GRB10;SIGIRR;CD40;MT2A;HSPA9;UBE2V1;CNTFR;MYC;CCL2;TSLP;VAMP7;AKT2;PDCD4;BST2;CCL19;IRF8;UBE2L6;PELI2;FOS;PTPN14;TXLNA;HIST1H3A;TRIM2;IGHG4;JUNB;LIFR;TNFRSF14;IL13RA1;MYD88;EGR1;DUSP6;GBP4;NUP107;IL1RN;IFITM1;TEC;RAF1;SOD1
+TGF-beta receptor signaling activates SMADs,0.1026,4,39,99,TGFBR1;NEDD4L;PPP1R15A;UCHL5
+Signaling by Hedgehog,0.1026,12,117,354,GNAS;ARRB1;DERL2;ADCY10;HHIP;ADCY6;PSMD2;PRKAR2B;ERLEC1;GPC5;DISP2;VCP
+Diseases of signal transduction by growth factor receptors and second messengers,0.1025,37,361,2316,TGFA;MAML3;FZD5;GOLGA4;DUSP6;PTPN11;FGFR2;MIB1;TBL1X;VCP;TGFBR1;RAF1;JUNB;HDAC8;TRIP11;AKT2;MAPKAP1;DUSP10;MCL1;MAML2;TFG;JUN;PSMD2;MYC;NTF3;KLB;AGK;AGO3;ARRB1;MTOR;CUX1;DERL2;NOX4;PDGFRA;PRR5;SND1;ERLEC1
+Post-translational protein phosphorylation,0.1023,9,88,212,CYR61;FUCA2;KNG1;QSOX1;SERPINA10;IGFBP3;SERPINA1;APOL1;PCSK9
+Developmental Biology,0.1022,95,930,2608,KRT7;HIST1H2BC;CEACAM1;HIST1H2BF;PKP4;KRT85;ATP6V1C1;HIST2H4A;SMARCD3;SCD5;FOXC1;TCF7L1;DIO2;TIAM1;ATP6V0C;GATA4;KLF4;CACNA1D;PRNP;PTPN11;CLTCL1;PPL;CSNK2A2;COL4A5;SREBF1;ATP6V0D1;SCN4B;ST14;PERP;RBBP4;HIST1H3A;TFEB;DPYSL2;JUN;HNF1B;DSC2;DSG1;HIST1H2BE;NTN4;WNT11;HIST1H2BD;ATP6V1A;ANK3;MYC;PBX1;PSMD2;EBF1;KRT19;PXN;RELN;HIST2H2BE;MBP;GSPT2;HAND2;HIST1H3E;RND1;CACNB2;HIST1H2AD;CEBPD;AQP8;FOXF1;RBBP7;SERPINE1;FABP4;AGO3;NPNT;TBL1X;GCK;AQP3;RHOB;SCN4A;EBF2;GATA6;EPHA2;ARHGEF7;AKT2;CXCL12;SNAI2;MAML2;EGR2;MAML3;FES;SS18L1;HOXD4;ATP6AP2;ID1;DLX5;ASAH1;GRB10;EVL;LHX2;PAX8;DOK4;ATP6V1H;FOXA3
+Intrinsic Pathway for Apoptosis,0.102,5,49,98,CYCS;AKT2;APIP;SEPT4;DFNA5
+Rab regulation of trafficking,0.102,10,98,167,RAB1A;GGA2;RAB4A;AKT2;TBC1D20;RAB3IL1;RAB5B;ST5;RAB10;ALS2
+Response of endothelial cells to shear stress,0.1014,7,69,143,TRPV4;PRR5;GNAS;ADCY6;MTOR;PRKAR2B;MAPKAP1
+Assembly of the pre-replicative complex,0.1009,11,109,164,HIST1H3E;HIST2H2BE;HIST1H2BC;PSMD2;ANAPC1;HIST2H4A;HIST1H3A;HIST1H2BD;HIST1H2BE;HIST1H2BF;HIST1H2AD
+Chromosome Maintenance,0.1008,12,119,140,APITD1;HIST2H2BE;CCNA2;HIST1H2BF;RBBP4;RBBP7;HIST1H2AD;HIST1H2BC;HIST1H2BE;HIST1H2BD;RFC1;HIST2H4A
+DNA Replication,0.1006,16,159,295,HIST1H2BF;HIST1H2BC;HIST1H3A;GINS3;CCNA2;HIST1H2BE;HIST1H3E;SKP2;RFC1;HIST1H2BD;PSMD2;HIST2H4A;POLE4;HIST1H2AD;HIST2H2BE;ANAPC1
+Adaptive Immune System,0.1006,53,527,1430,DCTN2;ASB8;MYD88;TNFRSF14;HERC5;FBXO22;FBXO9;MTOR;PTPN11;RNF123;CD40;CUL7;NEDD4L;FBXW2;CD4;FBXW5;LAG3;PARK2;CTSF;PRR5;UBA5;BTBD1;UBE2V1;CD14;EVL;UBE2Q2;MAPKAP1;SFTPD;CD81;FBXO32;RAF1;CTSA;UBE2L6;BTNL9;LRR1;FBXO17;FBXW8;ANAPC1;CLEC4G;ASB16;UBE2E3;IFITM1;UBA1;CTSD;PPL;SKP2;FBXO27;KLHL22;UBE2E2;AKT2;KCTD6;PSMD2;SEC61B
+Receptor Mediated Mitophagy,0.1,1,10,15,CSNK2A2
+Negative regulation of FGFR3 signaling,0.1,2,20,50,SPRY2;PTPN11
+Aspartate and asparagine metabolism,0.1,1,10,11,ASPG
+Receptor-type tyrosine-protein phosphatases,0.1,1,10,20,PTPRS
+Removal of aminoterminal propeptides from gamma-carboxylated proteins,0.1,1,10,30,F2
+ADORA2B mediated anti-inflammatory cytokines production,0.1,3,30,64,GNAS;ADCY6;PRKAR2B
+p75 NTR receptor-mediated signalling,0.1,8,80,157,ARHGEF7;RTN4R;ARHGEF9;ARHGEF37;MYD88;NGFR;MCF2L;TIAM1
+AKT phosphorylates targets in the nucleus,0.1,1,10,17,AKT2
+Regulation of TP53 Activity through Association with Co-factors,0.1,1,10,18,AKT2
+"Unblocking of NMDA receptors, glutamate binding and activation",0.1,1,10,45,GRIA3
+Recognition of DNA damage by PCNA-containing replication complex,0.1,3,30,43,DDB1;POLE4;RFC1
+GPVI-mediated activation cascade,0.1,2,20,76,PTPN11;RHOB
+The activation of arylsulfatases,0.1,1,10,25,ARSG
+"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",0.1,1,10,36,DPP4
+Cyclin A:Cdk2-associated events at S phase entry,0.1,7,70,102,RBBP4;CCNA2;CABLES1;SKP2;MYC;AKT2;PSMD2
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0.1,5,50,242,CLEC4G;IFITM1;CD40;SFTPD;CD81
+Hyaluronan uptake and degradation,0.1,1,10,15,HYAL1
+Infection with Mycobacterium tuberculosis,0.1,2,20,45,PGK1;ATP6V1H
+Organic cation/anion/zwitterion transport,0.1,1,10,15,SLC22A15
+Killing mechanisms,0.1,1,10,26,JUN
+Purine salvage,0.1,1,10,13,ADAL
+Signaling by FGFR4,0.1,3,30,68,SPRY2;PTPN11;KLB
+SARS-CoV-2 modulates autophagy,0.1,1,10,11,VPS39
+Trafficking of AMPA receptors,0.1,2,20,49,GRIA3;EPB41L1
+Gamma-carboxylation of protein precursors,0.1,1,10,22,F2
+SHC-mediated cascade:FGFR4,0.1,1,10,24,KLB
+Termination of translesion DNA synthesis,0.1,3,30,47,POLE4;RFC1;UBE2L6
+Dissolution of Fibrin Clot,0.1,1,10,25,SERPINE1
+"Glutamate binding, activation of AMPA receptors and synaptic plasticity",0.1,2,20,49,GRIA3;EPB41L1
+Circadian Clock,0.1,5,50,147,SREBF1;SMARCD3;TBL1X;KLF15;SERPINE1
+WNT5:FZD7-mediated leishmania damping,0.1,1,10,26,JUN
+NF-kB is activated and signals survival,0.1,1,10,27,NGFR
+FOXO-mediated transcription,0.1,5,50,130,AKT2;KLF4;SREBF1;FBXO32;GCK
+Platelet Adhesion to exposed collagen,0.1,1,10,64,ADAMTS13
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes,0.1,3,30,149,UBA1;UBE2Q2;UBE2E3
+Glucuronidation,0.1,2,20,27,ABHD10;UGT1A7
+Chylomicron remodeling,0.1,1,10,10,GPIHBP1
+Cohesin Loading onto Chromatin,0.1,1,10,10,RAD21
+Aberrant regulation of mitotic exit in cancer due to RB1 defects,0.1,2,20,20,SKP2;ANAPC1
+Intracellular signaling by second messengers,0.0996,23,231,486,PRKAR2B;KLB;JUN;PSMD2;PTPN11;MTOR;RRAGD;PDGFRA;RBBP4;MAPKAP1;CSNK2A2;AKT2;MYD88;RBBP7;PRR5;IER3;EGR1;AGO3;NTF3;TGFA;SNAI2;FGFR2;ADCY6
+Toll Like Receptor TLR1:TLR2 Cascade,0.0989,9,91,219,FOS;UBE2V1;SIGIRR;SFTPD;JUN;CD14;PELI2;MYD88;DUSP6
+Toll Like Receptor 2 (TLR2) Cascade,0.0989,9,91,219,CD14;SFTPD;FOS;JUN;DUSP6;MYD88;UBE2V1;SIGIRR;PELI2
+Cellular responses to stress,0.0985,67,680,1392,SLC7A11;HERPUD1;CRYAB;COX7B;RBBP7;CCNA2;ATP6V0C;SKP2;MYC;GPX1;CA9;HIST1H2BF;EPO;ID1;NDUFA4;AGO3;ATP6V1A;ME1;NPLOC4;TBL1X;COX4I2;PSMD2;HIST1H1C;COX6A1;HIST2H2BE;RRAGD;HSPA9;HIST1H2BD;SOD1;CCS;NUP107;ANAPC1;CDK6;CCL2;ATP6V0D1;HIST1H3E;MAP3K5;HIST1H2AD;COX7A2;FLCN;MTOR;HIST1H2BE;AQP8;ATP6V1C1;ETS2;DCTN2;ATP6V1E2;PPP1R15A;WIPI1;SMARCD3;JUN;HIST1H3A;AKT2;CUL7;RBBP4;ATP6V1H;EXTL2;OMA1;HIST1H2BC;GRB10;PRKAA2;FOS;VCP;CSNK2A2;HIST2H4A;CYCS;NOX4
+Cellular responses to stimuli,0.0984,75,762,1568,RBBP7;FOS;ATP6V1E2;JUN;ATP6V0C;AGO3;MAPKAP1;SKP2;CDK6;OMA1;HIST1H3A;AKT2;ATP6V1H;EXTL2;TRPV4;CUL7;RBBP4;ANAPC1;HERPUD1;HIST1H2BC;HIST1H3E;CRYAB;GRB10;PPP1R15A;MT2A;NOX4;WIPI1;SMARCD3;ME1;CYCS;VCP;PRKAA2;CACNB2;EPO;CSNK2A2;ATP6V1C1;COX4I2;ID1;PSMD2;ETS2;CA9;MTOR;AQP8;FLCN;COX7B;HIST1H2AD;COX7A2;MAP3K5;PRKAR2B;DCTN2;GNAS;NDUFA4;ATP6V1A;ATP6V0D1;TBL1X;CCNA2;PRR5;HIST1H1C;NPLOC4;MYC;HIST1H2BF;SLC7A11;COX6A1;HIST2H4A;HIST2H2BE;CCL2;RRAGD;ADCY6;SOD1;NUP107;HSPA9;CCS;HIST1H2BE;GPX1;HIST1H2BD
+Golgi Associated Vesicle Biogenesis,0.098,5,51,102,VAMP7;TBC1D8B;AP3S1;ARRB1;DNAJC6
+Telomere Maintenance,0.0978,9,92,113,HIST1H2BF;HIST1H2BD;HIST2H4A;HIST1H2AD;HIST1H2BC;HIST1H2BE;RFC1;CCNA2;HIST2H2BE
+Cyclin D associated events in G1,0.0976,4,41,88,PPP2R3B;CDKN1C;CDK6;SKP2
+G1 Phase,0.0976,4,41,88,CDK6;PPP2R3B;SKP2;CDKN1C
+Transcriptional Regulation by MECP2,0.0976,4,41,116,AGO3;PVALB;GAMT;TBL1X
+Disease,0.0975,143,1466,8704,DLD;PCCB;DERL2;FDX1;ANO10;FXYD2;AKT2;ABCC6;HIST1H3E;CUX1;CYP1B1;ANO6;MAML3;ADAMTS13;HERC5;UBE2V1;NEU1;HIST1H3A;CLEC4M;RAD1;FDXR;CYP4F22;ST6GALNAC2;CSNK2A2;JUN;GUCY2C;SFTPD;ERLEC1;COMT;AVPR2;CDK6;NTF3;MASP2;CD4;KLB;IDS;CFP;SERPINE1;SLC26A2;PRR5;GTF2E1;ADCY6;DFNA5;NT5E;CFTR;SND1;DPM1;MUC13;UBE2L6;AGO3;AGK;HIST2H4A;MCCC1;ADAMTS3;ADAMTSL3;PRKAR2B;ANAPC1;CYP27A1;HIST1H2BD;HIST1H2BE;MTOR;POMGNT1;ARRB1;GCK;SLC34A2;PDGFRA;MYD88;TGFBR1;GNAS;EDEM2;NOTCH3;NOX4;THSD4;B3GALTL;PSMD2;DERL1;MYC;HIST1H2AD;MLH1;TFG;HYAL1;HDAC8;ATP1B2;PGK1;MAGT1;F12;MCL1;DUSP10;RBBP7;FMOD;JUNB;VPS39;NUP107;RAB5B;MCCC2;F2;MAML2;SLC12A6;NCKAP1;BST2;SKP2;TBL1X;VCP;MIB1;ACE2;CD14;ATP6V1H;NEDD4L;GOLGA4;RAD51B;ACACA;HIST1H2BC;ADAMTSL2;BGN;CDKN1C;HIST1H2BF;LRAT;TRIP11;DUSP6;TGFA;FGFR2;AUH;FZD5;GPC5;PTPN11;SLC5A1;HIST2H2BE;CTSA;GALNT12;SLC17A5;ALG2;RAF1;MAPKAP1;RNGTT;GLB1;SLCO1B3;SERPING1;ZCRB1;RBBP4;CEBPD;IGHG4;GGT5;CYP17A1
+Translation,0.0971,27,278,492,OXA1L;MRPL39;SEC61B;IARS2;PTCD3;MRPL35;PARS2;GSPT2;SRP54;SSR3;SRP9;MRPS16;MRPS11;MRPL38;MRPS18A;MRPL13;MRPS28;GFM2;NARS2;MRPL49;EARS2;DARS2;GFM1;MRPS27;MRPL19;MRPS15;PPA2
+Elastic fibre formation,0.0968,3,31,67,MFAP4;VTN;ELN
+"Cell death signalling via NRAGE, NRIF and NADE",0.0968,6,62,119,ARHGEF7;MCF2L;ARHGEF9;NGFR;TIAM1;ARHGEF37
+Late SARS-CoV-2 Infection Events,0.0968,6,62,89,ANO10;ACE2;EDEM2;MAGT1;ST6GALNAC2;ANO6
+DNA Replication Pre-Initiation,0.096,12,125,181,HIST1H2AD;HIST1H3E;HIST1H2BF;HIST2H4A;POLE4;PSMD2;HIST1H2BD;HIST1H2BE;HIST2H2BE;ANAPC1;HIST1H3A;HIST1H2BC
+Glucose metabolism,0.0959,7,73,97,PFKFB1;GCK;PFKFB2;PGK1;PFKL;NUP107;GAPDH
+Hh mutants are degraded by ERAD,0.0952,4,42,92,PSMD2;VCP;ERLEC1;DERL2
+PCNA-Dependent Long Patch Base Excision Repair,0.0952,2,21,21,POLE4;RFC1
+Glycogen metabolism,0.0952,2,21,67,PHKB;PYGL
+Signal amplification,0.0952,2,21,60,GNA14;TBXA2R
+Negative regulation of FGFR1 signaling,0.0952,2,21,57,SPRY2;PTPN11
+Inwardly rectifying K+ channels,0.0952,2,21,35,KCNJ3;GABBR2
+Sema4D in semaphorin signaling,0.0952,2,21,34,RHOB;RND1
+RHOG GTPase cycle,0.0952,6,63,76,EPHA2;PLD1;MCF2L;VAPB;DIAPH3;MPP7
+A tetrasaccharide linker sequence is required for GAG synthesis,0.0952,2,21,103,BGN;GPC5
+Metal ion SLC transporters,0.0952,2,21,27,SLC39A1;SLC39A7
+PPARA activates gene expression,0.0947,9,95,177,CYP7A1;ALAS1;SMARCD3;TBL1X;SREBF1;RXRB;CYP4A11;ME1;CYP1A1
+Glycerophospholipid biosynthesis,0.0947,9,95,144,SLC44A3;LPIN1;CSNK2A2;PLD1;AGK;TMEM86B;PITPNM1;RARRES3;AGPAT6
+DNA Double-Strand Break Repair,0.0946,14,148,260,HIST1H2BF;RAD51B;RAD1;BRE;HIST1H2BD;CHEK2;ERCC4;HIST2H2BE;HIST2H4A;RFC1;HIST1H2BE;CCNA2;POLE4;HIST1H2BC
+Protein folding,0.0946,7,74,153,FBXW2;GBA;GNA14;ARFGEF2;FBXW5;TBCD;CSNK2A2
+trans-Golgi Network Vesicle Budding,0.0938,6,64,156,AP3S1;CLVS1;VAMP7;ARRB1;DNAJC6;TBC1D8B
+Maturation of spike protein,0.0938,3,32,42,ST6GALNAC2;MAGT1;EDEM2
+RHOV GTPase cycle,0.0938,3,32,37,DLG5;EPHA2;ARHGEF7
+Ovarian tumor domain proteases,0.0938,3,32,101,TNIP1;ZRANB1;VCP
+Regulation of lipid metabolism by PPARalpha,0.0928,9,97,179,SMARCD3;CYP4A11;ME1;CYP1A1;TBL1X;ALAS1;CYP7A1;SREBF1;RXRB
+PKMTs methylate histone lysines,0.0926,5,54,362,HIST1H3A;HIST1H3E;RBBP7;HIST2H4A;RBBP4
+Signaling by WNT,0.0924,22,238,773,AGO3;AKT2;HIST2H4A;FZD5;ZRANB1;HIST1H2AD;HIST2H2BE;CSNK2A2;MYC;SFRP1;HIST1H2BF;FZD1;HIST1H3E;HIST1H3A;PSMD2;HIST1H2BE;CTNNBIP1;HIST1H2BD;HIST1H2BC;RSPO3;WNT11;TCF7L1
+Loss of Nlp from mitotic centrosomes,0.0923,6,65,79,DCTN2;CEP70;CDK5RAP2;CEP63;NINL;PRKAR2B
+Membrane Trafficking,0.0923,47,509,1206,COPS8;TRIP11;RAB1A;DNAJC6;EPS15L1;CLVS1;PACSIN2;SURF4;RHOQ;RAB4A;CUX1;TBC1D8B;RAB3IL1;PRKAA2;AKT2;COG7;CD4;AGTR1;ARRB1;TGFA;COG3;TBC1D4;COG2;DAB2;SYS1;GJC1;VAMP7;TBC1D20;TFG;BIN1;KIF1C;RAB5B;ANK3;ST5;AVPR2;DCTN2;GOLGA4;RAB10;SERPINA1;GGA2;AP3S1;ALS2;COPB2;PRKAB2;CFTR;ADRB2;CLTCL1
+Loss of proteins required for interphase microtubule organization from the centrosome,0.0923,6,65,79,CDK5RAP2;DCTN2;CEP63;NINL;CEP70;PRKAR2B
+RAB GEFs exchange GTP for GDP on RABs,0.0921,7,76,122,ALS2;RAB3IL1;RAB10;RAB1A;ST5;RAB5B;AKT2
+Neurotransmitter receptors and postsynaptic signal transmission,0.0917,10,109,372,ARHGEF9;GABBR2;GRIA3;EPB41L1;ADCY6;ARHGEF7;PRKAA2;PRKAB2;KCNJ3;PRKAR2B
+Purine ribonucleoside monophosphate biosynthesis,0.0909,1,11,11,ADSSL1
+Nuclear events stimulated by ALK signaling in cancer,0.0909,2,22,58,AGO3;JUNB
+FRS-mediated FGFR3 signaling,0.0909,1,11,26,PTPN11
+eNOS activation,0.0909,1,11,23,CYB5B
+Suppression of phagosomal maturation,0.0909,1,11,27,ATP6V1H
+NCAM signaling for neurite out-growth,0.0909,4,44,192,CACNB2;COL4A5;CACNA1D;PRNP
+XBP1(S) activates chaperone genes,0.0909,4,44,95,ATP6V0D1;WIPI1;CUL7;EXTL2
+Phenylalanine and tyrosine metabolism,0.0909,1,11,12,CCBL1
+IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation,0.0909,1,11,47,CD14
+Cyclin A/B1/B2 associated events during G2/M transition,0.0909,2,22,53,CCNA2;PPP2R3B
+Synthesis of PE,0.0909,1,11,14,LPIN1
+Centrosome maturation,0.0909,7,77,91,CEP63;CDK5RAP2;PRKAR2B;TUBG2;CEP70;DCTN2;NINL
+Beta-oxidation of very long chain fatty acids,0.0909,1,11,11,HSD17B4
+Regulation of Homotypic Cell-Cell Adhesion,0.0909,2,22,58,AGO3;FOXF1
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,0.0909,1,11,19,CCNA2
+Degradation of cysteine and homocysteine,0.0909,1,11,22,FMO1
+Caspase activation via Death Receptors in the presence of ligand,0.0909,1,11,23,CD14
+GPER1 signaling,0.0909,3,33,68,GNAS;ADCY6;PRKAR2B
+Response to metal ions,0.0909,1,11,20,MT2A
+BBSome-mediated cargo-targeting to cilium,0.0909,2,22,27,MKKS;TTC8
+"Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",0.0909,1,11,53,F2
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists,0.0909,1,11,22,SFRP1
+SHC-mediated cascade:FGFR2,0.0909,1,11,30,FGFR2
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,0.0909,1,11,21,PERP
+Regulation of Expression and Function of Type II Classical Cadherins,0.0909,2,22,58,FOXF1;AGO3
+Establishment of Sister Chromatid Cohesion,0.0909,1,11,30,RAD21
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,0.0909,4,44,125,JUNB;MYC;NEDD4L;SERPINE1
+Regulation of CDH11 Expression and Function,0.0909,2,22,52,AGO3;FOXF1
+Recruitment of mitotic centrosome proteins and complexes,0.0909,7,77,89,CEP70;CEP63;PRKAR2B;CDK5RAP2;TUBG2;DCTN2;NINL
+PTEN Regulation,0.0902,11,122,203,JUN;CSNK2A2;SNAI2;AGO3;RBBP4;AKT2;RBBP7;MTOR;PSMD2;RRAGD;EGR1
+Signaling by TGFB family members,0.0902,11,122,310,TGFBR1;PPP1R15A;NEDD4L;UCHL5;GDF2;SERPINE1;MYC;GREM2;JUNB;ARRB1;AGO3
+Activation of NMDA receptors and postsynaptic events,0.0893,5,56,207,PRKAB2;ARHGEF7;GRIA3;PRKAR2B;PRKAA2
+Toll Like Receptor 4 (TLR4) Cascade,0.0893,10,112,267,MYD88;PTPN11;JUN;UBE2V1;FOS;CD14;SIGIRR;PELI2;DUSP6;SFTPD
+Vesicle-mediated transport,0.089,50,562,1389,RAB1A;TGFA;ARRB1;CFTR;MARCO;SERPINA1;TBC1D20;ADRB2;VAMP7;TRIP11;APOL1;GJC1;TFG;EPS15L1;ST5;CD4;COPB2;ALS2;PRKAA2;SYS1;RHOQ;AVPR2;PRKAB2;COG7;RAB4A;TBC1D8B;KIF1C;RAB3IL1;BIN1;COG3;COG2;TBC1D4;DNAJC6;GGA2;RAB5B;AKT2;COLEC11;COPS8;CLTCL1;DAB2;CLVS1;AP3S1;ANK3;RAB10;AGTR1;GOLGA4;CUX1;SURF4;PACSIN2;DCTN2
+Metabolism of amino acids and derivatives,0.0889,28,315,379,AUH;OGDH;SLC6A12;UROC1;MCCC1;SLC6A8;HYKK;ACAD8;DIO2;APIP;IYD;AGXT;GAMT;DLD;INMT;GLS;CKMT2;MCCC2;OAT;PSPH;AADAT;NMRAL1;PSMD2;SEPHS2;FMO1;NAGS;CCBL1;ASPG
+Toll Like Receptor TLR6:TLR2 Cascade,0.0889,8,90,216,FOS;PELI2;CD14;DUSP6;UBE2V1;JUN;MYD88;SIGIRR
+IRE1alpha activates chaperones,0.0889,4,45,100,WIPI1;ATP6V0D1;EXTL2;CUL7
+Hh mutants abrogate ligand secretion,0.0889,4,45,96,PSMD2;DERL2;VCP;ERLEC1
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.0889,8,90,216,JUN;SIGIRR;UBE2V1;PELI2;DUSP6;CD14;MYD88;FOS
+HATs acetylate histones,0.0885,10,113,599,HIST2H2BE;HIST1H2AD;HIST1H3A;RBBP7;HIST1H3E;HIST1H2BD;HIST1H2BC;HIST2H4A;HIST1H2BE;HIST1H2BF
+Extracellular matrix organization,0.0884,19,215,3755,CTSD;COL4A5;PTPRS;PCOLCE;VTN;SERPINE1;CAPN10;BGN;CAPN11;DDR1;P3H3;COL15A1;FMOD;NTN4;CEACAM1;ADAMTS3;CAPN13;ELN;MFAP4
+AURKA Activation by TPX2,0.0882,6,68,81,NINL;DCTN2;CDK5RAP2;PRKAR2B;CEP63;CEP70
+HDMs demethylate histones,0.0882,3,34,274,HIST1H3A;HIST1H3E;HIST2H4A
+Deactivation of the beta-catenin transactivating complex,0.0882,3,34,61,TCF7L1;CTNNBIP1;AKT2
+PLC beta mediated events,0.0882,3,34,90,PRKAR2B;ADCY6;GNA14
+Regulation of MITF-M-dependent genes involved in pigmentation,0.0882,3,34,79,SMARCD3;AKT2;SS18L1
+Nuclear Receptor transcription pathway,0.0882,3,34,86,NR4A2;RXRB;NR1I3
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,0.0882,3,34,75,MYC;SERPINE1;JUNB
+Signaling by TGF-beta Receptor Complex,0.0875,7,80,218,MYC;JUNB;TGFBR1;NEDD4L;UCHL5;SERPINE1;PPP1R15A
+DNA Repair,0.0872,26,298,528,DDB1;APITD1;CCNA2;RAD1;POLE4;HIST1H2AD;HIST2H4A;ASCC1;COPS8;POLN;CHD1L;HIST2H2BE;RAD51B;NPLOC4;RFC1;HIST1H2BD;CHEK2;HIST1H2BF;BRE;MLH1;HIST1H2BC;ERCC4;UBE2L6;VCP;HIST1H2BE;INO80C
+Calmodulin induced events,0.087,2,23,67,PRKAR2B;ADCY6
+Diseases associated with the TLR signaling cascade,0.087,2,23,58,MYD88;CD14
+Oncogenic MAPK signaling,0.087,6,69,386,DUSP10;RAF1;SND1;DUSP6;ARRB1;AGK
+Sulfur amino acid metabolism,0.087,2,23,35,APIP;FMO1
+Chaperonin-mediated protein folding,0.087,6,69,130,GNA14;FBXW2;ARFGEF2;FBXW5;CSNK2A2;GBA
+Amino acid transport across the plasma membrane,0.087,2,23,34,SLC7A11;SLC6A12
+Downstream signal transduction,0.087,2,23,34,PDGFRA;PTPN11
+ATF4 activates genes in response to endoplasmic reticulum  stress,0.087,2,23,35,CCL2;HERPUD1
+CaM pathway,0.087,2,23,67,ADCY6;PRKAR2B
+Diseases of Immune System,0.087,2,23,58,MYD88;CD14
+Toll-like Receptor Cascades,0.0866,11,127,348,DFNA5;FOS;CD14;SFTPD;JUN;SIGIRR;PELI2;MYD88;UBE2V1;PTPN11;DUSP6
+ER to Golgi Anterograde Transport,0.0866,11,127,322,COG3;RAB1A;DCTN2;TFG;ANK3;SERPINA1;COPB2;TBC1D20;COG2;COG7;TGFA
+Recruitment of NuMA to mitotic centrosomes,0.0864,7,81,103,CDK5RAP2;TUBG2;CEP70;CEP63;PRKAR2B;NINL;DCTN2
+Transcriptional Regulation by TP53,0.086,27,314,614,TNFRSF10D;CCNA2;RBBP4;MAPKAP1;PERP;CSNK2A2;CHEK2;GLS;AGO3;COX7A2;PRKAB2;NDUFA4;MTOR;RBBP7;RRAGD;COX7B;COX4I2;CYCS;MLH1;JUN;AKT2;COX6A1;RAD1;IGFBP3;PRKAA2;FOS;PRR5
+Regulation of TP53 Activity,0.0857,12,140,319,RBBP7;AKT2;CHEK2;MTOR;PRKAA2;RAD1;MAPKAP1;RBBP4;PRKAB2;PRR5;CSNK2A2;CCNA2
+RHOU GTPase cycle,0.0857,3,35,44,ARHGEF7;DLG5;EPHA2
+Global Genome Nucleotide Excision Repair (GG-NER),0.0854,7,82,123,COPS8;CHD1L;RFC1;POLE4;INO80C;DDB1;ERCC4
+COPI-mediated anterograde transport,0.0854,7,82,156,COG3;COPB2;COG7;DCTN2;RAB1A;ANK3;COG2
+Collagen formation,0.0847,5,59,1513,PCOLCE;ADAMTS3;COL4A5;COL15A1;P3H3
+Interferon Signaling,0.0847,15,177,490,IRF8;TRIM2;UBE2L6;GBP1;APITD1;IFITM1;PTPN11;GBP4;BST2;MT2A;HERC5;EGR1;RAF1;IFITM2;NUP107
+Mitotic G1 phase and G1/S transition,0.0846,11,130,237,CCNA2;PPP2R3B;SKP2;CABLES1;AKT2;PSMD2;MYC;RBBP4;CDKN1C;POLE4;CDK6
+MyD88 dependent cascade initiated on endosome,0.0843,7,83,214,MYD88;PELI2;JUN;UBE2V1;DUSP6;FOS;CD14
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.0843,7,83,200,PELI2;DUSP6;FOS;MYD88;UBE2V1;JUN;CD14
+TP53 Regulates Transcription of Cell Death Genes,0.0833,3,36,79,TNFRSF10D;PERP;IGFBP3
+FRS-mediated FGFR1 signaling,0.0833,1,12,30,PTPN11
+AKT phosphorylates targets in the cytosol,0.0833,1,12,28,AKT2
+mTORC1-mediated signalling,0.0833,2,24,32,MTOR;RRAGD
+Fanconi Anemia Pathway,0.0833,3,36,56,POLN;ERCC4;APITD1
+"Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 ",0.0833,1,12,26,CD14
+"PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases",0.0833,1,12,18,PXN
+Hyaluronan metabolism,0.0833,1,12,20,HYAL1
+Signaling by cytosolic FGFR1 fusion mutants,0.0833,1,12,34,CUX1
+Mitophagy,0.0833,3,36,85,UBE2V1;CSNK2A2;PARK2
+Unwinding of DNA,0.0833,1,12,16,GINS3
+Regulation of localization of FOXO transcription factors,0.0833,1,12,19,AKT2
+Erythropoietin activates RAS,0.0833,1,12,28,EPO
+NOTCH3 Activation and Transmission of Signal to the Nucleus,0.0833,2,24,72,NOTCH3;MIB1
+Mechanical load activates signaling by PIEZO1 and integrins in osteocytes,0.0833,1,12,21,CACNB2
+Downregulation of ERBB2:ERBB3 signaling,0.0833,1,12,27,AKT2
+RAC3 GTPase cycle,0.0833,6,72,96,EPHA2;ARHGAP6;DIAPH3;TIAM1;MPP7;NCKAP1
+"Defective EXT1 causes exostoses 1, TRPS2 and CHDS",0.0833,1,12,54,GPC5
+TRAF6-mediated induction of TAK1 complex within TLR4 complex,0.0833,1,12,43,CD14
+Defective EXT2 causes exostoses 2,0.0833,1,12,55,GPC5
+Regulation of MITF-M-dependent genes involved in apoptosis,0.0833,1,12,24,AGO3
+Amine ligand-binding receptors,0.0833,1,12,42,ADRB2
+Maturation of hRSV A proteins,0.0833,1,12,16,CSNK2A2
+Rap1 signalling,0.0833,1,12,17,RAF1
+Early Phase of HIV Life Cycle,0.0833,1,12,18,CD4
+SARS-CoV-2 targets host intracellular signalling and regulatory pathways,0.0833,1,12,16,AKT2
+Ca-dependent events,0.0833,2,24,70,PRKAR2B;ADCY6
+ERKs are inactivated,0.0833,1,12,16,DUSP6
+Generic Transcription Pathway,0.0831,83,999,2126,HIST1H3A;CSNK2A2;RBBP7;MYC;SMARCD3;HIST1H2BF;TCF7L1;HIST1H2AD;GCK;MAPKAP1;FOS;RBBP4;SATB2;NEDD4L;RXRB;PRKAB2;ZNF718;WWOX;GAMT;COX7B;GATA4;NR4A2;KCNIP3;ZNF517;ZNF287;NR1I3;MAML3;ANAPC1;PRKAA2;NDUFA4;ZNF704;HIST1H3E;MAML2;PTPN11;ZNF664;SREBF1;HIST2H4A;JUN;KLF4;COX4I2;CYCS;HAND2;LIFR;HDAC8;TNFRSF10D;HIST1H2BD;TGFA;DLX5;CDK6;HIST2H2BE;COX6A1;FBXO32;AGO3;ZNF726;RSPO3;AKT2;PERP;JUNB;RAD1;MLH1;PSMD2;IGFBP3;HIST1H2BE;HIST1H2BC;SKP2;KCTD1;NOTCH3;PVALB;RRAGD;CCNA2;ZNF607;TBL1X;ZNF425;CHEK2;KCTD6;MTOR;COX7A2;PRR5;ZNF793;ZNF568;SERPINE1;GLS;ZFP14
+S Phase,0.0828,12,145,268,POLE4;CABLES1;MYC;AKT2;SKP2;RAD21;CCNA2;ANAPC1;RBBP4;PSMD2;RFC1;GINS3
+"Cell Cycle, Mitotic",0.0828,41,495,1024,NUP107;CDK6;CCNA2;HDAC8;DCTN2;APITD1;MAD1L1;SMC4;HIST1H2AD;CSNK2A2;RFC1;PRKAR2B;CEP63;GINS3;HIST1H2BF;MYC;TUBG2;PSMD2;RAB2A;HIST1H3E;ANAPC1;RBBP4;CDKN1C;RAD21;HIST2H4A;CDK5RAP2;PPP2R3B;HIST1H2BD;HIST1H2BE;HIST2H2BE;VRK1;LPIN1;POLE4;CABLES1;CEP70;RAB1A;NINL;HIST1H3A;HIST1H2BC;AKT2;SKP2
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.0824,7,85,221,MYD88;JUN;FOS;PELI2;DUSP6;CD14;UBE2V1
+RHO GTPase cycle,0.0824,30,364,497,EPHA2;WDR11;BAIAP2L2;PKN3;RHOB;RHOQ;KCTD3;MSI2;VCP;ALS2;MPP7;DSG1;ARHGAP6;PKP4;DLG5;VAPB;TIAM1;ARHGEF9;ARMCX3;ARHGEF7;DIAPH3;RND3;PLD1;PDE5A;CFTR;MUC13;NCKAP1;MCF2L;RND1;SAMM50
+Peroxisomal protein import,0.082,5,61,223,HSD17B4;BAAT;AMACR;AGXT;IDE
+COPII-mediated vesicle transport,0.082,5,61,179,TFG;TBC1D20;RAB1A;SERPINA1;TGFA
+Post NMDA receptor activation events,0.0816,4,49,153,PRKAA2;PRKAR2B;ARHGEF7;PRKAB2
+Phospholipid metabolism,0.0813,13,160,253,SACM1L;AGK;PLD1;RAB4A;LPIN1;SLC44A3;AGPAT6;CSNK2A2;PLEKHA4;PLEKHA2;RARRES3;PITPNM1;TMEM86B
+Signaling by TGFBR3,0.0811,3,37,58,ARRB1;AGO3;TGFBR1
+M Phase,0.0803,29,361,632,LPIN1;RAB1A;APITD1;HIST1H3A;HIST2H4A;NINL;NUP107;RAB2A;CEP63;HIST2H2BE;RAD21;HIST1H3E;HIST1H2BF;TUBG2;HIST1H2BE;SMC4;CEP70;CSNK2A2;VRK1;ANAPC1;HIST1H2BC;CDK5RAP2;HIST1H2AD;PSMD2;MAD1L1;DCTN2;PRKAR2B;HIST1H2BD;HDAC8
+Death Receptor Signaling,0.08,10,125,274,NGFR;ARHGEF9;TIAM1;TNFRSF10D;RTN4R;MCF2L;ARHGEF7;MYD88;ARHGEF37;SPPL2A
+Gap-filling DNA repair synthesis and ligation in GG-NER,0.08,2,25,36,RFC1;POLE4
+Downregulation of SMAD2/3:SMAD4 transcriptional activity,0.08,2,25,93,SERPINE1;NEDD4L
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway,0.08,2,25,27,RFC1;POLE4
+Negative regulators of DDX58/IFIH1 signaling,0.08,2,25,89,UBE2L6;HERC5
+Toll Like Receptor 9 (TLR9) Cascade,0.0795,7,88,226,DUSP6;JUN;MYD88;FOS;UBE2V1;PELI2;CD14
+RNA Polymerase II Transcription,0.079,88,1114,2337,MTOR;NOTCH3;ZNF287;PRKAA2;FOS;NR4A2;CHEK2;FBXO32;TNFRSF10D;INTS1;PVALB;HIST2H2BE;CSNK2A2;KCTD6;GLS;GTF2E1;KCTD1;HIST1H2AD;CDK6;PERP;RRAGD;SKP2;HIST1H3E;CYCS;PTPN11;MAML3;COX7A2;KLF4;ZNF664;CCNA2;ANAPC1;ZNF793;TCF7L1;SREBF1;MAML2;GATA4;DLX5;RNGTT;MAPKAP1;COX6A1;JUNB;RAD1;JUN;IGFBP3;COX4I2;CDC40;ZNF517;COX7B;NR1I3;PSMD2;PRR5;MLH1;HIST1H3A;ZNF718;GAMT;HIST1H2BC;SMARCD3;RSPO3;RXRB;TGFA;HIST1H2BD;ZNF568;HIST1H2BF;ZNF704;RBBP4;ZNF425;SERPINE1;ELL3;SATB2;TBL1X;ZNF726;KCNIP3;AGO3;LIFR;ZFP14;NEDD4L;ZNF607;HIST2H4A;HDAC8;GCK;AKT2;PRKAB2;HIST1H2BE;MYC;WWOX;HAND2;NDUFA4;RBBP7
+DNA Damage Recognition in GG-NER,0.0789,3,38,52,DDB1;COPS8;INO80C
+Regulation of Apoptosis,0.0789,3,38,54,OPA1;OMA1;PSMD2
+VEGFA-VEGFR2 Pathway,0.0789,6,76,165,AKT2;PXN;MTOR;NCKAP1;PRR5;MAPKAP1
+G-protein mediated events,0.0789,3,38,108,PRKAR2B;GNA14;ADCY6
+Respiratory Syncytial Virus Infection Pathway,0.0787,7,89,199,UBE2L6;RAB5B;HERC5;CLEC4M;GPC5;CD14;CSNK2A2
+G1/S Transition,0.0783,9,115,190,CCNA2;AKT2;PSMD2;CABLES1;PPP2R3B;SKP2;POLE4;RBBP4;MYC
+"Plasma lipoprotein assembly, remodeling, and clearance",0.0781,5,64,146,GPIHBP1;PCSK9;LSR;APOC4;CES3
+Nuclear events mediated by NFE2L2,0.0779,6,77,150,SLC7A11;PSMD2;ME1;CCL2;PRKAA2;MYC
+Interleukin-1 family signaling,0.0777,8,103,239,MYD88;PTPN14;PELI2;PSMD2;UBE2V1;PTPN11;IL1RN;SIGIRR
+Signaling by Rho GTPases,0.0773,44,569,927,WDR11;RHOQ;NF2;ARHGEF7;PLD1;PKP4;DLG5;HIST2H4A;MSI2;EPHA2;HIST1H3A;EVL;HIST1H2BD;HIST1H2BE;ARMCX3;TIAM1;RND1;APITD1;HIST1H2BC;KCTD3;PDE5A;VCP;PKN3;DSG1;MCF2L;NCKAP1;ALS2;MUC13;MAD1L1;MPP7;HIST2H2BE;HIST1H2AD;HIST1H3E;RND3;SAMM50;ARHGEF9;NUP107;HIST1H2BF;BAIAP2L2;VAPB;DIAPH3;RHOB;CFTR;ARHGAP6
+Voltage gated Potassium channels,0.0769,1,13,43,KCNB1
+"WNT5A-dependent internalization of FZD2, FZD5 and ROR2",0.0769,1,13,18,FZD5
+Platelet sensitization by LDL,0.0769,1,13,21,PTPN11
+FOXO-mediated transcription of cell cycle genes,0.0769,1,13,33,KLF4
+alpha-linolenic acid (ALA) metabolism,0.0769,1,13,14,HSD17B4
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,0.0769,1,13,14,HSD17B4
+Inhibition of replication initiation of damaged DNA by RB1/E2F1,0.0769,1,13,15,PPP2R3B
+Post-chaperonin tubulin folding pathway,0.0769,1,13,40,TBCD
+Synthesis of PIPs at the plasma membrane,0.0769,3,39,55,PLEKHA2;RAB4A;PLEKHA4
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex,0.0769,1,13,19,CHEK2
+Semaphorin interactions,0.0769,4,52,120,DPYSL2;FES;RND1;RHOB
+Processing of SMDT1,0.0769,1,13,18,MICU1
+Cargo concentration in the ER,0.0769,2,26,49,SERPINA1;TGFA
+RHO GTPase Effectors,0.0769,20,260,512,RHOB;APITD1;CFTR;HIST1H2BD;HIST1H3E;DIAPH3;HIST1H3A;NF2;NCKAP1;MAD1L1;HIST1H2BC;NUP107;HIST1H2AD;HIST2H4A;HIST1H2BE;RHOQ;HIST2H2BE;PKN3;EVL;HIST1H2BF
+Anchoring of the basal body to the plasma membrane,0.0769,7,91,105,CEP70;CEP63;B9D1;DCTN2;PRKAR2B;CDK5RAP2;NINL
+NPAS4 regulates expression of target genes,0.0769,1,13,46,FOS
+Mitotic Telophase/Cytokinesis,0.0769,1,13,15,RAD21
+Acyl chain remodelling of PE,0.0769,1,13,30,RARRES3
+Formation of Senescence-Associated Heterochromatin Foci (SAHF),0.0769,1,13,17,HIST1H1C
+FGFR2 alternative splicing,0.0769,2,26,27,TIAL1;FGFR2
+Acyl chain remodelling of PC,0.0769,1,13,28,TMEM86B
+Regulation of MECP2 expression and activity,0.0769,2,26,41,AGO3;TBL1X
+Epigenetic regulation of gene expression,0.0764,21,275,693,SCD5;HIST1H2BF;HIST2H2BE;POLR1E;PLIN4;HIST1H2BE;ACSS3;HIST1H3E;ZNF425;SS18L1;HIST1H2BC;HIST1H2BD;LPIN1;RBBP7;HIST1H2AD;HIST2H4A;SMARCD3;RBBP4;HIST1H3A;TBL1X;FABP4
+Apoptosis,0.0764,11,144,327,SEPT4;PSMD2;HIST1H1C;DSG1;OPA1;APIP;OMA1;AKT2;CD14;DFNA5;CYCS
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0755,44,583,945,HIST1H2AD;WDR11;NUP107;RHOB;RND1;MCF2L;PLD1;BAIAP2L2;HIST2H4A;HIST1H3A;SAMM50;ARHGEF7;HIST1H2BF;PKN3;VCP;DSG1;HIST1H3E;MUC13;HIST2H2BE;ARHGAP6;RND3;CFTR;DIAPH3;NCKAP1;ALS2;MAD1L1;MPP7;HIST1H2BD;EVL;HIST1H2BC;APITD1;MSI2;RHOQ;PKP4;EPHA2;ARMCX3;KCTD3;NF2;DLG5;HIST1H2BE;VAPB;ARHGEF9;PDE5A;TIAM1
+Cell Cycle,0.0755,46,609,1325,PRKAR2B;GINS3;CABLES1;HIST1H2BD;HIST1H2AD;LPIN1;CEP70;CDK5RAP2;RAD21;SKP2;RAB1A;NINL;MLH1;HIST1H2BF;MYC;APITD1;DCTN2;CCNA2;BRE;HIST1H2BE;PPP2R3B;RBBP7;RAB2A;PSMD2;SMC4;HIST1H3E;RBBP4;HIST1H3A;AKT2;ANAPC1;RAD1;CSNK2A2;CHEK2;HIST2H4A;HIST2H2BE;TUBG2;CDK6;VRK1;NUP107;CDKN1C;MAD1L1;HIST1H2BC;POLE4;CEP63;HDAC8;RFC1
+Degradation of the extracellular matrix,0.0753,7,93,2051,CAPN13;ELN;CAPN10;COL4A5;CAPN11;COL15A1;CTSD
+Regulation of PLK1 Activity at G2/M Transition,0.075,6,80,115,CDK5RAP2;CEP63;CEP70;NINL;DCTN2;PRKAR2B
+Signaling by ERBB4,0.075,3,40,124,MXD4;WWOX;CXCL12
+Transport to the Golgi and subsequent modification,0.0748,11,147,355,COPB2;COG3;ANK3;COG2;TGFA;RAB1A;TFG;COG7;DCTN2;TBC1D20;SERPINA1
+Cilium Assembly,0.0747,13,174,321,CDK5RAP2;PRKAR2B;IFT80;NINL;TRIP11;MKKS;CEP63;IFT20;RHO;B9D1;TTC8;CEP70;DCTN2
+Gene expression (Transcription),0.0746,98,1313,2954,GTF2E1;POLR1E;NEDD4L;SCD5;KLF4;MYC;CCNA2;HIST2H4A;FBXO32;FABP4;TNFRSF10D;LIFR;FOS;TCF7L1;RBBP7;HAND2;ZFP14;GLS;TBL1X;PRR5;NR1I3;PSMD2;INTS1;ANAPC1;WWOX;JUNB;NR4A2;RXRB;GATA4;KCNIP3;RAD1;MAML3;ZNF704;SMARCD3;HIST1H2BF;GAMT;DLX5;MTERF1;HIST1H2BE;JUN;PRKAB2;PLIN4;CDK6;AGO3;COX6A1;RNGTT;HIST2H2BE;HIST1H2BD;ZNF664;HDAC8;TGFA;SREBF1;RSPO3;HIST1H2BC;PRKAA2;NDUFA4;IGFBP3;ZNF287;ZNF607;SATB2;KCTD6;NUP107;HIST1H3A;PVALB;GCK;CHEK2;CDC40;ACSS3;ZNF425;ZNF793;ZNF568;PTPN11;RBBP4;NOTCH3;MAPKAP1;SERPINE1;ELL3;COX4I2;COX7B;LPIN1;MAML2;SS18L1;CYCS;CSNK2A2;ZNF517;COX7A2;AKT2;HIST1H3E;HIST1H2AD;ANG;ZNF726;MTOR;MLH1;KCTD1;PERP;SKP2;RRAGD;ZNF718
+Mitotic Prometaphase,0.0745,14,188,263,APITD1;HDAC8;NINL;PRKAR2B;MAD1L1;DCTN2;CSNK2A2;NUP107;TUBG2;RAD21;CEP70;SMC4;CEP63;CDK5RAP2
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding,0.0741,2,27,49,CSNK2A2;GNA14
+MyD88 cascade initiated on plasma membrane,0.0741,6,81,197,UBE2V1;MYD88;PELI2;JUN;DUSP6;FOS
+SARS-CoV-1 activates/modulates innate immune responses,0.0741,2,27,69,SFTPD;BST2
+"Interleukin-3, Interleukin-5 and GM-CSF signaling",0.0741,2,27,92,PTPN11;TEC
+Toll Like Receptor 10 (TLR10) Cascade,0.0741,6,81,197,FOS;JUN;UBE2V1;PELI2;MYD88;DUSP6
+Toll Like Receptor 5 (TLR5) Cascade,0.0741,6,81,197,UBE2V1;FOS;MYD88;DUSP6;PELI2;JUN
+Signaling by BRAF and RAF1 fusions,0.0741,4,54,103,ARRB1;SND1;AGK;RAF1
+Disassembly of the destruction complex and recruitment of AXIN to the membrane,0.0741,2,27,70,FZD5;FZD1
+Signaling by FGFR,0.0735,5,68,134,KLB;PTPN11;TIAL1;FGFR2;SPRY2
+Programmed Cell Death,0.0732,12,164,421,APIP;OPA1;HIST1H1C;PARK2;DSG1;CYCS;AKT2;DFNA5;PSMD2;SEPT4;CD14;OMA1
+Formation of Incision Complex in GG-NER,0.0732,3,41,77,ERCC4;CHD1L;DDB1
+Role of phospholipids in phagocytosis,0.0732,3,41,90,PPAPDC1A;PLD1;IGHG4
+Assembly of collagen fibrils and other multimeric structures,0.0732,3,41,605,PCOLCE;COL4A5;COL15A1
+Collagen degradation,0.0732,3,41,1782,COL4A5;CTSD;COL15A1
+RSV-host interactions,0.0725,5,69,171,HERC5;GPC5;CD14;UBE2L6;CLEC4M
+G2/M Checkpoints,0.0725,10,138,189,RAD1;HIST1H2BE;PSMD2;HIST2H4A;HIST1H2BD;CHEK2;BRE;HIST2H2BE;HIST1H2BC;HIST1H2BF
+Unfolded Protein Response (UPR),0.0723,6,83,214,CCL2;WIPI1;EXTL2;ATP6V0D1;CUL7;HERPUD1
+Regulation of TP53 Activity through Phosphorylation,0.0723,6,83,117,CSNK2A2;PRKAB2;PRKAA2;CHEK2;RAD1;CCNA2
+Factors involved in megakaryocyte development and platelet production,0.0721,8,111,234,PRKAR2B;CABLES1;RAD51B;HIST1H3E;HIST1H3A;KIF1C;GATA6;GATA4
+MAPK family signaling cascades,0.0717,16,223,559,ARRB1;DUSP10;RAF1;PDGFRA;KLB;JUN;PSMD2;DUSP2;PTPN11;MYC;PAQR3;FGFR2;TGFA;DUSP6;AGO3;DUSP5
+Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta),0.0714,1,14,19,MLH1
+Activation of BAD and translocation to mitochondria ,0.0714,1,14,20,AKT2
+WNT ligand biogenesis and trafficking,0.0714,1,14,182,WNT11
+Metabolism of nitric oxide: NOS3 activation and regulation,0.0714,1,14,34,CYB5B
+Metabolism of folate and pterines,0.0714,1,14,18,MTHFS
+Synthesis of PA,0.0714,2,28,42,PLD1;AGPAT6
+Constitutive Signaling by NOTCH1 HD Domain Mutants,0.0714,1,14,48,MIB1
+Gastrin-CREB signalling pathway via PKC and MAPK,0.0714,1,14,30,GAST
+DAG and IP3 signaling,0.0714,2,28,75,PRKAR2B;ADCY6
+TNFs bind their physiological receptors,0.0714,1,14,30,TNFRSF14
+PERK regulates gene expression,0.0714,2,28,46,HERPUD1;CCL2
+Nucleotide biosynthesis,0.0714,1,14,14,ADSSL1
+Purinergic signaling in leishmaniasis infection,0.0714,1,14,44,NT5E
+Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),0.0714,1,14,14,MLH1
+Regulated Necrosis,0.0714,3,42,123,PARK2;CYCS;DFNA5
+Cell recruitment (pro-inflammatory response),0.0714,1,14,44,NT5E
+Leading Strand Synthesis,0.0714,1,14,14,RFC1
+G-protein activation,0.0714,1,14,30,GNA14
+NRIF signals cell death from the nucleus,0.0714,1,14,49,NGFR
+MAP kinase activation,0.0714,4,56,135,FOS;UBE2V1;DUSP6;JUN
+G alpha (z) signalling events,0.0714,2,28,62,ADCY6;GNAS
+Pre-NOTCH Processing in Golgi,0.0714,1,14,66,NOTCH3
+RIP-mediated NFkB activation via ZBP1,0.0714,1,14,25,MYD88
+Platelet calcium homeostasis,0.0714,1,14,28,ATP2B2
+Polymerase switching,0.0714,1,14,14,RFC1
+Depolymerization of the Nuclear Lamina,0.0714,1,14,25,LPIN1
+Signaling by NOTCH1 HD Domain Mutants in Cancer,0.0714,1,14,48,MIB1
+Signaling by VEGF,0.0706,6,85,176,PRR5;NCKAP1;AKT2;MAPKAP1;MTOR;PXN
+Transcriptional regulation by RUNX2,0.0706,6,85,234,PSMD2;DLX5;SKP2;AKT2;HAND2;SATB2
+Signaling by FGFR2,0.0702,4,57,107,SPRY2;FGFR2;TIAL1;PTPN11
+EPH-ephrin mediated repulsion of cells,0.0698,3,43,105,EPHA2;CLTCL1;TIAM1
+RNA Polymerase I Transcription Initiation,0.0698,3,43,67,POLR1E;RBBP7;RBBP4
+Transcription-Coupled Nucleotide Excision Repair (TC-NER),0.0694,5,72,90,COPS8;DDB1;ERCC4;POLE4;RFC1
+Signaling by ALK in cancer,0.0694,5,72,292,TFG;MCL1;JUN;JUNB;AGO3
+Signaling by ALK fusions and activated point mutants,0.0694,5,72,279,JUNB;AGO3;JUN;TFG;MCL1
+PINK1-PRKN Mediated Mitophagy,0.069,2,29,74,PARK2;UBE2V1
+Collagen chain trimerization,0.069,2,29,523,COL4A5;COL15A1
+RHOH GTPase cycle,0.069,2,29,37,VCP;WDR11
+Signaling by FGFR3,0.069,2,29,71,SPRY2;PTPN11
+Sensory processing of sound by outer hair cells of the cochlea,0.069,2,29,57,EPB41L1;ATP2B2
+Intra-Golgi and retrograde Golgi-to-ER traffic,0.0686,12,175,300,RAB1A;COG3;SURF4;CUX1;DCTN2;COG2;TRIP11;COG7;COPB2;SYS1;GOLGA4;KIF1C
+Anti-inflammatory response favouring Leishmania parasite infection,0.0685,5,73,235,ADCY6;GNAS;PRKAR2B;IGHG4;GGT5
+Leishmania parasite growth and survival,0.0685,5,73,235,IGHG4;ADCY6;GGT5;GNAS;PRKAR2B
+MAPK1/MAPK3 signaling,0.0684,13,190,484,RAF1;PDGFRA;DUSP6;PSMD2;KLB;PTPN11;PAQR3;TGFA;DUSP2;DUSP10;ARRB1;FGFR2;DUSP5
+Intraflagellar transport,0.0682,3,44,114,IFT80;IFT20;TRIP11
+Cargo trafficking to the periciliary membrane,0.0682,3,44,80,RHO;MKKS;TTC8
+Interleukin-17 signaling,0.0678,4,59,143,DUSP6;JUN;UBE2V1;FOS
+RHOB GTPase cycle,0.0678,4,59,73,PKN3;DIAPH3;MCF2L;RHOB
+L1CAM interactions,0.0676,5,74,186,SCN4B;CSNK2A2;ANK3;SCN4A;DPYSL2
+G2/M Transition,0.0675,11,163,260,PSMD2;CEP70;CCNA2;PPP2R3B;TUBG2;PRKAR2B;NINL;CDK5RAP2;RBBP4;DCTN2;CEP63
+Nucleotide Excision Repair,0.0673,7,104,150,POLE4;COPS8;CHD1L;RFC1;DDB1;INO80C;ERCC4
+Infectious disease,0.0672,56,833,2039,ZCRB1;VCP;RBBP7;IGHG4;PTPN11;CLEC4M;RNGTT;HIST1H2BD;ATP6V1H;MAGT1;PGK1;HIST1H2BE;COMT;CD14;AKT2;BST2;JUN;PSMD2;HIST1H2BC;VPS39;PRKAR2B;GNAS;GGT5;HIST1H3E;SFTPD;ATP1B2;TBL1X;ACE2;EDEM2;NT5E;UBE2V1;CSNK2A2;ANO6;NUP107;NEDD4L;CEBPD;NCKAP1;RAB5B;RBBP4;ST6GALNAC2;GPC5;HIST1H2BF;FXYD2;UBE2L6;HIST1H3A;GUCY2C;ADCY6;HIST2H2BE;ANO10;MASP2;HERC5;HIST1H2AD;SERPINE1;HIST2H4A;CD4;GTF2E1
+RHOA GTPase cycle,0.0672,8,119,152,DIAPH3;TIAM1;PLD1;MCF2L;ARHGEF7;VAPB;PKN3;ARHGAP6
+Mitochondrial unfolded protein response (UPRmt),0.0667,1,15,45,HSPA9
+"Respiratory syncytial virus (RSV) genome replication, transcription and translation",0.0667,1,15,19,CSNK2A2
+Gap junction assembly,0.0667,1,15,69,GJC1
+Transcriptional and post-translational regulation of MITF-M expression and activity,0.0667,3,45,95,SNAI2;ID1;TFEB
+VLDLR internalisation and degradation,0.0667,1,15,36,PCSK9
+Activation of SMO,0.0667,1,15,31,ARRB1
+Mitotic G2-G2/M phases,0.0667,11,165,264,TUBG2;PSMD2;DCTN2;RBBP4;PPP2R3B;CEP70;CDK5RAP2;CEP63;CCNA2;NINL;PRKAR2B
+Mismatch Repair,0.0667,1,15,24,MLH1
+Signaling by high-kinase activity BRAF mutants,0.0667,2,30,58,ARRB1;RAF1
+Heme degradation,0.0667,1,15,15,SLCO1B3
+Dual incision in TC-NER,0.0667,4,60,74,ERCC4;RFC1;POLE4;DDB1
+Downstream signaling of activated FGFR3,0.0667,1,15,35,PTPN11
+Sema3A PAK dependent Axon repulsion,0.0667,1,15,23,FES
+mRNA decay by 5' to 3' exoribonuclease,0.0667,1,15,23,LSM4
+NFE2L2 regulating anti-oxidant/detoxification enzymes,0.0667,1,15,36,SLC7A11
+Diseases associated with glycosylation precursor biosynthesis,0.0667,1,15,58,DPM1
+Viral Infection Pathways,0.0665,46,692,1511,PSMD2;HIST1H2BD;ANO6;HIST1H2BC;COMT;HIST1H2BF;UBE2V1;NUP107;RNGTT;HIST1H2AD;FXYD2;GTF2E1;ATP6V1H;EDEM2;NEDD4L;CD14;AKT2;ATP1B2;SFTPD;GPC5;CLEC4M;PTPN11;CEBPD;HERC5;BST2;HIST1H3E;ANO10;ACE2;VPS39;CD4;CSNK2A2;SERPINE1;HIST2H4A;HIST1H3A;UBE2L6;HIST1H2BE;RBBP7;MAGT1;ST6GALNAC2;RAB5B;HIST2H2BE;VCP;ZCRB1;TBL1X;MASP2;RBBP4
+SARS-CoV-2 Infection,0.0664,16,241,515,ACE2;VPS39;AKT2;NUP107;MAGT1;ZCRB1;EDEM2;ST6GALNAC2;SFTPD;UBE2V1;ANO10;ANO6;PTPN11;GPC5;MASP2;VCP
+Synthesis of DNA,0.066,7,106,151,CCNA2;PSMD2;SKP2;POLE4;GINS3;ANAPC1;RFC1
+MyD88-independent TLR4 cascade ,0.0659,6,91,212,FOS;JUN;DUSP6;UBE2V1;PTPN11;CD14
+Nervous system development,0.0659,29,440,1059,EPHA2;GRB10;ANK3;CACNA1D;ARHGEF7;EVL;NTN4;TIAM1;LHX2;RHOB;RND1;CACNB2;FES;CXCL12;PRNP;SCN4B;SCN4A;SCD5;EGR2;DPYSL2;COL4A5;RELN;PTPN11;DOK4;CSNK2A2;MBP;PSMD2;GSPT2;CLTCL1
+TRIF (TICAM1)-mediated TLR4 signaling ,0.0659,6,91,212,UBE2V1;FOS;PTPN11;CD14;JUN;DUSP6
+SARS-CoV Infections,0.0655,23,351,779,VPS39;GPC5;MASP2;VCP;ATP1B2;AKT2;UBE2V1;ANO6;ANO10;FXYD2;SERPINE1;EDEM2;ZCRB1;NUP107;ST6GALNAC2;SFTPD;PTPN11;ACE2;BST2;COMT;RBBP4;RBBP7;MAGT1
+Metalloprotease DUBs,0.0645,2,31,115,HIST1H2AD;BRE
+Non-integrin membrane-ECM interactions,0.0645,4,62,430,VTN;NTN4;COL4A5;DDR1
+RAF/MAP kinase cascade,0.0645,12,186,472,RAF1;PAQR3;ARRB1;FGFR2;TGFA;PDGFRA;KLB;DUSP10;DUSP5;DUSP2;PSMD2;DUSP6
+HSF1-dependent transactivation,0.0645,2,31,69,CRYAB;MTOR
+Netrin-1 signaling,0.0645,2,31,65,NTN4;PTPN11
+RAC1 GTPase cycle,0.0643,9,140,187,MCF2L;TIAM1;DIAPH3;NCKAP1;ALS2;ARHGEF7;MPP7;EPHA2;PLD1
+CDC42 GTPase cycle,0.0642,7,109,158,DIAPH3;MCF2L;ARHGEF7;TIAM1;PLD1;KCTD3;ARHGEF9
+Beta-catenin independent WNT signaling,0.0642,7,109,224,FZD1;AGO3;TCF7L1;FZD5;WNT11;MYC;PSMD2
+Asymmetric localization of PCP proteins,0.0638,3,47,65,FZD5;PSMD2;FZD1
+RHOJ GTPase cycle,0.0638,3,47,55,DIAPH3;ARHGEF7;MPP7
+SCF(Skp2)-mediated degradation of p27/p21,0.0638,3,47,67,PSMD2;CCNA2;SKP2
+ER-Phagosome pathway,0.0635,4,63,127,SEC61B;CD14;MYD88;PSMD2
+Transcriptional regulation by RUNX3,0.0633,5,79,146,MYC;MAML3;MAML2;TCF7L1;PSMD2
+Potential therapeutics for SARS,0.0632,6,95,162,FXYD2;RBBP4;RBBP7;ACE2;COMT;ATP1B2
+Regulation of TP53 Activity through Methylation,0.0625,1,16,38,CHEK2
+UCH proteinases,0.0625,5,80,189,INO80C;UCHL5;TGFBR1;PSMD2;HIST1H2AD
+ADP signalling through P2Y purinoceptor 1,0.0625,1,16,50,GNA14
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",0.0625,1,16,18,ZFP36
+Translesion synthesis by REV1,0.0625,1,16,27,RFC1
+Assembly of active LPL and LIPC lipase complexes,0.0625,1,16,28,GPIHBP1
+FCGR3A-mediated IL10 synthesis,0.0625,3,48,173,IGHG4;ADCY6;PRKAR2B
+Transcriptional Regulation by E2F6,0.0625,2,32,45,RBBP7;RBBP4
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,0.0625,1,16,19,ZFP36L1
+Regulation of Glucokinase by Glucokinase Regulatory Protein,0.0625,2,32,38,NUP107;GCK
+Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,0.0625,1,16,27,TCF7L1
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),0.0625,1,16,39,TGFBR1
+"TICAM1, RIP1-mediated IKK complex recruitment",0.0625,1,16,45,UBE2V1
+RUNX2 regulates osteoblast differentiation,0.0625,1,16,43,SATB2
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,0.0625,2,32,39,SMARCD3;CSNK2A2
+SARS-CoV-1 targets host intracellular signalling and regulatory pathways,0.0625,1,16,18,SERPINE1
+G beta:gamma signalling through PI3Kgamma,0.0625,1,16,29,AKT2
+CD209 (DC-SIGN) signaling,0.0625,1,16,26,RAF1
+Synthesis of PIPs at the Golgi membrane,0.0625,1,16,22,SACM1L
+DNA strand elongation,0.0625,2,32,36,GINS3;RFC1
+Glycosphingolipid biosynthesis,0.0625,1,16,19,ST6GALNAC6
+Polo-like kinase mediated events,0.0625,1,16,27,RBBP4
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC),0.0625,2,32,37,NUP107;GCK
+Diseases of DNA repair,0.0625,3,48,756,MLH1;RAD51B;RAD1
+VxPx cargo-targeting to cilium,0.0625,1,16,41,RHO
+p53-Dependent G1/S DNA damage checkpoint,0.0625,3,48,90,PSMD2;CHEK2;CCNA2
+p53-Dependent G1 DNA Damage Response,0.0625,3,48,90,PSMD2;CCNA2;CHEK2
+Axon guidance,0.0615,26,423,1009,FES;CSNK2A2;ANK3;CACNB2;RHOB;DPYSL2;PRNP;COL4A5;EPHA2;CLTCL1;EVL;NTN4;CXCL12;SCN4A;RND1;GRB10;PTPN11;DOK4;ARHGEF7;TIAM1;RELN;CACNA1D;GSPT2;PSMD2;SCN4B;LHX2
+HDR through Homologous Recombination (HRR),0.0615,4,65,88,POLE4;RAD51B;RFC1;RAD1
+PI Metabolism,0.0615,4,65,111,RAB4A;SACM1L;PLEKHA2;PLEKHA4
+Chromatin modifying enzymes,0.0614,14,228,1433,HIST1H3E;HIST2H2BE;HIST1H2BD;HIST1H2BE;TBL1X;HIST1H2BF;RBBP7;HIST1H3A;RBBP4;HIST1H2BC;HDAC8;HIST2H4A;SMARCD3;HIST1H2AD
+Chromatin organization,0.0614,14,228,1433,HIST2H2BE;HDAC8;HIST1H2BC;TBL1X;RBBP7;HIST2H4A;HIST1H2BD;HIST1H2BE;HIST1H3A;HIST1H2BF;HIST1H3E;HIST1H2AD;SMARCD3;RBBP4
+MAP2K and MAPK activation,0.0606,2,33,53,RAF1;ARRB1
+Signaling by RAF1 mutants,0.0606,2,33,96,RAF1;ARRB1
+Cellular response to starvation,0.0604,9,149,171,ATP6V0D1;MTOR;ATP6V1A;ATP6V1E2;RRAGD;ATP6V0C;ATP6V1H;FLCN;ATP6V1C1
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,0.0602,5,83,164,PTPN11;MASP2;UBE2V1;SFTPD;NUP107
+G1/S DNA Damage Checkpoints,0.06,3,50,94,CCNA2;CHEK2;PSMD2
+Signaling by MET,0.0597,4,67,232,RAB4A;HGFAC;SPINT1;PTPN11
+RHOC GTPase cycle,0.0597,4,67,77,VAPB;DIAPH3;PKN3;MCF2L
+Hedgehog 'off' state,0.0595,5,84,197,GNAS;ADCY6;ADCY10;PRKAR2B;PSMD2
+FGFR1 mutant receptor activation,0.0588,1,17,66,CUX1
+Signal transduction by L1,0.0588,1,17,29,CSNK2A2
+ZBP1(DAI) mediated induction of type I IFNs,0.0588,1,17,35,MYD88
+RHOBTB GTPase Cycle,0.0588,2,34,35,MSI2;PDE5A
+Heme signaling,0.0588,2,34,71,SMARCD3;TBL1X
+Plasma lipoprotein assembly,0.0588,1,17,32,APOC4
+Translesion synthesis by POLK,0.0588,1,17,28,RFC1
+Synthesis of glycosylphosphatidylinositol (GPI),0.0588,1,17,19,PIGZ
+Leishmania infection,0.0588,8,136,407,JUN;NCKAP1;ADCY6;IGHG4;GGT5;PRKAR2B;GNAS;NT5E
+Translesion synthesis by POLI,0.0588,1,17,28,RFC1
+Translation of Structural Proteins,0.0588,3,51,116,ST6GALNAC2;MAGT1;EDEM2
+Transcriptional Regulation by VENTX,0.0588,2,34,46,ANAPC1;AGO3
+Degradation of beta-catenin by the destruction complex,0.0588,4,68,118,ZRANB1;MYC;TCF7L1;PSMD2
+RHO GTPases Activate ROCKs,0.0588,1,17,30,RHOB
+Parasitic Infection Pathways,0.0588,8,136,407,GGT5;JUN;PRKAR2B;ADCY6;NCKAP1;IGHG4;NT5E;GNAS
+"Inactivation, recovery and regulation of the phototransduction cascade",0.0588,1,17,61,RHO
+Signaling by FGFR2 IIIa TM,0.0588,1,17,24,FGFR2
+Ephrin signaling,0.0588,1,17,41,ARHGEF7
+Synthesis of very long-chain fatty acyl-CoAs,0.0588,1,17,25,ACSL5
+Chondroitin sulfate biosynthesis,0.0588,1,17,83,BGN
+RHO GTPases activate CIT,0.0588,1,17,28,RHOB
+Cell Cycle Checkpoints,0.0584,15,257,337,ANAPC1;HIST2H4A;CHEK2;BRE;HIST1H2BF;RAD1;MAD1L1;CCNA2;HIST1H2BC;HIST1H2BE;PSMD2;NUP107;HIST2H2BE;HIST1H2BD;APITD1
+SARS-CoV-1 Infection,0.0583,7,120,195,ZCRB1;VCP;ACE2;BST2;SERPINE1;ST6GALNAC2;SFTPD
+MHC class II antigen presentation,0.0581,5,86,240,CTSD;DCTN2;CTSF;LAG3;CTSA
+Antigen processing-Cross presentation,0.058,4,69,201,MYD88;SEC61B;PSMD2;CD14
+MAPK6/MAPK4 signaling,0.058,4,69,122,PSMD2;AGO3;JUN;MYC
+Nuclear Envelope Breakdown,0.0577,3,52,80,NUP107;VRK1;LPIN1
+Regulation of RUNX2 expression and activity,0.0577,3,52,156,DLX5;PSMD2;SKP2
+Interleukin-1 signaling,0.0575,5,87,161,UBE2V1;PELI2;MYD88;IL1RN;PSMD2
+HDR through Single Strand Annealing (SSA),0.0571,2,35,40,RAD1;ERCC4
+PCP/CE pathway,0.0571,4,70,128,FZD1;FZD5;WNT11;PSMD2
+Formation of paraxial mesoderm,0.0566,3,53,72,PSMD2;MAML3;MAML2
+Deadenylation-dependent mRNA decay,0.0566,3,53,72,LSM4;DCPS;HBS1L
+Regulation of mRNA stability by proteins that bind AU-rich elements,0.0563,4,71,105,ELAVL1;ZFP36;ZFP36L1;PSMD2
+Nucleotide salvage,0.0556,1,18,23,ADAL
+The phototransduction cascade,0.0556,1,18,68,RHO
+Downstream signaling of activated FGFR1,0.0556,1,18,42,PTPN11
+Vitamin B5 (pantothenate) metabolism,0.0556,1,18,21,PPCS
+Regulation of PTEN stability and activity,0.0556,3,54,75,CSNK2A2;PSMD2;AKT2
+Initiation of Nuclear Envelope (NE) Reformation,0.0556,1,18,27,VRK1
+Cellular response to heat stress,0.0556,5,90,181,NUP107;MTOR;VCP;HSPA9;CRYAB
+Signaling by Erythropoietin,0.0556,1,18,55,EPO
+RHO GTPases activate PAKs,0.0556,1,18,48,NF2
+Extra-nuclear estrogen signaling,0.0556,3,54,119,FOS;AKT2;TGFA
+Regulation of mitotic cell cycle,0.0548,4,73,165,ANAPC1;CCNA2;PSMD2;SKP2
+APC/C-mediated degradation of cell cycle proteins,0.0548,4,73,165,CCNA2;ANAPC1;PSMD2;SKP2
+TCR signaling,0.0548,4,73,163,UBE2V1;CD4;EVL;PSMD2
+TP53 Regulates Transcription of DNA Repair Genes,0.0545,3,55,77,MLH1;JUN;FOS
+Fcgamma receptor (FCGR) dependent phagocytosis,0.0543,5,92,279,PPAPDC1A;IGHG4;NF2;PLD1;NCKAP1
+Paradoxical activation of RAF signaling by kinase inactive BRAF,0.0541,2,37,121,RAF1;ARRB1
+Signaling by moderate kinase activity BRAF mutants,0.0541,2,37,97,RAF1;ARRB1
+Signaling by FGFR1,0.0541,2,37,83,SPRY2;PTPN11
+RHOF GTPase cycle,0.0541,2,37,42,BAIAP2L2;DIAPH3
+Resolution of Abasic Sites (AP sites),0.0541,2,37,41,POLE4;RFC1
+Signaling downstream of RAS mutants,0.0541,2,37,113,RAF1;ARRB1
+Signaling by RAS mutants,0.0541,2,37,133,RAF1;ARRB1
+Orc1 removal from chromatin,0.0536,3,56,87,CCNA2;SKP2;PSMD2
+Bacterial Infection Pathways,0.0536,3,56,167,PGK1;ATP6V1H;GUCY2C
+Binding and Uptake of Ligands by Scavenger Receptors,0.0536,3,56,183,COLEC11;MARCO;APOL1
+Caspase activation via extrinsic apoptotic signalling pathway,0.0526,1,19,44,CD14
+p53-Independent G1/S DNA damage checkpoint,0.0526,2,38,52,PSMD2;CHEK2
+p53-Independent DNA Damage Response,0.0526,2,38,52,PSMD2;CHEK2
+DARPP-32 events,0.0526,1,19,56,PRKAR2B
+Striated Muscle Contraction,0.0526,1,19,36,NEB
+TGFBR3 expression,0.0526,1,19,29,AGO3
+Cellular response to hypoxia,0.0526,3,57,129,CA9;PSMD2;EPO
+Chaperone Mediated Autophagy,0.0526,1,19,60,CFTR
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1,0.0526,1,19,41,UBE2V1
+Vpu mediated degradation of CD4,0.0526,2,38,50,PSMD2;CD4
+Neurodegenerative Diseases,0.0526,1,19,56,JUN
+Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,0.0526,2,38,52,PSMD2;CHEK2
+Mitochondrial calcium ion transport,0.0526,1,19,25,MICU1
+Presynaptic phase of homologous DNA pairing and strand exchange,0.0526,2,38,46,RAD1;RAD51B
+ERK/MAPK targets,0.0526,1,19,35,DUSP6
+Signaling by EGFR in Cancer,0.0526,1,19,92,TGFA
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,0.0526,1,19,56,JUN
+Switching of origins to a post-replicative state,0.0519,4,77,111,ANAPC1;SKP2;CCNA2;PSMD2
+PKR-mediated signaling,0.0517,3,58,105,HERC5;UBE2L6;APITD1
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,0.0517,3,58,71,ANAPC1;PSMD2;CCNA2
+CDK-mediated phosphorylation and removal of Cdc6,0.0517,3,58,74,PSMD2;ANAPC1;CCNA2
+Defective homologous recombination repair (HRR) due to BRCA2 loss of function,0.0513,2,39,397,RAD51B;RAD1
+Diseases of DNA Double-Strand Break Repair,0.0513,2,39,678,RAD51B;RAD1
+Gap-filling DNA repair synthesis and ligation in TC-NER,0.0508,3,59,73,DDB1;RFC1;POLE4
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,0.0508,3,59,72,PSMD2;CCNA2;ANAPC1
+EPH-Ephrin signaling,0.0506,4,79,219,ARHGEF7;TIAM1;CLTCL1;EPHA2
+FGFR2 mutant receptor activation,0.05,1,20,104,FGFR2
+Lagging Strand Synthesis,0.05,1,20,20,RFC1
+G-protein beta:gamma signalling,0.05,1,20,38,AKT2
+Signaling by CSF3 (G-CSF),0.05,1,20,91,PTPN11
+Phosphorylation of the APC/C,0.05,1,20,20,ANAPC1
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase,0.05,1,20,21,ANAPC1
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,0.05,3,60,138,PSMD2;ANAPC1;SKP2
+COPI-dependent Golgi-to-ER retrograde traffic,0.0494,4,81,145,RAB1A;COPB2;KIF1C;SURF4
+APC/C:Cdc20 mediated degradation of mitotic proteins,0.0492,3,61,75,PSMD2;ANAPC1;CCNA2
+Downstream TCR signaling,0.0492,3,61,127,CD4;UBE2V1;PSMD2
+RHO GTPases Activate Formins,0.0488,6,123,154,DIAPH3;RHOB;MAD1L1;NUP107;APITD1;EVL
+Homologous DNA Pairing and Strand Exchange,0.0488,2,41,49,RAD1;RAD51B
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,0.0484,3,62,95,PSMD2;ANAPC1;CCNA2
+Opioid Signalling,0.0484,3,62,182,PRKAR2B;GNA14;ADCY6
+Stabilization of p53,0.0476,2,42,80,PSMD2;CHEK2
+RUNX2 regulates bone development,0.0476,1,21,52,SATB2
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components,0.0476,1,21,21,ANAPC1
+Downregulation of ERBB2 signaling,0.0476,1,21,55,AKT2
+Inactivation of APC/C via direct inhibition of the APC/C complex,0.0476,1,21,21,ANAPC1
+activated TAK1 mediates p38 MAPK activation,0.0476,1,21,46,UBE2V1
+NOTCH2 Activation and Transmission of Signal to the Nucleus,0.0476,1,21,53,MIB1
+SUMOylation of chromatin organization proteins,0.0469,3,64,122,SATB2;HIST2H4A;NUP107
+ISG15 antiviral mechanism,0.0469,3,64,96,UBE2L6;HERC5;NUP107
+Apoptotic execution phase,0.0465,2,43,149,DSG1;HIST1H1C
+Hedgehog 'on' state,0.0462,3,65,189,ARRB1;PSMD2;HHIP
+TNFR2 non-canonical NF-kB pathway,0.0455,3,66,145,PSMD2;TNFRSF14;CD40
+Signaling by FGFR in disease,0.0455,2,44,226,FGFR2;CUX1
+RHOBTB2 GTPase cycle,0.0455,1,22,23,MSI2
+Regulation of APC/C activators between G1/S and early anaphase,0.0455,3,66,103,PSMD2;ANAPC1;CCNA2
+FCERI mediated MAPK activation,0.0455,2,44,110,JUN;FOS
+Signaling by CSF1 (M-CSF) in myeloid cells,0.0455,1,22,55,PTPN11
+Telomere Extension By Telomerase,0.0455,1,22,24,CCNA2
+Defective Intrinsic Pathway for Apoptosis,0.0455,1,22,1366,JUN
+SUMOylation of intracellular receptors,0.0455,1,22,69,NR4A2
+RNA polymerase II transcribes snRNA genes,0.0455,3,66,159,INTS1;ELL3;GTF2E1
+E2F mediated regulation of DNA replication,0.0455,1,22,24,PPP2R3B
+HSF1 activation,0.0455,1,22,50,VCP
+Uptake and actions of bacterial toxins,0.0455,1,22,79,GUCY2C
+Toll Like Receptor 3 (TLR3) Cascade,0.0449,4,89,229,DUSP6;FOS;JUN;UBE2V1
+RHOD GTPase cycle,0.0444,2,45,57,DIAPH3;VAPB
+C-type lectin receptors (CLRs),0.0444,4,90,221,PSMD2;MUC13;UBE2V1;RAF1
+SARS-CoV-2-host interactions,0.0443,7,158,253,AKT2;VPS39;SFTPD;NUP107;UBE2V1;PTPN11;MASP2
+Golgi-to-ER retrograde transport,0.0442,5,113,184,RAB1A;DCTN2;KIF1C;SURF4;COPB2
+Resolution of Sister Chromatid Cohesion,0.0439,5,114,155,NUP107;HDAC8;MAD1L1;APITD1;RAD21
+Fc epsilon receptor (FCERI) signaling,0.0439,5,114,355,JUN;PSMD2;TEC;FOS;UBE2V1
+MicroRNA (miRNA) biogenesis,0.0435,1,23,28,AGO3
+RHOBTB1 GTPase cycle,0.0435,1,23,23,PDE5A
+Laminin interactions,0.0435,1,23,207,COL4A5
+EPHA-mediated growth cone collapse,0.0435,1,23,52,EPHA2
+Impaired BRCA2 binding to PALB2,0.0435,1,23,29,RAD51B
+Syndecan interactions,0.0435,1,23,140,VTN
+Signaling by NOTCH4,0.0429,3,70,109,PSMD2;MAML3;MAML2
+Separation of Sister Chromatids,0.0427,7,164,209,MAD1L1;PSMD2;APITD1;HDAC8;RAD21;ANAPC1;NUP107
+Defective homologous recombination repair (HRR) due to PALB2 loss of function,0.0417,1,24,137,RAD51B
+Polymerase switching on the C-strand of the telomere,0.0417,1,24,26,RFC1
+APC/C:Cdc20 mediated degradation of Cyclin B,0.0417,1,24,34,ANAPC1
+Defective homologous recombination repair (HRR) due to BRCA1 loss of function,0.0417,1,24,163,RAD51B
+Signaling by FGFR1 in disease,0.0417,1,24,76,CUX1
+RNA Pol II CTD phosphorylation and interaction with CE,0.0417,1,24,28,RNGTT
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,0.0417,1,24,28,RNGTT
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,0.0417,1,24,128,RAD51B
+Formation of TC-NER Pre-Incision Complex,0.0417,2,48,64,COPS8;DDB1
+Regulation of actin dynamics for phagocytic cup formation,0.0417,3,72,178,NCKAP1;NF2;IGHG4
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,0.0417,1,24,35,RAD51B
+Extension of Telomeres,0.0417,2,48,52,RFC1;CCNA2
+mRNA Splicing - Minor Pathway,0.0408,2,49,50,SNRNP200;ZCRB1
+Platelet Aggregation (Plug Formation),0.04,1,25,71,F2
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.0392,2,51,173,UBE2L6;HERC5
+Mitotic Anaphase,0.0388,8,206,284,PSMD2;APITD1;ANAPC1;NUP107;RAD21;MAD1L1;HDAC8;VRK1
+Mitotic Metaphase and Anaphase,0.0386,8,207,287,HDAC8;NUP107;ANAPC1;RAD21;MAD1L1;APITD1;PSMD2;VRK1
+mRNA Capping,0.0385,1,26,29,RNGTT
+Regulation of necroptotic cell death,0.0385,1,26,75,PARK2
+Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA),0.0385,1,26,29,RAD51B
+Budding and maturation of HIV virion,0.0385,1,26,39,NEDD4L
+APC-Cdc20 mediated degradation of Nek2A,0.0385,1,26,36,ANAPC1
+RIPK1-mediated regulated necrosis,0.0385,1,26,75,PARK2
+tRNA processing,0.0381,4,105,124,MTO1;NUP107;TRMT61B;NSUN6
+Host Interactions of HIV factors,0.0377,4,106,184,CD4;NUP107;PSMD2;ATP6V1H
+Autodegradation of Cdh1 by Cdh1:APC/C,0.0377,2,53,65,PSMD2;ANAPC1
+Postmitotic nuclear pore complex (NPC) reformation,0.037,1,27,48,NUP107
+NOD1/2 Signaling Pathway,0.037,1,27,61,UBE2V1
+APC/C:Cdc20 mediated degradation of Securin,0.037,2,54,67,ANAPC1;PSMD2
+G1/S-Specific Transcription,0.037,1,27,51,RBBP4
+SRP-dependent cotranslational protein targeting to membrane,0.0367,4,109,211,SSR3;SRP54;SEC61B;SRP9
+Mitotic Spindle Checkpoint,0.0367,4,109,112,APITD1;ANAPC1;MAD1L1;NUP107
+SARS-CoV-1-host interactions,0.0366,3,82,130,BST2;SERPINE1;SFTPD
+HIV Life Cycle,0.0365,5,137,225,CD4;NUP107;RNGTT;GTF2E1;NEDD4L
+HIV Infection,0.0359,7,195,346,RNGTT;GTF2E1;PSMD2;CD4;NEDD4L;NUP107;ATP6V1H
+Activation of BH3-only proteins,0.0357,1,28,43,AKT2
+"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",0.0357,2,56,137,F2;ARSG
+RNA Polymerase I Transcription Termination,0.0357,1,28,32,POLR1E
+Signaling by FGFR2 in disease,0.0345,1,29,117,FGFR2
+FCGR activation,0.0345,1,29,142,IGHG4
+Plasma lipoprotein remodeling,0.0333,1,30,48,GPIHBP1
+Recycling pathway of L1,0.0333,1,30,88,DPYSL2
+Late endosomal microautophagy,0.0333,1,30,70,CFTR
+Integrin cell surface interactions,0.0333,2,60,575,COL4A5;VTN
+Antiviral mechanism by IFN-stimulated genes,0.0331,4,121,202,HERC5;NUP107;UBE2L6;APITD1
+Amplification of signal from the kinetochores,0.0326,3,92,95,APITD1;MAD1L1;NUP107
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,0.0326,3,92,95,NUP107;MAD1L1;APITD1
+Transcription of the HIV genome,0.0323,2,62,98,RNGTT;GTF2E1
+RAF activation,0.0323,1,31,48,RAF1
+RHO GTPases Activate WASPs and WAVEs,0.0323,1,31,84,NCKAP1
+Signaling by WNT in cancer,0.0323,1,31,158,FZD5
+SUMO E3 ligases SUMOylate target proteins,0.0318,5,157,420,RAD21;NUP107;HIST2H4A;NR4A2;SATB2
+Nuclear Envelope (NE) Reassembly,0.0317,2,63,106,VRK1;NUP107
+Late Phase of HIV Life Cycle,0.0317,4,126,209,NUP107;GTF2E1;NEDD4L;RNGTT
+Signaling by ROBO receptors,0.0316,6,190,268,GSPT2;LHX2;COL4A5;CXCL12;EVL;PSMD2
+NEP/NS2 Interacts with the Cellular Export Machinery,0.0312,1,32,38,NUP107
+Activation of the pre-replicative complex,0.0312,1,32,33,POLE4
+Transport of Ribonucleoproteins into the Host Nucleus,0.0312,1,32,38,NUP107
+Resolution of D-loop Structures through Holliday Junction Intermediates,0.0312,1,32,38,RAD51B
+Telomere C-strand (Lagging Strand) Synthesis,0.0312,1,32,34,RFC1
+Cross-presentation of soluble exogenous antigens (endosomes),0.0312,1,32,53,PSMD2
+Metabolism of RNA,0.0312,21,673,932,PSMD2;MTERF4;ZFP36L1;ELAVL1;DHX35;ZFP36;ZCRB1;HBS1L;MTO1;RNGTT;RIOK3;TFB1M;GSPT2;NUP107;SNRNP200;TRMT61B;NSUN6;LSM4;PPIL2;DCPS;CDC40
+SUMOylation,0.0307,5,163,442,RAD21;SATB2;NR4A2;NUP107;HIST2H4A
+Impaired BRCA2 binding to RAD51,0.0303,1,33,39,RAD1
+Export of Viral Ribonucleoproteins from Nucleus,0.0303,1,33,43,NUP107
+Apoptotic cleavage of cellular proteins,0.0303,1,33,116,DSG1
+Resolution of D-Loop Structures,0.0303,1,33,39,RAD51B
+Nuclear import of Rev protein,0.0294,1,34,44,NUP107
+Scavenging of heme from plasma,0.0294,1,34,81,APOL1
+Vpr-mediated nuclear import of PICs,0.0294,1,34,38,NUP107
+FCGR3A-mediated phagocytosis,0.029,2,69,237,NCKAP1;IGHG4
+Leishmania phagocytosis,0.029,2,69,237,IGHG4;NCKAP1
+Parasite infection,0.029,2,69,237,NCKAP1;IGHG4
+mRNA Splicing,0.029,6,207,213,SNRNP200;DHX35;LSM4;ZCRB1;CDC40;PPIL2
+EML4 and NUDC in mitotic spindle formation,0.0288,3,104,122,MAD1L1;APITD1;NUP107
+TAK1-dependent IKK and NF-kappa-B activation  ,0.0286,1,35,85,UBE2V1
+Transport of the SLBP independent Mature mRNA,0.0286,1,35,41,NUP107
+Regulation of ornithine decarboxylase (ODC),0.0286,1,35,39,PSMD2
+SUMOylation of SUMOylation proteins,0.0286,1,35,47,NUP107
+Rev-mediated nuclear export of HIV RNA,0.0286,1,35,41,NUP107
+Transport of Mature mRNA derived from an Intron-Containing Transcript,0.0282,2,71,93,CDC40;NUP107
+Nuclear Pore Complex (NPC) Disassembly,0.0278,1,36,46,NUP107
+Activation of ATR in response to replication stress,0.0278,1,36,41,RAD1
+Transport of the SLBP Dependant Mature mRNA,0.0278,1,36,43,NUP107
+CLEC7A (Dectin-1) signaling,0.0278,2,72,168,UBE2V1;PSMD2
+Regulation of activated PAK-2p34 by proteasome mediated degradation,0.0278,1,36,49,PSMD2
+Regulation of HSF1-mediated heat shock response,0.0278,2,72,154,NUP107;HSPA9
+SUMOylation of DNA damage response and repair proteins,0.0274,2,73,108,RAD21;NUP107
+Interactions of Rev with host cellular proteins,0.027,1,37,83,NUP107
+FCERI mediated Ca+2 mobilization,0.027,1,37,192,TEC
+EPHB-mediated forward signaling,0.027,1,37,76,TIAM1
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",0.027,1,37,91,UBE2V1
+Autodegradation of the E3 ubiquitin ligase COP1,0.027,1,37,52,PSMD2
+Interactions of Vpr with host cellular proteins,0.027,1,37,41,NUP107
+Regulation of expression of SLITs and ROBOs,0.0265,4,151,206,COL4A5;GSPT2;PSMD2;LHX2
+Ubiquitin-dependent degradation of Cyclin D,0.0263,1,38,55,PSMD2
+SUMOylation of ubiquitinylation proteins,0.0256,1,39,46,NUP107
+tRNA modification in the nucleus and cytosol,0.0256,1,39,46,NSUN6
+Vif-mediated degradation of APOBEC3G,0.0256,1,39,53,PSMD2
+Signaling by PTK6,0.0256,1,39,103,PXN
+FCERI mediated NF-kB activation,0.0256,2,78,165,UBE2V1;PSMD2
+NS1 Mediated Effects on Host Pathways,0.0256,1,39,52,NUP107
+Signaling by Non-Receptor Tyrosine Kinases,0.0256,1,39,103,PXN
+Processing of Capped Intron-Containing Pre-mRNA,0.0255,7,275,305,NUP107;DHX35;ZCRB1;LSM4;SNRNP200;PPIL2;CDC40
+mRNA Splicing - Major Pathway,0.0251,5,199,205,PPIL2;DHX35;SNRNP200;CDC40;LSM4
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,0.025,1,40,58,PSMD2
+Regulation of TNFR1 signaling,0.025,1,40,102,SPPL2A
+TP53 Regulates Transcription of Cell Cycle Genes,0.025,1,40,65,CCNA2
+COPI-independent Golgi-to-ER retrograde traffic,0.025,1,40,58,DCTN2
+Transport of Mature Transcript to Cytoplasm,0.025,2,80,103,CDC40;NUP107
+Signaling by ERBB2,0.025,1,40,119,AKT2
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,0.025,1,40,76,DCTN2
+Degradation of AXIN,0.0244,1,41,59,PSMD2
+AUF1 (hnRNP D0) binds and destabilizes mRNA,0.0244,1,41,60,PSMD2
+SCF-beta-TrCP mediated degradation of Emi1,0.0244,1,41,54,PSMD2
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,0.0244,1,41,55,PSMD2
+Somitogenesis,0.0244,1,41,55,PSMD2
+Degradation of DVL,0.0244,1,41,58,PSMD2
+HIV Transcription Initiation,0.0238,1,42,48,GTF2E1
+RNA Polymerase II Promoter Escape,0.0238,1,42,48,GTF2E1
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,0.0238,1,42,48,GTF2E1
+RNA Polymerase II Transcription Initiation And Promoter Clearance,0.0238,1,42,48,GTF2E1
+RNA Polymerase II Transcription Initiation,0.0238,1,42,48,GTF2E1
+RNA Polymerase II HIV Promoter Escape,0.0238,1,42,48,GTF2E1
+Transport of Mature mRNA Derived from an Intronless Transcript,0.0238,1,42,48,NUP107
+Regulation of RUNX3 expression and activity,0.0233,1,43,75,PSMD2
+Metabolism of polyamines,0.0233,1,43,47,PSMD2
+Transport of Mature mRNAs Derived from Intronless Transcripts,0.0233,1,43,50,NUP107
+Negative regulation of NOTCH4 signaling,0.0233,1,43,62,PSMD2
+Viral Messenger RNA Synthesis,0.0233,1,43,48,NUP107
+GLI3 is processed to GLI3R by the proteasome,0.0227,1,44,64,PSMD2
+Degradation of GLI2 by the proteasome,0.0227,1,44,63,PSMD2
+Degradation of GLI1 by the proteasome,0.0227,1,44,63,PSMD2
+Kinesins,0.0227,1,44,69,KIF1C
+NIK-->noncanonical NF-kB signaling,0.0227,1,44,79,PSMD2
+Dectin-1 mediated noncanonical NF-kB signaling,0.0222,1,45,81,PSMD2
+SUMOylation of DNA replication proteins,0.0217,1,46,103,NUP107
+SUMOylation of RNA binding proteins,0.0217,1,46,57,NUP107
+TNF signaling,0.0208,1,48,125,SPPL2A
+Proteasome assembly,0.0208,1,48,129,PSMD2
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,0.0208,1,48,110,PSMD2
+Activation of NF-kappaB in B cells,0.0204,1,49,83,PSMD2
+Cytosolic sensors of pathogen-associated DNA ,0.02,1,50,100,MYD88
+Regulation of RAS by GAPs,0.0192,1,52,68,PSMD2
+The role of GTSE1 in G2/M progression after G2 checkpoint,0.0189,1,53,81,PSMD2
+snRNP Assembly,0.0185,1,54,79,NUP107
+Metabolism of non-coding RNA,0.0185,1,54,79,NUP107
+mRNA 3'-end processing,0.0179,1,56,59,CDC40
+Selenoamino acid metabolism,0.0175,2,114,119,SEPHS2;INMT
+tRNA processing in the nucleus,0.0172,1,58,65,NUP107
+Downstream signaling events of B Cell Receptor (BCR),0.0172,1,58,113,PSMD2
+rRNA processing,0.0154,3,195,302,TFB1M;MTERF4;RIOK3
+RNA Polymerase II Transcription Termination,0.0154,1,65,68,CDC40
+RNA Polymerase II Pre-transcription Events,0.0139,1,72,84,GTF2E1
+Selenocysteine synthesis,0.011,1,91,94,SEPHS2
+Eukaryotic Translation Termination,0.0109,1,92,98,GSPT2
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),0.0106,1,94,96,GSPT2
+Signaling by the B Cell Receptor (BCR),0.0103,1,97,302,PSMD2
+Nonsense-Mediated Decay (NMD),0.0089,1,112,118,GSPT2
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),0.0089,1,112,118,GSPT2
+Influenza Viral RNA Transcription and Replication,0.0075,1,134,141,NUP107
+Influenza Infection,0.0066,1,152,175,NUP107
+Major pathway of rRNA processing in the nucleolus and cytosol,0.0057,1,174,227,RIOK3
+rRNA processing in the nucleus and cytosol,0.0054,1,184,285,RIOK3

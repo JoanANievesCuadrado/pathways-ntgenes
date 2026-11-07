@@ -1,0 +1,13 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Hedgehog 'on' state,1.0,1,1,189,SPOP
+The canonical retinoid cycle in rods (twilight vision),1.0,1,1,25,RPE65
+Reversible hydration of carbon dioxide,0.5,1,2,12,CA14
+Expression and translocation of olfactory receptors,0.5,1,2,842,OR7A5
+Olfactory Signaling Pathway,0.3333,1,3,980,OR7A5
+Nephrin family interactions,0.3333,1,3,29,MAGI2
+Signaling by Hedgehog,0.25,1,4,354,SPOP
+Visual phototransduction,0.2,1,5,226,RPE65
+Sensory Perception,0.1429,2,14,1355,RPE65;OR7A5
+Cell-Cell communication,0.0714,1,14,227,MAGI2
+Metabolism,0.0074,1,136,3291,CA14
+Signal Transduction,0.0074,1,135,5444,SPOP

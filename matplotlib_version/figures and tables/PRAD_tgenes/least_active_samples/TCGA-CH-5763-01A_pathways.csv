@@ -1,0 +1,332 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis,1.0,1,1,11,NR1H2
+NR1H2 & NR1H3 regulate gene expression linked to triglyceride lipolysis in adipose,1.0,1,1,6,NR1H2
+NR1H2 & NR1H3 regulate gene expression to limit cholesterol uptake ,1.0,1,1,6,NR1H2
+Reversible hydration of carbon dioxide,1.0,1,1,12,CA13
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d),1.0,1,1,22,ACAN
+Defective CHST6 causes MCDC1,1.0,1,1,15,ACAN
+"Defective SLC4A4 causes renal tubular acidosis, proximal, with ocular abnormalities and mental retardation (pRTA-OA)",1.0,1,1,9,SLC4A4
+Bicarbonate transporters,1.0,1,1,10,SLC4A4
+Defective ST3GAL3 causes MCT12 and EIEE15,1.0,1,1,10,ACAN
+Zygotic genome activation (ZGA),0.5,1,2,28,ZCCHC6
+Regulation of HMOX1 expression and activity,0.5,1,2,10,GRIK1-AS2
+Drug-mediated inhibition of CDK4/CDK6 activity,0.5,1,2,5,CCND3
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",0.3333,2,6,24,CCND3;CDKN1C
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,0.3333,2,6,393,CDKN1C;CCND3
+Regulation of BACH1 activity,0.3333,1,3,26,GRIK1-AS2
+Role of second messengers in netrin-1 signaling,0.3333,1,3,11,PITPNA
+Z-decay: degradation of maternal mRNAs by zygotically expressed factors,0.3333,1,3,12,ZCCHC6
+NR1H2 & NR1H3 regulate gene expression linked to lipogenesis,0.3333,1,3,13,NR1H2
+Lysine catabolism,0.3333,1,3,14,ALDH7A1
+Synthesis of pyrophosphates in the cytosol,0.3333,2,6,10,NUDT4;IP6K3
+Downregulation of ERBB4 signaling,0.3333,1,3,25,WWP1
+Alpha-protein kinase 1 signaling pathway,0.25,1,4,38,TAB3
+MET activates RAP1 and RAC1,0.25,1,4,12,DOCK7
+RHO GTPases activate CIT,0.25,1,4,28,MYH10
+Sema4D induced cell migration and growth-cone collapse,0.25,1,4,30,MYH10
+Synthesis of very long-chain fatty acyl-CoAs,0.25,2,8,25,HACD2;ELOVL7
+O-glycosylation of TSR domain-containing proteins,0.25,1,4,113,ADAMTSL1
+Choline catabolism,0.25,1,4,6,ALDH7A1
+TRAF6-mediated induction of TAK1 complex within TLR4 complex,0.25,1,4,43,TAB3
+Activation of SMO,0.25,1,4,31,KIF3A
+IRAK2 mediated activation of TAK1 complex,0.25,1,4,37,TAB3
+IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation,0.25,1,4,47,TAB3
+Serine biosynthesis,0.25,1,4,9,SERINC5
+Defective B3GALTL causes PpS,0.25,1,4,38,ADAMTSL1
+Miscellaneous transport and binding events,0.25,1,4,26,NIPA2
+NFE2L2 regulating anti-oxidant/detoxification enzymes,0.2222,2,9,36,SLC7A11;GRIK1-AS2
+RHO GTPases activate PAKs,0.2,1,5,48,MYH10
+G1 Phase,0.2,3,15,88,CCND3;CCNH;CDKN1C
+Sema4D in semaphorin signaling,0.2,1,5,34,MYH10
+Keratan sulfate biosynthesis,0.2,1,5,84,ACAN
+VLDLR internalisation and degradation,0.2,1,5,36,NR1H2
+Germ layer formation at gastrulation,0.2,1,5,25,TRIM33
+Cyclin D associated events in G1,0.2,3,15,88,CCND3;CDKN1C;CCNH
+"TICAM1,TRAF6-dependent induction of TAK1 complex",0.2,1,5,58,TAB3
+Negative regulation of FLT3,0.2,1,5,30,SOCS2
+Regulation of RUNX1 Expression and Activity,0.2,1,5,20,CCND3
+Aberrant regulation of mitotic cell cycle due to RB1 defects,0.1667,2,12,412,CDKN1C;CCND3
+TRP channels,0.1667,1,6,28,TRPM8
+Gap junction assembly,0.1667,1,6,69,GJA3
+Keratan sulfate degradation,0.1667,1,6,32,ACAN
+RHO GTPases Activate ROCKs,0.1667,1,6,30,MYH10
+Diseases of mitotic cell cycle,0.1538,2,13,562,CDKN1C;CCND3
+Basigin interactions,0.1429,1,7,26,SLC7A11
+Amino acid transport across the plasma membrane,0.1429,1,7,34,SLC7A11
+Interleukin-7 signaling,0.1429,1,7,181,SOCS2
+Cyclin A/B1/B2 associated events during G2/M transition,0.1429,1,7,53,CCNH
+Fatty acyl-CoA biosynthesis,0.1429,2,14,40,HACD2;ELOVL7
+Retinoid metabolism and transport,0.1429,1,7,129,LRP12
+Regulation of IFNA/IFNB signaling,0.1429,1,7,55,IFNAR1
+SUMOylation of intracellular receptors,0.1429,1,7,69,NR1H2
+Glycogen breakdown (glycogenolysis),0.1429,1,7,36,PHKA1
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1,0.125,1,8,41,TAB3
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux,0.125,1,8,56,NR1H2
+Attenuation phase,0.125,1,8,57,HSPB1
+HSF1 activation,0.125,1,8,50,HSPB1
+Growth hormone receptor signaling,0.125,1,8,53,SOCS2
+Stimuli-sensing channels,0.125,3,24,125,TRPM8;WWP1;CLCN3
+Metabolism of fat-soluble vitamins,0.125,1,8,133,LRP12
+ECM proteoglycans,0.1176,2,17,443,TNN;ACAN
+Evasion by RSV of host interferon responses,0.1111,1,9,45,IFNAR1
+activated TAK1 mediates p38 MAPK activation,0.1111,1,9,46,TAB3
+Signaling by ERBB4,0.1111,2,18,124,WWP1;GABRB3
+Plasma lipoprotein clearance,0.1111,1,9,83,NR1H2
+Gap junction trafficking,0.1111,1,9,92,GJA3
+Gap junction trafficking and regulation,0.1111,1,9,98,GJA3
+Inositol phosphate metabolism,0.1053,2,19,51,IP6K3;NUDT4
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,0.1053,2,19,75,PITPNA;LCP1
+NR1H2 and NR1H3-mediated signaling,0.1,1,10,75,NR1H2
+Glycogen metabolism,0.1,1,10,67,PHKA1
+Ion channel transport,0.1,4,40,206,ATP2C1;TRPM8;CLCN3;WWP1
+Diseases associated with O-glycosylation of proteins,0.1,1,10,113,ADAMTSL1
+EGR2 and SOX10-mediated initiation of Schwann cell myelination,0.1,1,10,52,ADGRV1
+EPHA-mediated growth cone collapse,0.1,1,10,52,MYH10
+Deadenylation of mRNA,0.1,1,10,33,ZCCHC6
+Keratan sulfate/keratin metabolism,0.1,1,10,109,ACAN
+Intraflagellar transport,0.0952,2,21,114,IFT43;KIF3A
+Transport of inorganic cations/anions and amino acids/oligopeptides,0.0909,2,22,109,SLC7A11;SLC4A4
+RHOH GTPase cycle,0.0909,1,11,37,FAM91A1
+RNA Pol II CTD phosphorylation and interaction with CE,0.0909,1,11,28,CCNH
+GABA receptor activation,0.0909,1,11,86,GABRB3
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,0.0909,1,11,28,CCNH
+Downregulation of SMAD2/3:SMAD4 transcriptional activity,0.0909,1,11,93,TRIM33
+Interleukin-12 signaling,0.087,2,23,112,PITPNA;LCP1
+MAPK6/MAPK4 signaling,0.087,2,23,122,CCND3;HSPB1
+Ion transport by P-type ATPases,0.0833,1,12,59,ATP2C1
+mRNA Capping,0.0833,1,12,29,CCNH
+Heme signaling,0.0833,1,12,71,GRIK1-AS2
+Kinesins,0.0833,1,12,69,KIF3A
+RNA Polymerase I Transcription Termination,0.0833,1,12,32,CCNH
+Nuclear Receptor transcription pathway,0.0833,1,12,86,NR1H2
+Interleukin-12 family signaling,0.08,2,25,152,PITPNA;LCP1
+MET promotes cell motility,0.0769,1,13,166,DOCK7
+Netrin-1 signaling,0.0769,1,13,65,PITPNA
+Mitotic G1 phase and G1/S transition,0.0769,3,39,237,CCND3;CCNH;CDKN1C
+Formation of Incision Complex in GG-NER,0.0769,1,13,77,CCNH
+HSF1-dependent transactivation,0.0714,1,14,69,HSPB1
+FLT3 Signaling,0.0714,1,14,69,SOCS2
+TNFR1-induced NF-kappa-B signaling pathway,0.0714,1,14,46,TAB3
+AUF1 (hnRNP D0) binds and destabilizes mRNA,0.0714,1,14,60,HSPB1
+Diseases associated with glycosaminoglycan metabolism,0.0714,1,14,245,ACAN
+RNA Polymerase II Transcription Initiation And Promoter Clearance,0.0667,1,15,48,CCNH
+RNA Polymerase II Transcription Initiation,0.0667,1,15,48,CCNH
+RNA Polymerase II Promoter Escape,0.0667,1,15,48,CCNH
+RNA Polymerase II HIV Promoter Escape,0.0667,1,15,48,CCNH
+Formation of the HIV-1 Early Elongation Complex,0.0667,1,15,33,CCNH
+TAK1-dependent IKK and NF-kappa-B activation  ,0.0667,1,15,85,TAB3
+NOD1/2 Signaling Pathway,0.0667,1,15,61,TAB3
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle,0.0667,1,15,45,MLEC
+HIV Transcription Initiation,0.0667,1,15,48,CCNH
+Formation of the Early Elongation Complex,0.0667,1,15,33,CCNH
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,0.0667,1,15,48,CCNH
+Complex I biogenesis,0.0645,2,31,68,NDUFS7;NDUFA6
+Cell surface interactions at the vascular wall,0.0645,2,31,265,OLR1;SLC7A11
+Translocation of SLC2A4 (GLUT4) to the plasma membrane,0.0625,1,16,80,KIF3A
+RNA Polymerase I Transcription Initiation,0.0625,1,16,67,CCNH
+Factors involved in megakaryocyte development and platelet production,0.0625,2,32,234,KIF3A;DOCK7
+Formation of TC-NER Pre-Incision Complex,0.0625,1,16,64,CCNH
+Nuclear events mediated by NFE2L2,0.0606,2,33,150,SLC7A11;GRIK1-AS2
+"Plasma lipoprotein assembly, remodeling, and clearance",0.0588,1,17,146,NR1H2
+RHO GTPases activate PKNs,0.0588,1,17,168,MYH10
+Visual phototransduction,0.0556,1,18,226,LRP12
+Gap-filling DNA repair synthesis and ligation in TC-NER,0.0556,1,18,73,CCNH
+Semaphorin interactions,0.0556,1,18,120,MYH10
+Cytoprotection by HMOX1,0.0556,1,18,68,GRIK1-AS2
+Regulation of endogenous retroelements by the Human Silencing Hub (HUSH) complex,0.0556,1,18,151,RBM7
+Dual incision in TC-NER,0.0556,1,18,74,CCNH
+Diseases of glycosylation,0.0541,2,37,483,ADAMTSL1;ACAN
+Tat-mediated elongation of the HIV-1 transcript,0.0526,1,19,69,CCNH
+Formation of HIV-1 elongation complex containing HIV-1 Tat,0.0526,1,19,69,CCNH
+Regulation of RUNX2 expression and activity,0.0526,1,19,156,WWP1
+O-linked glycosylation,0.0526,1,19,431,ADAMTSL1
+HIV Transcription Elongation,0.0526,1,19,69,CCNH
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,0.0526,1,19,125,TRIM33
+Transcriptional regulation of white adipocyte differentiation,0.0526,1,19,148,CCND3
+Transport of small molecules,0.0523,8,153,852,TRPM8;CLCN3;WWP1;ATP2C1;SLC4A4;SLC7A11;NR1H2;NIPA2
+KEAP1-NFE2L2 pathway,0.05,2,40,239,GRIK1-AS2;SLC7A11
+Formation of WDR5-containing histone-modifying complexes,0.05,1,20,53,CCDC101
+RNA Polymerase I Promoter Escape,0.0476,1,21,91,CCNH
+Formation of HIV elongation complex in the absence of HIV Tat,0.0476,1,21,46,CCNH
+Retrograde transport at the Trans-Golgi-Network,0.0476,1,21,69,GCC2
+SLC-mediated transmembrane transport,0.0476,2,42,257,SLC7A11;SLC4A4
+HATs acetylate histones,0.0465,2,43,599,JADE1;CCDC101
+Peptide ligand-binding receptors,0.0455,1,22,243,AGTR1
+Extra-nuclear estrogen signaling,0.0455,1,22,119,HSPB1
+Hedgehog 'on' state,0.0455,1,22,189,KIF3A
+FCERI mediated NF-kB activation,0.0455,1,22,165,TAB3
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,0.0455,2,44,164,IFNAR1;TAB3
+Transcription-Coupled Nucleotide Excision Repair (TC-NER),0.0455,1,22,90,CCNH
+TNF signaling,0.0455,1,22,125,TAB3
+Fatty acid metabolism,0.0444,2,45,192,ELOVL7;HACD2
+SLC transporter disorders,0.0435,1,23,308,SLC4A4
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",0.0435,1,23,91,TAB3
+Adipogenesis,0.0435,1,23,185,CCND3
+MAP kinase activation,0.0435,1,23,135,TAB3
+Interleukin-17 signaling,0.0435,1,23,143,TAB3
+Interferon alpha/beta signaling,0.0417,1,24,171,IFNAR1
+Cargo recognition for clathrin-mediated endocytosis,0.0417,1,24,129,AGTR1
+RSV-host interactions,0.0417,1,24,171,IFNAR1
+RHOC GTPase cycle,0.0417,1,24,77,ARHGAP18
+Deadenylation-dependent mRNA decay,0.0417,1,24,72,ZCCHC6
+Cyclin E associated events during G1/S transition ,0.0417,1,24,111,CCNH
+Cyclin A:Cdk2-associated events at S phase entry,0.0417,1,24,102,CCNH
+RNA Polymerase II Transcription Elongation,0.04,1,25,59,CCNH
+Formation of RNA Pol II elongation complex ,0.04,1,25,59,CCNH
+Signaling by MET,0.0385,1,26,232,DOCK7
+RNA Polymerase I Promoter Clearance,0.0385,1,26,145,CCNH
+Signaling by ALK fusions and activated point mutants,0.037,1,27,279,GCC2
+Signaling by ALK in cancer,0.037,1,27,292,GCC2
+RNA Polymerase I Transcription,0.037,1,27,147,CCNH
+MHC class II antigen presentation,0.037,1,27,240,KIF3A
+Degradation of the extracellular matrix,0.037,1,27,2051,ACAN
+Global Genome Nucleotide Excision Repair (GG-NER),0.037,1,27,123,CCNH
+TP53 Regulates Transcription of DNA Repair Genes,0.037,1,27,77,CCNH
+NoRC negatively regulates rRNA expression,0.037,1,27,195,CCNH
+Signaling by TGF-beta Receptor Complex,0.0357,1,28,218,TRIM33
+Maternal to zygotic transition (MZT),0.0357,1,28,228,ZCCHC6
+Negative epigenetic regulation of rRNA expression,0.0357,1,28,230,CCNH
+Transcription of the HIV genome,0.0357,1,28,98,CCNH
+Signaling by Interleukins,0.0357,4,112,1058,TAB3;LCP1;SOCS2;PITPNA
+Regulation of HSF1-mediated heat shock response,0.0345,1,29,154,HSPB1
+Regulation of lipid metabolism by PPARalpha,0.0345,1,29,179,NR1H2
+PPARA activates gene expression,0.0345,1,29,177,NR1H2
+COPI-dependent Golgi-to-ER retrograde traffic,0.0333,1,30,145,KIF3A
+Potential therapeutics for SARS,0.0333,1,30,162,IFNAR1
+CLEC7A (Dectin-1) signaling,0.0333,1,30,168,TAB3
+Gastrulation,0.0333,1,30,181,TRIM33
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,0.0333,1,30,151,CCNH
+Respiratory Syncytial Virus Infection Pathway,0.0333,1,30,199,IFNAR1
+Class A/1 (Rhodopsin-like receptors),0.0333,1,30,376,AGTR1
+Cilium Assembly,0.0328,2,61,321,IFT43;KIF3A
+RNA polymerase II transcribes snRNA genes,0.0323,1,31,159,RPRD1B
+RNA Polymerase II Pre-transcription Events,0.0323,1,31,84,CCNH
+EPH-Ephrin signaling,0.0323,1,31,219,MYH10
+Regulation of mRNA stability by proteins that bind AU-rich elements,0.0323,1,31,105,HSPB1
+Intra-Golgi and retrograde Golgi-to-ER traffic,0.0317,2,63,300,KIF3A;GCC2
+Respiratory electron transport,0.0312,2,64,178,NDUFS7;NDUFA6
+Hedgehog 'off' state,0.0312,1,32,197,KIF3A
+MyD88 cascade initiated on plasma membrane,0.0312,1,32,197,TAB3
+Toll Like Receptor 10 (TLR10) Cascade,0.0312,1,32,197,TAB3
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.0312,1,32,200,TAB3
+Toll Like Receptor 5 (TLR5) Cascade,0.0312,1,32,197,TAB3
+Epigenetic regulation of gene expression,0.0309,3,97,693,RBM7;CCDC101;CCNH
+Interleukin-1 signaling,0.0303,1,33,161,TAB3
+MyD88-independent TLR4 cascade ,0.0303,1,33,212,TAB3
+MyD88 dependent cascade initiated on endosome,0.0303,1,33,214,TAB3
+Toll Like Receptor 3 (TLR3) Cascade,0.0303,1,33,229,TAB3
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.0303,1,33,221,TAB3
+G1/S Transition,0.0303,1,33,190,CCNH
+TRIF (TICAM1)-mediated TLR4 signaling ,0.0303,1,33,212,TAB3
+Transcriptional regulation by RUNX1,0.0299,2,67,389,CCNH;CCND3
+Toll Like Receptor 9 (TLR9) Cascade,0.0294,1,34,226,TAB3
+C-type lectin receptors (CLRs),0.0294,1,34,221,TAB3
+Extracellular matrix organization,0.0294,2,68,3755,TNN;ACAN
+Transcriptional regulation by RUNX2,0.0294,1,34,234,WWP1
+Antigen processing: Ubiquitination & Proteasome degradation,0.0291,3,103,306,WWP1;RLIM;RNF144B
+Diseases of metabolism,0.029,2,69,952,ACAN;ADAMTSL1
+Hemostasis,0.029,4,138,1150,KIF3A;SLC7A11;DOCK7;OLR1
+SARS-CoV-2-host interactions,0.029,2,69,253,TAB3;IFNAR1
+Cellular response to chemical stress,0.029,2,69,347,SLC7A11;GRIK1-AS2
+Golgi-to-ER retrograde transport,0.0286,1,35,184,KIF3A
+G alpha (q) signalling events,0.0286,1,35,249,AGTR1
+Toll Like Receptor TLR6:TLR2 Cascade,0.0278,1,36,216,TAB3
+Cellular response to heat stress,0.0278,1,36,181,HSPB1
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.0278,1,36,216,TAB3
+Nucleotide Excision Repair,0.0278,1,36,150,CCNH
+VEGFA-VEGFR2 Pathway,0.0278,1,36,165,HSPB1
+Toll Like Receptor TLR1:TLR2 Cascade,0.027,1,37,219,TAB3
+Toll Like Receptor 2 (TLR2) Cascade,0.027,1,37,219,TAB3
+CDC42 GTPase cycle,0.0263,1,38,158,DOCK7
+Signaling by VEGF,0.0263,1,38,176,HSPB1
+Regulation of endogenous retroelements,0.0263,1,38,272,RBM7
+Glycosaminoglycan metabolism,0.0256,1,39,715,ACAN
+Fc epsilon receptor (FCERI) signaling,0.0256,1,39,355,TAB3
+Cytokine Signaling in Immune system,0.0255,5,196,1716,TAB3;SOCS2;LCP1;IFNAR1;PITPNA
+S Phase,0.025,1,40,268,CCNH
+Interleukin-1 family signaling,0.025,1,40,239,TAB3
+Macroautophagy,0.025,1,40,330,RB1CC1
+Signaling by Nuclear Receptors,0.0247,2,81,444,HSPB1;NR1H2
+Class I MHC mediated antigen processing & presentation,0.0246,3,122,538,RLIM;WWP1;RNF144B
+Sensory Perception,0.0244,1,41,1355,LRP12
+Toll Like Receptor 4 (TLR4) Cascade,0.0244,1,41,267,TAB3
+GPCR ligand binding,0.0244,1,41,517,AGTR1
+Neurotransmitter receptors and postsynaptic signal transmission,0.0244,1,41,372,GABRB3
+Disorders of transmembrane transporters,0.0238,1,42,456,SLC4A4
+Clathrin-mediated endocytosis,0.0238,1,42,212,AGTR1
+Signaling by Receptor Tyrosine Kinases,0.0235,4,170,1247,HSPB1;GABRB3;DOCK7;WWP1
+RHO GTPase cycle,0.0234,3,128,497,DOCK7;ARHGAP18;FAM91A1
+RHOA GTPase cycle,0.0233,1,43,152,ARHGAP18
+Organelle biogenesis and maintenance,0.023,2,87,458,KIF3A;IFT43
+Autophagy,0.0227,1,44,409,RB1CC1
+Signaling by TGFB family members,0.0227,1,44,310,TRIM33
+Signaling by Hedgehog,0.0227,1,44,354,KIF3A
+Nervous system development,0.0226,4,177,1059,PITPNA;GSPT1;ADGRV1;MYH10
+Metabolism of carbohydrates,0.0217,2,92,934,ACAN;PHKA1
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.0217,1,46,352,CCDC101
+Signaling by Rho GTPases,0.0216,4,185,927,FAM91A1;ARHGAP18;MYH10;DOCK7
+Immune System,0.0215,11,512,5116,PITPNA;WWP1;OLR1;IFNAR1;TAB3;MLEC;RNF144B;RLIM;KIF3A;LCP1;SOCS2
+MAPK family signaling cascades,0.0213,2,94,559,CCND3;HSPB1
+Chromatin modifying enzymes,0.0213,2,94,1433,CCDC101;JADE1
+Chromatin organization,0.0213,2,94,1433,CCDC101;JADE1
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0211,4,190,945,FAM91A1;DOCK7;MYH10;ARHGAP18
+"Cell Cycle, Mitotic",0.021,3,143,1024,CCND3;CDKN1C;CCNH
+RAC1 GTPase cycle,0.0208,1,48,187,DOCK7
+Toll-like Receptor Cascades,0.0208,1,48,348,TAB3
+G2/M Transition,0.0208,1,48,260,CCNH
+Aerobic respiration and respiratory electron transport,0.0204,2,98,311,NDUFS7;NDUFA6
+Mitotic G2-G2/M phases,0.0204,1,49,264,CCNH
+Signal Transduction,0.0204,13,637,5444,HSPB1;NR1H2;KIF3A;TAB3;GABRB3;CCND3;DOCK7;TRIM33;WWP1;FAM91A1;ARHGAP18;AGTR1;MYH10
+Adaptive Immune System,0.0203,4,197,1430,RNF144B;RLIM;WWP1;KIF3A
+Developmental Biology,0.0203,7,345,2608,ZCCHC6;PITPNA;CCND3;MYH10;ADGRV1;TRIM33;GSPT1
+SARS-CoV-2 Infection,0.0202,2,99,515,TAB3;IFNAR1
+Membrane Trafficking,0.0201,4,199,1206,GJA3;AGTR1;GCC2;KIF3A
+Death Receptor Signaling,0.02,1,50,274,TAB3
+Eukaryotic Translation Termination,0.0196,1,51,98,GSPT1
+Metabolism,0.0196,13,664,3291,ALDH7A1;NDUFS7;PHKA1;NR1H2;SERINC5;ELOVL7;ACAN;CA13;HACD2;IP6K3;NUDT4;NDUFA6;LRP12
+Vesicle-mediated transport,0.0193,4,207,1389,KIF3A;GJA3;GCC2;AGTR1
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),0.0185,1,54,96,GSPT1
+Axon guidance,0.0179,3,168,1009,GSPT1;MYH10;PITPNA
+Late Phase of HIV Life Cycle,0.0179,1,56,209,CCNH
+Metabolism of RNA,0.0179,5,280,932,RBM7;CCNH;ZCCHC6;GSPT1;HSPB1
+Gene expression (Transcription),0.0175,8,458,2954,RPRD1B;CCDC101;TRIM33;WWP1;CCND3;RBM7;NR1H2;CCNH
+HIV Life Cycle,0.0172,1,58,225,CCNH
+Disease,0.0169,9,534,8704,ADAMTSL1;SLC4A4;GCC2;CCNH;ACAN;TAB3;IFNAR1;CDKN1C;CCND3
+Cell Cycle,0.0169,3,178,1325,CCNH;CCND3;CDKN1C
+Metabolism of vitamins and cofactors,0.0169,1,59,312,LRP12
+Transmission across Chemical Synapses,0.0169,1,59,461,GABRB3
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),0.0167,1,60,118,GSPT1
+Nonsense-Mediated Decay (NMD),0.0167,1,60,118,GSPT1
+RNA Polymerase II Transcription,0.016,6,374,2337,CCNH;CCND3;RPRD1B;TRIM33;WWP1;NR1H2
+ESR-mediated signaling,0.0159,1,63,339,HSPB1
+mRNA Splicing - Major Pathway,0.0159,1,63,205,RBM7
+Metabolism of lipids,0.0157,3,191,978,ELOVL7;HACD2;NR1H2
+Neutrophil degranulation,0.0157,2,127,1316,OLR1;MLEC
+mRNA Splicing,0.0154,1,65,213,RBM7
+SARS-CoV Infections,0.0153,2,131,779,IFNAR1;TAB3
+Generic Transcription Pathway,0.0151,5,332,2126,NR1H2;WWP1;CCND3;CCNH;TRIM33
+SUMO E3 ligases SUMOylate target proteins,0.0149,1,67,420,NR1H2
+SUMOylation,0.0149,1,67,442,NR1H2
+Metabolism of amino acids and derivatives,0.0139,2,144,379,SERINC5;ALDH7A1
+Regulation of expression of SLITs and ROBOs,0.0137,1,73,206,GSPT1
+Neddylation,0.0132,1,76,294,SOCS2
+HIV Infection,0.013,1,77,346,CCNH
+RHO GTPase Effectors,0.0127,1,79,512,MYH10
+Signaling by ROBO receptors,0.0123,1,81,268,GSPT1
+Interferon Signaling,0.0123,1,81,490,IFNAR1
+Neuronal System,0.0122,1,82,641,GABRB3
+Innate Immune System,0.0118,3,255,2725,TAB3;MLEC;OLR1
+Viral Infection Pathways,0.0113,3,265,1511,TAB3;CCNH;IFNAR1
+Processing of Capped Intron-Containing Pre-mRNA,0.011,1,91,305,RBM7
+GPCR downstream signalling,0.0108,1,93,825,AGTR1
+Cellular responses to stress,0.0106,3,282,1392,SLC7A11;GRIK1-AS2;HSPB1
+Signaling by GPCR,0.0101,1,99,917,AGTR1
+Asparagine N-linked glycosylation,0.0097,1,103,488,MLEC
+Cellular responses to stimuli,0.0097,3,308,1568,HSPB1;GRIK1-AS2;SLC7A11
+DNA Repair,0.0096,1,104,528,CCNH
+Infectious disease,0.0094,3,319,2039,TAB3;CCNH;IFNAR1
+Transcriptional Regulation by TP53,0.0094,1,106,614,CCNH
+Post-translational protein modification,0.0091,4,438,3379,ADAMTSL1;SOCS2;MLEC;NR1H2
+Metabolism of proteins,0.0077,5,647,4511,GSPT1;MLEC;ADAMTSL1;NR1H2;SOCS2
+Translation,0.0073,1,137,492,GSPT1
+Diseases of signal transduction by growth factor receptors and second messengers,0.0072,1,138,2316,GCC2

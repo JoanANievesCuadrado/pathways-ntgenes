@@ -1,0 +1,318 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+TRIF-mediated programmed cell death,1.0,1,1,12,FADD
+Signaling by Overexpressed Wild-Type EGFR in Cancer,1.0,1,1,8,EGF
+Defective ST3GAL3 causes MCT12 and EIEE15,1.0,1,1,10,ACAN
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d),1.0,1,1,22,ACAN
+Defective CHST6 causes MCDC1,1.0,1,1,15,ACAN
+Inhibition of Signaling by Overexpressed EGFR,1.0,1,1,8,EGF
+CDH11 homotypic and heterotypic interactions,1.0,1,1,7,CDH24
+ERBB2 Activates PTK6 Signaling,0.5,1,2,22,EGF
+EGFR interacts with phospholipase C-gamma,0.5,1,2,10,EGF
+PLCG1 events in ERBB2 signaling,0.5,1,2,6,EGF
+TRAIL  signaling,0.5,1,2,8,FADD
+TLR3-mediated TICAM1-dependent programmed cell death,0.5,1,2,9,FADD
+FasL/ CD95L signaling,0.5,1,2,5,FADD
+SHC1 events in EGFR signaling,0.3333,1,3,16,EGF
+Regulation of CDH11 function,0.3333,1,3,19,CDH24
+ERBB2 Regulates Cell Motility,0.3333,1,3,23,EGF
+GRB2 events in ERBB2 signaling,0.3333,1,3,28,EGF
+Modulation of host responses by IFN-stimulated genes,0.3333,2,6,20,IFI6;ISG15
+GRB2 events in EGFR signaling,0.3333,1,3,14,EGF
+Defective RIPK1-mediated regulated necrosis,0.3333,1,3,15,FADD
+Activation of PPARGC1A (PGC-1alpha) by phosphorylation,0.3333,1,3,12,MAPK11
+p38MAPK events,0.3333,1,3,26,MAPK11
+Regulation by c-FLIP,0.25,1,4,17,FADD
+Activation of the AP-1 family of transcription factors,0.25,1,4,13,MAPK11
+CASP8 activity is inhibited,0.25,1,4,13,FADD
+Purine ribonucleoside monophosphate biosynthesis,0.25,1,4,11,IMPDH1
+Dimerization of procaspase-8,0.25,1,4,11,FADD
+NFE2L2 regulating tumorigenic genes,0.25,1,4,18,EGF
+Caspase activation via Death Receptors in the presence of ligand,0.25,1,4,23,FADD
+EGFR downregulation,0.2,1,5,50,EGF
+Regulation of CDH11 Expression and Function,0.2,1,5,52,CDH24
+PI3K events in ERBB2 signaling,0.2,1,5,24,EGF
+Regulation of Homotypic Cell-Cell Adhesion,0.2,1,5,58,CDH24
+Signalling to RAS,0.2,1,5,41,MAPK11
+Keratan sulfate biosynthesis,0.2,1,5,84,ACAN
+NOTCH3 Activation and Transmission of Signal to the Nucleus,0.2,1,5,72,EGF
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling,0.2,1,5,36,EGF
+Regulation of Expression and Function of Type II Classical Cadherins,0.2,1,5,58,CDH24
+Differentiation of Keratinocytes in Interfollicular Epidermis in Mammalian Skin,0.1667,1,6,41,EGF
+GAB1 signalosome,0.1667,1,6,23,EGF
+SHC1 events in ERBB2 signaling,0.1667,1,6,59,EGF
+Keratan sulfate degradation,0.1667,1,6,32,ACAN
+Interleukin receptor SHC signaling,0.1429,1,7,30,INPPL1
+NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10,0.1429,1,7,20,FADD
+Azathioprine ADME,0.1429,1,7,23,IMPDH1
+RHO GTPases Activate NADPH Oxidases,0.1429,1,7,31,MAPK11
+Termination of translesion DNA synthesis,0.1429,1,7,47,ISG15
+Signaling by ERBB2 TMD/JMD mutants,0.1429,1,7,50,EGF
+Nucleotide biosynthesis,0.1429,1,7,14,IMPDH1
+tRNA modification in the nucleus and cytosol,0.125,2,16,46,ADAT3;CTU1
+Constitutive Signaling by EGFRvIII,0.125,1,8,20,EGF
+Adherens junctions interactions,0.125,1,8,90,CDH24
+Caspase activation via extrinsic apoptotic signalling pathway,0.125,1,8,44,FADD
+ERK/MAPK targets,0.125,1,8,35,MAPK11
+Synthesis of IP3 and IP4 in the cytosol,0.125,1,8,27,INPPL1
+Signaling by CSF1 (M-CSF) in myeloid cells,0.125,1,8,55,INPPL1
+Signaling by EGFRvIII in Cancer,0.125,1,8,20,EGF
+ECM proteoglycans,0.1176,2,17,443,TNN;ACAN
+activated TAK1 mediates p38 MAPK activation,0.1111,1,9,46,MAPK11
+TNFR1-induced proapoptotic signaling,0.1111,1,9,30,FADD
+Signaling by EGFR in Cancer,0.1111,1,9,92,EGF
+Signaling by Ligand-Responsive EGFR Variants in Cancer,0.1111,1,9,82,EGF
+Signaling by ERBB2 ECD mutants,0.1111,1,9,27,EGF
+Replacement of protamines by nucleosomes in the male pronucleus,0.1111,1,9,46,HIST1H4K
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,0.1111,1,9,82,EGF
+Developmental Lineage of Pancreatic Acinar Cells,0.1111,1,9,43,EGF
+KSRP (KHSRP) binds and destabilizes mRNA,0.1111,1,9,21,MAPK11
+Signaling by ERBB2 KD Mutants,0.1,1,10,109,EGF
+Signalling to ERKs,0.1,1,10,83,MAPK11
+Interleukin-2 family signaling,0.1,1,10,97,INPPL1
+Keratan sulfate/keratin metabolism,0.1,1,10,109,ACAN
+Diseases of programmed cell death,0.1,2,20,1469,FADD;HIST1H4K
+Negative regulators of DDX58/IFIH1 signaling,0.1,1,10,89,ISG15
+RNA Polymerase I Promoter Opening,0.1,1,10,78,HIST1H4K
+Signaling by ERBB2 in Cancer,0.1,1,10,138,EGF
+RIPK1-mediated regulated necrosis,0.1,1,10,75,FADD
+Regulation of necroptotic cell death,0.1,1,10,75,FADD
+MAPK targets/ Nuclear events mediated by MAP kinases,0.0909,1,11,49,MAPK11
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,0.0909,1,11,55,ISG15
+Myogenesis,0.0909,1,11,63,MAPK11
+DNA methylation,0.0909,1,11,64,HIST1H4K
+DNA Damage Bypass,0.0909,1,11,66,ISG15
+Defective pyroptosis,0.0909,1,11,88,HIST1H4K
+Downregulation of ERBB2 signaling,0.0909,1,11,55,EGF
+Packaging Of Telomere Ends,0.0909,1,11,51,HIST1H4K
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.0833,2,24,173,FADD;ISG15
+SIRT1 negatively regulates rRNA expression,0.0833,1,12,99,HIST1H4K
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,0.0833,1,12,130,HIST1H4K
+Depurination,0.0833,1,12,110,HIST1H4K
+Recognition and association of DNA glycosylase with site containing an affected purine,0.0833,1,12,110,HIST1H4K
+Cleavage of the damaged purine,0.0833,1,12,108,HIST1H4K
+Interferon alpha/beta signaling,0.0833,2,24,171,IFI6;ISG15
+"Interleukin-3, Interleukin-5 and GM-CSF signaling",0.0833,1,12,92,INPPL1
+Meiotic recombination,0.0769,1,13,106,HIST1H4K
+HDMs demethylate histones,0.0769,1,13,274,HIST1H4K
+Chromatin modifications during the maternal to zygotic transition (MZT),0.0769,1,13,149,HIST1H4K
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,0.0769,1,13,90,HIST1H4K
+Degradation of the extracellular matrix,0.0741,2,27,2051,CAPN15;ACAN
+Oxidative Stress Induced Senescence,0.0714,2,28,184,MAPK11;HIST1H4K
+Assembly of the ORC complex at the origin of replication,0.0714,1,14,74,HIST1H4K
+Nucleosome assembly,0.0714,1,14,72,HIST1H4K
+Diseases associated with glycosaminoglycan metabolism,0.0714,1,14,245,ACAN
+PRC2 methylates histones and DNA,0.0714,1,14,87,HIST1H4K
+Developmental Cell Lineages,0.0714,1,14,83,EGF
+Deposition of new CENPA-containing nucleosomes at the centromere,0.0714,1,14,72,HIST1H4K
+Cell-cell junction organization,0.0714,1,14,149,CDH24
+Signaling by NOTCH3,0.0714,1,14,122,EGF
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0.0667,1,15,242,PILRB
+Transcriptional regulation of granulopoiesis,0.0667,1,15,131,HIST1H4K
+NOD1/2 Signaling Pathway,0.0667,1,15,61,MAPK11
+Condensation of Prophase Chromosomes,0.0667,1,15,112,HIST1H4K
+Drug ADME,0.0625,1,16,122,IMPDH1
+Depyrimidination,0.0625,1,16,61,HIST1H4K
+Signaling by PTK6,0.0625,1,16,103,EGF
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine,0.0625,1,16,61,HIST1H4K
+Regulation of TNFR1 signaling,0.0625,1,16,102,FADD
+"Base-Excision Repair, AP Site Formation",0.0625,1,16,118,HIST1H4K
+NS1 Mediated Effects on Host Pathways,0.0625,1,16,52,ISG15
+Signaling by Non-Receptor Tyrosine Kinases,0.0625,1,16,103,EGF
+Signaling by EGFR,0.0625,1,16,85,EGF
+Cleavage of the damaged pyrimidine ,0.0625,1,16,60,HIST1H4K
+Synthesis of PIPs at the plasma membrane,0.0625,1,16,55,INPPL1
+MyD88-independent TLR4 cascade ,0.0606,2,33,212,FADD;MAPK11
+Toll Like Receptor 3 (TLR3) Cascade,0.0606,2,33,229,FADD;MAPK11
+TRIF (TICAM1)-mediated TLR4 signaling ,0.0606,2,33,212,FADD;MAPK11
+Nonhomologous End-Joining (NHEJ),0.0588,1,17,73,HIST1H4K
+Regulated Necrosis,0.0588,1,17,123,FADD
+RHO GTPases activate PKNs,0.0588,1,17,168,HIST1H4K
+Inhibition of DNA recombination at telomere,0.0588,1,17,67,HIST1H4K
+Constitutive Signaling by Aberrant PI3K in Cancer,0.0556,1,18,144,EGF
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,0.0556,1,18,138,HIST1H4K
+Regulation of endogenous retroelements by the Human Silencing Hub (HUSH) complex,0.0556,1,18,151,HIST1H4K
+DNA Damage/Telomere Stress Induced Senescence,0.0556,1,18,83,HIST1H4K
+Signaling by ERBB4,0.0556,1,18,124,EGF
+Regulation of endogenous retroelements by KRAB-ZFP proteins,0.0556,1,18,214,HIST1H4K
+Pre-NOTCH Transcription and Translation,0.0526,1,19,162,HIST1H4K
+Cell junction organization,0.0526,1,19,178,CDH24
+Inositol phosphate metabolism,0.0526,1,19,51,INPPL1
+Meiotic synapsis,0.0526,1,19,79,HIST1H4K
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,0.05,1,20,144,HIST1H4K
+DNA Double Strand Break Response,0.05,1,20,149,HIST1H4K
+Toll Like Receptor 4 (TLR4) Cascade,0.0488,2,41,267,FADD;MAPK11
+HDACs deacetylate histones,0.0476,1,21,277,HIST1H4K
+Signaling by ERBB2,0.0476,1,21,119,EGF
+RNA Polymerase I Promoter Escape,0.0476,1,21,91,HIST1H4K
+Pre-NOTCH Expression and Processing,0.0455,1,22,238,HIST1H4K
+Extra-nuclear estrogen signaling,0.0455,1,22,119,EGF
+TNF signaling,0.0455,1,22,125,FADD
+tRNA processing,0.0455,2,44,124,ADAT3;CTU1
+Extracellular matrix organization,0.0441,3,68,3755,CAPN15;TNN;ACAN
+Regulation of TP53 Activity through Phosphorylation,0.0435,1,23,117,MAPK11
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",0.0435,1,23,91,MAPK11
+MAP kinase activation,0.0435,1,23,135,MAPK11
+Interleukin-17 signaling,0.0435,1,23,143,MAPK11
+ISG15 antiviral mechanism,0.0435,1,23,96,ISG15
+B-WICH complex positively regulates rRNA expression,0.0435,1,23,105,HIST1H4K
+Senescence-Associated Secretory Phenotype (SASP),0.0435,1,23,154,HIST1H4K
+Meiosis,0.0435,1,23,138,HIST1H4K
+Nuclear Events (kinase and transcription factor activation),0.0435,1,23,117,MAPK11
+G2/M DNA damage checkpoint,0.0435,1,23,110,HIST1H4K
+Amyloid fiber formation,0.0435,1,23,257,HIST1H4K
+RSV-host interactions,0.0417,1,24,171,ISG15
+RMTs methylate histone arginines,0.0417,1,24,354,HIST1H4K
+PKR-mediated signaling,0.0417,1,24,105,ISG15
+Cargo recognition for clathrin-mediated endocytosis,0.0417,1,24,129,EGF
+Base Excision Repair,0.0417,1,24,148,HIST1H4K
+Toll-like Receptor Cascades,0.0417,2,48,348,FADD;MAPK11
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",0.04,1,25,145,EGF
+PKMTs methylate histone lysines,0.04,1,25,362,HIST1H4K
+Processing of DNA double-strand break ends,0.04,1,25,117,HIST1H4K
+PI Metabolism,0.04,1,25,111,INPPL1
+Formation of the beta-catenin:TCF transactivating complex,0.04,1,25,176,HIST1H4K
+Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),0.04,1,25,97,HIST1H4K
+Positive epigenetic regulation of rRNA expression,0.0385,1,26,195,HIST1H4K
+RNA Polymerase I Promoter Clearance,0.0385,1,26,145,HIST1H4K
+Cellular Senescence,0.0385,2,52,302,HIST1H4K;MAPK11
+Mitochondrial biogenesis,0.0385,1,26,137,MAPK11
+NoRC negatively regulates rRNA expression,0.037,1,27,195,HIST1H4K
+RNA Polymerase I Transcription,0.037,1,27,147,HIST1H4K
+Telomere Maintenance,0.037,1,27,113,HIST1H4K
+Maternal to zygotic transition (MZT),0.0357,1,28,228,HIST1H4K
+PI3K/AKT Signaling in Cancer,0.0357,1,28,300,EGF
+Activation of HOX genes during differentiation,0.0357,1,28,149,HIST1H4K
+Negative regulation of the PI3K/AKT network,0.0357,1,28,158,EGF
+Negative epigenetic regulation of rRNA expression,0.0357,1,28,230,HIST1H4K
+Cell-Cell communication,0.0357,1,28,227,CDH24
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.0357,1,28,149,HIST1H4K
+Signaling by NOTCH,0.0339,2,59,494,HIST1H4K;EGF
+Transcriptional regulation by small RNAs,0.0333,1,30,114,HIST1H4K
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,0.0333,1,30,151,HIST1H4K
+Reproduction,0.0333,1,30,188,HIST1H4K
+SUMOylation of chromatin organization proteins,0.0333,1,30,122,HIST1H4K
+Potential therapeutics for SARS,0.0333,1,30,162,IMPDH1
+Respiratory Syncytial Virus Infection Pathway,0.0333,1,30,199,ISG15
+Regulation of mRNA stability by proteins that bind AU-rich elements,0.0323,1,31,105,MAPK11
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.0323,1,31,309,HIST1H4K
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.0323,1,31,300,HIST1H4K
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.0323,1,31,300,HIST1H4K
+ESR-mediated signaling,0.0317,2,63,339,EGF;HIST1H4K
+Chromosome Maintenance,0.0312,1,32,140,HIST1H4K
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.0312,1,32,200,MAPK11
+DNA Replication Pre-Initiation,0.0312,1,32,181,HIST1H4K
+Platelet degranulation ,0.0312,1,32,264,EGF
+Assembly of the pre-replicative complex,0.0312,1,32,164,HIST1H4K
+HCMV Early Events,0.0312,1,32,327,HIST1H4K
+Toll Like Receptor 5 (TLR5) Cascade,0.0312,1,32,197,MAPK11
+Toll Like Receptor 10 (TLR10) Cascade,0.0312,1,32,197,MAPK11
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),0.0312,1,32,160,HIST1H4K
+MyD88 cascade initiated on plasma membrane,0.0312,1,32,197,MAPK11
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.0303,1,33,221,MAPK11
+MyD88 dependent cascade initiated on endosome,0.0303,1,33,214,MAPK11
+Nuclear events mediated by NFE2L2,0.0303,1,33,150,EGF
+Homology Directed Repair,0.0294,1,34,169,HIST1H4K
+Toll Like Receptor 9 (TLR9) Cascade,0.0294,1,34,226,MAPK11
+RAB GEFs exchange GTP for GDP on RABs,0.0286,1,35,122,TRAPPC12
+Response to elevated platelet cytosolic Ca2+,0.0286,1,35,273,EGF
+VEGFA-VEGFR2 Pathway,0.0278,1,36,165,MAPK11
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.0278,1,36,216,MAPK11
+Mitochondrial translation termination,0.0278,1,36,91,MRPL41
+Toll Like Receptor TLR6:TLR2 Cascade,0.0278,1,36,216,MAPK11
+HCMV Late Events,0.0278,1,36,241,HIST1H4K
+Mitochondrial translation elongation,0.027,1,37,178,MRPL41
+Diseases of glycosylation,0.027,1,37,483,ACAN
+Mitochondrial translation initiation,0.027,1,37,90,MRPL41
+Gene Silencing by RNA,0.027,1,37,166,HIST1H4K
+Toll Like Receptor TLR1:TLR2 Cascade,0.027,1,37,219,MAPK11
+Toll Like Receptor 2 (TLR2) Cascade,0.027,1,37,219,MAPK11
+Signaling by VEGF,0.0263,1,38,176,MAPK11
+G2/M Checkpoints,0.0263,1,38,189,HIST1H4K
+Regulation of endogenous retroelements,0.0263,1,38,272,HIST1H4K
+Glycosaminoglycan metabolism,0.0256,1,39,715,ACAN
+Metabolism of nucleotides,0.0256,1,39,102,IMPDH1
+RHO GTPase Effectors,0.0253,2,79,512,MAPK11;HIST1H4K
+Estrogen-dependent gene expression,0.025,1,40,218,HIST1H4K
+DNA Replication,0.025,1,40,295,HIST1H4K
+Mitochondrial translation,0.025,1,40,185,MRPL41
+KEAP1-NFE2L2 pathway,0.025,1,40,239,EGF
+Signaling by Nuclear Receptors,0.0247,2,81,444,HIST1H4K;EGF
+Interferon Signaling,0.0247,2,81,490,ISG15;IFI6
+Rab regulation of trafficking,0.0244,1,41,167,TRAPPC12
+Signaling by NTRK1 (TRKA),0.0244,1,41,246,MAPK11
+Clathrin-mediated endocytosis,0.0238,1,42,212,EGF
+Regulation of TP53 Activity,0.0238,1,42,319,MAPK11
+HATs acetylate histones,0.0233,1,43,599,HIST1H4K
+RHOA GTPase cycle,0.0233,1,43,152,DDRGK1
+DNA Double-Strand Break Repair,0.0227,1,44,260,HIST1H4K
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,0.0227,1,44,164,ISG15
+Mitotic Prophase,0.0227,1,44,233,HIST1H4K
+HCMV Infection,0.0222,1,45,351,HIST1H4K
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.0217,1,46,352,HIST1H4K
+Apoptosis,0.0208,1,48,327,FADD
+Antiviral mechanism by IFN-stimulated genes,0.0204,1,49,202,ISG15
+Cytokine Signaling in Immune system,0.0204,4,196,1716,MAPK11;ISG15;IFI6;INPPL1
+Signaling by NTRKs,0.0204,1,49,309,MAPK11
+Death Receptor Signaling,0.02,1,50,274,FADD
+Innate Immune System,0.0196,5,255,2725,TMC6;FADD;IMPDH1;MAPK11;ISG15
+DNA Repair,0.0192,2,104,528,ISG15;HIST1H4K
+Signaling by Interleukins,0.0179,2,112,1058,INPPL1;MAPK11
+Immune System,0.0176,9,512,5116,IMPDH1;FBXL15;TMC6;IFI6;ISG15;INPPL1;PILRB;FADD;MAPK11
+Programmed Cell Death,0.0175,1,57,421,FADD
+Phospholipid metabolism,0.0169,1,59,253,INPPL1
+Signaling by Rho GTPases,0.0162,3,185,927,DDRGK1;HIST1H4K;MAPK11
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0158,3,190,945,MAPK11;HIST1H4K;DDRGK1
+Neutrophil degranulation,0.0157,2,127,1316,TMC6;IMPDH1
+Cell Cycle Checkpoints,0.0156,1,64,337,HIST1H4K
+SARS-CoV Infections,0.0153,2,131,779,IMPDH1;ISG15
+TCF dependent signaling in response to WNT,0.0152,1,66,419,HIST1H4K
+SUMO E3 ligases SUMOylate target proteins,0.0149,1,67,420,HIST1H4K
+SUMOylation,0.0149,1,67,442,HIST1H4K
+Transcriptional regulation by RUNX1,0.0149,1,67,389,HIST1H4K
+Cellular response to chemical stress,0.0145,1,69,347,EGF
+"Platelet activation, signaling and aggregation",0.0145,1,69,497,EGF
+SARS-CoV-2-host interactions,0.0145,1,69,253,ISG15
+Diseases of metabolism,0.0145,1,69,952,ACAN
+PIP3 activates AKT signaling,0.0132,1,76,411,EGF
+Neddylation,0.0132,1,76,294,FBXL15
+Influenza Infection,0.0128,1,78,175,ISG15
+RAF/MAP kinase cascade,0.0125,1,80,472,EGF
+MAPK1/MAPK3 signaling,0.012,1,83,484,EGF
+Signaling by Receptor Tyrosine Kinases,0.0118,2,170,1247,MAPK11;EGF
+Organelle biogenesis and maintenance,0.0115,1,87,458,MAPK11
+Intracellular signaling by second messengers,0.0114,1,88,486,EGF
+Viral Infection Pathways,0.0113,3,265,1511,ISG15;HIST1H4K;IMPDH1
+Disease,0.0112,6,534,8704,FADD;IMPDH1;HIST1H4K;ACAN;ISG15;EGF
+Metabolism of carbohydrates,0.0109,1,92,934,ACAN
+Metabolism of RNA,0.0107,3,280,932,CTU1;MAPK11;ADAT3
+Signaling by WNT,0.0106,1,94,773,HIST1H4K
+Chromatin modifying enzymes,0.0106,1,94,1433,HIST1H4K
+Cellular responses to stress,0.0106,3,282,1392,MAPK11;EGF;HIST1H4K
+Chromatin organization,0.0106,1,94,1433,HIST1H4K
+MAPK family signaling cascades,0.0106,1,94,559,EGF
+Epigenetic regulation of gene expression,0.0103,1,97,693,HIST1H4K
+Adaptive Immune System,0.0102,2,197,1430,FBXL15;PILRB
+SARS-CoV-2 Infection,0.0101,1,99,515,ISG15
+Membrane Trafficking,0.0101,2,199,1206,TRAPPC12;EGF
+Antigen processing: Ubiquitination & Proteasome degradation,0.0097,1,103,306,FBXL15
+Vesicle-mediated transport,0.0097,2,207,1389,EGF;TRAPPC12
+Cellular responses to stimuli,0.0097,3,308,1568,HIST1H4K;MAPK11;EGF
+Transcriptional Regulation by TP53,0.0094,1,106,614,MAPK11
+Infectious disease,0.0094,3,319,2039,ISG15;HIST1H4K;IMPDH1
+M Phase,0.0088,1,113,632,HIST1H4K
+Developmental Biology,0.0087,3,345,2608,HIST1H4K;EGF;MAPK11
+Class I MHC mediated antigen processing & presentation,0.0082,1,122,538,FBXL15
+RHO GTPase cycle,0.0078,1,128,497,DDRGK1
+Signal Transduction,0.0078,5,637,5444,DDRGK1;FADD;EGF;MAPK11;HIST1H4K
+Translation,0.0073,1,137,492,MRPL41
+Hemostasis,0.0072,1,138,1150,EGF
+Diseases of signal transduction by growth factor receptors and second messengers,0.0072,1,138,2316,EGF
+"Cell Cycle, Mitotic",0.007,1,143,1024,HIST1H4K
+Generic Transcription Pathway,0.006,2,332,2126,MAPK11;HIST1H4K
+Cell Cycle,0.0056,1,178,1325,HIST1H4K
+RNA Polymerase II Transcription,0.0053,2,374,2337,HIST1H4K;MAPK11
+Metabolism of lipids,0.0052,1,191,978,INPPL1
+Metabolism of proteins,0.0046,3,647,4511,HIST1H4K;MRPL41;FBXL15
+Post-translational protein modification,0.0046,2,438,3379,HIST1H4K;FBXL15
+Metabolism,0.0045,3,664,3291,INPPL1;ACAN;IMPDH1
+Gene expression (Transcription),0.0044,2,458,2954,HIST1H4K;MAPK11

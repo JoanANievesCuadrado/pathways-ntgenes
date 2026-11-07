@@ -1,0 +1,103 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Advanced glycosylation endproduct receptor signaling,1.0,1,1,21,AGER
+Defective F8 secretion,1.0,1,1,46,F8
+Defective F9 variant does not activate FX,1.0,1,1,19,F8
+Defective cofactor function of FVIIIa variant,1.0,1,1,11,F8
+Defective F8 sulfation at Y1699,1.0,1,1,3,F8
+Common Pathway of Fibrin Clot Formation,1.0,1,1,60,F8
+Defective F8 binding to the cell membrane,1.0,1,1,5,F8
+Defective F8 accelerates dissociation of the A2 domain,1.0,1,1,11,F8
+Defective factor IX causes thrombophilia,1.0,1,1,9,F8
+Triglyceride metabolism,1.0,1,1,43,FABP4
+Triglyceride catabolism,1.0,1,1,29,FABP4
+Zinc transporters,1.0,1,1,18,SLC39A8
+Metal ion SLC transporters,1.0,1,1,27,SLC39A8
+Glycerophospholipid biosynthesis,1.0,1,1,144,GPD1
+Zinc influx into cells by the SLC39 gene family,1.0,1,1,10,SLC39A8
+Synthesis of PA,1.0,1,1,42,GPD1
+Defective factor IX causes hemophilia B,0.5,1,2,57,F8
+Cargo concentration in the ER,0.5,1,2,49,F8
+"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",0.5,1,2,137,F8
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.5,1,2,173,AGER
+Defective F8 cleavage by thrombin,0.5,1,2,11,F8
+Defective F8 binding to von Willebrand factor,0.5,1,2,15,F8
+Scavenging by Class A Receptors,0.5,1,2,75,MARCO
+Defective factor VIII causes hemophilia A,0.5,1,2,97,F8
+COPII-mediated vesicle transport,0.5,1,2,179,F8
+TRAF6 mediated NF-kB activation,0.5,1,2,42,AGER
+TAK1-dependent IKK and NF-kappa-B activation  ,0.5,1,2,85,AGER
+"Transport of bile salts and organic acids, metal ions and amine compounds",0.5,1,2,87,SLC39A8
+Intrinsic Pathway of Fibrin Clot Formation,0.3333,1,3,60,F8
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.3333,1,3,300,FABP4
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.3333,1,3,309,FABP4
+MyD88-independent TLR4 cascade ,0.3333,1,3,212,AGER
+Phospholipid metabolism,0.3333,1,3,253,GPD1
+Formation of Fibrin Clot (Clotting Cascade),0.3333,1,3,114,F8
+Diseases of hemostasis,0.3333,1,3,263,F8
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.3333,1,3,300,FABP4
+ER to Golgi Anterograde Transport,0.3333,1,3,322,F8
+Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),0.3333,1,3,207,F8
+Toll Like Receptor 3 (TLR3) Cascade,0.3333,1,3,229,AGER
+Transcriptional regulation of white adipocyte differentiation,0.3333,1,3,148,FABP4
+TRIF (TICAM1)-mediated TLR4 signaling ,0.3333,1,3,212,AGER
+Interleukin-1 signaling,0.3333,1,3,161,AGER
+Metabolism of lipids,0.2857,2,7,978,FABP4;GPD1
+SUMOylation of DNA replication proteins,0.25,1,4,103,CDCA8
+Toll Like Receptor 2 (TLR2) Cascade,0.25,1,4,219,AGER
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.25,1,4,200,AGER
+MyD88 cascade initiated on plasma membrane,0.25,1,4,197,AGER
+MyD88 dependent cascade initiated on endosome,0.25,1,4,214,AGER
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.25,1,4,216,AGER
+Toll Like Receptor 5 (TLR5) Cascade,0.25,1,4,197,AGER
+Asparagine N-linked glycosylation,0.25,1,4,488,F8
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.25,1,4,352,FABP4
+Adipogenesis,0.25,1,4,185,FABP4
+Toll Like Receptor 10 (TLR10) Cascade,0.25,1,4,197,AGER
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.25,1,4,221,AGER
+Transport to the Golgi and subsequent modification,0.25,1,4,355,F8
+Toll Like Receptor 4 (TLR4) Cascade,0.25,1,4,267,AGER
+Toll-like Receptor Cascades,0.25,1,4,348,AGER
+Toll Like Receptor 9 (TLR9) Cascade,0.25,1,4,226,AGER
+Toll Like Receptor TLR1:TLR2 Cascade,0.25,1,4,219,AGER
+Toll Like Receptor TLR6:TLR2 Cascade,0.25,1,4,216,AGER
+SLC-mediated transmembrane transport,0.2,1,5,257,SLC39A8
+Binding and Uptake of Ligands by Scavenger Receptors,0.2,1,5,183,MARCO
+SUMOylation,0.1667,1,6,442,CDCA8
+SUMO E3 ligases SUMOylate target proteins,0.1667,1,6,420,CDCA8
+Amplification of signal from the kinetochores,0.1429,1,7,95,CDCA8
+EML4 and NUDC in mitotic spindle formation,0.1429,1,7,122,CDCA8
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,0.1429,1,7,95,CDCA8
+Platelet degranulation ,0.1429,1,7,264,F8
+Interleukin-1 family signaling,0.1429,1,7,239,AGER
+Response to elevated platelet cytosolic Ca2+,0.1429,1,7,273,F8
+RHO GTPases Activate Formins,0.1429,1,7,154,CDCA8
+Resolution of Sister Chromatid Cohesion,0.1429,1,7,155,CDCA8
+Separation of Sister Chromatids,0.125,1,8,209,CDCA8
+Mitotic Spindle Checkpoint,0.125,1,8,112,CDCA8
+Mitotic Prometaphase,0.125,1,8,263,CDCA8
+Vesicle-mediated transport,0.1176,2,17,1389,F8;MARCO
+Epigenetic regulation of gene expression,0.1111,1,9,693,FABP4
+Mitotic Metaphase and Anaphase,0.1111,1,9,287,CDCA8
+Mitotic Anaphase,0.1111,1,9,284,CDCA8
+"Platelet activation, signaling and aggregation",0.0909,1,11,497,F8
+M Phase,0.0909,1,11,632,CDCA8
+RHO GTPase Effectors,0.0909,1,11,512,CDCA8
+Membrane Trafficking,0.0833,1,12,1206,F8
+Cell Cycle Checkpoints,0.0833,1,12,337,CDCA8
+Transport of small molecules,0.0667,1,15,852,SLC39A8
+Post-translational protein modification,0.0606,2,33,3379,F8;CDCA8
+Metabolism,0.0541,2,37,3291,FABP4;GPD1
+"Cell Cycle, Mitotic",0.05,1,20,1024,CDCA8
+Signaling by Rho GTPases,0.0455,1,22,927,CDCA8
+Metabolism of proteins,0.0444,2,45,4511,CDCA8;F8
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0435,1,23,945,CDCA8
+Signaling by Interleukins,0.0435,1,23,1058,AGER
+Cell Cycle,0.04,1,25,1325,CDCA8
+Cytokine Signaling in Immune system,0.0385,1,26,1716,AGER
+Hemostasis,0.0357,1,28,1150,F8
+Developmental Biology,0.0333,1,30,2608,FABP4
+Innate Immune System,0.0312,1,32,2725,AGER
+Gene expression (Transcription),0.0244,1,41,2954,FABP4
+Disease,0.0217,1,46,8704,F8
+Immune System,0.0167,1,60,5116,AGER
+Signal Transduction,0.0116,1,86,5444,CDCA8

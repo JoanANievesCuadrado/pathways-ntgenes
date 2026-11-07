@@ -1,0 +1,116 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+ATF6 (ATF6-alpha) activates chaperone genes,0.5,1,2,20,NFYB
+ATF6 (ATF6-alpha) activates chaperones,0.5,1,2,29,NFYB
+NOSTRIN mediated eNOS trafficking,0.5,1,2,11,NOSTRIN
+FOXO-mediated transcription of cell death genes,0.3333,1,3,28,NFYB
+Dopamine Neurotransmitter Release Cycle,0.25,1,4,27,PPFIA3
+Norepinephrine Neurotransmitter Release Cycle,0.25,1,4,22,PPFIA3
+Acetylcholine Neurotransmitter Release Cycle,0.25,1,4,21,PPFIA3
+Serotonin Neurotransmitter Release Cycle,0.25,1,4,22,PPFIA3
+Zinc influx into cells by the SLC39 gene family,0.25,1,4,10,SLC39A7
+Interleukin-37 signaling,0.2,1,5,43,PTPN18
+Receptor-type tyrosine-protein phosphatases,0.2,1,5,20,PPFIA3
+Metal ion SLC transporters,0.2,1,5,27,SLC39A7
+Negative regulators of DDX58/IFIH1 signaling,0.2,2,10,89,ATG12;OTUD5
+Receptor Mediated Mitophagy,0.2,1,5,15,ATG12
+Zinc transporters,0.2,1,5,18,SLC39A7
+Acyl chain remodelling of PG,0.1667,1,6,23,LPGAT1
+Glutamate Neurotransmitter Release Cycle,0.1429,1,7,28,PPFIA3
+Metabolism of nitric oxide: NOS3 activation and regulation,0.125,1,8,34,NOSTRIN
+Glutamate and glutamine metabolism,0.1111,1,9,15,OAT
+Neurotransmitter release cycle,0.1,1,10,71,PPFIA3
+PINK1-PRKN Mediated Mitophagy,0.1,1,10,74,ATG12
+Activation of gene expression by SREBF (SREBP),0.1,1,10,72,NFYB
+ATF4 activates genes in response to endoplasmic reticulum  stress,0.0909,1,11,35,NFYB
+Downregulation of ERBB2 signaling,0.0909,1,11,55,PTPN18
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.0833,2,24,173,OTUD5;ATG12
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,0.0833,1,12,130,KLK3
+Mitophagy,0.0833,1,12,85,ATG12
+PERK regulates gene expression,0.0769,1,13,46,NFYB
+Formation of the cornified envelope,0.0769,1,13,173,LIPM
+Intra-Golgi traffic,0.0714,1,14,56,NAPB
+"Transport of bile salts and organic acids, metal ions and amine compounds",0.0714,1,14,87,SLC39A7
+Interconversion of nucleotide di- and triphosphates,0.0714,1,14,31,NME4
+Keratinization,0.0714,1,14,261,LIPM
+NGF-stimulated transcription,0.0667,1,15,80,ID2
+Ovarian tumor domain proteases,0.0667,1,15,101,OTUD5
+COPII-mediated vesicle transport,0.0667,2,30,179,NAPB;TRAPPC9
+RHO GTPases activate PKNs,0.0588,1,17,168,KLK3
+Regulation of cholesterol biosynthesis by SREBP (SREBF),0.0556,1,18,103,NFYB
+FOXO-mediated transcription,0.05,1,20,130,NFYB
+Signaling by ERBB2,0.0476,1,21,119,PTPN18
+Centrosome maturation,0.0476,1,21,91,MZT2A
+Recruitment of mitotic centrosome proteins and complexes,0.0476,1,21,89,MZT2A
+Protein-protein interactions at synapses,0.0476,1,21,125,PPFIA3
+Retrograde transport at the Trans-Golgi-Network,0.0476,1,21,69,NAPB
+Selective autophagy,0.0476,1,21,219,ATG12
+Nuclear Events (kinase and transcription factor activation),0.0435,1,23,117,ID2
+Ribosomal scanning and start codon recognition,0.0435,1,23,59,EIF5
+Recruitment of NuMA to mitotic centrosomes,0.0435,1,23,103,MZT2A
+G alpha (s) signalling events,0.04,1,25,195,PDE8A
+ER to Golgi Anterograde Transport,0.0357,2,56,322,NAPB;TRAPPC9
+Regulation of lipid metabolism by PPARalpha,0.0345,1,29,179,NFYB
+PPARA activates gene expression,0.0345,1,29,177,NFYB
+COPI-dependent Golgi-to-ER retrograde traffic,0.0333,1,30,145,NAPB
+Transport to the Golgi and subsequent modification,0.0312,2,64,355,TRAPPC9;NAPB
+COPI-mediated anterograde transport,0.0303,1,33,156,NAPB
+Unfolded Protein Response (UPR),0.0303,1,33,214,NFYB
+Glycerophospholipid biosynthesis,0.0294,1,34,144,LPGAT1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),0.0294,1,34,251,KLK3
+RAB GEFs exchange GTP for GDP on RABs,0.0286,1,35,122,TRAPPC9
+Golgi-to-ER retrograde transport,0.0286,1,35,184,NAPB
+Mitochondrial translation termination,0.0278,1,36,91,MRPS31
+Mitochondrial translation initiation,0.027,1,37,90,MRPS31
+Mitochondrial translation elongation,0.027,1,37,178,MRPS31
+Metabolism of steroids,0.0263,1,38,212,NFYB
+Metabolism of nucleotides,0.0256,1,39,102,NME4
+Mitochondrial translation,0.025,1,40,185,MRPS31
+Interleukin-1 family signaling,0.025,1,40,239,PTPN18
+Macroautophagy,0.025,1,40,330,ATG12
+Signaling by NTRK1 (TRKA),0.0244,1,41,246,ID2
+Rab regulation of trafficking,0.0244,1,41,167,TRAPPC9
+SLC-mediated transmembrane transport,0.0238,1,42,257,SLC39A7
+Autophagy,0.0227,1,44,409,ATG12
+G2/M Transition,0.0208,1,48,260,MZT2A
+Mitotic G2-G2/M phases,0.0204,1,49,264,MZT2A
+Mitotic Prometaphase,0.0204,1,49,263,MZT2A
+Signaling by NTRKs,0.0204,1,49,309,ID2
+Asparagine N-linked glycosylation,0.0194,2,103,488,NAPB;TRAPPC9
+Phospholipid metabolism,0.0169,1,59,253,LPGAT1
+Transmission across Chemical Synapses,0.0169,1,59,461,PPFIA3
+GTP hydrolysis and joining of the 60S ribosomal subunit,0.0167,1,60,113,EIF5
+Intra-Golgi and retrograde Golgi-to-ER traffic,0.0159,1,63,300,NAPB
+Cap-dependent Translation Initiation,0.0156,1,64,120,EIF5
+Eukaryotic Translation Initiation,0.0156,1,64,121,EIF5
+Translation,0.0146,2,137,492,EIF5;MRPS31
+RHO GTPase Effectors,0.0127,1,79,512,KLK3
+Neuronal System,0.0122,1,82,641,PPFIA3
+Signaling by Receptor Tyrosine Kinases,0.0118,2,170,1247,PTPN18;ID2
+Innate Immune System,0.0118,3,255,2725,LAMP1;OTUD5;ATG12
+Deubiquitination,0.0115,1,87,778,OTUD5
+GPCR downstream signalling,0.0108,1,93,825,PDE8A
+Metabolism of lipids,0.0105,2,191,978,NFYB;LPGAT1
+Signaling by GPCR,0.0101,1,99,917,PDE8A
+Membrane Trafficking,0.0101,2,199,1206,TRAPPC9;NAPB
+Vesicle-mediated transport,0.0097,2,207,1389,NAPB;TRAPPC9
+Metabolism of proteins,0.0093,6,647,4511,OTUD5;NAPB;TRAPPC9;MRPS31;EIF5;KLK3
+Signaling by Interleukins,0.0089,1,112,1058,PTPN18
+M Phase,0.0088,1,113,632,MZT2A
+Neutrophil degranulation,0.0079,1,127,1316,LAMP1
+Immune System,0.0078,4,512,5116,PTPN18;ATG12;OTUD5;LAMP1
+Metabolism,0.0075,5,664,3291,NFYB;NOSTRIN;LPGAT1;OAT;NME4
+"Cell Cycle, Mitotic",0.007,1,143,1024,MZT2A
+Metabolism of amino acids and derivatives,0.0069,1,144,379,OAT
+Post-translational protein modification,0.0068,3,438,3379,TRAPPC9;NAPB;OTUD5
+Transport of small molecules,0.0065,1,153,852,SLC39A7
+Signal Transduction,0.0063,4,637,5444,ID2;PDE8A;KLK3;PTPN18
+Cell Cycle,0.0056,1,178,1325,MZT2A
+Signaling by Rho GTPases,0.0054,1,185,927,KLK3
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.0053,1,190,945,KLK3
+Cytokine Signaling in Immune system,0.0051,1,196,1716,PTPN18
+Cellular responses to stress,0.0035,1,282,1392,NFYB
+Cellular responses to stimuli,0.0032,1,308,1568,NFYB
+Generic Transcription Pathway,0.003,1,332,2126,NFYB
+Developmental Biology,0.0029,1,345,2608,LIPM
+RNA Polymerase II Transcription,0.0027,1,374,2337,NFYB
+Gene expression (Transcription),0.0022,1,458,2954,NFYB

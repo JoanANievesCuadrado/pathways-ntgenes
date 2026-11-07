@@ -1,0 +1,54 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",1.0,1,1,81,ST8SIA6
+Expression and translocation of olfactory receptors,1.0,1,1,842,OR6K3
+N-glycan antennae elongation in the medial/trans-Golgi,1.0,1,1,28,ST8SIA6
+N-Glycan antennae elongation,1.0,1,1,15,ST8SIA6
+Generation of second messenger molecules,1.0,1,1,44,CD101
+Regulation of TNFR1 signaling,1.0,1,1,102,OTUD1
+Sialic acid metabolism,1.0,1,1,34,ST8SIA6
+TNFR1-induced proapoptotic signaling,1.0,1,1,30,OTUD1
+Synthesis of substrates in N-glycan biosythesis,1.0,1,1,65,ST8SIA6
+TNF signaling,1.0,1,1,125,OTUD1
+TNFR1-induced NF-kappa-B signaling pathway,1.0,1,1,46,OTUD1
+Signaling by CSF3 (G-CSF),0.5,1,2,91,CSF3
+TCR signaling,0.5,1,2,163,CD101
+Inactivation of CSF3 (G-CSF) signaling,0.5,1,2,58,CSF3
+Olfactory Signaling Pathway,0.5,1,2,980,OR6K3
+Chemokine receptors bind chemokines,0.4,2,5,58,CXCL3;CXCL2
+Other interleukin signaling,0.3333,1,3,28,CSF3
+Class B/2 (Secretin family receptors),0.3333,2,6,102,ADGRE3;CALCRL
+Interleukin-10 signaling,0.3333,2,6,91,CXCL2;CSF3
+Calcitonin-like ligand receptors,0.3333,1,3,11,CALCRL
+Death Receptor Signaling,0.3333,1,3,274,OTUD1
+Transport to the Golgi and subsequent modification,0.25,1,4,355,ST8SIA6
+High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,0.25,1,4,97,CALCRL
+Asparagine N-linked glycosylation,0.25,1,4,488,ST8SIA6
+Response of endothelial cells to shear stress,0.2,1,5,143,CALCRL
+G alpha (i) signalling events,0.2,2,10,444,CXCL2;CXCL3
+Diseases of glycosylation,0.2,1,5,483,ADAMTS8
+O-glycosylation of TSR domain-containing proteins,0.2,1,5,113,ADAMTS8
+O-linked glycosylation,0.2,1,5,431,ADAMTS8
+Defective B3GALTL causes PpS,0.2,1,5,38,ADAMTS8
+Diseases associated with O-glycosylation of proteins,0.2,1,5,113,ADAMTS8
+Peptide ligand-binding receptors,0.1667,2,12,243,CXCL2;CXCL3
+Cellular responses to mechanical stimuli,0.1667,1,6,159,CALCRL
+GPCR ligand binding,0.16,4,25,517,CXCL2;ADGRE3;CALCRL;CXCL3
+Diseases of metabolism,0.1429,1,7,952,ADAMTS8
+Signaling by GPCR,0.1429,4,28,917,ADGRE3;CXCL3;CXCL2;CALCRL
+Degradation of the extracellular matrix,0.1429,1,7,2051,ADAMTS8
+G alpha (s) signalling events,0.125,1,8,195,CALCRL
+GPCR downstream signalling,0.125,3,24,825,CXCL3;CALCRL;CXCL2
+Sensory Perception,0.1111,1,9,1355,OR6K3
+Class A/1 (Rhodopsin-like receptors),0.1053,2,19,376,CXCL3;CXCL2
+Signaling by Interleukins,0.087,2,23,1058,CXCL2;CSF3
+Cytokine Signaling in Immune system,0.0769,2,26,1716,CSF3;CXCL2
+Immune System,0.0667,4,60,5116,CXCL2;CSF3;CD101;ADGRE3
+Extracellular matrix organization,0.0667,1,15,3755,ADAMTS8
+Post-translational protein modification,0.0606,2,33,3379,ST8SIA6;ADAMTS8
+Signal Transduction,0.0581,5,86,5444,ADGRE3;CXCL3;OTUD1;CALCRL;CXCL2
+Neutrophil degranulation,0.05,1,20,1316,ADGRE3
+Adaptive Immune System,0.0476,1,21,1430,CD101
+Metabolism of proteins,0.0444,2,45,4511,ST8SIA6;ADAMTS8
+Cellular responses to stimuli,0.0312,1,32,1568,CALCRL
+Innate Immune System,0.0312,1,32,2725,ADGRE3
+Disease,0.0217,1,46,8704,ADAMTS8

@@ -1,0 +1,97 @@
+pathway,frequency,active_genes,genes_in_pathway,pathway_size,gene_names
+Complement cascade,1.0,1,1,190,FCN2
+Creation of C4 and C2 activators,1.0,1,1,82,FCN2
+Ficolins bind to repetitive carbohydrate structures on the target cell surface,1.0,1,1,5,FCN2
+Scavenging by Class H Receptors,1.0,1,1,8,STAB2
+Lectin pathway of complement activation,1.0,1,1,12,FCN2
+Initial triggering of complement,1.0,1,1,129,FCN2
+Hyaluronan uptake and degradation,1.0,1,1,15,STAB2
+Hyaluronan metabolism,1.0,1,1,20,STAB2
+RHOD GTPase cycle,1.0,1,1,57,RACGAP1
+Interaction between PHLDA1 and AURKA,0.5,1,2,3,AURKA
+SARS-CoV-2 modulates autophagy,0.5,1,2,11,VPS45
+Binding and Uptake of Ligands by Scavenger Receptors,0.3333,1,3,183,STAB2
+Deposition of new CENPA-containing nucleosomes at the centromere,0.3333,1,3,72,CENPH
+Pyrimidine salvage,0.3333,1,3,11,TK1
+Nucleotide salvage,0.3333,1,3,23,TK1
+Nucleosome assembly,0.3333,1,3,72,CENPH
+RAC2 GTPase cycle,0.3333,1,3,92,RACGAP1
+MHC class II antigen presentation,0.3333,1,3,240,RACGAP1
+Kinesins,0.3333,1,3,69,RACGAP1
+RSV-host interactions,0.3333,1,3,171,CLEC4M
+Factors involved in megakaryocyte development and platelet production,0.2857,2,7,234,RACGAP1;VPS45
+RAC3 GTPase cycle,0.25,1,4,96,RACGAP1
+G1/S-Specific Transcription,0.25,1,4,51,TK1
+RHOC GTPase cycle,0.25,1,4,77,RACGAP1
+Respiratory Syncytial Virus Infection Pathway,0.25,1,4,199,CLEC4M
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest,0.25,1,4,21,AURKA
+RHOB GTPase cycle,0.25,1,4,73,RACGAP1
+COPI-dependent Golgi-to-ER retrograde traffic,0.2222,2,9,145,COPZ1;RACGAP1
+Glycosaminoglycan metabolism,0.2,1,5,715,STAB2
+Golgi-to-ER retrograde transport,0.2,2,10,184,COPZ1;RACGAP1
+SUMOylation of DNA replication proteins,0.2,1,5,103,AURKA
+Intra-Golgi and retrograde Golgi-to-ER traffic,0.1875,3,16,300,VPS45;COPZ1;RACGAP1
+Metabolism of nucleotides,0.1667,1,6,102,TK1
+Intra-Golgi traffic,0.1667,1,6,56,VPS45
+Regulation of TP53 Activity through Phosphorylation,0.1667,1,6,117,AURKA
+Amplification of signal from the kinetochores,0.1429,1,7,95,CENPH
+AURKA Activation by TPX2,0.1429,1,7,81,AURKA
+EML4 and NUDC in mitotic spindle formation,0.1429,1,7,122,CENPH
+CDC42 GTPase cycle,0.1429,1,7,158,RACGAP1
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,0.1429,1,7,95,CENPH
+TP53 Regulates Transcription of Cell Cycle Genes,0.1429,1,7,65,AURKA
+RHOA GTPase cycle,0.1429,1,7,152,RACGAP1
+RAC1 GTPase cycle,0.1429,1,7,187,RACGAP1
+COPI-mediated anterograde transport,0.125,1,8,156,COPZ1
+RHO GTPases Activate Formins,0.125,1,8,154,CENPH
+Regulation of PLK1 Activity at G2/M Transition,0.125,1,8,115,AURKA
+Resolution of Sister Chromatid Cohesion,0.1111,1,9,155,CENPH
+Hemostasis,0.1053,2,19,1150,RACGAP1;VPS45
+Chromosome Maintenance,0.1,1,10,140,CENPH
+Vesicle-mediated transport,0.1,4,40,1389,RACGAP1;VPS45;STAB2;COPZ1
+Transport to the Golgi and subsequent modification,0.0909,1,11,355,COPZ1
+Metabolism of carbohydrates,0.0909,1,11,934,STAB2
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,0.0909,1,11,55,AURKA
+ER to Golgi Anterograde Transport,0.0909,1,11,322,COPZ1
+SUMO E3 ligases SUMOylate target proteins,0.0833,1,12,420,AURKA
+Regulation of TP53 Activity,0.0833,1,12,319,AURKA
+Mitotic Spindle Checkpoint,0.0833,1,12,112,CENPH
+Membrane Trafficking,0.0811,3,37,1206,VPS45;COPZ1;RACGAP1
+SUMOylation,0.0769,1,13,442,AURKA
+Signaling by Rho GTPases,0.0714,2,28,927,CENPH;RACGAP1
+"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.069,2,29,945,CENPH;RACGAP1
+RHO GTPase Effectors,0.0667,1,15,512,CENPH
+RHO GTPase cycle,0.0667,1,15,497,RACGAP1
+Mitotic Prometaphase,0.0667,1,15,263,CENPH
+SARS-CoV-2-host interactions,0.0625,1,16,253,VPS45
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,0.0625,1,16,138,AURKA
+APC/C-mediated degradation of cell cycle proteins,0.0588,1,17,165,AURKA
+G1/S Transition,0.0588,1,17,190,TK1
+Regulation of mitotic cell cycle,0.0588,1,17,165,AURKA
+"Cell Cycle, Mitotic",0.0577,3,52,1024,AURKA;CENPH;TK1
+Asparagine N-linked glycosylation,0.0556,1,18,488,COPZ1
+Mitotic G1 phase and G1/S transition,0.0526,1,19,237,TK1
+Cell Cycle,0.0492,3,61,1325,TK1;AURKA;CENPH
+SARS-CoV-2 Infection,0.0476,1,21,515,VPS45
+G2/M Transition,0.0455,1,22,260,AURKA
+Separation of Sister Chromatids,0.0435,1,23,209,CENPH
+Mitotic G2-G2/M phases,0.0435,1,23,264,AURKA
+Transcriptional Regulation by TP53,0.037,1,27,614,AURKA
+SARS-CoV Infections,0.0357,1,28,779,VPS45
+Viral Infection Pathways,0.0345,2,58,1511,CLEC4M;VPS45
+Cell Cycle Checkpoints,0.0333,1,30,337,CENPH
+Mitotic Anaphase,0.0323,1,31,284,CENPH
+Mitotic Metaphase and Anaphase,0.0323,1,31,287,CENPH
+Infectious disease,0.0299,2,67,2039,CLEC4M;VPS45
+Metabolism,0.0286,2,70,3291,TK1;STAB2
+Innate Immune System,0.0286,1,35,2725,FCN2
+Immune System,0.0282,2,71,5116,FCN2;RACGAP1
+Adaptive Immune System,0.027,1,37,1430,RACGAP1
+M Phase,0.0263,1,38,632,CENPH
+Post-translational protein modification,0.0256,2,78,3379,COPZ1;AURKA
+Signal Transduction,0.0247,2,81,5444,RACGAP1;CENPH
+Disease,0.0215,2,93,8704,CLEC4M;VPS45
+Metabolism of proteins,0.0177,2,113,4511,AURKA;COPZ1
+Generic Transcription Pathway,0.0161,1,62,2126,AURKA
+RNA Polymerase II Transcription,0.0133,1,75,2337,AURKA
+Gene expression (Transcription),0.0119,1,84,2954,AURKA
