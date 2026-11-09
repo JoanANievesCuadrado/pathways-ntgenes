@@ -1,4 +1,4 @@
-*.pdf
+pathways*.pdf
 .vscode/
 __pycache__
 *_tmp
